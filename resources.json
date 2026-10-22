@@ -6618,5 +6618,15 @@
     "checked_on": "2026-10-22",
     "review": "Primary install guide and checked-out license read; git commit 4ddf2f3878d0835f678da0f2aba1180f2ba208f6 built twice and exercised through DiffImg tests; not all modules/toolchains validated",
     "http_status": "documentation fetched"
+  },
+  {
+    "name": "HeapTrail for .NET",
+    "url": "https://github.com/SeanShaffer88/HeapTrail",
+    "category": "Observability debugging and operations",
+    "purpose": "Free MIT Windows x64 .NET heap investigation desktop: compare .gcdump counts/shallow bytes, inspect root/incoming/outgoing paths, save notes and export local HTML. Unsigned self-contained preview; no live attachment, retained-size/dominator analysis or allocation stacks.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "First-party implementation and Windows validation 2026-10-22: commit 0ba60bc84c4727147723b6c275eeae4cbd5336fc, 15 graph/real-capture checks plus 4 importer checks; event leak 1 to 25 to 1, stable cache 4; UI and portable runtime smoke checks; exact-source GitHub CI run 39753330962 passed. MIT reader provenance and package notices checked. Not a security audit; ARM64/x86, older runtimes and large/sampled heaps unvalidated.",
+    "http_status": "200"
   }
 ]

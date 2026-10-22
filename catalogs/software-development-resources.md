@@ -2,7 +2,7 @@
 
 Saved 2026-10-21 at Sean's request for future software development assistance.
 
-**430 resource entries across 29 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
+**431 resource entries across 29 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
 
 Persistent master: (local research archive).
 User-facing copy: (local research archive).
@@ -5028,3 +5028,11 @@ Primary documentation/README excerpts and selected upstream repository metadata 
 |---|---|
 | [aqtinstall](https://github.com/miurahr/aqtinstall) | Install explicitly selected Qt SDK archive versions and architectures without a global Qt setup. MIT installer; Qt SDK/runtime licenses remain separate. Used aqtinstall 3.3.0 to obtain pinned Qt 5.15.2 MSVC2019 x64 archives for DiffImg; archive SHA256 values recorded. |
 | [Qwt](https://qwt.sourceforge.io/) | Qt technical plotting widgets. Qwt License 1.0 (LGPL2.1 with exceptions); retain notices and evaluate Qt/runtime licenses. Built pinned Qwt 6.3.0 source with Qt5/MSVC x64 for DiffImg. Rebuilds worked, but MSVC anonymous-namespace RTTI makes DLL bytes vary with build path. |
+
+## HeapTrail for .NET preview — 2026-10-22
+
+| Resource | Purpose and constraints |
+|---|---|
+| [HeapTrail for .NET](https://github.com/SeanShaffer88/HeapTrail) | Free MIT Windows x64 .NET heap investigation desktop: compare .gcdump counts/shallow bytes, inspect root/incoming/outgoing paths, save notes and export local HTML. Unsigned self-contained preview; no live attachment, retained-size/dominator analysis or allocation stacks. |
+
+First-party scope: [v0.1.0-preview.1](https://github.com/SeanShaffer88/HeapTrail/releases/tag/v0.1.0-preview.1), source commit `0ba60bc84c4727147723b6c275eeae4cbd5336fc`. Fifteen graph/persistence/report checks include a real event leak growing 1 → 25 → 1 after a fix and a cache staying at 4. Four additional importer checks cover success, failure, cancellation and cleanup. Desktop workflow and extracted portable runtime were exercised. [Windows CI passed on this source](https://github.com/SeanShaffer88/HeapTrail/actions/runs/39753330962). Uses Microsoft's MIT diagnostics reader; dependency/license provenance is recorded in the project. This is an unsigned preview, not a complete profiler or security audit. Capture completeness, large/sampled heaps, ARM64/x86 and older runtimes remain limits; paths show reachability, not exclusive retained size.

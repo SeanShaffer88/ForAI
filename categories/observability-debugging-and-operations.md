@@ -40,3 +40,11 @@ Primary README and MIT license text reviewed for these entries only. No software
 |---|---|
 | [Dumpling (.NET heap analysis)](https://github.com/CoreyKaylor/dotnet-dumpling) | Apache-2.0 CLI and MCP candidate for .NET heap comparisons, retention paths and dominator analysis. Upstream documents .gcdump and ClrMD process-dump support; unarchived, repository pushed 2026-08-14. Validate format fidelity, memory use, distribution and supported runtimes before reuse. |
 | [dotnet-heapview](https://github.com/1hub/dotnet-heapview) | MIT desktop heap viewer, shared heap model and MCP source example. Upstream lists .gcdump, .hprof and .mono-heap inputs; unarchived, repository pushed 2026-09-21. Compare PerfView and Dumpling; GUI completeness, packaging and Windows runtime support remain untested. |
+
+## HeapTrail for .NET preview — 2026-10-22
+
+| Resource | Purpose and constraints |
+|---|---|
+| [HeapTrail for .NET](https://github.com/SeanShaffer88/HeapTrail) | Free MIT Windows x64 .NET heap investigation desktop: compare .gcdump counts/shallow bytes, inspect root/incoming/outgoing paths, save notes and export local HTML. Unsigned self-contained preview; no live attachment, retained-size/dominator analysis or allocation stacks. |
+
+First-party scope: [v0.1.0-preview.1](https://github.com/SeanShaffer88/HeapTrail/releases/tag/v0.1.0-preview.1), source commit `0ba60bc84c4727147723b6c275eeae4cbd5336fc`. Fifteen graph/persistence/report checks include a real event leak growing 1 → 25 → 1 after a fix and a cache staying at 4. Four additional importer checks cover success, failure, cancellation and cleanup. Desktop workflow and extracted portable runtime were exercised. [Windows CI passed on this source](https://github.com/SeanShaffer88/HeapTrail/actions/runs/39753330962). Uses Microsoft's MIT diagnostics reader; dependency/license provenance is recorded in the project. This is an unsigned preview, not a complete profiler or security audit. Capture completeness, large/sampled heaps, ARM64/x86 and older runtimes remain limits; paths show reachability, not exclusive retained size.

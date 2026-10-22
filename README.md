@@ -2,7 +2,7 @@
 
 A project-aware resource library for developers and their AI assistants, curated by Sean Shaffer. Find useful repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources for the work you are actually doing.
 
-**666 catalog entries · 662 distinct URLs · 75 purpose-based categories.** Includes the complete saved collections of 434 general resources and 232 Windows repositories. Entries overlap; distinct URLs do not necessarily mean distinct projects.
+**686 catalog entries · 682 distinct URLs · 76 purpose-based categories.** Includes the complete saved collections of 454 general resources and 232 Windows repositories. Entries overlap; distinct URLs do not necessarily mean distinct projects.
 
 ## Point your AI here
 
@@ -23,6 +23,8 @@ An assistant needs browsing, repository access, or a downloaded copy to read the
 - [AI selection workflow](AGENTS.md) and [contribution guide](CONTRIBUTING.md).
 
 - [Android APK development and analysis](docs/android-apk-development.md): build, decode/rebuild, signing, engines, offline preservation and diagnostics; includes a read-only inventory script.
+
+- [Game creation, assets and automation](categories/game-creation-assets-and-automation.md): engine/MCP tools, asset sources, music authoring and Android QA.
 
 ## Search locally
 

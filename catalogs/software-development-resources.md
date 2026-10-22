@@ -2,7 +2,7 @@
 
 Saved 2026-10-21 at Sean's request for future software development assistance.
 
-**369 resource entries across 28 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
+**370 resource entries across 28 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
 
 Persistent master: (local research archive).
 User-facing copy: (local research archive).
@@ -4938,3 +4938,11 @@ Primary README and MIT license text reviewed for these entries only. No software
 |---|---|
 | [Microsoft Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | Compare system security configuration snapshots with broad collectors and local SQLite evidence. MIT; README and license read 2026-10-22. Runtime, release maintenance and Windows compatibility need validation; not executed. |
 | [WinLedger](https://github.com/fanyqe/winledger) | Local Windows before/after sessions for registry, services, tasks, startup, environment, firewall and selected files; conservative rollback. MIT license and README read 2026-10-22; Windows 11 x64/.NET 10 documented, not independently tested or adopted. |
+
+## Project addition — 2026-10-22: GUI regression investigation
+
+| Resource | Purpose and review scope |
+|---|---|
+| [DiffImg community fork](https://github.com/arbruijn/diffimg) | Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt build and GPLv2 plus bundled component notices require review. Compare WinMerge; Windows build not validated. |
+
+Provenance: [xbee original on SourceForge](https://sourceforge.net/projects/diffimg/), [lingo fork](https://github.com/lingo/diffimg-xbee), [sandsmark fork](https://github.com/sandsmark/diffimg), then the linked arbruijn fork. GitHub default-branch commit inspected: `7c5715f89fb152c0d12a76a3e46a86122d7641bd` (2026-08-05). 2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review. No revived release is claimed.

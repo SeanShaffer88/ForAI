@@ -24,3 +24,9 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
 | [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+
+Project discovery checked 2026-10-22 (source inspection only; no tested revival):
+
+| Resource | Useful for / constraints |
+|---|---|
+| [DiffImg community fork](https://github.com/arbruijn/diffimg) | Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt build and GPLv2 plus bundled component notices require review. Compare WinMerge; Windows build not validated. |

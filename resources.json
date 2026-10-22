@@ -6008,5 +6008,15 @@
     "checked_on": "2026-10-22",
     "review": "Primary configuration guidance read; enabled and read back on authorized project repositories. No test vulnerability submitted or notification-delivery guarantee.",
     "http_status": "200"
+  },
+  {
+    "name": "DiffImg (community fork)",
+    "url": "https://github.com/arbruijn/diffimg",
+    "category": "Testing verification and performance",
+    "purpose": "Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt build and GPLv2 plus bundled component notices require review. Compare WinMerge; Windows build not validated.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review",
+    "http_status": "200 (GitHub repository API; not an adoption audit)"
   }
 ]

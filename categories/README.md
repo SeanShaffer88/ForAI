@@ -27,7 +27,7 @@ These categories preserve both saved collections. Resources may appear in more t
 - [Search messaging and durable work](search-messaging-and-durable-work.md) (12)
 - [Security identity and supply chain](security-identity-and-supply-chain.md) (19)
 - [Standards and discovery](standards-and-discovery.md) (6)
-- [Testing verification and performance](testing-verification-and-performance.md) (18)
+- [Testing verification and performance](testing-verification-and-performance.md) (19)
 - [Web interfaces and application frameworks](web-interfaces-and-application-frameworks.md) (18)
 - [WebAssembly and plugin runtimes](webassembly-and-plugin-runtimes.md) (6)
 - [Windows / .NET application helpers](windows-net-application-helpers.md) (3)

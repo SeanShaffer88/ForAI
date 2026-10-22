@@ -783,10 +783,10 @@
     "name": "Qt",
     "url": "https://doc.qt.io/",
     "category": "Desktop mobile and device SDKs",
-    "purpose": "C++ GUI and platform framework; evaluate module licensing and distribution.",
+    "purpose": "C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct.",
     "source": "general",
-    "checked_on": "2026-10-21",
-    "review": "initial-pass discovery; selected pages fetched",
+    "checked_on": "2026-10-22",
+    "review": "2026-10-22 official Qt 6.12 release/Windows support and deployment documentation checked; pinned SDK/source archives and scoped DiffImg Windows build/deployment tests; not an audit of every Qt module",
     "http_status": "200"
   },
   {
@@ -6013,10 +6013,10 @@
     "name": "DiffImg (community fork)",
     "url": "https://github.com/arbruijn/diffimg",
     "category": "Testing verification and performance",
-    "purpose": "Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt; GPLv2-or-later source and component notices require review. Compare WinMerge; Scoped Windows x64 revival: https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.3.0-win1; legacy Qt baseline, no clean-VM/security-audit claim.",
+    "purpose": "Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. arbruijn community fork descends from sandsmark/lingo/xbee; independent Windows Qt 6.12 x64 revival: https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.4.0 . GPLv3 binary distribution with corresponding source/notices. Equal dimensions, 8-bit white-matte RGB contract; compare WinMerge. Scoped tests, not a full codec security audit.",
     "source": "general",
     "checked_on": "2026-10-22",
-    "review": "2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review; follow-up Windows x64 GUI/CLI build, 17 native cases and 30 CLI checks, relocated app-local tests, published source/runtime checksums verified",
+    "review": "2026-10-22 upstream provenance/license sampling retained; follow-up Qt 6 Windows revival released: 22 native cases, 31 CLI checks, 126 bounded malformed/mutated image cases, ASan application/bundled-code checks, scaling and exact-ZIP deployment on hosted Windows Server 2022/2025. Qwt cross-path DLL byte identity and broader consumer-OS/security coverage remain limited",
     "http_status": "200 (GitHub repository API; not an adoption audit)"
   },
   {
@@ -6613,10 +6613,10 @@
     "name": "Qwt",
     "url": "https://qwt.sourceforge.io/",
     "category": "Graphics multimedia scientific and geospatial",
-    "purpose": "Qt technical plotting widgets. Qwt License 1.0 (LGPL2.1 with exceptions); retain notices and evaluate Qt/runtime licenses. Built pinned Qwt 6.3.0 source with Qt5/MSVC x64 for DiffImg. Rebuilds worked, but MSVC anonymous-namespace RTTI makes DLL bytes vary with build path.",
+    "purpose": "Qt technical plotting widgets. Qwt License 1.0 (LGPL2.1 with exceptions); retain notices and evaluate Qt/runtime licenses. Pinned 6.3.0 built with Qt 6.12/MSVC x64 for DiffImg after the Qt5 baseline. Rebuilds pass, but MSVC anonymous-namespace RTTI makes DLL bytes vary with build path.",
     "source": "general",
     "checked_on": "2026-10-22",
-    "review": "Primary install guide and checked-out license read; git commit 4ddf2f3878d0835f678da0f2aba1180f2ba208f6 built twice and exercised through DiffImg tests; not all modules/toolchains validated",
+    "review": "2026-10-22 official Qt compatibility and license docs checked; pinned 4ddf2f3878d0835f678da0f2aba1180f2ba208f6 built twice against Qt 6.12 and exercised through scoped DiffImg native/CLI/hosted deployment tests; not all modules/toolchains validated",
     "http_status": "documentation fetched"
   },
   {

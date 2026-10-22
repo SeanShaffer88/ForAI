@@ -6,7 +6,7 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 
 | Resource | Useful for / constraints |
 |---|---|
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |

@@ -172,7 +172,7 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -437,7 +437,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -695,7 +695,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -953,7 +953,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -1211,7 +1211,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -1469,7 +1469,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -1727,7 +1727,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -1985,7 +1985,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -2243,7 +2243,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -2501,7 +2501,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -2759,7 +2759,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -3017,7 +3017,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -3275,7 +3275,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -3541,7 +3541,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -3799,7 +3799,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -4057,7 +4057,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -4315,7 +4315,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -4573,7 +4573,7 @@ Project additions checked 2026-10-21:
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
-| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. |
+| [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
 | [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
@@ -4943,7 +4943,7 @@ Primary README and MIT license text reviewed for these entries only. No software
 
 | Resource | Purpose and review scope |
 |---|---|
-| [DiffImg community fork](https://github.com/arbruijn/diffimg) | Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt; GPLv2-or-later source and component notices require review. Compare WinMerge; Scoped Windows x64 revival: https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.3.0-win1; legacy Qt baseline, no clean-VM/security-audit claim. |
+| [DiffImg community fork](https://github.com/arbruijn/diffimg) | Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. arbruijn community fork descends from sandsmark/lingo/xbee; independent Windows Qt 6.12 x64 revival: https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.4.0 . GPLv3 binary distribution with corresponding source/notices. Equal dimensions, 8-bit white-matte RGB contract; compare WinMerge. Scoped tests, not a full codec security audit. |
 
 Provenance: [xbee original on SourceForge](https://sourceforge.net/projects/diffimg/), [lingo fork](https://github.com/lingo/diffimg-xbee), [sandsmark fork](https://github.com/sandsmark/diffimg), then the linked arbruijn fork. GitHub default-branch commit inspected: `7c5715f89fb152c0d12a76a3e46a86122d7641bd` (2026-08-05). 2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review. Initial discovery did not validate a revival; see the follow-up build milestone below.
 
@@ -5022,12 +5022,12 @@ Primary documentation/README excerpts and selected upstream repository metadata 
 
 ## Project follow-up — 2026-10-22: DiffImg Windows build milestone
 
-[DiffImg Windows x64 revival milestone](https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.3.0-win1) published with GUI/CLI, corresponding application/Qtbase/Qwt sources and verified uploaded asset digests. 17 native cases and 30 CLI checks passed; repeated from relocated/Unicode paths with SDK paths removed. GUI/CLI executables were byte-identical across clean build directories. Qwt DLL bytes vary with MSVC anonymous-namespace names tied to the build path. No clean-VM validation, full codec audit, Qt6 port, x86 or ARM64 support is claimed. Existing WR task IDs are unchanged.
+[DiffImg Windows x64 revival milestone](https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.3.0-win1) published with GUI/CLI, corresponding application/Qtbase/Qwt sources and verified uploaded asset digests. 17 native cases and 30 CLI checks passed; repeated from relocated/Unicode paths with SDK paths removed. GUI/CLI executables were byte-identical across clean build directories. Qwt DLL bytes vary with MSVC anonymous-namespace names tied to the build path. At that Qt5 milestone, no clean-VM validation, full codec audit, Qt6 port, x86 or ARM64 support was claimed. Existing WR task IDs are unchanged.
 
 | Resource | Purpose and checks |
 |---|---|
 | [aqtinstall](https://github.com/miurahr/aqtinstall) | Install explicitly selected Qt SDK archive versions and architectures without a global Qt setup. MIT installer; Qt SDK/runtime licenses remain separate. Used aqtinstall 3.3.0 to obtain pinned Qt 5.15.2 MSVC2019 x64 archives for DiffImg; archive SHA256 values recorded. |
-| [Qwt](https://qwt.sourceforge.io/) | Qt technical plotting widgets. Qwt License 1.0 (LGPL2.1 with exceptions); retain notices and evaluate Qt/runtime licenses. Built pinned Qwt 6.3.0 source with Qt5/MSVC x64 for DiffImg. Rebuilds worked, but MSVC anonymous-namespace RTTI makes DLL bytes vary with build path. |
+| [Qwt](https://qwt.sourceforge.io/) | Qt technical plotting widgets. Qwt License 1.0 (LGPL2.1 with exceptions); retain notices and evaluate Qt/runtime licenses. Pinned 6.3.0 built with Qt 6.12/MSVC x64 for DiffImg after the Qt5 baseline. Rebuilds pass, but MSVC anonymous-namespace RTTI makes DLL bytes vary with build path. |
 
 ## HeapTrail for .NET preview — 2026-10-22
 
@@ -5036,3 +5036,7 @@ Primary documentation/README excerpts and selected upstream repository metadata 
 | [HeapTrail for .NET](https://github.com/SeanShaffer88/HeapTrail) | Free MIT Windows x64 .NET heap investigation desktop: compare .gcdump counts/shallow bytes, inspect root/incoming/outgoing paths, save notes and export local HTML. Unsigned self-contained preview; no live attachment, retained-size/dominator analysis or allocation stacks. |
 
 First-party scope: [v0.1.0-preview.1](https://github.com/SeanShaffer88/HeapTrail/releases/tag/v0.1.0-preview.1), source commit `0ba60bc84c4727147723b6c275eeae4cbd5336fc`. Fifteen graph/persistence/report checks include a real event leak growing 1 → 25 → 1 after a fix and a cache staying at 4. Four additional importer checks cover success, failure, cancellation and cleanup. Desktop workflow and extracted portable runtime were exercised. [Windows CI passed on this source](https://github.com/SeanShaffer88/HeapTrail/actions/runs/39753330962). Uses Microsoft's MIT diagnostics reader; dependency/license provenance is recorded in the project. This is an unsigned preview, not a complete profiler or security audit. Capture completeness, large/sampled heaps, ARM64/x86 and older runtimes remain limits; paths show reachability, not exclusive retained size.
+
+## Project follow-up — 2026-10-22: DiffImg Qt 6 stable release
+
+[DiffImg Windows 2.4.0](https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.4.0) moves the independent revival to Qt 6.12.0/C++17. It fixes legacy perceptual array deallocation and one-pixel-wide kernel bounds, ports property-editor types/regex, and improves dock layout. Validation: 22 native cases, 31 CLI checks, 126 deterministic malformed/mutated image cases, application/bundled-code AddressSanitizer, four scale factors, and exact downloadable ZIP checks on fresh Windows Server 2022 and 2025 runners. [Exact-source/asset workflow](https://github.com/SeanShaffer88/DiffImg-Windows/actions/runs/39755139805). Application EXEs match across independent builds; Qwt DLL bytes remain build-path-dependent. Unsigned, x64 only; hosted runners do not establish pristine consumer-VM or exhaustive codec-security coverage. Qt5 prerelease assets are preserved and marked superseded. Existing WR IDs are unchanged.

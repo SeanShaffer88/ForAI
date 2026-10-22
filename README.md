@@ -2,7 +2,7 @@
 
 A project-aware resource library for developers and their AI assistants, curated by Sean Shaffer. Find useful repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources for the work you are actually doing.
 
-**602 catalog entries · 598 distinct URLs · 74 purpose-based categories.** Includes the complete saved collections of 370 general resources and 232 Windows repositories. Entries overlap; distinct URLs do not necessarily mean distinct projects.
+**657 catalog entries · 653 distinct URLs · 75 purpose-based categories.** Includes the complete saved collections of 425 general resources and 232 Windows repositories. Entries overlap; distinct URLs do not necessarily mean distinct projects.
 
 ## Point your AI here
 
@@ -20,6 +20,8 @@ An assistant needs browsing, repository access, or a downloaded copy to read the
 - [Windows revival backlog](catalogs/windows-development-todo.md): historical WR-001 through WR-010 snapshot, including completed win-pipe work and Microsoft IPC development status.
 - [JSON index](resources.json) / [CSV index](resources.csv): all entries for searching or ingestion.
 - [AI selection workflow](AGENTS.md) and [contribution guide](CONTRIBUTING.md).
+
+- [Android APK development and analysis](docs/android-apk-development.md): build, decode/rebuild, signing, engines, offline preservation and diagnostics; includes a read-only inventory script.
 
 ## Search locally
 

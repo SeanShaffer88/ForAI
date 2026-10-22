@@ -2,7 +2,7 @@
 
 Saved 2026-10-21 at Sean's request for future software development assistance.
 
-**370 resource entries across 28 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
+**425 resource entries across 29 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
 
 Persistent master: (local research archive).
 User-facing copy: (local research archive).
@@ -4946,3 +4946,66 @@ Primary README and MIT license text reviewed for these entries only. No software
 | [DiffImg community fork](https://github.com/arbruijn/diffimg) | Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt build and GPLv2 plus bundled component notices require review. Compare WinMerge; Windows build not validated. |
 
 Provenance: [xbee original on SourceForge](https://sourceforge.net/projects/diffimg/), [lingo fork](https://github.com/lingo/diffimg-xbee), [sandsmark fork](https://github.com/sandsmark/diffimg), then the linked arbruijn fork. GitHub default-branch commit inspected: `7c5715f89fb152c0d12a76a3e46a86122d7641bd` (2026-08-05). 2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review. No revived release is claimed.
+
+
+## Android APK development and analysis additions — 2026-10-22
+
+Primary documentation/README excerpts and selected upstream repository metadata reviewed. See [practical APK guide](../docs/android-apk-development.md). No comprehensive adoption, security or license audit and no automatic dependency installation.
+
+| Category | Resource | Purpose and review scope |
+|---|---|---|
+| Android APK development and analysis | [APK Analyzer](https://developer.android.com/studio/debug/apk-analyzer) | Inspect manifest, DEX, resources and package size in Android Studio. |
+| Android APK development and analysis | [apkanalyzer](https://developer.android.com/tools/apkanalyzer) | Scriptable package, manifest, DEX and resource inspection. |
+| Android APK development and analysis | [Android CLI](https://developer.android.com/tools/android-cli) | Current command-line Android project and SDK workflows; recheck availability before replacing existing tooling. |
+| Android APK development and analysis | [sdkmanager](https://developer.android.com/tools/sdkmanager) | SDK package management reference; fetched page marks it deprecated in favor of Android CLI, while existing SDK installations still use it. |
+| Android APK development and analysis | [Android command-line builds](https://developer.android.com/build/building-cmdline) | Gradle-wrapper builds of APKs and app bundles from source. |
+| Android APK development and analysis | [Android Gradle Plugin](https://developer.android.com/build/releases/about-agp) | Build-system compatibility and release guidance; pin compatible AGP, Gradle and JDK versions. |
+| Android APK development and analysis | [Android build JDKs](https://developer.android.com/build/jdks) | Distinguish Gradle runtime JDK, toolchains, source levels and Android API availability. |
+| Android APK development and analysis | [AAPT2](https://developer.android.com/tools/aapt2) | Compile/link Android resources and inspect packaging problems. |
+| Android APK development and analysis | [D8](https://developer.android.com/tools/d8) | Convert Java bytecode to Android DEX; preserve minSdk and library/desugaring inputs. |
+| Android APK development and analysis | [Apksigner](https://developer.android.com/tools/apksigner) | Sign and verify APKs; every subsequent byte modification invalidates signatures. |
+| Android APK development and analysis | [Zipalign](https://developer.android.com/tools/zipalign) | Verify APK entry alignment; align before apksigner signing. |
+| Android APK development and analysis | [App bundle format](https://developer.android.com/guide/app-bundle/app-bundle-format) | Understand base, feature and configuration splits versus distributable APKs. |
+| Android APK development and analysis | [Bundletool](https://developer.android.com/tools/bundletool) | Generate and install device-specific APK sets from AABs; not a universal arbitrary-APK merger. |
+| Android APK development and analysis | [Android app updates](https://developer.android.com/google/play/app-updates) | Package identity, signing compatibility and version rules for preserving installed data. |
+| Android APK development and analysis | [APK signature v4](https://source.android.com/docs/security/features/apksigning/v4) | Understand incremental-install idsig sidecars and their relationship to APK signing. |
+| Android APK development and analysis | [Android ABIs](https://developer.android.com/ndk/guides/abis) | Native architectures, calling conventions and packaging requirements. |
+| Android APK development and analysis | [16 KB page sizes](https://developer.android.com/guide/practices/page-sizes) | Separate native ELF alignment, ZIP alignment and runtime page-size assumptions. |
+| Android APK development and analysis | [Android compatibility](https://developer.android.com/guide/app-compatibility) | Separate behavior changes affecting all apps from changes gated by target SDK. |
+| Android APK development and analysis | [Android storage](https://developer.android.com/training/data-storage) | App-specific files, shared storage and permissions; scoped-storage implications. |
+| Android APK development and analysis | [ADB](https://developer.android.com/tools/adb) | Install, inspect, launch and debug on authorized devices and emulators. |
+| Android APK development and analysis | [Logcat](https://developer.android.com/tools/logcat) | Capture complete startup exceptions and correlate package/process logs. |
+| Android APK development and analysis | [NDK stack symbolization](https://developer.android.com/ndk/guides/ndk-stack) | Symbolize native crash traces with exact matching unstripped libraries. |
+| Android APK development and analysis | [Android testing](https://developer.android.com/studio/test) | Source-level and device test workflows; complement package checks with gameplay tests. |
+| Android APK development and analysis | [Play Asset Delivery](https://developer.android.com/guide/playcore/asset-delivery) | Understand install-time, fast-follow and on-demand game assets. |
+| Android APK development and analysis | [APK expansion files](https://developer.android.com/google/play/expansion-files) | Legacy OBB naming, storage and downloader model; distinguish from custom caches. |
+| Android APK development and analysis | [Offline-first architecture](https://developer.android.com/topic/architecture/data-layer/offline-first) | Local data sources, persistence and synchronization architecture; server-dependent games may need more than cached assets. |
+| Android APK development and analysis | [Unity IL2CPP](https://docs.unity3d.com/Manual/IL2CPP.html) | AOT managed-to-native scripting backend; metadata stubs are not recovered game source. |
+| Android APK development and analysis | [Unity AssetBundles](https://docs.unity3d.com/Manual/AssetBundlesIntro.html) | Runtime asset archives; match platform, engine and serialized type compatibility. |
+| Android APK development and analysis | [Apktool](https://github.com/iBotPeaches/Apktool) | Decode/rebuild Android resources and smali; framework packages and exact tool version matter. |
+| Android APK development and analysis | [JADX](https://github.com/skylot/jadx) | Java-like DEX decompilation for analysis; output is not a guaranteed recompilable source project. |
+| Android APK development and analysis | [Google smali/baksmali](https://github.com/google/smali) | DEX assembler/disassembler and dexlib2; maintained fork, mixed component licenses require review. |
+| Android APK development and analysis | [APKEditor](https://github.com/REAndroid/APKEditor) | Alternative resource decode/build, split merging and resource repair; validate merged manifests, ABIs and signatures. |
+| Android APK development and analysis | [ARSCLib](https://github.com/REAndroid/ARSCLib) | Programmatic Android resource-table/binary-XML editing without aapt2. |
+| Android APK development and analysis | [Androguard](https://github.com/androguard/androguard) | Python APK/DEX/resource inspection and analysis; select supported Python/tool version. |
+| Android APK development and analysis | [APKiD](https://github.com/rednaga/APKiD) | Identify packers, protectors and obfuscators; heuristic classification, not decryption or a security verdict. |
+| Android APK development and analysis | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | Local static/dynamic mobile security analysis; separate service requirements and report false positives. |
+| Android APK development and analysis | [OWASP MASTG](https://mas.owasp.org/MASTG/) | Mobile testing/reverse-engineering methodology and tool references. |
+| Android APK development and analysis | [Frida Android](https://frida.re/docs/android/) | Runtime instrumentation on controlled devices; server/gadget, ABI and version compatibility matter. |
+| Android APK development and analysis | [Objection](https://github.com/sensepost/objection) | Frida-based runtime exploration; gadget patching changes package and signing behavior. |
+| Android APK development and analysis | [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) | Recover IL2CPP metadata/type/method maps and dummy assemblies; older maintenance, exact metadata-version limits. |
+| Android APK development and analysis | [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) | Work-in-progress IL2CPP analysis and reconstruction; validate output against native instructions. |
+| Android APK development and analysis | [UnityPy](https://github.com/K0lb3/UnityPy) | Script extraction and modification of Unity serialized assets; preserve references and re-read written output. |
+| Android APK development and analysis | [AssetRipper](https://github.com/AssetRipper/AssetRipper) | Unity game-file analysis/export; exported projects do not imply complete recoverable source or behavior. |
+| Android APK development and analysis | [UABEA](https://github.com/nesrak1/UABEA) | Unity bundle/serialized asset inspection and editing; upstream points to UABEANext as work in progress. |
+| Android APK development and analysis | [UABEANext](https://github.com/nesrak1/UABEANext) | New multi-bundle Unity editor; work-in-progress successor, not a compatibility guarantee. |
+| Android APK development and analysis | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Native ELF disassembly/decompilation; apply exact architecture, symbols and relocations. |
+| Android APK development and analysis | [Keystone](https://github.com/keystone-engine/keystone) | Assemble architecture-specific native patches; GPL/commercial and component licensing require review. |
+| Android APK development and analysis | [Unicorn](https://github.com/unicorn-engine/unicorn) | CPU-level execution of native patch tests; mocked framework boundaries do not test Android runtime behavior. |
+| Android APK development and analysis | [pyelftools](https://github.com/eliben/pyelftools) | Read ELF headers, segments and symbols; translate RVAs through PT_LOAD segments rather than assuming file offsets. |
+| Android APK development and analysis | [APKLab](https://github.com/APKLab/APKLab) | VS Code integration of APK analysis, smali and rebuild workflows; inspect bundled tools and AGPL license obligations. |
+| Android APK development and analysis | [Flutter build modes](https://docs.flutter.dev/testing/build-modes) | Distinguish Flutter debug/JIT from release AOT artifacts before choosing an analysis path. |
+| Android APK development and analysis | [React Native Android releases](https://reactnative.dev/docs/signed-apk-android) | Understand JS/assets, native packaging and signing of React Native Android builds. |
+| Android APK development and analysis | [Godot Android export](https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html) | Godot Android toolchain, templates, package data and signing requirements. |
+| Android APK development and analysis | [Perfetto](https://perfetto.dev/docs/) | System/app tracing for startup, scheduling and performance investigation. |
+| Android APK development and analysis | [Android Monkey](https://developer.android.com/studio/test/monkey) | Device UI event stress testing; bound runs and inspect results rather than treating no crash as correctness. |

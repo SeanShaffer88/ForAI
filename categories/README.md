@@ -2,6 +2,7 @@
 
 These categories preserve both saved collections. Resources may appear in more than one category.
 
+- [Android APK development and analysis](android-apk-development-and-analysis.md) (55)
 - [.NET application building blocks](net-application-building-blocks.md) (9)
 - [AI machine learning and local inference](ai-machine-learning-and-local-inference.md) (11)
 - [API contracts clients and networking](api-contracts-clients-and-networking.md) (17)

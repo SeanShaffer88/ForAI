@@ -27,3 +27,9 @@ Project addition checked 2026-10-22:
 | Resource | Useful for / constraints |
 |---|---|
 | [Qwt](https://qwt.sourceforge.io/) | Qt technical plotting widgets. Qwt License 1.0 (LGPL2.1 with exceptions); retain notices and evaluate Qt/runtime licenses. Pinned 6.3.0 built with Qt 6.12/MSVC x64 for DiffImg after the Qt5 baseline. Rebuilds pass, but MSVC anonymous-namespace RTTI makes DLL bytes vary with build path. |
+
+Project reference checked 2026-10-22:
+
+| Resource | Useful for / constraints |
+|---|---|
+| [three.js](https://github.com/mrdoob/three.js) | MIT JavaScript 3D renderer; bundle modules locally for offline WebGL2 games. Native Android wrappers still require current WebView and device-specific GPU, lifecycle and touch testing. Frostline project check: official documentation read; npm 0.186.1 MIT metadata/integrity and bundled LICENSE inspected; rendered touch UI and software-WebGL browser tests passed. Physical Android device untested. |

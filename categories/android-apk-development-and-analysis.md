@@ -61,3 +61,9 @@ Selected primary documentation, README excerpts and repository metadata reviewed
 | [Godot Android export](https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html) | Godot Android toolchain, templates, package data and signing requirements. |
 | [Perfetto](https://perfetto.dev/docs/) | System/app tracing for startup, scheduling and performance investigation. |
 | [Android Monkey](https://developer.android.com/studio/test/monkey) | Device UI event stress testing; bound runs and inspect results rather than treating no crash as correctness. |
+
+Project reference checked 2026-10-22:
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Android local WebView content](https://developer.android.com/develop/ui/views/layout/webapps/load-local-content) | Official guidance for bundling HTML/JS/CSS inside Android apps; use an app-owned HTTPS origin and controlled asset loading, prohibit external navigation, and verify offline startup and WebView lifecycle. Official load-in-app-content documentation read for an offline game shell; local asset packaging, source restriction and no-network manifest checked. Physical-device lifecycle and startup remain to be tested. |

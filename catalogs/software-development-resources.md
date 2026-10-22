@@ -5045,3 +5045,15 @@ First-party scope: [v0.1.0-preview.1](https://github.com/SeanShaffer88/HeapTrail
 ### Firecrawl addition — 2026-10-22
 
 Added one entry under Integration APIs and business SDKs. Checked the [upstream repository](https://github.com/firecrawl/firecrawl), [official introduction](https://docs.firecrawl.dev/introduction) and [root license](https://github.com/firecrawl/firecrawl/blob/main/LICENSE). GitHub metadata reports the repository is not archived. The root license is AGPL-3.0; verify component licenses and hosted-service terms separately. This was a source review, not an installation, API authentication, billing, security or compatibility test.
+
+
+## Offline 3D Android game additions — 2026-10-22
+
+Project-scoped checks for an original, bundled-content game. Browser rendering and touch tests do not establish physical Android performance.
+
+| Resource | Purpose and checked scope |
+|---|---|
+| [three.js](https://github.com/mrdoob/three.js) | MIT JavaScript 3D renderer; bundle modules locally for offline WebGL2 games. Native Android wrappers still require current WebView and device-specific GPU, lifecycle and touch testing. Frostline project check: official documentation read; npm 0.186.1 MIT metadata/integrity and bundled LICENSE inspected; rendered touch UI and software-WebGL browser tests passed. Physical Android device untested. |
+| [Android local WebView content](https://developer.android.com/develop/ui/views/layout/webapps/load-local-content) | Official guidance for bundling HTML/JS/CSS inside Android apps; use an app-owned HTTPS origin and controlled asset loading, prohibit external navigation, and verify offline startup and WebView lifecycle. Official load-in-app-content documentation read for an offline game shell; local asset packaging, source restriction and no-network manifest checked. Physical-device lifecycle and startup remain to be tested. |
+
+Current shared index: 666 entries, including 434 general references. Earlier scope counts describe their dated snapshots.

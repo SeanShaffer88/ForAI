@@ -2,7 +2,7 @@
 
 These categories preserve both saved collections. Resources may appear in more than one category.
 
-- [Android APK development and analysis](android-apk-development-and-analysis.md) (55)
+- [Android APK development and analysis](android-apk-development-and-analysis.md) (56)
 - [.NET application building blocks](net-application-building-blocks.md) (9)
 - [AI machine learning and local inference](ai-machine-learning-and-local-inference.md) (11)
 - [API contracts clients and networking](api-contracts-clients-and-networking.md) (17)
@@ -16,7 +16,7 @@ These categories preserve both saved collections. Resources may appear in more t
 - [Desktop mobile and device SDKs](desktop-mobile-and-device-sdks.md) (14)
 - [Documents OCR and file formats](documents-ocr-and-file-formats.md) (13)
 - [Feature flags configuration and secrets](feature-flags-configuration-and-secrets.md) (9)
-- [Graphics multimedia scientific and geospatial](graphics-multimedia-scientific-and-geospatial.md) (16)
+- [Graphics multimedia scientific and geospatial](graphics-multimedia-scientific-and-geospatial.md) (17)
 - [Integration APIs and business SDKs](integration-apis-and-business-sdks.md) (16)
 - [Language tooling and repository automation](language-tooling-and-repository-automation.md) (12)
 - [Languages and runtimes](languages-and-runtimes.md) (13)

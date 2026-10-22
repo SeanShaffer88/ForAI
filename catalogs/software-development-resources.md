@@ -2,7 +2,7 @@
 
 Saved 2026-10-21 at Sean's request for future software development assistance.
 
-**370 resource entries across 28 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
+**373 resource entries across 28 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
 
 Persistent master: (local research archive).
 User-facing copy: (local research archive).
@@ -4946,3 +4946,13 @@ Primary README and MIT license text reviewed for these entries only. No software
 | [DiffImg community fork](https://github.com/arbruijn/diffimg) | Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt build and GPLv2 plus bundled component notices require review. Compare WinMerge; Windows build not validated. |
 
 Provenance: [xbee original on SourceForge](https://sourceforge.net/projects/diffimg/), [lingo fork](https://github.com/lingo/diffimg-xbee), [sandsmark fork](https://github.com/sandsmark/diffimg), then the linked arbruijn fork. GitHub default-branch commit inspected: `7c5715f89fb152c0d12a76a3e46a86122d7641bd` (2026-08-05). 2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review. No revived release is claimed.
+
+## Free Windows application research additions — 2026-10-22
+
+2026-10-22 canonical GitHub metadata, README and license identification reviewed; source documentation only. No build, runtime/architecture validation, release audit, benchmark or security audit; not adopted. Linked projects retain their upstream licenses. These are implementation/reference candidates, not claims that a new product has been built.
+
+| Resource | Purpose and constraints |
+|---|---|
+| [Dumpling (.NET heap analysis)](https://github.com/CoreyKaylor/dotnet-dumpling) | Apache-2.0 CLI and MCP candidate for .NET heap comparisons, retention paths and dominator analysis. Upstream documents .gcdump and ClrMD process-dump support; unarchived, repository pushed 2026-08-14. Validate format fidelity, memory use, distribution and supported runtimes before reuse. |
+| [dotnet-heapview](https://github.com/1hub/dotnet-heapview) | MIT desktop heap viewer, shared heap model and MCP source example. Upstream lists .gcdump, .hprof and .mono-heap inputs; unarchived, repository pushed 2026-09-21. Compare PerfView and Dumpling; GUI completeness, packaging and Windows runtime support remain untested. |
+| [Camelot PDF table extraction](https://github.com/camelot-dev/camelot) | MIT Python table-extraction library and CLI. Current source documents text-table parsers and optional ML/OCR for scans; Python >=3.10, PDFium default backend. Unarchived, repository pushed 2026-10-14. Pin a released version; benchmark accuracy, Windows wheels and optional model/dependency licenses before packaging. |

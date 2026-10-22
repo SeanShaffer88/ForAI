@@ -6018,5 +6018,35 @@
     "checked_on": "2026-10-22",
     "review": "2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review",
     "http_status": "200 (GitHub repository API; not an adoption audit)"
+  },
+  {
+    "name": "Dumpling (.NET heap analysis)",
+    "url": "https://github.com/CoreyKaylor/dotnet-dumpling",
+    "category": "Observability debugging and operations",
+    "purpose": "Apache-2.0 CLI and MCP candidate for .NET heap comparisons, retention paths and dominator analysis. Upstream documents .gcdump and ClrMD process-dump support; unarchived, repository pushed 2026-08-14. Validate format fidelity, memory use, distribution and supported runtimes before reuse.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "2026-10-22 canonical GitHub metadata, README and license identification reviewed; source documentation only. No build, runtime/architecture validation, release audit, benchmark or security audit; not adopted.",
+    "http_status": "not independently measured"
+  },
+  {
+    "name": "dotnet-heapview",
+    "url": "https://github.com/1hub/dotnet-heapview",
+    "category": "Observability debugging and operations",
+    "purpose": "MIT desktop heap viewer, shared heap model and MCP source example. Upstream lists .gcdump, .hprof and .mono-heap inputs; unarchived, repository pushed 2026-09-21. Compare PerfView and Dumpling; GUI completeness, packaging and Windows runtime support remain untested.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "2026-10-22 canonical GitHub metadata, README and license identification reviewed; source documentation only. No build, runtime/architecture validation, release audit, benchmark or security audit; not adopted.",
+    "http_status": "not independently measured"
+  },
+  {
+    "name": "Camelot PDF table extraction",
+    "url": "https://github.com/camelot-dev/camelot",
+    "category": "Documents OCR and file formats",
+    "purpose": "MIT Python table-extraction library and CLI. Current source documents text-table parsers and optional ML/OCR for scans; Python >=3.10, PDFium default backend. Unarchived, repository pushed 2026-10-14. Pin a released version; benchmark accuracy, Windows wheels and optional model/dependency licenses before packaging.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "2026-10-22 canonical GitHub metadata, README and license identification reviewed; source documentation only. No build, runtime/architecture validation, release audit, benchmark or security audit; not adopted.",
+    "http_status": "not independently measured"
   }
 ]

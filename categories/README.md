@@ -78,3 +78,5 @@ These categories preserve both saved collections. Resources may appear in more t
 - [Windows / Testing](windows-testing.md) (7)
 - [Windows / Windows APIs](windows-windows-apis.md) (8)
 - [Windows / Windows inspection and COM](windows-windows-inspection-and-com.md) (5)
+
+- [World of Warcraft addon development](world-of-warcraft-addon-development.md) (4)

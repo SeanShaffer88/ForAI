@@ -2,7 +2,7 @@
 
 A project-aware resource library for developers and their AI assistants, curated by Sean Shaffer. Find useful repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources for the work you are actually doing.
 
-**686 catalog entries · 682 distinct URLs · 76 purpose-based categories.** Includes the complete saved collections of 454 general resources and 232 Windows repositories. Entries overlap; distinct URLs do not necessarily mean distinct projects.
+**690 catalog entries · 686 distinct URLs · 77 purpose-based categories.** Includes the complete saved collections of 458 general resources and 232 Windows repositories. Entries overlap; distinct URLs do not necessarily mean distinct projects.
 
 ## Point your AI here
 

@@ -4918,3 +4918,12 @@ Project additions checked 2026-10-21:
 ## Future upkeep
 
 Add resources when a real task exposes a missing capability. Preserve canonical links, purpose, practical constraints and the evidence level. Update factual maintenance changes honestly. Refresh only relevant entries before adoption. No scheduled monitoring has been configured.
+
+## Windows change investigation additions — 2026-10-22
+
+Primary README and MIT license text reviewed for these entries only. No software executed, dependency adopted, or comprehensive maintenance/security audit performed. Linked projects retain upstream licensing.
+
+| Resource | Purpose and limits |
+|---|---|
+| [Microsoft Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | Compare system security configuration snapshots with broad collectors and local SQLite evidence. MIT; README and license read 2026-10-22. Runtime, release maintenance and Windows compatibility need validation; not executed. |
+| [WinLedger](https://github.com/fanyqe/winledger) | Local Windows before/after sessions for registry, services, tasks, startup, environment, firewall and selected files; conservative rollback. MIT license and README read 2026-10-22; Windows 11 x64/.NET 10 documented, not independently tested or adopted. |

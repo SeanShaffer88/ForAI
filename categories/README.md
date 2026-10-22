@@ -19,7 +19,7 @@ These categories preserve both saved collections. Resources may appear in more t
 - [Integration APIs and business SDKs](integration-apis-and-business-sdks.md) (15)
 - [Language tooling and repository automation](language-tooling-and-repository-automation.md) (12)
 - [Languages and runtimes](languages-and-runtimes.md) (13)
-- [Observability debugging and operations](observability-debugging-and-operations.md) (14)
+- [Observability debugging and operations](observability-debugging-and-operations.md) (16)
 - [Optimization scheduling and operational tooling](optimization-scheduling-and-operational-tooling.md) (10)
 - [Platform SDKs and Windows](platform-sdks-and-windows.md) (13)
 - [Public data research and location APIs](public-data-research-and-location-apis.md) (14)

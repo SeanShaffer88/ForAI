@@ -2,7 +2,7 @@
 
 Saved 2026-10-21 at Sean's request for future software development assistance.
 
-**428 resource entries across 29 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
+**430 resource entries across 29 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
 
 Persistent master: (local research archive).
 User-facing copy: (local research archive).
@@ -4943,9 +4943,9 @@ Primary README and MIT license text reviewed for these entries only. No software
 
 | Resource | Purpose and review scope |
 |---|---|
-| [DiffImg community fork](https://github.com/arbruijn/diffimg) | Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt build and GPLv2 plus bundled component notices require review. Compare WinMerge; Windows build not validated. |
+| [DiffImg community fork](https://github.com/arbruijn/diffimg) | Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt; GPLv2-or-later source and component notices require review. Compare WinMerge; Scoped Windows x64 revival: https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.3.0-win1; legacy Qt baseline, no clean-VM/security-audit claim. |
 
-Provenance: [xbee original on SourceForge](https://sourceforge.net/projects/diffimg/), [lingo fork](https://github.com/lingo/diffimg-xbee), [sandsmark fork](https://github.com/sandsmark/diffimg), then the linked arbruijn fork. GitHub default-branch commit inspected: `7c5715f89fb152c0d12a76a3e46a86122d7641bd` (2026-08-05). 2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review. No revived release is claimed.
+Provenance: [xbee original on SourceForge](https://sourceforge.net/projects/diffimg/), [lingo fork](https://github.com/lingo/diffimg-xbee), [sandsmark fork](https://github.com/sandsmark/diffimg), then the linked arbruijn fork. GitHub default-branch commit inspected: `7c5715f89fb152c0d12a76a3e46a86122d7641bd` (2026-08-05). 2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review. Initial discovery did not validate a revival; see the follow-up build milestone below.
 
 ## Free Windows application research additions — 2026-10-22
 
@@ -5019,3 +5019,12 @@ Primary documentation/README excerpts and selected upstream repository metadata 
 | Android APK development and analysis | [Godot Android export](https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html) | Godot Android toolchain, templates, package data and signing requirements. |
 | Android APK development and analysis | [Perfetto](https://perfetto.dev/docs/) | System/app tracing for startup, scheduling and performance investigation. |
 | Android APK development and analysis | [Android Monkey](https://developer.android.com/studio/test/monkey) | Device UI event stress testing; bound runs and inspect results rather than treating no crash as correctness. |
+
+## Project follow-up — 2026-10-22: DiffImg Windows build milestone
+
+[DiffImg Windows x64 revival milestone](https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.3.0-win1) published with GUI/CLI, corresponding application/Qtbase/Qwt sources and verified uploaded asset digests. 17 native cases and 30 CLI checks passed; repeated from relocated/Unicode paths with SDK paths removed. GUI/CLI executables were byte-identical across clean build directories. Qwt DLL bytes vary with MSVC anonymous-namespace names tied to the build path. No clean-VM validation, full codec audit, Qt6 port, x86 or ARM64 support is claimed. Existing WR task IDs are unchanged.
+
+| Resource | Purpose and checks |
+|---|---|
+| [aqtinstall](https://github.com/miurahr/aqtinstall) | Install explicitly selected Qt SDK archive versions and architectures without a global Qt setup. MIT installer; Qt SDK/runtime licenses remain separate. Used aqtinstall 3.3.0 to obtain pinned Qt 5.15.2 MSVC2019 x64 archives for DiffImg; archive SHA256 values recorded. |
+| [Qwt](https://qwt.sourceforge.io/) | Qt technical plotting widgets. Qwt License 1.0 (LGPL2.1 with exceptions); retain notices and evaluate Qt/runtime licenses. Built pinned Qwt 6.3.0 source with Qt5/MSVC x64 for DiffImg. Rebuilds worked, but MSVC anonymous-namespace RTTI makes DLL bytes vary with build path. |

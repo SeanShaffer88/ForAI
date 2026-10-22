@@ -24,3 +24,9 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Maven](https://maven.apache.org/guides/) | JVM builds, dependency coordinates and publishing. |
 | [MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/) | Microsoft project build engine and task extension. |
 | [Dev Containers](https://containers.dev/) | Portable development-environment specification. |
+
+Project addition checked 2026-10-22:
+
+| Resource | Useful for / constraints |
+|---|---|
+| [aqtinstall](https://github.com/miurahr/aqtinstall) | Install explicitly selected Qt SDK archive versions and architectures without a global Qt setup. MIT installer; Qt SDK/runtime licenses remain separate. Used aqtinstall 3.3.0 to obtain pinned Qt 5.15.2 MSVC2019 x64 archives for DiffImg; archive SHA256 values recorded. |

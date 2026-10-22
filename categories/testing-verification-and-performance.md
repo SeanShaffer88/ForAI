@@ -29,4 +29,4 @@ Project discovery checked 2026-10-22 (source inspection only; no tested revival)
 
 | Resource | Useful for / constraints |
 |---|---|
-| [DiffImg community fork](https://github.com/arbruijn/diffimg) | Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt build and GPLv2 plus bundled component notices require review. Compare WinMerge; Windows build not validated. |
+| [DiffImg community fork](https://github.com/arbruijn/diffimg) | Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt; GPLv2-or-later source and component notices require review. Compare WinMerge; Scoped Windows x64 revival: https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.3.0-win1; legacy Qt baseline, no clean-VM/security-audit claim. |

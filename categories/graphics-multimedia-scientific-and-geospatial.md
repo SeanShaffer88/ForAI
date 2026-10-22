@@ -21,3 +21,9 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
+
+Project addition checked 2026-10-22:
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Qwt](https://qwt.sourceforge.io/) | Qt technical plotting widgets. Qwt License 1.0 (LGPL2.1 with exceptions); retain notices and evaluate Qt/runtime licenses. Built pinned Qwt 6.3.0 source with Qt5/MSVC x64 for DiffImg. Rebuilds worked, but MSVC anonymous-namespace RTTI makes DLL bytes vary with build path. |

@@ -6013,10 +6013,10 @@
     "name": "DiffImg (community fork)",
     "url": "https://github.com/arbruijn/diffimg",
     "category": "Testing verification and performance",
-    "purpose": "Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt build and GPLv2 plus bundled component notices require review. Compare WinMerge; Windows build not validated.",
+    "purpose": "Standalone Qt/C++ image-difference GUI for screenshot/regression investigation. Community fork of sandsmark/lingo/xbee DiffImg, not the canonical original; has 2026 code activity. Qt5 Widgets/Qwt; GPLv2-or-later source and component notices require review. Compare WinMerge; Scoped Windows x64 revival: https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.3.0-win1; legacy Qt baseline, no clean-VM/security-audit claim.",
     "source": "general",
     "checked_on": "2026-10-22",
-    "review": "2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review",
+    "review": "2026-10-22 GitHub metadata/default-branch commit, SourceForge provenance, README, CMake/qmake and sampled component license notices inspected; no build, complete license audit or vulnerability review; follow-up Windows x64 GUI/CLI build, 17 native cases and 30 CLI checks, relocated app-local tests, published source/runtime checksums verified",
     "http_status": "200 (GitHub repository API; not an adoption audit)"
   },
   {
@@ -6598,5 +6598,25 @@
     "checked_on": "2026-10-22",
     "review": "Primary documentation/README excerpts or upstream repository metadata reviewed; no comprehensive adoption audit",
     "http_status": "not separately checked"
+  },
+  {
+    "name": "aqtinstall",
+    "url": "https://github.com/miurahr/aqtinstall",
+    "category": "Builds packages and environments",
+    "purpose": "Install explicitly selected Qt SDK archive versions and architectures without a global Qt setup. MIT installer; Qt SDK/runtime licenses remain separate. Used aqtinstall 3.3.0 to obtain pinned Qt 5.15.2 MSVC2019 x64 archives for DiffImg; archive SHA256 values recorded.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "Primary installer documentation read; isolated installation and selected Qt archives downloaded and used in a Windows x64 build; not an audit of every Qt version or installer dependency",
+    "http_status": "documentation fetched"
+  },
+  {
+    "name": "Qwt",
+    "url": "https://qwt.sourceforge.io/",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Qt technical plotting widgets. Qwt License 1.0 (LGPL2.1 with exceptions); retain notices and evaluate Qt/runtime licenses. Built pinned Qwt 6.3.0 source with Qt5/MSVC x64 for DiffImg. Rebuilds worked, but MSVC anonymous-namespace RTTI makes DLL bytes vary with build path.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "Primary install guide and checked-out license read; git commit 4ddf2f3878d0835f678da0f2aba1180f2ba208f6 built twice and exercised through DiffImg tests; not all modules/toolchains validated",
+    "http_status": "documentation fetched"
   }
 ]

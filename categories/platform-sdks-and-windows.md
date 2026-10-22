@@ -18,3 +18,6 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Microsoft Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) | Process, filesystem and system diagnostics. |
 | [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/) | Native crash dumps, symbols and kernel or user-mode debugging. |
 | [WSL](https://learn.microsoft.com/en-us/windows/wsl/) | Linux development environment on Windows; distinguish host and guest paths. |
+| [Windows Job Objects](https://learn.microsoft.com/en-us/windows/win32/procthread/job-objects) | Windows process-tree lifetime and resource limits; suspended creation plus assignment prevents child escape before containment. Kill-on-close stops owned descendants; persistent build daemons need explicit handling. |
+
+Project additions checked 2026-10-21: see the machine-readable index for scoped evidence and first-party testing limits.

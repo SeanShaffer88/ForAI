@@ -5928,5 +5928,35 @@
     "checked_on": "2026-10-21",
     "review": "Historical discovery notes; consult source catalog for evidence and limits",
     "http_status": ""
+  },
+  {
+    "name": "Windows Job Objects",
+    "url": "https://learn.microsoft.com/en-us/windows/win32/procthread/job-objects",
+    "category": "Platform SDKs and Windows",
+    "purpose": "Windows process-tree lifetime and resource limits; suspended creation plus assignment prevents child escape before containment. Kill-on-close stops owned descendants; persistent build daemons need explicit handling.",
+    "source": "general",
+    "checked_on": "2026-10-21",
+    "review": "Microsoft API documentation read for BuildTrail; suspended assignment, cancellation, timeout and normal-exit child cleanup tested on Windows 11 x64. Not an independent security audit.",
+    "http_status": "200"
+  },
+  {
+    "name": "AppTrail",
+    "url": "https://github.com/SeanShaffer88/AppTrail",
+    "category": "Observability debugging and operations",
+    "purpose": "Local Windows folder snapshots, named project checkpoints, Git details, saved source diffs and HTML change reports. MIT; unsigned x64 portable release; snapshots are observations, not backups.",
+    "source": "general",
+    "checked_on": "2026-10-21",
+    "review": "First-party project: v0.16.0 source, 136 local tests, Edge reports, standalone launch and exact-commit GitHub Windows CI checked. Windows 11 x64 validated; not an independent audit.",
+    "http_status": "200"
+  },
+  {
+    "name": "BuildTrail",
+    "url": "https://github.com/SeanShaffer88/BuildTrail",
+    "category": "Observability debugging and operations",
+    "purpose": "Local Windows build recipes, compiler/tool probes, dependency-manifest evidence, logs, output hashes and AppTrail source comparisons. MIT; unsigned x64 portable app; manifests are not a complete installed dependency graph.",
+    "source": "general",
+    "checked_on": "2026-10-21",
+    "review": "First-party project: 0.1.0 source, Python/Tk and real MSVC consumer tests, offline browser report and exact frozen-EXE success/failure checks. Windows 11 x64 validated; release/CI status must be checked at adoption. Not an independent audit.",
+    "http_status": "200"
   }
 ]

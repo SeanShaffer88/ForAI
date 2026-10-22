@@ -2,7 +2,7 @@
 
 Saved 2026-10-21 at Sean's request for future software development assistance.
 
-**361 resource entries across 28 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
+**364 resource entries across 28 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
 
 Persistent master: (local research archive).
 User-facing copy: (local research archive).
@@ -347,6 +347,13 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
+
+
+Project additions checked 2026-10-21:
+
+| Resource | Project use and evidence limits |
+|---|---|
+| [Windows Job Objects](https://learn.microsoft.com/en-us/windows/win32/procthread/job-objects) | Windows process-tree lifetime and resource limits; suspended creation plus assignment prevents child escape before containment. Kill-on-close stops owned descendants; persistent build daemons need explicit handling. Check: Microsoft API documentation read for BuildTrail; suspended assignment, cancellation, timeout and normal-exit child cleanup tested on Windows 11 x64. Not an independent security audit. |
 
 ### Languages and runtimes
 
@@ -3443,6 +3450,14 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
+
+
+Project additions checked 2026-10-21:
+
+| Resource | Project use and evidence limits |
+|---|---|
+| [AppTrail](https://github.com/SeanShaffer88/AppTrail) | Local Windows folder snapshots, named project checkpoints, Git details, saved source diffs and HTML change reports. MIT; unsigned x64 portable release; snapshots are observations, not backups. Check: First-party project: v0.16.0 source, 136 local tests, Edge reports, standalone launch and exact-commit GitHub Windows CI checked. Windows 11 x64 validated; not an independent audit. |
+| [BuildTrail](https://github.com/SeanShaffer88/BuildTrail) | Local Windows build recipes, compiler/tool probes, dependency-manifest evidence, logs, output hashes and AppTrail source comparisons. MIT; unsigned x64 portable app; manifests are not a complete installed dependency graph. Check: First-party project: 0.1.0 source, Python/Tk and real MSVC consumer tests, offline browser report and exact frozen-EXE success/failure checks. Windows 11 x64 validated; release/CI status must be checked at adoption. Not an independent audit. |
 
 ### Integration APIs and business SDKs
 

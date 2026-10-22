@@ -18,3 +18,7 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
 | [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
+| [AppTrail](https://github.com/SeanShaffer88/AppTrail) | Local Windows folder snapshots, named project checkpoints, Git details, saved source diffs and HTML change reports. MIT; unsigned x64 portable release; snapshots are observations, not backups. |
+| [BuildTrail](https://github.com/SeanShaffer88/BuildTrail) | Local Windows build recipes, compiler/tool probes, dependency-manifest evidence, logs, output hashes and AppTrail source comparisons. MIT; unsigned x64 portable app; manifests are not a complete installed dependency graph. |
+
+Project additions checked 2026-10-21: see the machine-readable index for scoped evidence and first-party testing limits.

@@ -47,6 +47,12 @@ Example commands from a configured source checkout:
 
 These are templates, not promises that a project has those modules/tasks. Inspect its Gradle files first. Do not hard-code “latest” JDK or plugin versions independently: use the [JDK guide](https://developer.android.com/build/jdks) and [AGP compatibility information](https://developer.android.com/build/releases/about-agp). The fetched [sdkmanager reference](https://developer.android.com/tools/sdkmanager) now marks it deprecated in favor of Android CLI; retain compatibility with existing installed toolchains and verify CLI availability before migrating.
 
+### Observed Windows asset-path pitfall (2026-10-22)
+
+An original offline WebView game built with Windows AAPT2/build-tools 35.0.0 contained raw backslashes in nested vendor ZIP entries. Android AssetManager could not open the corresponding forward-slash paths, leaving the module graph unable to start. Desktop-browser tests and signature/CRC checks alone had not caught it. The failure was reproduced on an AOSP Android 15 emulator, and normalizing ZIP entry names before alignment/signing restored startup. This is evidence for that manual build pipeline, not a claim that all AAPT2/Gradle packages are affected.
+
+Inspect `ZipInfo.orig_filename` when using Python on Windows: `filename` can conceal the raw backslashes. The inventory script now reports `nonportable_archive_paths` separately from traversal-style unsafe paths. Verify raw archive names, bundled-file bytes, and actual Android asset reads; then cold-launch without connectivity. Keep `resources.arsc` uncompressed when rebuilding. The regression and fix are recorded in [Emberline 0.1.1](https://github.com/SeanShaffer88/emberline/releases/tag/v0.1.1). No new dependency or catalog entry was added for this correction.
+
 ## Decode, edit and rebuild an existing APK
 
 [Apktool](https://github.com/iBotPeaches/Apktool) is a primary path for resources plus smali. [JADX](https://github.com/skylot/jadx) is primarily for reading and navigating Java-like code. Edit smali or use an appropriate bytecode library for changes; recompiling all JADX output is usually a poor baseline.

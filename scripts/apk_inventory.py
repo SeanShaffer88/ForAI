@@ -31,22 +31,23 @@ def elf_info(prefix):
 def inventory(path):
  result={'name':path.name,'bytes':path.stat().st_size,'sha256':sha256(path),'read_only':True}
  with zipfile.ZipFile(path) as z,path.open('rb') as raw:
-  infos=z.infolist();names=[i.filename for i in infos]
+  # Preserve raw ZIP names; Python normalizes backslashes in filename on Windows.
+  infos=z.infolist();names=[i.orig_filename for i in infos]
   unsafe=[n for n in names if n.startswith(('/', '\\')) or '..' in n.replace('\\','/').split('/') or ':' in n.split('/')[0]]
   nested=[n for n in names if n.lower().endswith('.apk')]
   native=[]
   for i in infos:
-   if not(i.filename.startswith('lib/') and i.filename.endswith('.so')):continue
+   if not(i.orig_filename.startswith('lib/') and i.orig_filename.endswith('.so')):continue
    raw.seek(i.header_offset);header=raw.read(30)
    nlen,xlen=struct.unpack_from('<HH',header,26);start=i.header_offset+30+nlen+xlen
    with z.open(i) as f:prefix=f.read(min(i.file_size,1024*1024))
-   native.append({'path':i.filename,'bytes':i.file_size,'zip_method':i.compress_type,'stored':i.compress_type==0,'zip_data_offset':start,'stored_data_16k_aligned':i.compress_type==0 and start%16384==0,'elf':elf_info(prefix)})
+   native.append({'path':i.orig_filename,'bytes':i.file_size,'zip_method':i.compress_type,'stored':i.compress_type==0,'zip_data_offset':start,'stored_data_16k_aligned':i.compress_type==0 and start%16384==0,'elf':elf_info(prefix)})
   engine=[]
   if any('libunity.so' in n or 'global-metadata.dat' in n for n in names):engine.append('Unity IL2CPP' if any('global-metadata.dat' in n for n in names) else 'Unity; inspect scripting backend')
   if any('libflutter.so' in n or n.startswith('assets/flutter_assets/') for n in names):engine.append('Flutter')
   if any('libgodot' in n for n in names):engine.append('Godot')
   if any('libhermes.so' in n or n.endswith('index.android.bundle') for n in names):engine.append('React Native / Hermes candidate')
-  result.update({'zip_entries':len(infos),'uncompressed_bytes':sum(i.file_size for i in infos),'duplicate_names':sorted(n for n in set(names) if names.count(n)>1),'unsafe_archive_paths':unsafe,'has_binary_android_manifest':'AndroidManifest.xml' in names,'dex_files':[n for n in names if '/' not in n and n.endswith('.dex')],'nested_apks':nested,'obb_files':[n for n in names if n.lower().endswith('.obb')],'abis':sorted({n.split('/')[1] for n in names if n.startswith('lib/') and len(n.split('/'))>2}),'native_libraries':native,'engine_candidates':engine,'largest_entries':[{'path':i.filename,'bytes':i.file_size} for i in sorted(infos,key=lambda x:x.file_size,reverse=True)[:12]],'notes':['No signature verification or binary-manifest decoding performed. Use apksigner and apkanalyzer/aapt2.','ZIP alignment and ELF segment alignment are separate requirements; neither is a runtime compatibility guarantee.','Nested APKs are listed, not recursively executed or extracted.','SHA-256 records identity, not trust or provenance.']})
+  result.update({'zip_entries':len(infos),'uncompressed_bytes':sum(i.file_size for i in infos),'duplicate_names':sorted(n for n in set(names) if names.count(n)>1),'unsafe_archive_paths':unsafe,'nonportable_archive_paths':[n for n in names if '\\' in n],'has_binary_android_manifest':'AndroidManifest.xml' in names,'dex_files':[n for n in names if '/' not in n and n.endswith('.dex')],'nested_apks':nested,'obb_files':[n for n in names if n.lower().endswith('.obb')],'abis':sorted({n.split('/')[1] for n in names if n.startswith('lib/') and len(n.split('/'))>2}),'native_libraries':native,'engine_candidates':engine,'largest_entries':[{'path':i.orig_filename,'bytes':i.file_size} for i in sorted(infos,key=lambda x:x.file_size,reverse=True)[:12]],'notes':['No signature verification or binary-manifest decoding performed. Use apksigner and apkanalyzer/aapt2.','ZIP alignment and ELF segment alignment are separate requirements; neither is a runtime compatibility guarantee.','Nested APKs are listed, not recursively executed or extracted.','SHA-256 records identity, not trust or provenance.']})
   if 'manifest.json' in names:
    i=z.getinfo('manifest.json')
    if i.file_size<=1024*1024:

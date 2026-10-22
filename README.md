@@ -14,6 +14,7 @@ An assistant needs browsing, repository access, or a downloaded copy to read the
 
 ## Explore
 
+- [Dev Resource Explorer](https://seanshaffer88.github.io/dev-resource-explorer/): search the catalog, filter discovery topics, save resources in your browser, and read the original research notes. Uses a reviewed snapshot; [application source and releases](https://github.com/SeanShaffer88/dev-resource-explorer).
 - [Browse all categories](categories/README.md): links grouped by purpose, with practical notes.
 - [General development catalog](catalogs/software-development-resources.md): platform SDKs, languages, web, mobile, APIs, data, AI, testing, infrastructure, security, and more.
 - [Windows development catalog](catalogs/windows-development-repositories.md): native APIs, interop, DLLs, diagnostics, UI, graphics, devices, build and packaging, plus revival candidates.

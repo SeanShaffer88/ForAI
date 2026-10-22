@@ -5960,6 +5960,26 @@
     "http_status": "200"
   },
   {
+    "name": "Microsoft Attack Surface Analyzer",
+    "url": "https://github.com/microsoft/AttackSurfaceAnalyzer",
+    "category": "Observability debugging and operations",
+    "purpose": "Compare system security configuration snapshots with broad collectors and local SQLite evidence. MIT; README and license read 2026-10-22. Runtime, release maintenance and Windows compatibility need validation; not executed.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "primary README and MIT license reviewed; documentation only, no execution, compatibility or security audit",
+    "http_status": "not independently measured"
+  },
+  {
+    "name": "WinLedger",
+    "url": "https://github.com/fanyqe/winledger",
+    "category": "Observability debugging and operations",
+    "purpose": "Local Windows before/after sessions for registry, services, tasks, startup, environment, firewall and selected files; conservative rollback. MIT license and README read 2026-10-22; Windows 11 x64/.NET 10 documented, not independently tested or adopted.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "primary README and MIT license reviewed; documentation only, no execution, compatibility or security audit",
+    "http_status": "not independently measured"
+  },
+  {
     "name": "WinHTTP request and redirect options",
     "url": "https://learn.microsoft.com/en-us/windows/win32/winhttp/option-flags",
     "category": "Platform SDKs and Windows",

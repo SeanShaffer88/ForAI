@@ -18,3 +18,11 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [pypdf](https://pypdf.readthedocs.io/en/stable/) | Python PDF structure manipulation and extraction; not a PDF renderer. |
 | [Pillow](https://pillow.readthedocs.io/en/stable/) | Python raster-image processing; check codecs and decompression limits. |
 | [libvips](https://www.libvips.org/) | Image-processing library for large images and pipelines; bindings require native runtime support. |
+
+## Additions checked 2026-10-22
+
+2026-10-22 canonical GitHub metadata, README and license identification reviewed; source documentation only. No build, runtime/architecture validation, release audit, benchmark or security audit; not adopted.
+
+| Resource | Purpose and constraints |
+|---|---|
+| [Camelot PDF table extraction](https://github.com/camelot-dev/camelot) | MIT Python table-extraction library and CLI. Current source documents text-table parsers and optional ML/OCR for scans; Python >=3.10, PDFium default backend. Unarchived, repository pushed 2026-10-14. Pin a released version; benchmark accuracy, Windows wheels and optional model/dependency licenses before packaging. |

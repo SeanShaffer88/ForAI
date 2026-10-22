@@ -31,3 +31,12 @@ Primary README and MIT license text reviewed for these entries only. No software
 |---|---|
 | [Microsoft Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | Compare system security configuration snapshots with broad collectors and local SQLite evidence. MIT; README and license read 2026-10-22. Runtime, release maintenance and Windows compatibility need validation; not executed. |
 | [WinLedger](https://github.com/fanyqe/winledger) | Local Windows before/after sessions for registry, services, tasks, startup, environment, firewall and selected files; conservative rollback. MIT license and README read 2026-10-22; Windows 11 x64/.NET 10 documented, not independently tested or adopted. |
+
+## Additions checked 2026-10-22
+
+2026-10-22 canonical GitHub metadata, README and license identification reviewed; source documentation only. No build, runtime/architecture validation, release audit, benchmark or security audit; not adopted.
+
+| Resource | Purpose and constraints |
+|---|---|
+| [Dumpling (.NET heap analysis)](https://github.com/CoreyKaylor/dotnet-dumpling) | Apache-2.0 CLI and MCP candidate for .NET heap comparisons, retention paths and dominator analysis. Upstream documents .gcdump and ClrMD process-dump support; unarchived, repository pushed 2026-08-14. Validate format fidelity, memory use, distribution and supported runtimes before reuse. |
+| [dotnet-heapview](https://github.com/1hub/dotnet-heapview) | MIT desktop heap viewer, shared heap model and MCP source example. Upstream lists .gcdump, .hprof and .mono-heap inputs; unarchived, repository pushed 2026-09-21. Compare PerfView and Dumpling; GUI completeness, packaging and Windows runtime support remain untested. |

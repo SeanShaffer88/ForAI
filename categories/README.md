@@ -17,7 +17,7 @@ These categories preserve both saved collections. Resources may appear in more t
 - [Documents OCR and file formats](documents-ocr-and-file-formats.md) (13)
 - [Feature flags configuration and secrets](feature-flags-configuration-and-secrets.md) (9)
 - [Graphics multimedia scientific and geospatial](graphics-multimedia-scientific-and-geospatial.md) (16)
-- [Integration APIs and business SDKs](integration-apis-and-business-sdks.md) (15)
+- [Integration APIs and business SDKs](integration-apis-and-business-sdks.md) (16)
 - [Language tooling and repository automation](language-tooling-and-repository-automation.md) (12)
 - [Languages and runtimes](languages-and-runtimes.md) (13)
 - [Observability debugging and operations](observability-debugging-and-operations.md) (19)

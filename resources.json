@@ -2130,6 +2130,16 @@
     "http_status": "200"
   },
   {
+    "name": "Firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "category": "Integration APIs and business SDKs",
+    "purpose": "Web search, scraping, crawling and structured extraction for data pipelines and AI applications. Hosted API and self-hosted source; review credits, service terms, deployment differences and AGPL-3.0 obligations.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "2026-10-22: official README, introduction and root license reviewed; GitHub metadata reports not archived. No installation, API authentication, billing, security or compatibility test.",
+    "http_status": "200"
+  },
+  {
     "name": "OpenAI SDKs",
     "url": "https://developers.openai.com/api/docs/libraries",
     "category": "AI machine learning and local inference",

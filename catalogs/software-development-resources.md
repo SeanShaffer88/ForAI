@@ -2,7 +2,7 @@
 
 Saved 2026-10-21 at Sean's request for future software development assistance.
 
-**431 resource entries across 29 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
+**432 resource entries across 29 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
 
 Persistent master: (local research archive).
 User-facing copy: (local research archive).
@@ -3463,6 +3463,7 @@ Project additions checked 2026-10-21:
 
 | Resource / official source | When useful and what to check |
 |---|---|
+| [Firecrawl](https://github.com/firecrawl/firecrawl) | Web search, scraping, crawling and structured extraction for data pipelines and AI applications. Hosted API and self-hosted source; review credits, service terms, deployment differences and AGPL-3.0 obligations. |
 | [Windows SDK](https://learn.microsoft.com/en-us/windows/apps/windows-sdk/) | Win32 and WinRT headers, libraries and build tools; choose the target OS and SDK deliberately. |
 | [Windows App SDK](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/) | Modern Windows application APIs; check deployment model and runtime requirements. |
 | [Win32 API](https://learn.microsoft.com/en-us/windows/win32/api/) | Native Windows platform reference, including COM and system services. |
@@ -5040,3 +5041,7 @@ First-party scope: [v0.1.0-preview.1](https://github.com/SeanShaffer88/HeapTrail
 ## Project follow-up — 2026-10-22: DiffImg Qt 6 stable release
 
 [DiffImg Windows 2.4.0](https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.4.0) moves the independent revival to Qt 6.12.0/C++17. It fixes legacy perceptual array deallocation and one-pixel-wide kernel bounds, ports property-editor types/regex, and improves dock layout. Validation: 22 native cases, 31 CLI checks, 126 deterministic malformed/mutated image cases, application/bundled-code AddressSanitizer, four scale factors, and exact downloadable ZIP checks on fresh Windows Server 2022 and 2025 runners. [Exact-source/asset workflow](https://github.com/SeanShaffer88/DiffImg-Windows/actions/runs/39755139805). Application EXEs match across independent builds; Qwt DLL bytes remain build-path-dependent. Unsigned, x64 only; hosted runners do not establish pristine consumer-VM or exhaustive codec-security coverage. Qt5 prerelease assets are preserved and marked superseded. Existing WR IDs are unchanged.
+
+### Firecrawl addition — 2026-10-22
+
+Added one entry under Integration APIs and business SDKs. Checked the [upstream repository](https://github.com/firecrawl/firecrawl), [official introduction](https://docs.firecrawl.dev/introduction) and [root license](https://github.com/firecrawl/firecrawl/blob/main/LICENSE). GitHub metadata reports the repository is not archived. The root license is AGPL-3.0; verify component licenses and hosted-service terms separately. This was a source review, not an installation, API authentication, billing, security or compatibility test.

@@ -17,3 +17,9 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
 | [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
+
+Project additions checked 2026-10-22 (primary documentation only):
+
+| Resource | Useful for / constraints |
+|---|---|
+| [GitHub private vulnerability reporting](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository) | Provide a repository-specific private security-reporting route separate from public bug reports. Requires appropriate public-repository administration; notification delivery depends on account preferences. |

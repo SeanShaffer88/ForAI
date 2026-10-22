@@ -5958,5 +5958,35 @@
     "checked_on": "2026-10-21",
     "review": "First-party project: 0.1.0 source, Python/Tk and real MSVC consumer tests, offline browser report and exact frozen-EXE success/failure checks. Windows 11 x64 validated; release/CI status must be checked at adoption. Not an independent audit.",
     "http_status": "200"
+  },
+  {
+    "name": "WinHTTP request and redirect options",
+    "url": "https://learn.microsoft.com/en-us/windows/win32/winhttp/option-flags",
+    "category": "Platform SDKs and Windows",
+    "purpose": "Configure WinHTTP redirect, timeout and request options. Check option-setting return values; TLS downgrade refusal does not establish publisher authenticity or freshness.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "Primary option semantics read for UpdateKit trust review; loopback transport tested separately, not a TLS downgrade/certificate matrix.",
+    "http_status": "200"
+  },
+  {
+    "name": "Microsoft Visual C++ runtime deployment",
+    "url": "https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist",
+    "category": "Platform SDKs and Windows",
+    "purpose": "Identify supported MSVC runtime packages and architecture/version requirements from Microsoft. Preserve redistribution terms; do not obtain individual runtime DLLs from arbitrary sites.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "Primary deployment/version and architecture guidance read for an x64 DLL import-table review; no installer downloaded or installed and clean-host acceptance not performed.",
+    "http_status": "200"
+  },
+  {
+    "name": "GitHub private vulnerability reporting",
+    "url": "https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository",
+    "category": "CI version control and releases",
+    "purpose": "Provide a repository-specific private security-reporting route separate from public bug reports. Requires appropriate public-repository administration; notification delivery depends on account preferences.",
+    "source": "general",
+    "checked_on": "2026-10-22",
+    "review": "Primary configuration guidance read; enabled and read back on authorized project repositories. No test vulnerability submitted or notification-delivery guarantee.",
+    "http_status": "200"
   }
 ]

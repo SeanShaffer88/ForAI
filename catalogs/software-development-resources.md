@@ -2,7 +2,7 @@
 
 Saved 2026-10-21 at Sean's request for future software development assistance.
 
-**364 resource entries across 28 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
+**367 resource entries across 28 areas**, supplementing the existing 232-repository Windows reference. These counts overlap: do not sum them as unique projects.
 
 Persistent master: (local research archive).
 User-facing copy: (local research archive).
@@ -4909,6 +4909,17 @@ Project additions checked 2026-10-21:
 | [Toxiproxy](https://github.com/Shopify/toxiproxy) | Inject network failures into integration tests; route test traffic explicitly. |
 | [MockServer](https://www.mock-server.com/) | HTTP mocking and verification; isolate expectations between concurrent tests. |
 | [Schemathesis](https://schemathesis.readthedocs.io/) | Property-based API testing from schemas; run against authorized test environments. |
+
+
+## Project-linked reference additions — 2026-10-22
+
+Added for GitHub support, native DLL deployment and updater trust work. Only these three primary documentation pages were checked on this date; this is not a fresh audit of the complete catalog. No package, runtime installer or model was adopted. Linked documentation retains upstream terms.
+
+| Category | Resource | Purpose and scoped verification |
+|---|---|---|
+| Platform SDKs and Windows | [WinHTTP request and redirect options](https://learn.microsoft.com/en-us/windows/win32/winhttp/option-flags) | Configure WinHTTP redirect, timeout and request options. Check option-setting return values; TLS downgrade refusal does not establish publisher authenticity or freshness. Primary option semantics read for UpdateKit trust review; loopback transport tested separately, not a TLS downgrade/certificate matrix. |
+| Platform SDKs and Windows | [Microsoft Visual C++ runtime deployment](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist) | Identify supported MSVC runtime packages and architecture/version requirements from Microsoft. Preserve redistribution terms; do not obtain individual runtime DLLs from arbitrary sites. Primary deployment/version and architecture guidance read for an x64 DLL import-table review; no installer downloaded or installed and clean-host acceptance not performed. |
+| CI version control and releases | [GitHub private vulnerability reporting](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository) | Provide a repository-specific private security-reporting route separate from public bug reports. Requires appropriate public-repository administration; notification delivery depends on account preferences. Primary configuration guidance read; enabled and read back on authorized project repositories. No test vulnerability submitted or notification-delivery guarantee. |
 
 ## Related persistent references
 

@@ -19,3 +19,26 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Dart](https://dart.dev/guides) | Language and tooling used with Flutter and standalone apps. |
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
+
+## AI expansion additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Rust](https://www.rust-lang.org/) | Language home; install via rustup, edition and release info. |
+| [The Rust Book](https://doc.rust-lang.org/book/) | Canonical language tutorial; ownership, traits, error handling. |
+| [crates.io](https://crates.io/) | Rust package registry; check downloads, docs link, and maintenance before recommending a crate. |
+| [docs.rs](https://docs.rs/) | Rendered docs for nearly every crate and version. |
+| [Cargo Book](https://doc.rust-lang.org/cargo/) | Workspaces, features, profiles, publishing. |
+| [Python](https://www.python.org/) | Downloads, PEP index, release schedule. |
+| [PyPI](https://pypi.org/) | Python package index; check version, requires-python, and project links. |
+| [Node.js](https://nodejs.org/en/docs) | Runtime APIs, LTS schedule, globals. |
+| [npm](https://www.npmjs.com/) | JavaScript package registry; verify package identity carefully — similar names are a supply-chain risk. |
+| [Deno](https://docs.deno.com/) | Secure JS/TS runtime, standard library, JSR registry. |
+| [Bun](https://bun.sh/docs) | JS runtime, bundler, test runner, package manager. |
+| [NuGet Gallery](https://www.nuget.org/) | .NET package registry; check target frameworks and license per package. |
+| [pkg.go.dev](https://pkg.go.dev/) | Discover and read docs for Go packages and the standard library. |
+| [C++ reference (cppreference)](https://en.cppreference.com/) | De-facto C/C++ standard library and language reference. |
+| [vcpkg](https://vcpkg.io/) | Microsoft C/C++ package manager; port list is searchable online. |
+| [Conan](https://conan.io/center) | C/C++ package manager and Conan Center index. |
+| [Java](https://dev.java/) | JDK tutorials, API docs, release information. |
+| [Maven Central](https://central.sonatype.com/) | JVM artifact registry; verify group/artifact coordinates. |

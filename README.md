@@ -2,7 +2,7 @@
 
 A project-aware resource library for developers and their AI assistants, curated by Sean Shaffer. Find useful repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources for the work you are actually doing.
 
-**691 catalog entries · 687 distinct URLs · 77 purpose-based categories.** Includes the complete saved collections of 459 general resources and 232 Windows repositories. Entries overlap; distinct URLs do not necessarily mean distinct projects.
+**847 catalog entries · 843 distinct URLs · 85 purpose-based categories.** Includes the complete saved collections of 459 general resources and 232 Windows repositories, plus 156 AI resources added 2026-10-23 (see the AI expansion catalog). Entries overlap; distinct URLs do not necessarily mean distinct projects.
 
 ## Point your AI here
 
@@ -17,6 +17,7 @@ An assistant needs browsing, repository access, or a downloaded copy to read the
 - [Dev Resource Explorer](https://seanshaffer88.github.io/dev-resource-explorer/): search the catalog, filter discovery topics, save resources in your browser, and read the original research notes. Uses a reviewed snapshot; [application source and releases](https://github.com/SeanShaffer88/dev-resource-explorer).
 - [Browse all categories](categories/README.md): links grouped by purpose, with practical notes.
 - [General development catalog](catalogs/software-development-resources.md): platform SDKs, languages, web, mobile, APIs, data, AI, testing, infrastructure, security, and more.
+- [AI resources expansion](catalogs/ai-resources-expansion.md): toolchains, MCP servers and SDKs, agent frameworks, local inference, model providers, retrieval, evaluation, coding agents, and learning references, added 2026-10-23.
 - [Windows development catalog](catalogs/windows-development-repositories.md): native APIs, interop, DLLs, diagnostics, UI, graphics, devices, build and packaging, plus revival candidates.
 - [Windows revival backlog](catalogs/windows-development-todo.md): historical WR-001 through WR-010 snapshot, including completed win-pipe work and Microsoft IPC development status.
 - [JSON index](resources.json) / [CSV index](resources.csv): all entries for searching or ingestion.

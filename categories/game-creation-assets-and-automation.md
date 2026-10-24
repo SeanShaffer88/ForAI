@@ -26,3 +26,9 @@ Checked 2026-10-22 for Emberline asset production and future game projects. Repo
 | [Quaternius Ultimate Nature Pack](https://quaternius.com/packs/ultimatenature.html) | Alternative low-poly nature collection including pine/snowy variants; useful when it provides better silhouettes than the primary chosen kit. Official pack page and creator itch page reviewed: CC0; FBX/OBJ/Blend formats. Pack not downloaded or imported; conversion and exact selected-asset checks remain. |
 | [Poly Haven](https://polyhaven.com/) | Source HDRIs, textures and models for authored materials and lighting references. Downsample and stylize selected assets for mobile rather than importing high-resolution packs wholesale. Official license page inspected: downloadable assets CC0. Website/API terms are distinct; no asset downloaded in this check. |
 | [ambientCG](https://ambientcg.com/) | Source CC0 snow, wood, rock and other surfaces for a constrained material palette. Bake/resize only selected maps and budget decoded GPU memory. Official license documentation inspected: downloadable assets and previews CC0. No individual material downloaded or benchmarked in this check. |
+
+## Food and camp props — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Kenney Food Kit](https://kenney.nl/assets/food-kit) | Small stylized food, cookware and table props for offline games. Select only needed GLBs and their palette texture; keep edible props out of automatic snow shaders. Official pack page and downloaded 2.0 ZIP license inspected: CC0. Six selected food GLBs plus four further Nature Kit props passed glTF Validator with zero errors/warnings; local paths and exact hashes retained in Emberline. Scope is the selected subset, not an audit of all 200 models or a phone performance check. |

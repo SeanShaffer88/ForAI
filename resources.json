@@ -6898,5 +6898,15 @@
     "checked_on": "2026-10-22",
     "review": "2026-10-22 scoped primary/project-source inspection; Forever 1.60.1 addon development; not a complete API, security or license audit",
     "http_status": "not separately probed"
+  },
+  {
+    "name": "Kenney Food Kit",
+    "url": "https://kenney.nl/assets/food-kit",
+    "category": "Game creation assets and automation",
+    "purpose": "Small stylized food, cookware and table props for offline games. Select only needed GLBs and their palette texture; keep edible props out of automatic snow shaders.",
+    "source": "general",
+    "checked_on": "2026-10-23",
+    "review": "Official pack page and downloaded 2.0 ZIP license inspected: CC0. Six selected food GLBs plus four further Nature Kit props passed glTF Validator with zero errors/warnings; local paths and exact hashes retained in Emberline. Scope is the selected subset, not an audit of all 200 models or a phone performance check.",
+    "http_status": "200"
   }
 ]

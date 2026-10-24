@@ -6023,10 +6023,10 @@
     "name": "DiffImg (community fork)",
     "url": "https://github.com/arbruijn/diffimg",
     "category": "Testing verification and performance",
-    "purpose": "Standalone Qt/C++ screenshot-difference GUI. arbruijn fork descends from sandsmark/lingo/xbee; independent Windows Qt 6.12 x64 revival: https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.5.0 . Adds folder comparisons, profiles/ignore regions, synchronized review, standalone HTML reports and recoverable baseline approval. GPLv3 binary distribution with corresponding sources/notices; self-signed Authenticode is not public Windows trust. Equal dimensions and 8-bit white-matte RGB; compare WinMerge.",
+    "purpose": "Standalone Qt/C++ screenshot-difference GUI. arbruijn fork descends from sandsmark/lingo/xbee; independent Windows Qt 6.12 x64 revival: https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.6.0 . Adds JSON/JUnit CI reports, failure-file navigation, scoped HTML exports and RGB pixel inspection atop folder comparisons, profiles/masks and recoverable baseline approval. GPLv3 binary distribution with corresponding sources/notices; self-signed Authenticode is not public Windows trust. Equal dimensions and 8-bit white-matte RGB; compare WinMerge.",
     "source": "general",
     "checked_on": "2026-10-23",
-    "review": "2026-10-23 scoped Windows revival 2.5.0: 36 native cases, 31 image CLI + 20 folder CLI cases, 126 bounded malformed/mutated-image cases, ASan application/bundled-code checks, four GUI scales, independent unsigned EXE identity and exact signed ZIP deployment on Windows Server 2022/2025. Backup/recovery, stale data and Windows junction cases exercised; no filesystem-wide atomicity, full codec audit or pristine consumer VM claim. Prior upstream provenance/license sampling retained.",
+    "review": "2026-10-23 scoped Windows revival 2.6.0: 38 native cases, 31 image CLI + 23 folder CLI cases, 126 bounded malformed/mutated-image cases, ASan application/bundled-code checks, four GUI scales, independent unsigned EXE identity and exact signed ZIP deployment on Windows Server 2022/2025. Backup/recovery, stale data and Windows junction cases exercised; no filesystem-wide atomicity, full codec audit or pristine consumer VM claim. Prior upstream provenance/license sampling retained.",
     "http_status": "200 (GitHub repository API; not an adoption audit)"
   },
   {

@@ -2,13 +2,13 @@
 
 A project-aware resource library for developers and their AI assistants, curated by Sean Shaffer. Find useful repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources for the work you are actually doing.
 
-**847 catalog entries · 843 distinct URLs · 85 purpose-based categories.** Includes the complete saved collections of 459 general resources and 232 Windows repositories, plus 156 AI resources added 2026-10-23 (see the AI expansion catalog). Entries overlap; distinct URLs do not necessarily mean distinct projects.
+**892 catalog entries · 888 distinct URLs · 89 purpose-based categories.** Includes the complete saved collections of 459 general resources and 232 Windows repositories, plus 201 AI resources added 2026-10-23 (see the AI expansion catalog). Entries overlap; distinct URLs do not necessarily mean distinct projects.
 
 ## Point your AI here
 
 Copy this into your coding assistant:
 
-> Use https://github.com/SeanShaffer88/useful-dev-resources as a resource reference for my project. Read its AGENTS.md and categories/README.md, then inspect only relevant categories. My project is: [describe the goal, existing stack, target platforms, and constraints]. Recommend a focused shortlist, explain why each resource fits, compare alternatives, and verify current upstream maintenance, licensing, compatibility, and integration requirements. Link your evidence and identify anything unverified. Do not install or change my project merely because a resource is listed.
+> Use https://github.com/SeanShaffer88/ForAI as a resource reference for my project. Read its AGENTS.md and categories/README.md, then inspect only relevant categories. My project is: [describe the goal, existing stack, target platforms, and constraints]. Recommend a focused shortlist, explain why each resource fits, compare alternatives, and verify current upstream maintenance, licensing, compatibility, and integration requirements. Link your evidence and identify anything unverified. Do not install or change my project merely because a resource is listed.
 
 An assistant needs browsing, repository access, or a downloaded copy to read these files. A link alone does not give it persistent memory or automatic access. If it cannot follow repository links, provide [AGENTS.md](AGENTS.md) and the relevant category files directly.
 
@@ -21,6 +21,7 @@ An assistant needs browsing, repository access, or a downloaded copy to read the
 - [Windows development catalog](catalogs/windows-development-repositories.md): native APIs, interop, DLLs, diagnostics, UI, graphics, devices, build and packaging, plus revival candidates.
 - [Windows revival backlog](catalogs/windows-development-todo.md): historical WR-001 through WR-010 snapshot, including completed win-pipe work and Microsoft IPC development status.
 - [JSON index](resources.json) / [CSV index](resources.csv): all entries for searching or ingestion.
+- [llms.txt](llms.txt): AI-readable index of the whole library.
 - [AI selection workflow](AGENTS.md) and [contribution guide](CONTRIBUTING.md).
 
 - [Android APK development and analysis](docs/android-apk-development.md): build, decode/rebuild, signing, engines, offline preservation and diagnostics; includes a read-only inventory script.

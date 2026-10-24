@@ -36,3 +36,20 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 |---|---|
 | [Modal](https://modal.com/docs) | Serverless GPU compute in Python: deploy model inference, batch jobs, and sandboxes without managing servers. |
 | [RunPod](https://docs.runpod.io/) | GPU cloud (Pods and Serverless endpoints) commonly used for model hosting and fine-tuning runs. |
+
+## Expansion — 2026-10-23
+
+Scoped metadata and README checks. See the [full expansion and evidence limits](../catalogs/development-expansion-2026-10-23.md); licensing notes and source identifiers are recorded there.
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Argo CD](https://github.com/argoproj/argo-cd) | Reconcile Kubernetes applications from Git; protect repository credentials and synchronization policy. |
+| [Flux](https://github.com/fluxcd/flux2) | GitOps controllers for Kubernetes; plan bootstrap, secret handling and reconciliation ownership. |
+| [Kustomize](https://github.com/kubernetes-sigs/kustomize) | Compose Kubernetes configuration overlays; review generated manifests before applying them. |
+| [Talos Linux](https://github.com/siderolabs/talos) | API-managed operating system for Kubernetes nodes; validate hardware and recovery procedures. |
+| [Cilium](https://github.com/cilium/cilium) | Linux eBPF networking and policy for clusters; verify kernel and datapath requirements. |
+| [Linkerd](https://github.com/linkerd/linkerd2) | Kubernetes service mesh capabilities; distinguish project code from supported binary distributions. |
+| [cert-manager](https://github.com/cert-manager/cert-manager) | Automate Kubernetes certificate issuance and renewal; configure issuer access and renewal monitoring. |
+| [Crossplane](https://github.com/crossplane/crossplane) | Manage infrastructure through Kubernetes APIs; review provider permissions and lifecycle policies. |
+| [KEDA](https://github.com/kedacore/keda) | Scale Kubernetes workloads from event metrics; validate scaler authentication and queue semantics. |
+| [Caddy](https://github.com/caddyserver/caddy) | HTTP serving and reverse proxying with certificate automation; review module trust and configuration. |

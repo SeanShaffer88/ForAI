@@ -23,3 +23,16 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
+
+## Expansion — 2026-10-23
+
+Scoped metadata and README checks. See the [full expansion and evidence limits](../catalogs/development-expansion-2026-10-23.md); licensing notes and source identifiers are recorded there.
+
+| Resource | Useful for / constraints |
+|---|---|
+| [mitmproxy](https://github.com/mitmproxy/mitmproxy) | Inspect and script HTTP traffic in authorized environments; manage interception certificates carefully. |
+| [grpcurl](https://github.com/fullstorydev/grpcurl) | Call gRPC endpoints from the command line; provide reflection or matching descriptors. |
+| [Hurl](https://github.com/Orange-OpenSource/hurl) | Write text-based HTTP request and response checks; isolate credentials and mutable test data. |
+| [Vegeta](https://github.com/tsenart/vegeta) | Generate HTTP loads and analyze results; control rate and use authorized test targets. |
+| [oha](https://github.com/hatoo/oha) | Benchmark HTTP services from the terminal; choose realistic concurrency and request patterns. |
+| [HTTPie CLI](https://github.com/httpie/cli) | Explore HTTP APIs from the terminal; protect authentication data and saved sessions. GitHub reports its last push as 2024-12-17; maintenance responsiveness was not established. |

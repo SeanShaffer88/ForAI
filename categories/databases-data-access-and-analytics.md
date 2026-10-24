@@ -23,3 +23,20 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
 | [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
 | [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
+
+## Expansion — 2026-10-23
+
+Scoped metadata and README checks. See the [full expansion and evidence limits](../catalogs/development-expansion-2026-10-23.md); licensing notes and source identifiers are recorded there.
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Ibis](https://github.com/ibis-project/ibis) | Portable Python expressions over analytic backends; check backend-specific operation support. |
+| [Apache DataFusion](https://github.com/apache/datafusion) | Embed a Rust query engine using Arrow; assess query coverage and memory management. |
+| [Dask](https://github.com/dask/dask) | Parallel Python arrays and dataframes; account for scheduler overhead and partition sizing. |
+| [dlt](https://github.com/dlt-hub/dlt) | Python data ingestion with schema handling; inspect destination behavior and credential scopes. |
+| [Great Expectations](https://github.com/fivetran/great_expectations) | Define data expectations and validation reports; distinguish core tooling from hosted services. |
+| [Pandera](https://github.com/unionai-oss/pandera) | Validate dataframe schemas and properties; check the selected dataframe backend. |
+| [dbt](https://github.com/dbt-labs/dbt) | Version and test SQL transformations; the renamed repository has Rust-based v2 on main and Python v1 on 1.latest. Check migration and adapter support. |
+| [SQLFluff](https://github.com/sqlfluff/sqlfluff) | Lint and format SQL; configure the correct dialect and templating engine. |
+| [Apache Flink](https://github.com/apache/flink) | Stateful stream and batch processing; plan checkpointing, state recovery and cluster operations. |
+| [Apache Beam](https://github.com/apache/beam) | Portable data pipelines; runner capabilities and deployment requirements differ. |

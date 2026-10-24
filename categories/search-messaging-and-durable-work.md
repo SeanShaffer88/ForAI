@@ -18,3 +18,20 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
 | [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
+
+## Expansion — 2026-10-23
+
+Scoped metadata and README checks. See the [full expansion and evidence limits](../catalogs/development-expansion-2026-10-23.md); licensing notes and source identifiers are recorded there.
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Prefect](https://github.com/PrefectHQ/prefect) | Orchestrate Python workflows with retries and scheduling; distinguish local operation from hosted services. |
+| [Dagster](https://github.com/dagster-io/dagster) | Model and operate data pipelines as assets; plan metadata storage and deployment. |
+| [Apache Airflow](https://github.com/apache/airflow) | Schedule dependency-based workflows; Windows use is through WSL2 or Linux containers per upstream. Design idempotent tasks and operate the scheduler. |
+| [Kestra](https://github.com/kestra-io/kestra) | Define event-driven workflows with declarative configuration; review plugin and edition requirements. |
+| [Windmill](https://github.com/windmill-labs/windmill) | Turn scripts into jobs and workflows; licensing mixes AGPL, Apache and proprietary components, and distributed Community Edition binaries have additional terms. |
+| [Hatchet](https://github.com/hatchet-dev/hatchet) | Run background tasks with durable orchestration; verify worker behavior and failure recovery. |
+| [Inngest](https://github.com/inngest/inngest) | Event-driven durable functions; the server license includes SSPL-1.0 and an Apache future-license notice. Review server, SDK and hosted-service terms separately. |
+| [Trigger.dev](https://github.com/triggerdotdev/trigger.dev) | Run background tasks from application code; evaluate worker deployment and resource limits. |
+| [Argo Workflows](https://github.com/argoproj/argo-workflows) | Execute container workflows on Kubernetes; define artifact storage and service-account permissions. |
+| [Luigi](https://github.com/spotify/luigi) | Build dependency-based batch pipelines in Python; design task completeness and idempotency. |

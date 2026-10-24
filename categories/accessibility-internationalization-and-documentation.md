@@ -14,3 +14,20 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
+
+## Expansion — 2026-10-23
+
+Scoped metadata and README checks. See the [full expansion and evidence limits](../catalogs/development-expansion-2026-10-23.md); licensing notes and source identifiers are recorded there.
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Pa11y](https://github.com/pa11y/pa11y) | Automate web accessibility checks; supplement machine findings with manual interaction testing. |
+| [Accessibility Insights for Web](https://github.com/microsoft/accessibility-insights-web) | Browser-based accessibility assessment tools; manual checks remain part of the workflow. |
+| [Lighthouse](https://github.com/GoogleChrome/lighthouse) | Audit web performance and quality; control test conditions and inspect individual findings. |
+| [FormatJS](https://github.com/formatjs/formatjs) | Internationalize JavaScript messages; the inspected intl package license is MIT. Confirm licenses for the exact packages and maintain locale extraction. |
+| [Fluent.js](https://github.com/projectfluent/fluent.js) | JavaScript implementation of Fluent localization; review message fallback and translator workflows. |
+| [Lingui](https://github.com/lingui/js-lingui) | Application message extraction and translation tooling; integrate locale loading and build steps. |
+| [TypeDoc](https://github.com/TypeStrong/typedoc) | Generate API documentation from TypeScript; configure public API boundaries. |
+| [VitePress](https://github.com/vuejs/vitepress) | Build documentation sites with Vite and Vue; check hosting paths and search integration. |
+| [Starlight](https://github.com/withastro/starlight) | Astro documentation framework; customize navigation and verify accessibility after changes. |
+| [Vale](https://github.com/vale-cli/vale) | Lint prose against configurable style rules; curate rules to avoid noisy feedback. |

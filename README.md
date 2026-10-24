@@ -2,7 +2,7 @@
 
 A project-aware resource library for developers and their AI assistants, curated by Sean Shaffer. Find useful repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources for the work you are actually doing.
 
-**992 catalog entries · 988 distinct URLs · 89 purpose-based categories.** Includes the complete saved collections of 459 general resources and 232 Windows repositories, plus 301 AI resources added 2026-10-23 (see the AI expansion catalog). Entries overlap; distinct URLs do not necessarily mean distinct projects.
+**1192 catalog entries · 1188 distinct URLs · 89 purpose-based categories.** Includes the complete saved collections of 459 general resources and 232 Windows repositories, plus 301 AI resources and 200 further development resources added 2026-10-23 (see the expansion catalogs). Entries overlap; distinct URLs do not necessarily mean distinct projects.
 
 ## Point your AI here
 
@@ -18,6 +18,7 @@ An assistant needs browsing, repository access, or a downloaded copy to read the
 - [Browse all categories](categories/README.md): links grouped by purpose, with practical notes.
 - [General development catalog](catalogs/software-development-resources.md): platform SDKs, languages, web, mobile, APIs, data, AI, testing, infrastructure, security, and more.
 - [AI resources expansion](catalogs/ai-resources-expansion.md): toolchains, MCP servers and SDKs, agent frameworks, local inference, model providers, retrieval, evaluation, coding agents, and learning references, added 2026-10-23.
+- [Development resources expansion](catalogs/development-expansion-2026-10-23.md): 200 additions across 18 existing categories, with source evidence and maintenance/licensing caveats.
 - [Windows development catalog](catalogs/windows-development-repositories.md): native APIs, interop, DLLs, diagnostics, UI, graphics, devices, build and packaging, plus revival candidates.
 - [Windows revival backlog](catalogs/windows-development-todo.md): historical WR-001 through WR-010 snapshot, including completed win-pipe work and Microsoft IPC development status.
 - [JSON index](resources.json) / [CSV index](resources.csv): all entries for searching or ingestion.
@@ -46,5 +47,7 @@ Search matches words across names, categories, URLs, and notes. Use shorter quer
 Imported from Sean's saved research on October 21, 2026. Original purpose, maintenance, evidence, and revival notes are retained in the full catalogs; local machine paths have been removed. Index category pages are derived from those collections. Search and HTTP checks recorded in the research are historical observations, not fresh audits or guarantees of maintenance, security, license suitability, or compatibility. The index `checked_on` date refers to the research snapshot and must be interpreted alongside `review`; Windows entries were not all individually rechecked that day. Some resources are official documentation or service APIs rather than GitHub repositories.
 
 Archived or dormant projects can remain useful for a specific requirement. Compare alternatives and the cost of owning a fork before adopting one. Listing a service does not connect an account or authorize access. This repository contains references and original notes, not third-party project source code.
+
+The [October 23 development expansion](catalogs/development-expansion-2026-10-23.md) records its own metadata/README checks and limits; it does not upgrade the evidence level of older entries.
 
 Original catalog prose and tooling are available under [MIT](LICENSE). Referenced projects, documentation, APIs, data, and trademarks retain their own licenses and terms. No scheduled monitoring is implied.

@@ -48,3 +48,20 @@ Primary README and MIT license text reviewed for these entries only. No software
 | [HeapTrail for .NET](https://github.com/SeanShaffer88/HeapTrail) | Free MIT Windows x64 .NET heap investigation desktop: compare .gcdump counts/shallow bytes, inspect root/incoming/outgoing paths, save notes and export local HTML. Unsigned self-contained preview; no live attachment, retained-size/dominator analysis or allocation stacks. |
 
 First-party scope: [v0.1.0-preview.1](https://github.com/SeanShaffer88/HeapTrail/releases/tag/v0.1.0-preview.1), source commit `0ba60bc84c4727147723b6c275eeae4cbd5336fc`. Fifteen graph/persistence/report checks include a real event leak growing 1 → 25 → 1 after a fix and a cache staying at 4. Four additional importer checks cover success, failure, cancellation and cleanup. Desktop workflow and extracted portable runtime were exercised. [Windows CI passed on this source](https://github.com/SeanShaffer88/HeapTrail/actions/runs/39753330962). Uses Microsoft's MIT diagnostics reader; dependency/license provenance is recorded in the project. This is an unsigned preview, not a complete profiler or security audit. Capture completeness, large/sampled heaps, ARM64/x86 and older runtimes remain limits; paths show reachability, not exclusive retained size.
+
+## Expansion — 2026-10-23
+
+Scoped metadata and README checks. See the [full expansion and evidence limits](../catalogs/development-expansion-2026-10-23.md); licensing notes and source identifiers are recorded there.
+
+| Resource | Useful for / constraints |
+|---|---|
+| [OpenObserve](https://github.com/openobserve/openobserve) | Store and query operational telemetry; review resource sizing and edition licensing. |
+| [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Store and query time-series metrics; compare single-node, cluster and enterprise capabilities. |
+| [Pyroscope](https://github.com/grafana/pyroscope) | Collect and explore continuous profiles; account for language-agent support and sampling overhead. |
+| [Tempo](https://github.com/grafana/tempo) | Store distributed traces; plan object storage and telemetry ingestion limits. |
+| [Parca](https://github.com/parca-dev/parca) | Profile workloads continuously; confirm platform and symbolization support. |
+| [bpftrace](https://github.com/bpftrace/bpftrace) | Trace Linux behavior with eBPF scripts; validate kernel features and required privileges. |
+| [Pixie](https://github.com/pixie-io/pixie) | Observe Kubernetes workloads through automatic instrumentation; assess eBPF and cluster requirements. |
+| [Glances](https://github.com/nicolargo/glances) | Inspect host and container metrics; configure authentication for exposed monitoring endpoints. |
+| [bottom](https://github.com/ClementTsang/bottom) | View system utilization in a terminal; compare per-platform metric availability. |
+| [bandwhich](https://github.com/imsnif/bandwhich) | Attribute network bandwidth to local processes; inspect operating-system and privilege requirements. |

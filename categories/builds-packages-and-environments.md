@@ -30,3 +30,20 @@ Project addition checked 2026-10-22:
 | Resource | Useful for / constraints |
 |---|---|
 | [aqtinstall](https://github.com/miurahr/aqtinstall) | Install explicitly selected Qt SDK archive versions and architectures without a global Qt setup. MIT installer; Qt SDK/runtime licenses remain separate. Used aqtinstall 3.3.0 to obtain pinned Qt 5.15.2 MSVC2019 x64 archives for DiffImg; archive SHA256 values recorded. |
+
+## Expansion — 2026-10-23
+
+Scoped metadata and README checks. See the [full expansion and evidence limits](../catalogs/development-expansion-2026-10-23.md); licensing notes and source identifiers are recorded there.
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Pants](https://github.com/pantsbuild/pants) | Coordinate builds and tests in multi-language repositories; adopt incrementally around supported backends. |
+| [Buck2](https://github.com/facebook/buck2) | Build large dependency graphs with caching; plan toolchains and build-rule ownership. |
+| [Please](https://github.com/thought-machine/please) | Reproducible multi-language builds; upstream lists Linux, macOS and FreeBSD as actively supported. Verify other platforms before adoption. |
+| [Xmake](https://github.com/xmake-io/xmake) | Configure native builds using Lua; inspect toolchain and package integration. |
+| [ccache](https://github.com/ccache/ccache) | Cache C and C++ compilation results; configure cache keys and shared-storage trust. |
+| [mold](https://github.com/rui314/mold) | Accelerate native linking on supported platforms; verify linker compatibility and deployment licenses. |
+| [esbuild](https://github.com/evanw/esbuild) | Bundle and transform JavaScript and TypeScript quickly; run type checking separately. |
+| [SWC](https://github.com/swc-project/swc) | Compile and transform JavaScript/TypeScript with Rust tooling; verify plugin and syntax compatibility. |
+| [Oxc](https://github.com/oxc-project/oxc) | Rust-based JavaScript tooling components; evaluate individual parser, lint and transform maturity. |
+| [Biome](https://github.com/biomejs/biome) | Format and lint web code with unified tooling; check language and rule coverage before migration. |

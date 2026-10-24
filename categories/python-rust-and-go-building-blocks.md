@@ -25,3 +25,30 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [goose](https://pressly.github.io/goose/) | SQL and Go database migrations; validate locking and rollback strategy. |
 | [Cobra](https://cobra.dev/) | Go CLI commands, flags and completion. |
 | [Bubble Tea](https://github.com/charmbracelet/bubbletea) | Go terminal application framework; test Windows terminals and redirected I/O. |
+
+## Expansion — 2026-10-23
+
+Scoped metadata and README checks. See the [full expansion and evidence limits](../catalogs/development-expansion-2026-10-23.md); licensing notes and source identifiers are recorded there.
+
+| Resource | Useful for / constraints |
+|---|---|
+| [attrs](https://github.com/python-attrs/attrs) | Define Python data classes with validation and conversion; distinguish runtime validation from typing. |
+| [cattrs](https://github.com/python-attrs/cattrs) | Convert Python objects to and from structured data; configure hooks for domain types. |
+| [Pendulum](https://github.com/python-pendulum/pendulum) | Work with Python dates, durations and time zones; test daylight-saving transitions. |
+| [python-dateutil](https://github.com/dateutil/dateutil) | Extend Python date parsing and recurrence handling; avoid ambiguous input formats. |
+| [python-dotenv](https://github.com/theskumar/python-dotenv) | Load development environment settings from files; keep secrets out of version control. |
+| [platformdirs](https://github.com/tox-dev/platformdirs) | Resolve platform-appropriate application directories; validate packaging and service-account behavior. |
+| [watchfiles](https://github.com/samuelcolvin/watchfiles) | Watch filesystem changes from Python using a Rust backend; control scope and debounce behavior. |
+| [DiskCache](https://github.com/grantjenks/python-diskcache) | Use disk-backed Python caching; define eviction, contention and cache invalidation behavior. GitHub reports its last push as 2024-08-10; maintenance responsiveness was not established. |
+| [joblib](https://github.com/joblib/joblib) | Cache computations and parallelize Python work; never load serialized objects from untrusted sources. |
+| [Loguru](https://github.com/Delgan/loguru) | Configure Python application logging; review sensitive-data filtering and multiprocess behavior. |
+| [anyhow](https://github.com/dtolnay/anyhow) | Propagate contextual errors in Rust applications; retain typed errors where callers need recovery. |
+| [thiserror](https://github.com/dtolnay/thiserror) | Derive structured Rust error implementations; design stable public error contracts. |
+| [bytes](https://github.com/tokio-rs/bytes) | Manage byte buffers for Rust networking; understand ownership and shared-buffer retention. |
+| [DashMap](https://github.com/xacrimon/dashmap) | Concurrent Rust maps with familiar operations; avoid holding guards across conflicting accesses. |
+| [SQLx](https://github.com/transact-rs/sqlx) | Async Rust database access with checked-query tooling; match database features and runtime integration. |
+| [SeaORM](https://github.com/SeaQL/sea-orm) | Async Rust relational data access; inspect generated queries and migration strategy. |
+| [chi](https://github.com/go-chi/chi) | Compose Go HTTP routing and middleware; preserve request context and timeout handling. |
+| [Echo](https://github.com/labstack/echo) | Build Go HTTP applications with routing and middleware; review middleware order and trusted proxies. |
+| [zerolog](https://github.com/rs/zerolog) | Structured Go logging with low-allocation APIs; design log schema and sensitive-data handling. |
+| [Zap](https://github.com/uber-go/zap) | Structured Go logging with typed fields; manage sampling and shutdown flushing. |

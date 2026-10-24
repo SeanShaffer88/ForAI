@@ -5107,8 +5107,13 @@ Checked 2026-10-22 for Emberline asset production and future game projects. Repo
 |---|---|
 | [Kenney Food Kit](https://kenney.nl/assets/food-kit) | Small stylized food, cookware and table props for offline games. Select only needed GLBs and their palette texture; keep edible props out of automatic snow shaders. Official pack page and downloaded 2.0 ZIP license inspected: CC0. Six selected food GLBs plus four further Nature Kit props passed glTF Validator with zero errors/warnings; local paths and exact hashes retained in Emberline. Scope is the selected subset, not an audit of all 200 models or a phone performance check. |
 
-The shared index now has 691 entries (459 general, 232 Windows). Earlier counts above describe their dated snapshots.
+At that snapshot, the shared index had 691 entries (459 general, 232 Windows). Earlier counts above describe their dated snapshots; consult the repository README for current totals.
 
 ## Project follow-up — 2026-10-23: DiffImg screenshot workbench
 
 [DiffImg Windows 2.6.0](https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.6.0) adds recursive folder comparison, saved profiles, global/per-file ignore rectangles, before/after slider and synchronized viewports, approximate change-region navigation, HTML/JSON/JUnit CI reports, failing-file navigation, scoped exports and RGB pixel inspection, and explicit baseline approval with verified backups/restore. Windows icon/version metadata and existing-certificate Authenticode packaging are included. Validation: 38 native cases, 54 CLI cases (31 image + 23 folder), 126 bounded malformed/mutated-image cases, application/bundled-code ASan, four GUI scales, unsigned EXE identity across independent directories, and exact signed ZIP checks on Windows Server 2022/2025. Self-signed certificates do not establish public Windows publisher trust. Recovery is per-file, not a filesystem-wide transaction; unrelated editors are not locked. Qwt DLLs remain build-path-dependent. No exhaustive codec/security or pristine consumer-VM claim. Earlier source/runtime milestones and stable WR IDs are preserved.
+
+
+## Further development expansion — 2026-10-23
+
+The [development expansion catalog](development-expansion-2026-10-23.md) adds 200 distinct resources across 18 existing categories with scoped primary-source checks. Its observations are dated separately; the historical research above is preserved.

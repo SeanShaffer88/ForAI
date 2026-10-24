@@ -9918,5 +9918,2005 @@
     "checked_on": "2026-10-23",
     "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
     "http_status": "200"
+  },
+  {
+    "name": "htmx",
+    "url": "https://github.com/bigskysoftware/htmx",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "HTML attributes for server-driven interactions; design accessible fallback behavior and server endpoints.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Alpine.js",
+    "url": "https://github.com/alpinejs/alpine",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Small reactive behaviors embedded in HTML; review content-security-policy requirements.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Lit",
+    "url": "https://github.com/lit/lit",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Build reusable web components; plan custom-element registration and browser support.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Solid",
+    "url": "https://github.com/solidjs/solid",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Fine-grained reactive web interfaces; assess framework-specific state and rendering patterns.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Qwik",
+    "url": "https://github.com/QwikDev/qwik",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Resumable web applications; the default branch identifies Qwik v2 as beta, with v1 on a separate branch. Select versioned docs and adapters.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Hono",
+    "url": "https://github.com/honojs/hono",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Web-standard TypeScript HTTP routing across runtimes; verify the chosen runtime adapter.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Fastify",
+    "url": "https://github.com/fastify/fastify",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Plugin-oriented Node.js HTTP services; the default branch documents v6, while v5 has a separate branch. Match plugins to the selected release.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "NestJS",
+    "url": "https://github.com/nestjs/nest",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Structured TypeScript server applications; assess dependency injection and framework overhead.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Radix Primitives",
+    "url": "https://github.com/radix-ui/primitives",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Unstyled React UI building blocks; validate accessibility in the finished composition.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Floating UI",
+    "url": "https://github.com/floating-ui/floating-ui",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Position tooltips, popovers and floating interfaces; keyboard and focus behavior still need design.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "fast-check",
+    "url": "https://github.com/dubzzz/fast-check",
+    "category": "Testing verification and performance",
+    "purpose": "Generate and shrink JavaScript/TypeScript property tests; retain seeds for reproducibility.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Mock Service Worker",
+    "url": "https://github.com/mswjs/msw",
+    "category": "Testing verification and performance",
+    "purpose": "Intercept network requests in browser and Node tests; keep mocks aligned with real contracts.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "tox",
+    "url": "https://github.com/tox-dev/tox",
+    "category": "Testing verification and performance",
+    "purpose": "Run Python checks across isolated environments; provision the required interpreter versions.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Nox",
+    "url": "https://github.com/wntrblm/nox",
+    "category": "Testing verification and performance",
+    "purpose": "Define Python test sessions as code; manage interpreter and dependency matrices explicitly.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "StrykerJS",
+    "url": "https://github.com/stryker-mutator/stryker-js",
+    "category": "Testing verification and performance",
+    "purpose": "Mutation testing for JavaScript and TypeScript; budget runtime and inspect equivalent mutants.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "mutmut",
+    "url": "https://github.com/boxed/mutmut",
+    "category": "Testing verification and performance",
+    "purpose": "Find Python test gaps through mutation; upstream requires WSL on Windows. Run against committed test code and inspect surviving mutations.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "jqwik",
+    "url": "https://github.com/jqwik-team/jqwik",
+    "category": "Testing verification and performance",
+    "purpose": "Property-based tests on the JUnit Platform. Upstream reports maintenance mode and an additional Anti-AI Usage Clause from v1.10; review those terms before use.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "TLA+ tools",
+    "url": "https://github.com/tlaplus/tlaplus",
+    "category": "Testing verification and performance",
+    "purpose": "Model concurrent protocols and check invariants; bounded models do not prove implementation correctness.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "cargo-nextest",
+    "url": "https://github.com/nextest-rs/nextest",
+    "category": "Testing verification and performance",
+    "purpose": "Run Rust test binaries with scheduling and retries; confirm differences from cargo test.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "proptest",
+    "url": "https://github.com/proptest-rs/proptest",
+    "category": "Testing verification and performance",
+    "purpose": "Property-based Rust tests with shrinking; persist regressions and constrain generators.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Ibis",
+    "url": "https://github.com/ibis-project/ibis",
+    "category": "Databases data access and analytics",
+    "purpose": "Portable Python expressions over analytic backends; check backend-specific operation support.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Apache DataFusion",
+    "url": "https://github.com/apache/datafusion",
+    "category": "Databases data access and analytics",
+    "purpose": "Embed a Rust query engine using Arrow; assess query coverage and memory management.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Dask",
+    "url": "https://github.com/dask/dask",
+    "category": "Databases data access and analytics",
+    "purpose": "Parallel Python arrays and dataframes; account for scheduler overhead and partition sizing.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "dlt",
+    "url": "https://github.com/dlt-hub/dlt",
+    "category": "Databases data access and analytics",
+    "purpose": "Python data ingestion with schema handling; inspect destination behavior and credential scopes.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Great Expectations",
+    "url": "https://github.com/fivetran/great_expectations",
+    "category": "Databases data access and analytics",
+    "purpose": "Define data expectations and validation reports; distinguish core tooling from hosted services.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Pandera",
+    "url": "https://github.com/unionai-oss/pandera",
+    "category": "Databases data access and analytics",
+    "purpose": "Validate dataframe schemas and properties; check the selected dataframe backend.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "dbt",
+    "url": "https://github.com/dbt-labs/dbt",
+    "category": "Databases data access and analytics",
+    "purpose": "Version and test SQL transformations; the renamed repository has Rust-based v2 on main and Python v1 on 1.latest. Check migration and adapter support.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "SQLFluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "category": "Databases data access and analytics",
+    "purpose": "Lint and format SQL; configure the correct dialect and templating engine.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Apache Flink",
+    "url": "https://github.com/apache/flink",
+    "category": "Databases data access and analytics",
+    "purpose": "Stateful stream and batch processing; plan checkpointing, state recovery and cluster operations.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Apache Beam",
+    "url": "https://github.com/apache/beam",
+    "category": "Databases data access and analytics",
+    "purpose": "Portable data pipelines; runner capabilities and deployment requirements differ.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Syft",
+    "url": "https://github.com/anchore/syft",
+    "category": "Security identity and supply chain",
+    "purpose": "Generate software bills of materials from images and filesystems; inspect package coverage.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Grype",
+    "url": "https://github.com/anchore/grype",
+    "category": "Security identity and supply chain",
+    "purpose": "Match discovered packages against vulnerability data; triage findings and refresh the database.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Checkov",
+    "url": "https://github.com/bridgecrewio/checkov",
+    "category": "Security identity and supply chain",
+    "purpose": "Static policy checks for infrastructure definitions; tune policies for the target environment.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "zizmor",
+    "url": "https://github.com/zizmorcore/zizmor",
+    "category": "Security identity and supply chain",
+    "purpose": "Audit GitHub Actions workflow security; inspect findings in the context of repository permissions.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "actionlint",
+    "url": "https://github.com/rhysd/actionlint",
+    "category": "Security identity and supply chain",
+    "purpose": "Check GitHub Actions workflow syntax and expressions; external action behavior still needs review.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "in-toto",
+    "url": "https://github.com/in-toto/in-toto",
+    "category": "Security identity and supply chain",
+    "purpose": "Record and verify software supply-chain steps; define trusted identities and verification policy.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "GUAC",
+    "url": "https://github.com/guacsec/guac",
+    "category": "Security identity and supply chain",
+    "purpose": "Connect software supply-chain metadata into a graph; ingestion quality affects conclusions.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "TruffleHog",
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "category": "Security identity and supply chain",
+    "purpose": "Detect exposed secrets in authorized sources; verification may contact external services.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Dependency-Track",
+    "url": "https://github.com/DependencyTrack/dependency-track",
+    "category": "Security identity and supply chain",
+    "purpose": "Track component risk from SBOMs; the README places v4 in maintenance mode with December 2026 end-of-life. Review v5 migration and versioned docs.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Kyverno",
+    "url": "https://github.com/kyverno/kyverno",
+    "category": "Security identity and supply chain",
+    "purpose": "Kubernetes admission and policy automation; test enforcement and failure behavior before rollout.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Argo CD",
+    "url": "https://github.com/argoproj/argo-cd",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "Reconcile Kubernetes applications from Git; protect repository credentials and synchronization policy.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Flux",
+    "url": "https://github.com/fluxcd/flux2",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "GitOps controllers for Kubernetes; plan bootstrap, secret handling and reconciliation ownership.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Kustomize",
+    "url": "https://github.com/kubernetes-sigs/kustomize",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "Compose Kubernetes configuration overlays; review generated manifests before applying them.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Talos Linux",
+    "url": "https://github.com/siderolabs/talos",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "API-managed operating system for Kubernetes nodes; validate hardware and recovery procedures.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Cilium",
+    "url": "https://github.com/cilium/cilium",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "Linux eBPF networking and policy for clusters; verify kernel and datapath requirements.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Linkerd",
+    "url": "https://github.com/linkerd/linkerd2",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "Kubernetes service mesh capabilities; distinguish project code from supported binary distributions.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "cert-manager",
+    "url": "https://github.com/cert-manager/cert-manager",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "Automate Kubernetes certificate issuance and renewal; configure issuer access and renewal monitoring.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Crossplane",
+    "url": "https://github.com/crossplane/crossplane",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "Manage infrastructure through Kubernetes APIs; review provider permissions and lifecycle policies.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "KEDA",
+    "url": "https://github.com/kedacore/keda",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "Scale Kubernetes workloads from event metrics; validate scaler authentication and queue semantics.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "HTTP serving and reverse proxying with certificate automation; review module trust and configuration.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "PouchDB",
+    "url": "https://github.com/apache/pouchdb",
+    "category": "Collaboration local state and rich text",
+    "purpose": "Client-side document storage and replication; the canonical repository is now Apache PouchDB in incubation. Design conflict handling explicitly.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "RxJS",
+    "url": "https://github.com/ReactiveX/rxjs",
+    "category": "Collaboration local state and rich text",
+    "purpose": "Compose asynchronous event streams; the default branch describes prerelease RxJS 9 work. Use documentation matching the released package you select.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Zustand",
+    "url": "https://github.com/pmndrs/zustand",
+    "category": "Collaboration local state and rich text",
+    "purpose": "Small application state stores for React and other consumers; isolate server-side state per request.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Jotai",
+    "url": "https://github.com/pmndrs/jotai",
+    "category": "Collaboration local state and rich text",
+    "purpose": "Atomic React state management; design atom lifetimes and async dependencies.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Valtio",
+    "url": "https://github.com/pmndrs/valtio",
+    "category": "Collaboration local state and rich text",
+    "purpose": "Proxy-based JavaScript state with React integration; understand snapshots and mutation boundaries.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "XState",
+    "url": "https://github.com/statelyai/xstate",
+    "category": "Collaboration local state and rich text",
+    "purpose": "Model application behavior with state machines and actors; test transitions and persistence.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Immer",
+    "url": "https://github.com/immerjs/immer",
+    "category": "Collaboration local state and rich text",
+    "purpose": "Produce immutable updates using mutation-style recipes; understand draft and freezing semantics.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "localForage",
+    "url": "https://github.com/localForage/localForage",
+    "category": "Collaboration local state and rich text",
+    "purpose": "Asynchronous browser storage abstraction; account for quotas, eviction and supported value types. GitHub reports its last push as 2024-07-30; maintenance responsiveness was not established.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Electric",
+    "url": "https://github.com/electric-sql/electric",
+    "category": "Collaboration local state and rich text",
+    "purpose": "Synchronize PostgreSQL data into applications; design authorization and client write paths.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Y-Sweet",
+    "url": "https://github.com/jamsocket/y-sweet",
+    "category": "Collaboration local state and rich text",
+    "purpose": "Host synchronization for Yjs documents; plan authentication, persistence and deployment operations.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Pa11y",
+    "url": "https://github.com/pa11y/pa11y",
+    "category": "Accessibility internationalization and documentation",
+    "purpose": "Automate web accessibility checks; supplement machine findings with manual interaction testing.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Accessibility Insights for Web",
+    "url": "https://github.com/microsoft/accessibility-insights-web",
+    "category": "Accessibility internationalization and documentation",
+    "purpose": "Browser-based accessibility assessment tools; manual checks remain part of the workflow.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Lighthouse",
+    "url": "https://github.com/GoogleChrome/lighthouse",
+    "category": "Accessibility internationalization and documentation",
+    "purpose": "Audit web performance and quality; control test conditions and inspect individual findings.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "FormatJS",
+    "url": "https://github.com/formatjs/formatjs",
+    "category": "Accessibility internationalization and documentation",
+    "purpose": "Internationalize JavaScript messages; the inspected intl package license is MIT. Confirm licenses for the exact packages and maintain locale extraction.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Fluent.js",
+    "url": "https://github.com/projectfluent/fluent.js",
+    "category": "Accessibility internationalization and documentation",
+    "purpose": "JavaScript implementation of Fluent localization; review message fallback and translator workflows.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Lingui",
+    "url": "https://github.com/lingui/js-lingui",
+    "category": "Accessibility internationalization and documentation",
+    "purpose": "Application message extraction and translation tooling; integrate locale loading and build steps.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "TypeDoc",
+    "url": "https://github.com/TypeStrong/typedoc",
+    "category": "Accessibility internationalization and documentation",
+    "purpose": "Generate API documentation from TypeScript; configure public API boundaries.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "VitePress",
+    "url": "https://github.com/vuejs/vitepress",
+    "category": "Accessibility internationalization and documentation",
+    "purpose": "Build documentation sites with Vite and Vue; check hosting paths and search integration.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Starlight",
+    "url": "https://github.com/withastro/starlight",
+    "category": "Accessibility internationalization and documentation",
+    "purpose": "Astro documentation framework; customize navigation and verify accessibility after changes.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Vale",
+    "url": "https://github.com/vale-cli/vale",
+    "category": "Accessibility internationalization and documentation",
+    "purpose": "Lint prose against configurable style rules; curate rules to avoid noisy feedback.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Pandoc",
+    "url": "https://github.com/jgm/pandoc",
+    "category": "Documents OCR and file formats",
+    "purpose": "Convert documents among markup and publishing formats; complex layouts need output inspection.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "qpdf",
+    "url": "https://github.com/qpdf/qpdf",
+    "category": "Documents OCR and file formats",
+    "purpose": "Inspect and transform PDF structure; structural processing does not render or OCR pages.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "pdfcpu",
+    "url": "https://github.com/pdfcpu/pdfcpu",
+    "category": "Documents OCR and file formats",
+    "purpose": "Go-based PDF inspection and manipulation; validate output against representative files.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "PDF.js",
+    "url": "https://github.com/mozilla/pdf.js",
+    "category": "Documents OCR and file formats",
+    "purpose": "Render PDFs in web applications; keep the viewer patched and isolate untrusted documents.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Mammoth.js",
+    "url": "https://github.com/mwilliamson/mammoth.js",
+    "category": "Documents OCR and file formats",
+    "purpose": "Convert DOCX semantic content into HTML; sanitize output and expect layout differences.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Sharp",
+    "url": "https://github.com/lovell/sharp",
+    "category": "Documents OCR and file formats",
+    "purpose": "Resize and transform images in Node.js; check native binary support and codec availability.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "ImageMagick",
+    "url": "https://github.com/ImageMagick/ImageMagick",
+    "category": "Documents OCR and file formats",
+    "purpose": "Command-line and library image transformations; configure resource limits and security policy.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "ExifTool",
+    "url": "https://github.com/exiftool/exiftool",
+    "category": "Documents OCR and file formats",
+    "purpose": "Inspect and edit file metadata; preserve originals and confirm format-specific write support.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Gotenberg",
+    "url": "https://github.com/gotenberg/gotenberg",
+    "category": "Documents OCR and file formats",
+    "purpose": "Containerized document-to-PDF conversion API; sandbox inputs and plan browser resources.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "unified",
+    "url": "https://github.com/unifiedjs/unified",
+    "category": "Documents OCR and file formats",
+    "purpose": "Compose syntax-tree processing pipelines; select parsers and sanitizers for each content format.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "fd",
+    "url": "https://github.com/sharkdp/fd",
+    "category": "Language tooling and repository automation",
+    "purpose": "Find filesystem paths with convenient filtering; account for hidden and ignored-file defaults.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "fzf",
+    "url": "https://github.com/junegunn/fzf",
+    "category": "Language tooling and repository automation",
+    "purpose": "Interactive fuzzy selection for terminal workflows; inspect commands bound to selected input.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "bat",
+    "url": "https://github.com/sharkdp/bat",
+    "category": "Language tooling and repository automation",
+    "purpose": "Inspect source with syntax highlighting and Git context; configure paging for automation.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "eza",
+    "url": "https://github.com/eza-community/eza",
+    "category": "Language tooling and repository automation",
+    "purpose": "Explore filesystem listings with extra metadata; verify support on the intended platform.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "delta",
+    "url": "https://github.com/dandavison/delta",
+    "category": "Language tooling and repository automation",
+    "purpose": "Improve terminal diff presentation; preserve raw patches for programmatic processing.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Watchexec",
+    "url": "https://github.com/watchexec/watchexec",
+    "category": "Language tooling and repository automation",
+    "purpose": "Run commands when files change; control watch scope and restart behavior.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "entr",
+    "url": "https://github.com/eradman/entr",
+    "category": "Language tooling and repository automation",
+    "purpose": "Trigger commands from changed files on Unix-like systems; use alternatives where native support is absent.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Task",
+    "url": "https://github.com/go-task/task",
+    "category": "Language tooling and repository automation",
+    "purpose": "Define repeatable tasks in YAML; verify shell behavior across target platforms.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Hyperfine",
+    "url": "https://github.com/sharkdp/hyperfine",
+    "category": "Language tooling and repository automation",
+    "purpose": "Benchmark command-line programs statistically; control warmup, caches and background load.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "git-cliff",
+    "url": "https://github.com/orhun/git-cliff",
+    "category": "Language tooling and repository automation",
+    "purpose": "Generate changelogs from Git history; configure grouping and release boundaries.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "category": "Game creation assets and automation",
+    "purpose": "Build games with Rust and an entity-component-system architecture; track API migration requirements.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Defold",
+    "url": "https://github.com/defold/defold",
+    "category": "Game creation assets and automation",
+    "purpose": "Develop and export games with Lua scripting; review the custom license and target-platform requirements.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Phaser",
+    "url": "https://github.com/phaserjs/phaser",
+    "category": "Game creation assets and automation",
+    "purpose": "Create browser games with JavaScript or TypeScript; test rendering and input on target devices.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "PixiJS",
+    "url": "https://github.com/pixijs/pixijs",
+    "category": "Game creation assets and automation",
+    "purpose": "Render interactive 2D graphics in browsers; choose compatible rendering backends and asset pipelines.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Babylon.js",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "category": "Game creation assets and automation",
+    "purpose": "Build browser 3D scenes and applications; measure GPU capabilities and asset loading.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Rapier",
+    "url": "https://github.com/dimforge/rapier",
+    "category": "Game creation assets and automation",
+    "purpose": "Integrate Rust-based 2D or 3D rigid-body physics; validate bindings and simulation settings.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Jolt Physics",
+    "url": "https://github.com/jrouwe/JoltPhysics",
+    "category": "Game creation assets and automation",
+    "purpose": "C++ rigid-body simulation for games; verify compiler, CPU features and integration model.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Box2D",
+    "url": "https://github.com/erincatto/box2d",
+    "category": "Game creation assets and automation",
+    "purpose": "Simulate 2D rigid bodies; review current API generation and numerical assumptions.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "category": "Game creation assets and automation",
+    "purpose": "Build graphics and games with a compact C API; confirm backend and platform build dependencies.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Flecs",
+    "url": "https://github.com/SanderMertens/flecs",
+    "category": "Game creation assets and automation",
+    "purpose": "Add an entity-component system to C or C++ applications; plan data ownership and scheduling.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Spectre.Console",
+    "url": "https://github.com/spectreconsole/spectre.console",
+    "category": ".NET application building blocks",
+    "purpose": "Build rich .NET terminal interfaces; provide plain output modes for redirected streams.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "CliWrap",
+    "url": "https://github.com/Tyrrrz/CliWrap",
+    "category": ".NET application building blocks",
+    "purpose": "Launch and pipe child processes from .NET; the README states additional political terms of use alongside the MIT license. Review terms and cancellation behavior.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Verify",
+    "url": "https://github.com/VerifyTests/Verify",
+    "category": ".NET application building blocks",
+    "purpose": "Snapshot testing for .NET; upstream describes a maintenance-fee policy for official binaries released after September 1, 2026, separate from MIT source licensing.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Bogus",
+    "url": "https://github.com/bchavez/Bogus",
+    "category": ".NET application building blocks",
+    "purpose": "Generate synthetic .NET test data; seed generation and avoid treating fake data as anonymization.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "AutoFixture",
+    "url": "https://github.com/AutoFixture/AutoFixture",
+    "category": ".NET application building blocks",
+    "purpose": "Create .NET test objects automatically; customize meaningful domain constraints.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "NSubstitute",
+    "url": "https://github.com/nsubstitute/NSubstitute",
+    "category": ".NET application building blocks",
+    "purpose": "Create .NET test substitutes; keep assertions focused on observable behavior.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Shouldly",
+    "url": "https://github.com/shouldly/shouldly",
+    "category": ".NET application building blocks",
+    "purpose": "Readable .NET assertions and failure messages; confirm supported test runtimes.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "RecyclableMemoryStream",
+    "url": "https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream",
+    "category": ".NET application building blocks",
+    "purpose": "Pool .NET stream buffers to reduce allocation pressure; dispose streams and set memory limits.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Sprache",
+    "url": "https://github.com/sprache/Sprache",
+    "category": ".NET application building blocks",
+    "purpose": "Compose small parsers in C#; assess grammar complexity and error-reporting requirements. GitHub reports its last push as 2024-04-18; maintenance responsiveness was not established.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Superpower",
+    "url": "https://github.com/datalust/superpower",
+    "category": ".NET application building blocks",
+    "purpose": "Build C# parsers with tokenization and diagnostics; design token and grammar rules explicitly.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "attrs",
+    "url": "https://github.com/python-attrs/attrs",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Define Python data classes with validation and conversion; distinguish runtime validation from typing.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "cattrs",
+    "url": "https://github.com/python-attrs/cattrs",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Convert Python objects to and from structured data; configure hooks for domain types.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Pendulum",
+    "url": "https://github.com/python-pendulum/pendulum",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Work with Python dates, durations and time zones; test daylight-saving transitions.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "python-dateutil",
+    "url": "https://github.com/dateutil/dateutil",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Extend Python date parsing and recurrence handling; avoid ambiguous input formats.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "python-dotenv",
+    "url": "https://github.com/theskumar/python-dotenv",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Load development environment settings from files; keep secrets out of version control.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "platformdirs",
+    "url": "https://github.com/tox-dev/platformdirs",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Resolve platform-appropriate application directories; validate packaging and service-account behavior.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "watchfiles",
+    "url": "https://github.com/samuelcolvin/watchfiles",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Watch filesystem changes from Python using a Rust backend; control scope and debounce behavior.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "DiskCache",
+    "url": "https://github.com/grantjenks/python-diskcache",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Use disk-backed Python caching; define eviction, contention and cache invalidation behavior. GitHub reports its last push as 2024-08-10; maintenance responsiveness was not established.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "joblib",
+    "url": "https://github.com/joblib/joblib",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Cache computations and parallelize Python work; never load serialized objects from untrusted sources.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Loguru",
+    "url": "https://github.com/Delgan/loguru",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Configure Python application logging; review sensitive-data filtering and multiprocess behavior.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "anyhow",
+    "url": "https://github.com/dtolnay/anyhow",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Propagate contextual errors in Rust applications; retain typed errors where callers need recovery.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "thiserror",
+    "url": "https://github.com/dtolnay/thiserror",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Derive structured Rust error implementations; design stable public error contracts.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "bytes",
+    "url": "https://github.com/tokio-rs/bytes",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Manage byte buffers for Rust networking; understand ownership and shared-buffer retention.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "DashMap",
+    "url": "https://github.com/xacrimon/dashmap",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Concurrent Rust maps with familiar operations; avoid holding guards across conflicting accesses.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "SQLx",
+    "url": "https://github.com/transact-rs/sqlx",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Async Rust database access with checked-query tooling; match database features and runtime integration.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "SeaORM",
+    "url": "https://github.com/SeaQL/sea-orm",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Async Rust relational data access; inspect generated queries and migration strategy.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "chi",
+    "url": "https://github.com/go-chi/chi",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Compose Go HTTP routing and middleware; preserve request context and timeout handling.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Echo",
+    "url": "https://github.com/labstack/echo",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Build Go HTTP applications with routing and middleware; review middleware order and trusted proxies.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "zerolog",
+    "url": "https://github.com/rs/zerolog",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Structured Go logging with low-allocation APIs; design log schema and sensitive-data handling.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Zap",
+    "url": "https://github.com/uber-go/zap",
+    "category": "Python Rust and Go building blocks",
+    "purpose": "Structured Go logging with typed fields; manage sampling and shutdown flushing.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "category": "API contracts clients and networking",
+    "purpose": "Inspect and script HTTP traffic in authorized environments; manage interception certificates carefully.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "grpcurl",
+    "url": "https://github.com/fullstorydev/grpcurl",
+    "category": "API contracts clients and networking",
+    "purpose": "Call gRPC endpoints from the command line; provide reflection or matching descriptors.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Hurl",
+    "url": "https://github.com/Orange-OpenSource/hurl",
+    "category": "API contracts clients and networking",
+    "purpose": "Write text-based HTTP request and response checks; isolate credentials and mutable test data.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Vegeta",
+    "url": "https://github.com/tsenart/vegeta",
+    "category": "API contracts clients and networking",
+    "purpose": "Generate HTTP loads and analyze results; control rate and use authorized test targets.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "oha",
+    "url": "https://github.com/hatoo/oha",
+    "category": "API contracts clients and networking",
+    "purpose": "Benchmark HTTP services from the terminal; choose realistic concurrency and request patterns.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "HTTPie CLI",
+    "url": "https://github.com/httpie/cli",
+    "category": "API contracts clients and networking",
+    "purpose": "Explore HTTP APIs from the terminal; protect authentication data and saved sessions. GitHub reports its last push as 2024-12-17; maintenance responsiveness was not established.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "step CLI",
+    "url": "https://github.com/smallstep/cli",
+    "category": "Security identity and supply chain",
+    "purpose": "Inspect certificates and work with PKI workflows; configure trust roots and key storage deliberately.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "OAuth2 Proxy",
+    "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "category": "Security identity and supply chain",
+    "purpose": "Add identity-provider authentication in front of web services; validate proxy trust and cookie settings.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Ory Kratos",
+    "url": "https://github.com/ory/kratos",
+    "category": "Security identity and supply chain",
+    "purpose": "Operate application identity and user-management flows; deployment still needs secure session configuration.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Casbin",
+    "url": "https://github.com/apache/casbin",
+    "category": "Security identity and supply chain",
+    "purpose": "Embed authorization policy evaluation; model tenant boundaries and test permission rules.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Apache Avro",
+    "url": "https://github.com/apache/avro",
+    "category": "Documents OCR and file formats",
+    "purpose": "Define and exchange schema-based data; plan reader-writer schema compatibility.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "MessagePack for C/C++",
+    "url": "https://github.com/msgpack/msgpack-c",
+    "category": "Documents OCR and file formats",
+    "purpose": "Encode compact binary data for native applications; define schema and cross-language conventions.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "FlatBuffers",
+    "url": "https://github.com/google/flatbuffers",
+    "category": "Documents OCR and file formats",
+    "purpose": "Generate efficient binary data access code; manage schema evolution and generated-code versions.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Cap'n Proto",
+    "url": "https://github.com/capnproto/capnproto",
+    "category": "Documents OCR and file formats",
+    "purpose": "Structured serialization and RPC; the fetched README identifies a breaking v2 development branch. Use the stable branch or release for production evaluation.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "simdjson",
+    "url": "https://github.com/simdjson/simdjson",
+    "category": "Documents OCR and file formats",
+    "purpose": "Parse JSON efficiently in C++; check CPU dispatch and input lifetime requirements.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Sonic",
+    "url": "https://github.com/bytedance/sonic",
+    "category": "Documents OCR and file formats",
+    "purpose": "Encode and decode JSON in Go; verify architecture and Go-version support.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "yyjson",
+    "url": "https://github.com/ibireme/yyjson",
+    "category": "Documents OCR and file formats",
+    "purpose": "Parse and write JSON in C; validate ownership and parser option choices.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "simdutf",
+    "url": "https://github.com/simdutf/simdutf",
+    "category": "Documents OCR and file formats",
+    "purpose": "Validate and convert Unicode text efficiently; distinguish encoding validity from text normalization.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "fast_float",
+    "url": "https://github.com/fastfloat/fast_float",
+    "category": "Documents OCR and file formats",
+    "purpose": "Parse floating-point numbers in C++; test accepted formats and edge cases.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "RE2",
+    "url": "https://github.com/google/re2",
+    "category": "Documents OCR and file formats",
+    "purpose": "Match regular expressions with bounded resource behavior; adapt patterns that use unsupported features.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Pants",
+    "url": "https://github.com/pantsbuild/pants",
+    "category": "Builds packages and environments",
+    "purpose": "Coordinate builds and tests in multi-language repositories; adopt incrementally around supported backends.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Buck2",
+    "url": "https://github.com/facebook/buck2",
+    "category": "Builds packages and environments",
+    "purpose": "Build large dependency graphs with caching; plan toolchains and build-rule ownership.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Please",
+    "url": "https://github.com/thought-machine/please",
+    "category": "Builds packages and environments",
+    "purpose": "Reproducible multi-language builds; upstream lists Linux, macOS and FreeBSD as actively supported. Verify other platforms before adoption.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Xmake",
+    "url": "https://github.com/xmake-io/xmake",
+    "category": "Builds packages and environments",
+    "purpose": "Configure native builds using Lua; inspect toolchain and package integration.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "ccache",
+    "url": "https://github.com/ccache/ccache",
+    "category": "Builds packages and environments",
+    "purpose": "Cache C and C++ compilation results; configure cache keys and shared-storage trust.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "mold",
+    "url": "https://github.com/rui314/mold",
+    "category": "Builds packages and environments",
+    "purpose": "Accelerate native linking on supported platforms; verify linker compatibility and deployment licenses.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "category": "Builds packages and environments",
+    "purpose": "Bundle and transform JavaScript and TypeScript quickly; run type checking separately.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "SWC",
+    "url": "https://github.com/swc-project/swc",
+    "category": "Builds packages and environments",
+    "purpose": "Compile and transform JavaScript/TypeScript with Rust tooling; verify plugin and syntax compatibility.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Oxc",
+    "url": "https://github.com/oxc-project/oxc",
+    "category": "Builds packages and environments",
+    "purpose": "Rust-based JavaScript tooling components; evaluate individual parser, lint and transform maturity.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Biome",
+    "url": "https://github.com/biomejs/biome",
+    "category": "Builds packages and environments",
+    "purpose": "Format and lint web code with unified tooling; check language and rule coverage before migration.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "OpenObserve",
+    "url": "https://github.com/openobserve/openobserve",
+    "category": "Observability debugging and operations",
+    "purpose": "Store and query operational telemetry; review resource sizing and edition licensing.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "VictoriaMetrics",
+    "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "category": "Observability debugging and operations",
+    "purpose": "Store and query time-series metrics; compare single-node, cluster and enterprise capabilities.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Pyroscope",
+    "url": "https://github.com/grafana/pyroscope",
+    "category": "Observability debugging and operations",
+    "purpose": "Collect and explore continuous profiles; account for language-agent support and sampling overhead.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Tempo",
+    "url": "https://github.com/grafana/tempo",
+    "category": "Observability debugging and operations",
+    "purpose": "Store distributed traces; plan object storage and telemetry ingestion limits.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Parca",
+    "url": "https://github.com/parca-dev/parca",
+    "category": "Observability debugging and operations",
+    "purpose": "Profile workloads continuously; confirm platform and symbolization support.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "bpftrace",
+    "url": "https://github.com/bpftrace/bpftrace",
+    "category": "Observability debugging and operations",
+    "purpose": "Trace Linux behavior with eBPF scripts; validate kernel features and required privileges.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Pixie",
+    "url": "https://github.com/pixie-io/pixie",
+    "category": "Observability debugging and operations",
+    "purpose": "Observe Kubernetes workloads through automatic instrumentation; assess eBPF and cluster requirements.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Glances",
+    "url": "https://github.com/nicolargo/glances",
+    "category": "Observability debugging and operations",
+    "purpose": "Inspect host and container metrics; configure authentication for exposed monitoring endpoints.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "bottom",
+    "url": "https://github.com/ClementTsang/bottom",
+    "category": "Observability debugging and operations",
+    "purpose": "View system utilization in a terminal; compare per-platform metric availability.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "bandwhich",
+    "url": "https://github.com/imsnif/bandwhich",
+    "category": "Observability debugging and operations",
+    "purpose": "Attribute network bandwidth to local processes; inspect operating-system and privilege requirements.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "category": "Search messaging and durable work",
+    "purpose": "Orchestrate Python workflows with retries and scheduling; distinguish local operation from hosted services.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "category": "Search messaging and durable work",
+    "purpose": "Model and operate data pipelines as assets; plan metadata storage and deployment.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Apache Airflow",
+    "url": "https://github.com/apache/airflow",
+    "category": "Search messaging and durable work",
+    "purpose": "Schedule dependency-based workflows; Windows use is through WSL2 or Linux containers per upstream. Design idempotent tasks and operate the scheduler.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Kestra",
+    "url": "https://github.com/kestra-io/kestra",
+    "category": "Search messaging and durable work",
+    "purpose": "Define event-driven workflows with declarative configuration; review plugin and edition requirements.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Windmill",
+    "url": "https://github.com/windmill-labs/windmill",
+    "category": "Search messaging and durable work",
+    "purpose": "Turn scripts into jobs and workflows; licensing mixes AGPL, Apache and proprietary components, and distributed Community Edition binaries have additional terms.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Hatchet",
+    "url": "https://github.com/hatchet-dev/hatchet",
+    "category": "Search messaging and durable work",
+    "purpose": "Run background tasks with durable orchestration; verify worker behavior and failure recovery.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Inngest",
+    "url": "https://github.com/inngest/inngest",
+    "category": "Search messaging and durable work",
+    "purpose": "Event-driven durable functions; the server license includes SSPL-1.0 and an Apache future-license notice. Review server, SDK and hosted-service terms separately.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Trigger.dev",
+    "url": "https://github.com/triggerdotdev/trigger.dev",
+    "category": "Search messaging and durable work",
+    "purpose": "Run background tasks from application code; evaluate worker deployment and resource limits.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Argo Workflows",
+    "url": "https://github.com/argoproj/argo-workflows",
+    "category": "Search messaging and durable work",
+    "purpose": "Execute container workflows on Kubernetes; define artifact storage and service-account permissions.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Luigi",
+    "url": "https://github.com/spotify/luigi",
+    "category": "Search messaging and durable work",
+    "purpose": "Build dependency-based batch pipelines in Python; design task completeness and idempotency.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "SeaweedFS",
+    "url": "https://github.com/seaweedfs/seaweedfs",
+    "category": "Backup storage transfer and resilience",
+    "purpose": "Operate distributed file and object storage; test replication, consistency and recovery needs.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "JuiceFS",
+    "url": "https://github.com/juicedata/juicefs",
+    "category": "Backup storage transfer and resilience",
+    "purpose": "Provide a filesystem backed by object storage; plan metadata services and cache behavior.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Rook",
+    "url": "https://github.com/rook/rook",
+    "category": "Backup storage transfer and resilience",
+    "purpose": "Operate storage systems through Kubernetes operators; understand the underlying storage engine.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Longhorn",
+    "url": "https://github.com/longhorn/longhorn",
+    "category": "Backup storage transfer and resilience",
+    "purpose": "Provide replicated Kubernetes block storage; validate disk, network and recovery requirements.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Velero",
+    "url": "https://github.com/velero-io/velero",
+    "category": "Backup storage transfer and resilience",
+    "purpose": "Back up and restore Kubernetes resources and volumes; test application-consistent recovery.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "BorgBackup",
+    "url": "https://github.com/borgbackup/borg",
+    "category": "Backup storage transfer and resilience",
+    "purpose": "Deduplicated encrypted backups; the default-branch README warns that Borg2 is unstable beta and unsuitable for production backups. Select stable versioned releases and test restores.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "borgmatic",
+    "url": "https://projects.torsion.org/borgmatic-collective/borgmatic",
+    "category": "Backup storage transfer and resilience",
+    "purpose": "Configure and automate Borg backups; use the primary Forgejo source. GitHub is an upstream-declared read-only mirror; review hooks and database consistency.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Duplicati",
+    "url": "https://github.com/duplicati/duplicati",
+    "category": "Backup storage transfer and resilience",
+    "purpose": "Encrypted remote backups; core source is MIT with proprietary-directory exceptions. Review bundled components and test restoration and retention.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "category": "Backup storage transfer and resilience",
+    "purpose": "Synchronize files between devices; synchronization needs a separate deletion and backup policy.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "bup",
+    "url": "https://github.com/bup/bup",
+    "category": "Backup storage transfer and resilience",
+    "purpose": "Store incremental backups using content-addressed structures; verify platform and restore tooling.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "MapLibre GL JS",
+    "url": "https://github.com/maplibre/maplibre-gl-js",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Render vector maps in browsers; obtain tiles and data under suitable terms.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "MapLibre Native",
+    "url": "https://github.com/maplibre/maplibre-native",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Embed map rendering in native applications; verify platform bindings and tile licensing.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "OpenLayers",
+    "url": "https://github.com/openlayers/openlayers",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Build browser mapping applications with multiple data sources; manage projections and attribution.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Create interactive browser maps; evaluate plugins, tile providers and accessibility.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "deck.gl",
+    "url": "https://github.com/visgl/deck.gl",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Render large geospatial datasets with GPU layers; budget browser memory and GPU capabilities.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "CesiumJS",
+    "url": "https://github.com/CesiumGS/cesium",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Visualize globes and 3D geospatial scenes; distinguish engine licensing from hosted content services.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "TiTiler",
+    "url": "https://github.com/developmentseed/titiler",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Serve raster tiles through Python web APIs; control remote-data access and caching.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Shapely",
+    "url": "https://github.com/shapely/shapely",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Analyze planar geometries in Python; understand coordinate-system and GEOS requirements.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "GeoPandas",
+    "url": "https://github.com/geopandas/geopandas",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Work with geospatial dataframes; choose coordinate reference systems and compatible native dependencies.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license based on metadata and any README caveats; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
+  },
+  {
+    "name": "Rasterio",
+    "url": "https://github.com/rasterio/rasterio",
+    "category": "Graphics multimedia scientific and geospatial",
+    "purpose": "Read and write geospatial rasters in Python; inspect GDAL drivers and binary compatibility. Repository license text uses BSD-style redistribution terms.",
+    "source": "development-expansion-2026-10-23",
+    "checked_on": "2026-10-23",
+    "review": "GitHub metadata and README excerpt inspected; license excerpt inspected; not a build, security or adoption audit; evidence: docs/development-expansion-2026-10-23-checks.json",
+    "http_status": "200"
   }
 ]

@@ -32,3 +32,20 @@ Checked 2026-10-22 for Emberline asset production and future game projects. Repo
 | Resource | Useful for / constraints |
 |---|---|
 | [Kenney Food Kit](https://kenney.nl/assets/food-kit) | Small stylized food, cookware and table props for offline games. Select only needed GLBs and their palette texture; keep edible props out of automatic snow shaders. Official pack page and downloaded 2.0 ZIP license inspected: CC0. Six selected food GLBs plus four further Nature Kit props passed glTF Validator with zero errors/warnings; local paths and exact hashes retained in Emberline. Scope is the selected subset, not an audit of all 200 models or a phone performance check. |
+
+## Expansion — 2026-10-23
+
+Scoped metadata and README checks. See the [full expansion and evidence limits](../catalogs/development-expansion-2026-10-23.md); licensing notes and source identifiers are recorded there.
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Bevy](https://github.com/bevyengine/bevy) | Build games with Rust and an entity-component-system architecture; track API migration requirements. |
+| [Defold](https://github.com/defold/defold) | Develop and export games with Lua scripting; review the custom license and target-platform requirements. |
+| [Phaser](https://github.com/phaserjs/phaser) | Create browser games with JavaScript or TypeScript; test rendering and input on target devices. |
+| [PixiJS](https://github.com/pixijs/pixijs) | Render interactive 2D graphics in browsers; choose compatible rendering backends and asset pipelines. |
+| [Babylon.js](https://github.com/BabylonJS/Babylon.js) | Build browser 3D scenes and applications; measure GPU capabilities and asset loading. |
+| [Rapier](https://github.com/dimforge/rapier) | Integrate Rust-based 2D or 3D rigid-body physics; validate bindings and simulation settings. |
+| [Jolt Physics](https://github.com/jrouwe/JoltPhysics) | C++ rigid-body simulation for games; verify compiler, CPU features and integration model. |
+| [Box2D](https://github.com/erincatto/box2d) | Simulate 2D rigid bodies; review current API generation and numerical assumptions. |
+| [raylib](https://github.com/raysan5/raylib) | Build graphics and games with a compact C API; confirm backend and platform build dependencies. |
+| [Flecs](https://github.com/SanderMertens/flecs) | Add an entity-component system to C or C++ applications; plan data ownership and scheduling. |

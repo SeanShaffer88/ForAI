@@ -2,7 +2,7 @@
 
 > A project-aware resource library for developers and their AI assistants: repositories, SDKs, APIs, libraries, toolchains, MCP servers, and tools, organized by purpose. This file is the machine-readable index; the knowledge lives at the linked primary sources — verify there before relying on any entry.
 
-992 catalog entries · 988 distinct URLs · 89 purpose-based categories.
+1192 catalog entries · 1188 distinct URLs · 89 purpose-based categories.
 
 ## Start here
 
@@ -17,7 +17,7 @@
 
 ## Categories
 
-- [.NET application building blocks](categories/net-application-building-blocks.md) (9)
+- [.NET application building blocks](categories/net-application-building-blocks.md) (19)
 - [AI MCP servers and tool use](categories/ai-mcp-servers-and-tool-use.md) (39)
 - [AI agent frameworks and orchestration](categories/ai-agent-frameworks-and-orchestration.md) (34)
 - [AI agent memory and context](categories/ai-agent-memory-and-context.md) (6)
@@ -31,33 +31,33 @@
 - [AI prompt and context engineering](categories/ai-prompt-and-context-engineering.md) (14)
 - [AI retrieval and vector search](categories/ai-retrieval-and-vector-search.md) (28)
 - [AI speech voice and realtime](categories/ai-speech-voice-and-realtime.md) (8)
-- [API contracts clients and networking](categories/api-contracts-clients-and-networking.md) (17)
-- [Accessibility internationalization and documentation](categories/accessibility-internationalization-and-documentation.md) (8)
+- [API contracts clients and networking](categories/api-contracts-clients-and-networking.md) (23)
+- [Accessibility internationalization and documentation](categories/accessibility-internationalization-and-documentation.md) (18)
 - [Android APK development and analysis](categories/android-apk-development-and-analysis.md) (56)
-- [Backup storage transfer and resilience](categories/backup-storage-transfer-and-resilience.md) (8)
-- [Builds packages and environments](categories/builds-packages-and-environments.md) (19)
+- [Backup storage transfer and resilience](categories/backup-storage-transfer-and-resilience.md) (18)
+- [Builds packages and environments](categories/builds-packages-and-environments.md) (29)
 - [CI version control and releases](categories/ci-version-control-and-releases.md) (13)
-- [Cloud infrastructure and deployment](categories/cloud-infrastructure-and-deployment.md) (20)
-- [Collaboration local state and rich text](categories/collaboration-local-state-and-rich-text.md) (9)
-- [Databases data access and analytics](categories/databases-data-access-and-analytics.md) (17)
+- [Cloud infrastructure and deployment](categories/cloud-infrastructure-and-deployment.md) (30)
+- [Collaboration local state and rich text](categories/collaboration-local-state-and-rich-text.md) (19)
+- [Databases data access and analytics](categories/databases-data-access-and-analytics.md) (27)
 - [Desktop mobile and device SDKs](categories/desktop-mobile-and-device-sdks.md) (14)
-- [Documents OCR and file formats](categories/documents-ocr-and-file-formats.md) (13)
+- [Documents OCR and file formats](categories/documents-ocr-and-file-formats.md) (33)
 - [Feature flags configuration and secrets](categories/feature-flags-configuration-and-secrets.md) (9)
-- [Game creation assets and automation](categories/game-creation-assets-and-automation.md) (21)
-- [Graphics multimedia scientific and geospatial](categories/graphics-multimedia-scientific-and-geospatial.md) (17)
+- [Game creation assets and automation](categories/game-creation-assets-and-automation.md) (31)
+- [Graphics multimedia scientific and geospatial](categories/graphics-multimedia-scientific-and-geospatial.md) (27)
 - [Integration APIs and business SDKs](categories/integration-apis-and-business-sdks.md) (16)
-- [Language tooling and repository automation](categories/language-tooling-and-repository-automation.md) (12)
+- [Language tooling and repository automation](categories/language-tooling-and-repository-automation.md) (22)
 - [Languages and runtimes](categories/languages-and-runtimes.md) (31)
-- [Observability debugging and operations](categories/observability-debugging-and-operations.md) (19)
+- [Observability debugging and operations](categories/observability-debugging-and-operations.md) (29)
 - [Optimization scheduling and operational tooling](categories/optimization-scheduling-and-operational-tooling.md) (10)
 - [Platform SDKs and Windows](categories/platform-sdks-and-windows.md) (15)
 - [Public data research and location APIs](categories/public-data-research-and-location-apis.md) (14)
-- [Python Rust and Go building blocks](categories/python-rust-and-go-building-blocks.md) (19)
-- [Search messaging and durable work](categories/search-messaging-and-durable-work.md) (12)
-- [Security identity and supply chain](categories/security-identity-and-supply-chain.md) (19)
+- [Python Rust and Go building blocks](categories/python-rust-and-go-building-blocks.md) (39)
+- [Search messaging and durable work](categories/search-messaging-and-durable-work.md) (22)
+- [Security identity and supply chain](categories/security-identity-and-supply-chain.md) (33)
 - [Standards and discovery](categories/standards-and-discovery.md) (6)
-- [Testing verification and performance](categories/testing-verification-and-performance.md) (19)
-- [Web interfaces and application frameworks](categories/web-interfaces-and-application-frameworks.md) (20)
+- [Testing verification and performance](categories/testing-verification-and-performance.md) (29)
+- [Web interfaces and application frameworks](categories/web-interfaces-and-application-frameworks.md) (30)
 - [WebAssembly and plugin runtimes](categories/webassembly-and-plugin-runtimes.md) (6)
 - [Windows / .NET application helpers](categories/windows-net-application-helpers.md) (3)
 - [Windows / Binary and build analysis](categories/windows-binary-and-build-analysis.md) (6)
@@ -112,3 +112,5 @@
 - [General development catalog](catalogs/software-development-resources.md)
 - [Windows development catalog](catalogs/windows-development-repositories.md)
 - [AI resources expansion](catalogs/ai-resources-expansion.md)
+
+- [Development resources expansion](catalogs/development-expansion-2026-10-23.md): 200 additions, with scoped source checks and licensing caveats

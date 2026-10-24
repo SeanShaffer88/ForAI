@@ -4,7 +4,7 @@ Expansion of the general catalog with AI-specific resources requested by Sean: t
 
 ## Evidence and limits
 
-Entries are primary-source pointers (official documentation, official registries, or the project's own repository) compiled 2026-10-23. Inclusion is discovery, not an adoption audit: maintenance, licensing, compatibility, pricing, and security were not individually re-verified in this pass, and `http_status` is recorded as not separately checked. Verify at the primary source before relying on any entry — framework APIs, model names, and prices in this area change frequently.
+Entries are primary-source pointers (official documentation, official registries, or the project's own repository) compiled 2026-10-23. Inclusion is discovery, not an adoption audit: maintenance, licensing, compatibility, pricing, and security were not individually re-verified in this pass, and every entry received an automated link check on 2026-10-23 whose result is recorded in `http_status` (403/302 mean the site limited the automated checker, not that the link is dead). Twenty URLs that had genuinely moved (repository renames, documentation domain moves) were updated to their current canonical locations. Verify at the primary source before relying on any entry — framework APIs, model names, and prices in this area change frequently.
 
 **156 entries added** across 12 categories (8 new). 23 vault entries were not added because the catalog already covers the resource (exact or equivalent URL).
 
@@ -28,13 +28,13 @@ Entries are primary-source pointers (official documentation, official registries
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Official Chrome DevTools MCP server for debugging, traces, and network inspection. |
 | [AWS MCP servers (awslabs)](https://github.com/awslabs/mcp) | AWS's suite of MCP servers for AWS services, docs, and architecture guidance. |
 | [Cloudflare MCP servers](https://github.com/cloudflare/mcp-server-cloudflare) | Cloudflare's remote MCP servers for Workers, DNS, observability, and more. |
-| [Stripe Agent Toolkit](https://github.com/stripe/agent-toolkit) | Stripe's official tools for agents, including MCP integration for payments APIs. |
+| [Stripe Agent Toolkit](https://github.com/stripe/ai) | Stripe's official tools for agents, including MCP integration for payments APIs. |
 | [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | Large community list of MCP servers by category; a discovery aid — verify each server before use. |
 | [MCP.so](https://mcp.so/) | Community directory of MCP servers and clients with categories. |
 | [Glama MCP directory](https://glama.ai/mcp/servers) | Searchable MCP server directory with listings and metadata. |
 | [Smithery](https://smithery.ai/) | Hosted MCP server discovery and connection service. |
 | [PulseMCP](https://www.pulsemcp.com/) | MCP server directory and weekly newsletter tracking the ecosystem. |
-| [MCP clients list](https://modelcontextprotocol.io/clients) | Which clients support which MCP features — check before assuming a client supports resources/prompts/sampling. |
+| [MCP clients list](https://modelcontextprotocol.io/clients) | Which clients support which MCP features. The standalone clients page now redirects into the versioned MCP documentation; client feature support is maintained there. |
 
 ## AI agent frameworks and orchestration
 
@@ -49,11 +49,11 @@ Entries are primary-source pointers (official documentation, official registries
 | [Microsoft AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversation framework from Microsoft Research. |
 | [CrewAI](https://docs.crewai.com/) | Role-based multi-agent crews and flows (Python). |
 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | OpenAI's lightweight agents SDK: agents, handoffs, guardrails, tracing. |
-| [Claude Agent SDK (Anthropic docs)](https://docs.claude.com/en/api/agent-sdk/overview) | Anthropic's agent SDK for building agents on Muse. |
-| [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) | Google's open-source agent framework (Python/Java/Go). |
+| [Claude Agent SDK (Anthropic docs)](https://code.claude.com/docs/en/agent-sdk/overview) | Anthropic's agent SDK for building agents on Muse. |
+| [Google Agent Development Kit (ADK)](https://adk.dev/) | Google's open-source agent framework (Python/Java/Go). |
 | [Haystack](https://docs.haystack.deepset.ai/docs/intro) | deepset's framework for production NLP/RAG pipelines and agents. |
 | [DSPy](https://dspy.ai/) | Programmatic (compiled) LLM pipelines from Stanford NLP — declare, don't prompt-engineer by hand. |
-| [Pydantic AI](https://ai.pydantic.dev/) | Type-safe Python agent framework from the Pydantic team. |
+| [Pydantic AI](https://pydantic.dev/docs/ai/overview/) | Type-safe Python agent framework from the Pydantic team. |
 | [smolagents (Hugging Face)](https://huggingface.co/docs/smolagents) | Minimal agents library where agents write Python code as actions. |
 | [Mastra](https://mastra.ai/docs) | TypeScript agent framework: agents, workflows, RAG, evals. |
 | [Vercel AI SDK](https://ai-sdk.dev/docs) | TypeScript SDK for AI apps: streaming UI, tool calling, provider-agnostic models. |
@@ -67,11 +67,11 @@ Entries are primary-source pointers (official documentation, official registries
 | [Aider](https://aider.chat/docs/) | Terminal pair-programming with git integration and repo maps. |
 | [Cline](https://github.com/cline/cline) | Autonomous coding agent for VS Code with MCP support. |
 | [Continue](https://docs.continue.dev/) | Open-source AI code assistant for IDEs; bring-your-own-model, MCP support. |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Open platform for autonomous software-development agents. |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | Open platform for autonomous software-development agents. |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Princeton's agent that fixes GitHub issues; SWE-bench reference implementation. |
 | [SWE-bench](https://www.swebench.com/) | The standard benchmark for issue-fixing agents; check which split (Lite/Verified) a claim uses. |
 | [Muse documentation](https://docs.github.com/en/copilot) | Copilot features, agent mode, code review, and administration. |
-| [Muse documentation](https://docs.claude.com/en/docs/claude-code/overview) | Anthropic's terminal coding agent: hooks, subagents, MCP, settings. |
+| [Muse documentation](https://code.claude.com/docs/en/overview) | Anthropic's terminal coding agent: hooks, subagents, MCP, settings. |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's open-source terminal agent for Gemini, MCP-compatible. |
 | [OpenCode](https://opencode.ai/docs) | Open-source terminal coding agent, provider-agnostic. |
 | [Roo Code](https://github.com/RooCodeInc/Roo-Code) | VS Code agent (Cline fork) with modes and MCP marketplace. |
@@ -90,9 +90,9 @@ Entries are primary-source pointers (official documentation, official registries
 | [DeepEval](https://deepeval.com/docs/getting-started) | Unit-test-style LLM evaluation framework (Confident AI). |
 | [Inspect AI (UK AISI)](https://inspect.aisi.org.uk/) | UK AI Security Institute's framework for rigorous model evaluations. |
 | [Hugging Face Evaluate](https://huggingface.co/docs/evaluate) | Standard ML/NLP metrics library and leaderboard tooling. |
-| [NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | Programmable guardrails (Colang) for LLM apps. |
+| [NVIDIA NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) | Programmable guardrails (Colang) for LLM apps. |
 | [Guardrails AI](https://www.guardrailsai.com/docs) | Output validation/retry framework with a validator hub. |
-| [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) | The security risk list for LLM apps: prompt injection, insecure output handling, training-data poisoning, etc. Read before shipping. |
+| [OWASP Top 10 for LLM Applications](https://owasp.org/projects/top-10-for-large-language-model-applications) | The security risk list for LLM apps: prompt injection, insecure output handling, training-data poisoning, etc. Read before shipping. |
 
 ## AI learning and references
 
@@ -107,7 +107,7 @@ Entries are primary-source pointers (official documentation, official registries
 | [LLM Course (mlabonne)](https://github.com/mlabonne/llm-course) | Roadmap with notebooks: LLM fundamentals, scientist, and engineer tracks. |
 | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | Jay Alammar's visual walkthrough of the Transformer architecture. |
 | [Fast.ai](https://course.fast.ai/) | Top-down deep learning course (free). |
-| [DeepLearning.AI short courses](https://www.deeplearning.ai/short-courses/) | Short practitioner courses on RAG, agents, fine-tuning, and evals. |
+| [DeepLearning.AI short courses](https://www.deeplearning.ai/courses) | Short practitioner courses on RAG, agents, fine-tuning, and evals. |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Papers, training frameworks, tools, and courses around LLMs. |
 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | Broad GenAI tools and services index. |
 | [Awesome Production LLM](https://github.com/jihoo-kim/awesome-production-llm) | Production LLM stack components and case studies. |
@@ -134,7 +134,7 @@ Entries are primary-source pointers (official documentation, official registries
 | [Hugging Face PEFT](https://huggingface.co/docs/peft) | Parameter-efficient fine-tuning: LoRA and friends. |
 | [Hugging Face TRL](https://huggingface.co/docs/trl) | SFT/DPO/RLHF training for Transformers models. |
 | [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) | YAML-configured LLM fine-tuning (LoRA/full) across providers. |
-| [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | Fine-tuning toolkit with web UI for 100+ models. |
+| [LLaMA-Factory](https://github.com/hiyouga/LlamaFactory) | Fine-tuning toolkit with web UI for 100+ models. |
 | [Unsloth](https://github.com/unslothai/unsloth) | Fast, memory-efficient LoRA/QLoRA fine-tuning notebooks and library. |
 | [ONNX documentation](https://onnx.ai/onnx/) | Open model interchange format and ONNX Runtime for cross-platform inference. |
 | [NumPy documentation](https://numpy.org/doc/stable/) | Array computing foundation of the Python ML stack. |
@@ -145,8 +145,8 @@ Entries are primary-source pointers (official documentation, official registries
 |---|---|
 | [Hugging Face Hub](https://huggingface.co/models) | The model/dataset hub: model cards carry license, files, and usage snippets. Read the card before recommending a model. |
 | [Hugging Face documentation](https://huggingface.co/docs) | Transformers, Datasets, Diffusers, PEFT, TRL, and Hub APIs. |
-| [OpenAI platform documentation](https://platform.openai.com/docs) | API reference, models, reasoning, tools, and pricing links. |
-| [Meta Llama](https://www.llama.com/) | Llama models, downloads, and responsible-use docs. |
+| [OpenAI platform documentation](https://developers.openai.com/api/docs) | API reference, models, reasoning, tools, and pricing links. |
+| [Meta Llama](https://dev.meta.ai/) | Llama models, downloads, and responsible-use docs. |
 | [Mistral AI documentation](https://docs.mistral.ai/) | Mistral models and API (chat, embeddings, OCR). |
 | [Cohere documentation](https://docs.cohere.com/) | Command, Embed, and Rerank APIs — strong for enterprise RAG. |
 | [Groq documentation](https://console.groq.com/docs) | Very fast inference API (LPU) for open models. |
@@ -155,20 +155,20 @@ Entries are primary-source pointers (official documentation, official registries
 | [Replicate](https://replicate.com/docs) | Run community and official models (LLMs, image, audio) via one API. |
 | [OpenRouter](https://openrouter.ai/docs) | One API key routed to many providers/models; useful for comparison. |
 | [arXiv](https://arxiv.org/) | Preprint server — where most model papers land first. A paper is a claim, not a benchmark result. |
-| [Papers With Code](https://paperswithcode.com/) | Papers linked to code and benchmark leaderboards (SOTA tables). |
+| [Papers With Code](https://huggingface.co/papers/trending) | Papers linked to code and benchmark leaderboards (SOTA tables). |
 
 ## AI prompt and context engineering
 
 | Resource | Useful for / constraints |
 |---|---|
-| [Anthropic prompt engineering guide](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview) | Claude prompting: clarity, examples, XML structure, extended thinking. |
-| [OpenAI prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering) | Strategy and tactics for GPT-class models, plus reasoning-model guidance. |
+| [Anthropic prompt engineering guide](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) | Claude prompting: clarity, examples, XML structure, extended thinking. |
+| [OpenAI prompt engineering guide](https://developers.openai.com/api/docs/guides/prompt-engineering) | Strategy and tactics for GPT-class models, plus reasoning-model guidance. |
 | [Google Gemini prompting strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies) | Gemini-specific prompting and media prompting. |
 | [DAIR Prompt Engineering Guide](https://www.promptingguide.ai/) | Comprehensive community guide: techniques, papers, RAG/agent prompting. |
 | [Learn Prompting](https://learnprompting.org/docs/introduction) | Free course-style prompting documentation, including security topics. |
-| [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | Large prompt-pattern collection; useful as examples, not as verified best practice. |
-| [Anthropic](https://www.anthropic.com/engineering/building-effective-agents) | Anthropic's patterns: workflows vs agents, prompt chaining, routing, orchestrator-workers, evaluator-optimizer. |
-| [Anthropic](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) | Context windows as a finite resource: compaction, note-taking, sub-agents. |
+| [Awesome ChatGPT Prompts](https://github.com/f/prompts.chat) | Large prompt-pattern collection; useful as examples, not as verified best practice. |
+| [Anthropic](https://www.anthropic.com/research/building-effective-agents) | Anthropic's patterns: workflows vs agents, prompt chaining, routing, orchestrator-workers, evaluator-optimizer. |
+| [Anthropic](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents) | Context windows as a finite resource: compaction, note-taking, sub-agents. |
 | [OpenAI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) | OpenAI's practitioner guide: when to use agents, guardrails, orchestration patterns. |
 
 ## AI retrieval and vector search
@@ -182,8 +182,8 @@ Entries are primary-source pointers (official documentation, official registries
 | [FAISS](https://github.com/facebookresearch/faiss) | Meta's library for efficient similarity search and clustering of dense vectors. |
 | [LanceDB](https://lancedb.github.io/lancedb/) | Embedded vector database on the Lance columnar format. |
 | [sqlite-vec](https://github.com/asg017/sqlite-vec) | Vector search extension for SQLite — good for local/offline apps. |
-| [Elasticsearch documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) | Full-text + vector (kNN) search; BM25 still matters for hybrid retrieval. |
-| [OpenAI embeddings guide](https://platform.openai.com/docs/guides/embeddings) | How embeddings work and which model dimensions to expect. |
+| [Elasticsearch documentation](https://www.elastic.co/docs/reference/elasticsearch) | Full-text + vector (kNN) search; BM25 still matters for hybrid retrieval. |
+| [OpenAI embeddings guide](https://developers.openai.com/api/docs/guides/embeddings) | How embeddings work and which model dimensions to expect. |
 | [Sentence Transformers documentation](https://www.sbert.net/) | Open embedding models, training, and semantic search recipes. |
 | [Unstructured](https://docs.unstructured.io/) | Parsing PDFs/Office/HTML into clean elements for ingestion pipelines. |
 | [MarkItDown (Microsoft)](https://github.com/microsoft/markitdown) | Convert Office/PDF/etc. to Markdown for LLM ingestion. |

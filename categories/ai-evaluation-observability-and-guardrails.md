@@ -32,3 +32,16 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [PyRIT (Microsoft)](https://github.com/Azure/PyRIT) | Microsoft's Python Risk Identification Toolkit for automated red-teaming of generative AI systems. |
 | [MITRE ATLAS](https://atlas.mitre.org/) | Knowledge base of adversary tactics and techniques against AI systems (the ATT&CK companion for ML threats). |
 | [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) | US NIST's voluntary framework for governing, mapping, measuring, and managing AI risk; useful structure for compliance-minded work. |
+
+## AI expansion round 3 additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Opik (Comet)](https://www.comet.com/docs/opik/) | Open-source LLM evaluation and tracing platform from Comet: datasets, experiments, and production monitoring. |
+| [Braintrust](https://www.braintrust.dev/docs) | Eval-first AI product platform: scoring, datasets, prompt playground, and production logging. |
+| [Evidently AI](https://docs.evidentlyai.com/) | Open-source evaluation and monitoring for ML and LLM systems, with reports and a monitoring service. |
+| [TensorZero](https://github.com/tensorzero/tensorzero) | Open-source stack unifying an LLM gateway, observability, evals, and optimization (prompts/models from data). |
+| [OpenLLMetry (Traceloop)](https://github.com/traceloop/openllmetry) | OpenTelemetry-based instrumentation for LLM apps and frameworks; pairs with any OTel backend. |
+| [AgentOps](https://docs.agentops.ai/) | Observability platform purpose-built for agents: session replays, cost/latency, and failure analysis. |
+| [LLM Guard (Protect AI)](https://github.com/protectai/llm-guard) | Input/output scanners for LLM apps: prompt-injection, PII, toxicity, and secrets detection/mitigation. |
+| [Lakera Guard](https://docs.lakera.ai/) | Hosted runtime defense against prompt injection and data leakage, with a public prompt-attack database (Gandalf lineage). |

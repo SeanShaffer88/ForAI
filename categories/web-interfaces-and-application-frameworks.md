@@ -24,3 +24,10 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
 | [Laravel](https://laravel.com/docs) | PHP web application framework. |
 | [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+
+## AI expansion round 3 additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Gradio](https://www.gradio.app/docs) | Python library for ML demo interfaces in a few lines; the UI under a large share of HF Spaces. |
+| [Streamlit](https://docs.streamlit.io/) | Turn Python scripts into data/LLM apps quickly; a common first UI for internal AI tools. |

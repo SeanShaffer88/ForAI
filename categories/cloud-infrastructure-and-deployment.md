@@ -23,3 +23,9 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
+
+## AI expansion additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Kubernetes documentation](https://kubernetes.io/docs/home/) | Concepts, kubectl reference, API reference. |

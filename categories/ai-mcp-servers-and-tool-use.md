@@ -22,10 +22,10 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Official Chrome DevTools MCP server for debugging, traces, and network inspection. |
 | [AWS MCP servers (awslabs)](https://github.com/awslabs/mcp) | AWS's suite of MCP servers for AWS services, docs, and architecture guidance. |
 | [Cloudflare MCP servers](https://github.com/cloudflare/mcp-server-cloudflare) | Cloudflare's remote MCP servers for Workers, DNS, observability, and more. |
-| [Stripe Agent Toolkit](https://github.com/stripe/agent-toolkit) | Stripe's official tools for agents, including MCP integration for payments APIs. |
+| [Stripe Agent Toolkit](https://github.com/stripe/ai) | Stripe's official tools for agents, including MCP integration for payments APIs. |
 | [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | Large community list of MCP servers by category; a discovery aid — verify each server before use. |
 | [MCP.so](https://mcp.so/) | Community directory of MCP servers and clients with categories. |
 | [Glama MCP directory](https://glama.ai/mcp/servers) | Searchable MCP server directory with listings and metadata. |
 | [Smithery](https://smithery.ai/) | Hosted MCP server discovery and connection service. |
 | [PulseMCP](https://www.pulsemcp.com/) | MCP server directory and weekly newsletter tracking the ecosystem. |
-| [MCP clients list](https://modelcontextprotocol.io/clients) | Which clients support which MCP features — check before assuming a client supports resources/prompts/sampling. |
+| [MCP clients list](https://modelcontextprotocol.io/clients) | Which clients support which MCP features. The standalone clients page now redirects into the versioned MCP documentation; client feature support is maintained there. |

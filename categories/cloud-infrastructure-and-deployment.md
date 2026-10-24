@@ -29,3 +29,10 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | Resource | Useful for / constraints |
 |---|---|
 | [Kubernetes documentation](https://kubernetes.io/docs/home/) | Concepts, kubectl reference, API reference. |
+
+## AI expansion round 3 additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Modal](https://modal.com/docs) | Serverless GPU compute in Python: deploy model inference, batch jobs, and sandboxes without managing servers. |
+| [RunPod](https://docs.runpod.io/) | GPU cloud (Pods and Serverless endpoints) commonly used for model hosting and fine-tuning runs. |

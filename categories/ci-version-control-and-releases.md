@@ -23,3 +23,9 @@ Project additions checked 2026-10-22 (primary documentation only):
 | Resource | Useful for / constraints |
 |---|---|
 | [GitHub private vulnerability reporting](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository) | Provide a repository-specific private security-reporting route separate from public bug reports. Requires appropriate public-repository administration; notification delivery depends on account preferences. |
+
+## AI expansion additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [GitHub Docs](https://docs.github.com/) | Actions, REST/GraphQL APIs, Copilot, code security. |

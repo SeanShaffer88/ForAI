@@ -15,3 +15,12 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [Anthropic](https://www.anthropic.com/research/building-effective-agents) | Anthropic's patterns: workflows vs agents, prompt chaining, routing, orchestrator-workers, evaluator-optimizer. |
 | [Anthropic](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents) | Context windows as a finite resource: compaction, note-taking, sub-agents. |
 | [OpenAI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) | OpenAI's practitioner guide: when to use agents, guardrails, orchestration patterns. |
+
+## AI expansion round 2 additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Outlines](https://dottxt-ai.github.io/outlines/) | Structured generation library (dottxt): guarantee valid JSON/regex/grammar-constrained output from local and API models. |
+| [XGrammar](https://xgrammar.mlc.ai/) | Fast, portable grammar engine for structured generation; used under several serving stacks for JSON/schema output. |
+| [Guidance (Microsoft)](https://github.com/guidance-ai/guidance) | Constrain LLM generation with regex/grammar interleaved with generation; effective for strict formats with smaller models. |
+| [BAML](https://docs.boundaryml.com/) | DSL for typed prompt functions with schema-aligned parsing; generates clients for Python/TS/Ruby/Go. |

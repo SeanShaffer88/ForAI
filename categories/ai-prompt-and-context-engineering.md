@@ -24,3 +24,9 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [XGrammar](https://xgrammar.mlc.ai/) | Fast, portable grammar engine for structured generation; used under several serving stacks for JSON/schema output. |
 | [Guidance (Microsoft)](https://github.com/guidance-ai/guidance) | Constrain LLM generation with regex/grammar interleaved with generation; effective for strict formats with smaller models. |
 | [BAML](https://docs.boundaryml.com/) | DSL for typed prompt functions with schema-aligned parsing; generates clients for Python/TS/Ruby/Go. |
+
+## AI expansion round 3 additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [TextGrad](https://github.com/zou-group/textgrad) | Automatic 'textual gradient' optimization of prompts and compound AI systems (Stanford; Nature-published). |

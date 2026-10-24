@@ -8,8 +8,8 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 |---|---|
 | [Hugging Face Hub](https://huggingface.co/models) | The model/dataset hub: model cards carry license, files, and usage snippets. Read the card before recommending a model. |
 | [Hugging Face documentation](https://huggingface.co/docs) | Transformers, Datasets, Diffusers, PEFT, TRL, and Hub APIs. |
-| [OpenAI platform documentation](https://platform.openai.com/docs) | API reference, models, reasoning, tools, and pricing links. |
-| [Meta Llama](https://www.llama.com/) | Llama models, downloads, and responsible-use docs. |
+| [OpenAI platform documentation](https://developers.openai.com/api/docs) | API reference, models, reasoning, tools, and pricing links. |
+| [Meta Llama](https://dev.meta.ai/) | Llama models, downloads, and responsible-use docs. |
 | [Mistral AI documentation](https://docs.mistral.ai/) | Mistral models and API (chat, embeddings, OCR). |
 | [Cohere documentation](https://docs.cohere.com/) | Command, Embed, and Rerank APIs — strong for enterprise RAG. |
 | [Groq documentation](https://console.groq.com/docs) | Very fast inference API (LPU) for open models. |
@@ -18,4 +18,4 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [Replicate](https://replicate.com/docs) | Run community and official models (LLMs, image, audio) via one API. |
 | [OpenRouter](https://openrouter.ai/docs) | One API key routed to many providers/models; useful for comparison. |
 | [arXiv](https://arxiv.org/) | Preprint server — where most model papers land first. A paper is a claim, not a benchmark result. |
-| [Papers With Code](https://paperswithcode.com/) | Papers linked to code and benchmark leaderboards (SOTA tables). |
+| [Papers With Code](https://huggingface.co/papers/trending) | Papers linked to code and benchmark leaderboards (SOTA tables). |

@@ -327,3 +327,177 @@ Entries are primary-source pointers (official documentation, official registries
 | [Pipecat](https://docs.pipecat.ai/) | Open-source Python framework for voice and multimodal conversational agents: pipelines of STT, LLM, TTS, and transports. |
 | [Deepgram](https://developers.deepgram.com/) | Speech APIs: fast streaming speech-to-text, text-to-speech, and voice-agent API. Hosted; per-minute pricing. |
 | [ElevenLabs](https://elevenlabs.io/docs) | Text-to-speech, voice cloning, and conversational agents API. Hosted service; voice-clone consent and terms matter. |
+
+## Round 3 additions — 2026-10-23
+
+100 further entries from a second gap analysis (124 candidates; 1 duplicate of an existing entry, 1 site unreachable from the automated checker, and 22 weaker overlaps were cut). Every selected URL was link-checked before entry: **100/100 reachable (HTTP 200)**; nine URLs that had already moved (repository renames and documentation relocations) were entered at their current canonical locations.
+
+### AI MCP servers and tool use
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Docker MCP Toolkit and Catalog](https://docs.docker.com/ai/mcp-catalog-and-toolkit/) | Docker's curated MCP catalog and toolkit: run MCP servers as containers with isolation and secret handling. |
+| [Kubernetes MCP Server](https://github.com/containers/kubernetes-mcp-server) | MCP server for Kubernetes and OpenShift operations via native API calls. |
+| [Terraform MCP Server (HashiCorp)](https://github.com/hashicorp/terraform-mcp-server) | HashiCorp's MCP server for Terraform Registry modules, providers, and workspace operations. |
+| [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) | MongoDB's official MCP server for database exploration and operations (read-only modes available). |
+| [Supabase MCP Server](https://github.com/supabase/mcp) | Supabase's official MCP server: manage tables, run SQL, and deploy functions from an agent. Use read-only mode for safety. |
+| [Neon MCP Server](https://github.com/neondatabase/mcp-server-neon) | Neon's MCP server for managing serverless Postgres projects, branches, and queries. |
+| [Redis MCP Server](https://github.com/redis/mcp-redis) | Redis's official MCP server for natural-language operations against Redis data. |
+| [Sentry MCP Server](https://github.com/getsentry/toolkit) | Sentry's official MCP server (now developed in Sentry's toolkit monorepo): query issues, errors, and performance data from coding agents. |
+| [Linear MCP Server](https://linear.app/docs/mcp) | Linear's official remote MCP server for issues and project data in agents. |
+| [Figma MCP Server (Dev Mode)](https://developers.figma.com/docs/figma-mcp-server/) | Figma's official MCP server: bring design context (and code generation hints) into coding agents. |
+| [ToolHive (Stacklok)](https://docs.stacklok.com/toolhive/) | Run and manage MCP servers in containers with a registry, proxy, and access controls. |
+| [ContextForge MCP Gateway (IBM)](https://github.com/IBM/mcp-context-forge) | IBM's open-source MCP gateway and registry: federation, auth, and tool virtualization for teams. |
+| [LangChain MCP Adapters](https://github.com/langchain-ai/langchain-mcp-adapters) | Adapters that turn MCP tools into LangChain/LangGraph tools; the standard bridge between the two ecosystems. |
+| [mcp-use](https://github.com/mcp-use/mcp-use) | Framework to build full MCP agents (client + server) in Python/TypeScript, with a hosted inspector. |
+
+### AI agent frameworks and orchestration
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Dify](https://docs.dify.ai/) | Open-source LLM app platform: visual workflows, RAG, agent tools, and an API layer for shipping AI apps. |
+| [Langflow](https://docs.langflow.org/) | Visual builder for LangChain-based agents and flows; exportable to code/API. |
+| [Agno](https://docs.agno.com/) | Lightweight Python framework for multi-modal agents with memory, knowledge, and tools (the Phidata lineage). |
+| [Strands Agents (AWS)](https://strandsagents.com/) | AWS's open-source, model-driven agent SDK (Python/TypeScript); Bedrock-first but provider-agnostic. |
+| [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) | Microsoft's successor line uniting Semantic Kernel and AutoGen patterns for .NET/Python agents and workflows. |
+| [BeeAI Framework](https://framework.beeai.dev/) | IBM-backed open framework for building agents in Python/TypeScript, with A2A/ACP interoperability work. |
+| [n8n](https://docs.n8n.io/) | Workflow automation platform with first-class AI/agent nodes; self-hostable. Good for glue automations around models. |
+| [Firebase Genkit](https://genkit.dev/) | Google's open-source framework for AI-powered apps (Go/JS/Python) with flows, tooling, and a dev UI. |
+| [E2B](https://docs.e2b.dev/) | Secure cloud sandboxes for AI agents to run code — the standard isolated-execution layer for code agents. |
+| [Daytona](https://www.daytona.io/docs/) | Sandboxes and dev environments for AI-generated code and agent workloads, with fast cold starts. |
+| [Browserbase](https://docs.browserbase.com/) | Hosted headless browsers for agents: sessions, debugging, and stealth infrastructure under Stagehand and friends. |
+| [Restack](https://docs.restack.io/) | Open-source framework for durable, long-running AI agents and workflows with deterministic replay. |
+
+### AI agent memory and context
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Cognee](https://github.com/topoteretes/cognee) | Open-source memory layer that builds a knowledge graph from documents and conversations for agent recall (ECL pipeline). |
+| [Graphiti (Zep)](https://github.com/getzep/graphiti) | Temporal knowledge-graph engine for agent memory — the open core under Zep; tracks facts as they change over time. |
+| [LangMem (LangChain)](https://github.com/langchain-ai/langmem) | LangChain's memory toolkit: extract, store, and retrieve long-term memories for LangGraph agents. |
+
+### AI coding agents and assistants
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Codex CLI (OpenAI)](https://github.com/openai/codex) | OpenAI's open-source terminal coding agent (Rust) for the Codex models; sandboxed approvals model. |
+| [Goose (Block)](https://block.github.io/goose/) | Block's open-source, extensible AI agent (Rust) that installs, executes, and tests code; strong MCP support. |
+| [Kilo Code](https://github.com/Kilo-Org/kilocode) | Popular open-source VS Code agent (Cline/Roo lineage) with modes, MCP marketplace, and multi-model support. |
+| [Devin (Cognition)](https://docs.devin.ai/) | Cognition's autonomous software-engineering agent product; docs cover sessions, knowledge, and API use. |
+| [Kiro (AWS)](https://kiro.dev/docs/) | AWS's spec-driven agentic IDE: requirements/design/tasks before code, built for production workflows. |
+| [Tabby](https://tabby.tabbyml.com/docs/) | Self-hosted AI coding assistant (completion and chat) for teams that cannot send code to a cloud. |
+| [LLM CLI (Simon Willison)](https://llm.datasette.io/) | Command-line tool to run prompts against many models from the shell, with logging to SQLite and plugin-extensible providers. |
+
+### AI data and annotation
+
+| Resource | Useful for / constraints |
+|---|---|
+| [NeMo Curator](https://github.com/NVIDIA-NeMo/Curator) | GPU-accelerated data curation for LLM training: filtering, deduplication, and quality scoring at scale. |
+| [DataTrove (Hugging Face)](https://github.com/huggingface/datatrove) | HF's library for large-scale text data processing — how datasets like FineWeb were built. |
+| [Dolma (AI2)](https://huggingface.co/datasets/allenai/dolma) | AI2's 3T-token open pretraining corpus with its curation toolkit and documentation. |
+
+### AI evaluation observability and guardrails
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Opik (Comet)](https://www.comet.com/docs/opik/) | Open-source LLM evaluation and tracing platform from Comet: datasets, experiments, and production monitoring. |
+| [Braintrust](https://www.braintrust.dev/docs) | Eval-first AI product platform: scoring, datasets, prompt playground, and production logging. |
+| [Evidently AI](https://docs.evidentlyai.com/) | Open-source evaluation and monitoring for ML and LLM systems, with reports and a monitoring service. |
+| [TensorZero](https://github.com/tensorzero/tensorzero) | Open-source stack unifying an LLM gateway, observability, evals, and optimization (prompts/models from data). |
+| [OpenLLMetry (Traceloop)](https://github.com/traceloop/openllmetry) | OpenTelemetry-based instrumentation for LLM apps and frameworks; pairs with any OTel backend. |
+| [AgentOps](https://docs.agentops.ai/) | Observability platform purpose-built for agents: session replays, cost/latency, and failure analysis. |
+| [LLM Guard (Protect AI)](https://github.com/protectai/llm-guard) | Input/output scanners for LLM apps: prompt-injection, PII, toxicity, and secrets detection/mitigation. |
+| [Lakera Guard](https://docs.lakera.ai/) | Hosted runtime defense against prompt injection and data leakage, with a public prompt-attack database (Gandalf lineage). |
+
+### AI learning and references
+
+| Resource | Useful for / constraints |
+|---|---|
+| [OpenAI Cookbook](https://github.com/openai/openai-cookbook) | Example notebooks for the OpenAI API: embeddings, RAG, agents, evals — copy-adapt patterns, verify model names/pricing in current docs. |
+| [Anthropic Cookbooks](https://github.com/anthropics/claude-cookbooks) | Worked Claude examples: tool use, RAG, agents, vision, and evaluation patterns. |
+| [Google Gemini Cookbook](https://github.com/google-gemini/cookbook) | Gemini API examples and quickstarts from Google, including multimodal and agent patterns. |
+| [Hugging Face Agents Course](https://huggingface.co/learn/agents-course) | Free course on building agents (smolagents, LangGraph, LlamaIndex) with a certification track. |
+| [Anthropic Courses](https://github.com/anthropics/courses) | Anthropic's own courses: API fundamentals, prompt engineering, and tool use, as notebooks. |
+| [LLMs from Scratch (Raschka)](https://github.com/rasbt/LLMs-from-scratch) | Build a GPT-style LLM step by step in PyTorch — the companion repo to the book, excellent for fundamentals. |
+| [Lil'Log (Lilian Weng)](https://lilianweng.github.io/) | Long-form, carefully-cited explainers on agents, reward hacking, diffusion, and alignment from OpenAI's Lilian Weng. |
+| [Stanford CS336: Language Modeling from Scratch](https://cs336.stanford.edu/) | Stanford's build-everything course: tokenizers, Transformers, training, data, and evaluation from first principles. |
+| [Attention Is All You Need (paper)](https://arxiv.org/abs/1706.03762) | The 2017 Transformer paper. Read it before citing it; most 'Transformer facts' trace back here. |
+
+### AI machine learning and local inference
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Open WebUI](https://docs.openwebui.com/) | Self-hosted ChatGPT-style interface for Ollama/OpenAI-compatible backends, with RAG and user management. |
+| [text-generation-webui](https://github.com/oobabooga/textgen) | The long-standing Gradio UI for running local LLMs (llama.cpp/Transformers/ExLlama backends). |
+| [MLC LLM](https://github.com/mlc-ai/mlc-llm) | Compile and deploy LLMs across GPUs, phones, and browsers from one stack (the engine behind WebLLM). |
+| [OpenVINO](https://docs.openvino.ai/) | Intel's toolkit for optimizing and deploying inference on Intel CPUs, GPUs, and NPUs. |
+| [Hugging Face Accelerate](https://huggingface.co/docs/accelerate) | Train PyTorch models on any hardware setup (single GPU to clusters) with minimal code changes; under most HF training. |
+| [DeepSpeed](https://www.deepspeed.ai/) | Microsoft's distributed training library (ZeRO sharding) for very large models; also inference kernels. |
+| [torchtune](https://meta-pytorch.org/torchtune/) | PyTorch-native library of hackable fine-tuning recipes for popular LLMs (LoRA, full, QAT). |
+| [mergekit (Arcee)](https://github.com/arcee-ai/mergekit) | Merge and evolve model weights (SLERP, TIES, DARE and more) — how many community model variants are made. |
+| [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) | 8-bit/4-bit optimizers and quantization for PyTorch — the library behind most QLoRA setups. |
+| [AWQ (MIT Han Lab)](https://github.com/mit-han-lab/llm-awq) | Activation-aware weight quantization for LLMs: 4-bit models with small quality loss, widely deployed. |
+| [Safetensors](https://huggingface.co/docs/safetensors) | The safe, fast tensor file format that replaced pickle-based checkpoints across the HF ecosystem. |
+| [GGUF format specification](https://github.com/ggml-org/ggml/blob/master/docs/gguf.md) | The GGUF file-format spec (successor to GGML) used by llama.cpp-ecosystem models and quantization levels. |
+| [Ray](https://docs.ray.io/) | Distributed compute framework behind many training/serving stacks (Ray Train, Ray Serve, vLLM deployments). |
+| [Ultralytics YOLO](https://docs.ultralytics.com/) | The YOLO object-detection family and tooling; the default starting point for applied computer vision. |
+| [Segment Anything (Meta)](https://github.com/facebookresearch/segment-anything) | Meta's promptable segmentation model (SAM) and dataset tooling; a foundation block for vision pipelines. |
+| [OpenPipe ART](https://github.com/OpenPipe/ART) | Agent Reinforcement Trainer: RL training (GRPO) for multi-step agents on your own data and backends. |
+
+### AI models and API providers
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Amazon Bedrock](https://docs.aws.amazon.com/bedrock/) | AWS's managed foundation-model service: model choice, Agents, Knowledge Bases, and guardrails inside AWS. |
+| [Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/) | Microsoft's AI platform: Azure OpenAI and a broad model catalog, agents, and evaluation tooling. |
+| [NVIDIA NIM](https://docs.nvidia.com/nim/) | NVIDIA's optimized inference microservices for deploying models on NVIDIA GPUs, cloud or on-prem. |
+| [xAI (Grok) API](https://docs.x.ai/) | xAI's API for Grok models, including realtime data features; OpenAI-compatible endpoints. |
+| [Perplexity API](https://docs.perplexity.ai/) | Search-grounded answer APIs (Sonar) and chat completions with citations. |
+| [DeepSeek API](https://api-docs.deepseek.com/) | DeepSeek's API platform for its chat and reasoning models; OpenAI/Anthropic-compatible formats. |
+| [Cerebras Inference](https://inference-docs.cerebras.ai/) | Wafer-scale inference with very high tokens/sec for open models; OpenAI-compatible API. |
+| [Voyage AI](https://docs.voyageai.com/) | Embeddings and rerankers (general, code, finance, law) — a common upgrade over default embedding models for RAG. |
+| [Baseten](https://docs.baseten.co/) | Hosted inference for custom and open models with autoscaling GPUs and model APIs (Truss). |
+
+### AI prompt and context engineering
+
+| Resource | Useful for / constraints |
+|---|---|
+| [TextGrad](https://github.com/zou-group/textgrad) | Automatic 'textual gradient' optimization of prompts and compound AI systems (Stanford; Nature-published). |
+
+### AI retrieval and vector search
+
+| Resource | Useful for / constraints |
+|---|---|
+| [GraphRAG (Microsoft)](https://microsoft.github.io/graphrag/) | Microsoft's graph-based RAG: build a knowledge graph from a corpus for global, theme-level questions naive RAG misses. |
+| [LightRAG](https://github.com/HKUDS/LightRAG) | Lightweight graph-enhanced RAG framework (HKUDS) with incremental updates; simpler than full GraphRAG. |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | Open-source RAG engine with deep document understanding, chunking visualizations, and agent/canvas features. |
+| [Onyx (formerly Danswer)](https://docs.onyx.app/) | Open-source enterprise search and AI chat over company knowledge (connectors, permissions-aware). |
+| [Chonkie](https://github.com/feyninc/chonkie) | Fast, feathery text chunking library for RAG: many chunking strategies with a small footprint. |
+| [RAGatouille](https://github.com/AnswerDotAI/RAGatouille) | Easy ColBERT late-interaction retrieval for RAG — strong quality per index size. |
+| [Turbopuffer](https://turbopuffer.com/docs) | Serverless vector + full-text search built on object storage; cheap at large scale. |
+| [Apify](https://docs.apify.com/) | Web scraping and automation platform (Actors) increasingly used as agent tooling and a data source for RAG. |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Baidu's multilingual OCR toolkit; a standard choice for document ingestion pipelines. |
+| [Surya](https://github.com/datalab-to/surya) | OCR, layout analysis, and table recognition in 90+ languages; the engine under Marker. |
+
+### AI speech voice and realtime
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Faster Whisper](https://github.com/SYSTRAN/faster-whisper) | Whisper reimplemented on CTranslate2: up to 4x faster with less memory; the usual production Whisper choice. |
+| [WhisperX](https://github.com/m-bain/whisperX) | Whisper with word-level timestamps, alignment, and speaker diarization for transcription pipelines. |
+| [Kokoro TTS](https://github.com/hexgrad/kokoro) | Small (82M) open-weight text-to-speech model with fast CPU inference and an OpenAI-compatible server ecosystem. |
+| [F5-TTS](https://github.com/SWivid/F5-TTS) | Diffusion-transformer TTS with zero-shot voice cloning from a short reference clip. |
+
+### Cloud infrastructure and deployment
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Modal](https://modal.com/docs) | Serverless GPU compute in Python: deploy model inference, batch jobs, and sandboxes without managing servers. |
+| [RunPod](https://docs.runpod.io/) | GPU cloud (Pods and Serverless endpoints) commonly used for model hosting and fine-tuning runs. |
+
+### Web interfaces and application frameworks
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Gradio](https://www.gradio.app/docs) | Python library for ML demo interfaces in a few lines; the UI under a large share of HF Spaces. |
+| [Streamlit](https://docs.streamlit.io/) | Turn Python scripts into data/LLM apps quickly; a common first UI for internal AI tools. |

@@ -26,3 +26,17 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 |---|---|
 | [LiteLLM](https://docs.litellm.ai/) | OpenAI-compatible interface over 100+ model providers, as an SDK or self-hosted gateway with budgets, routing, and fallbacks. |
 | [Portkey](https://portkey.ai/docs) | AI gateway with observability, guardrails, and routing across providers; hosted and self-hosted options. |
+
+## AI expansion round 3 additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Amazon Bedrock](https://docs.aws.amazon.com/bedrock/) | AWS's managed foundation-model service: model choice, Agents, Knowledge Bases, and guardrails inside AWS. |
+| [Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/) | Microsoft's AI platform: Azure OpenAI and a broad model catalog, agents, and evaluation tooling. |
+| [NVIDIA NIM](https://docs.nvidia.com/nim/) | NVIDIA's optimized inference microservices for deploying models on NVIDIA GPUs, cloud or on-prem. |
+| [xAI (Grok) API](https://docs.x.ai/) | xAI's API for Grok models, including realtime data features; OpenAI-compatible endpoints. |
+| [Perplexity API](https://docs.perplexity.ai/) | Search-grounded answer APIs (Sonar) and chat completions with citations. |
+| [DeepSeek API](https://api-docs.deepseek.com/) | DeepSeek's API platform for its chat and reasoning models; OpenAI/Anthropic-compatible formats. |
+| [Cerebras Inference](https://inference-docs.cerebras.ai/) | Wafer-scale inference with very high tokens/sec for open models; OpenAI-compatible API. |
+| [Voyage AI](https://docs.voyageai.com/) | Embeddings and rerankers (general, code, finance, law) — a common upgrade over default embedding models for RAG. |
+| [Baseten](https://docs.baseten.co/) | Hosted inference for custom and open models with autoscaling GPUs and model APIs (Truss). |

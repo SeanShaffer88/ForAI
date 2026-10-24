@@ -1,0 +1,114 @@
+# ForAI — Useful Development Resources
+
+> A project-aware resource library for developers and their AI assistants: repositories, SDKs, APIs, libraries, toolchains, MCP servers, and tools, organized by purpose. This file is the machine-readable index; the knowledge lives at the linked primary sources — verify there before relying on any entry.
+
+892 catalog entries · 888 distinct URLs · 89 purpose-based categories.
+
+## Start here
+
+- [README](README.md): overview and the point-your-AI prompt
+- [AGENTS](AGENTS.md): the selection workflow an AI should follow when using this library
+- [Categories index](categories/README.md): browse by purpose
+
+## Machine-readable full catalog
+
+- [resources.json](resources.json): all entries with category, purpose, source, check date, review level, and HTTP status
+- [resources.csv](resources.csv): the same catalog in CSV
+
+## Categories
+
+- [.NET application building blocks](categories/net-application-building-blocks.md) (9)
+- [AI MCP servers and tool use](categories/ai-mcp-servers-and-tool-use.md) (25)
+- [AI agent frameworks and orchestration](categories/ai-agent-frameworks-and-orchestration.md) (22)
+- [AI agent memory and context](categories/ai-agent-memory-and-context.md) (3)
+- [AI agent protocols and interoperability](categories/ai-agent-protocols-and-interoperability.md) (4)
+- [AI coding agents and assistants](categories/ai-coding-agents-and-assistants.md) (11)
+- [AI data and annotation](categories/ai-data-and-annotation.md) (3)
+- [AI evaluation observability and guardrails](categories/ai-evaluation-observability-and-guardrails.md) (21)
+- [AI learning and references](categories/ai-learning-and-references.md) (15)
+- [AI machine learning and local inference](categories/ai-machine-learning-and-local-inference.md) (38)
+- [AI models and API providers](categories/ai-models-and-api-providers.md) (15)
+- [AI prompt and context engineering](categories/ai-prompt-and-context-engineering.md) (13)
+- [AI retrieval and vector search](categories/ai-retrieval-and-vector-search.md) (18)
+- [AI speech voice and realtime](categories/ai-speech-voice-and-realtime.md) (4)
+- [API contracts clients and networking](categories/api-contracts-clients-and-networking.md) (17)
+- [Accessibility internationalization and documentation](categories/accessibility-internationalization-and-documentation.md) (8)
+- [Android APK development and analysis](categories/android-apk-development-and-analysis.md) (56)
+- [Backup storage transfer and resilience](categories/backup-storage-transfer-and-resilience.md) (8)
+- [Builds packages and environments](categories/builds-packages-and-environments.md) (19)
+- [CI version control and releases](categories/ci-version-control-and-releases.md) (13)
+- [Cloud infrastructure and deployment](categories/cloud-infrastructure-and-deployment.md) (18)
+- [Collaboration local state and rich text](categories/collaboration-local-state-and-rich-text.md) (9)
+- [Databases data access and analytics](categories/databases-data-access-and-analytics.md) (17)
+- [Desktop mobile and device SDKs](categories/desktop-mobile-and-device-sdks.md) (14)
+- [Documents OCR and file formats](categories/documents-ocr-and-file-formats.md) (13)
+- [Feature flags configuration and secrets](categories/feature-flags-configuration-and-secrets.md) (9)
+- [Game creation assets and automation](categories/game-creation-assets-and-automation.md) (21)
+- [Graphics multimedia scientific and geospatial](categories/graphics-multimedia-scientific-and-geospatial.md) (17)
+- [Integration APIs and business SDKs](categories/integration-apis-and-business-sdks.md) (16)
+- [Language tooling and repository automation](categories/language-tooling-and-repository-automation.md) (12)
+- [Languages and runtimes](categories/languages-and-runtimes.md) (31)
+- [Observability debugging and operations](categories/observability-debugging-and-operations.md) (19)
+- [Optimization scheduling and operational tooling](categories/optimization-scheduling-and-operational-tooling.md) (10)
+- [Platform SDKs and Windows](categories/platform-sdks-and-windows.md) (15)
+- [Public data research and location APIs](categories/public-data-research-and-location-apis.md) (14)
+- [Python Rust and Go building blocks](categories/python-rust-and-go-building-blocks.md) (19)
+- [Search messaging and durable work](categories/search-messaging-and-durable-work.md) (12)
+- [Security identity and supply chain](categories/security-identity-and-supply-chain.md) (19)
+- [Standards and discovery](categories/standards-and-discovery.md) (6)
+- [Testing verification and performance](categories/testing-verification-and-performance.md) (19)
+- [Web interfaces and application frameworks](categories/web-interfaces-and-application-frameworks.md) (18)
+- [WebAssembly and plugin runtimes](categories/webassembly-and-plugin-runtimes.md) (6)
+- [Windows / .NET application helpers](categories/windows-net-application-helpers.md) (3)
+- [Windows / Binary and build analysis](categories/windows-binary-and-build-analysis.md) (6)
+- [Windows / Binary tooling additions](categories/windows-binary-tooling-additions.md) (5)
+- [Windows / Build and deployment additions](categories/windows-build-and-deployment-additions.md) (2)
+- [Windows / Build tools](categories/windows-build-tools.md) (10)
+- [Windows / CRT and compatibility](categories/windows-crt-and-compatibility.md) (3)
+- [Windows / Crash reporting and stacks](categories/windows-crash-reporting-and-stacks.md) (5)
+- [Windows / Deployment](categories/windows-deployment.md) (7)
+- [Windows / Desktop UI](categories/windows-desktop-ui.md) (10)
+- [Windows / Devices and filesystems](categories/windows-devices-and-filesystems.md) (6)
+- [Windows / Diagnostics](categories/windows-diagnostics.md) (12)
+- [Windows / Diagnostics additions](categories/windows-diagnostics-additions.md) (9)
+- [Windows / Drivers](categories/windows-drivers.md) (3)
+- [Windows / Embeddable runtimes](categories/windows-embeddable-runtimes.md) (6)
+- [Windows / Embedded runtime revival](categories/windows-embedded-runtime-revival.md) (1)
+- [Windows / Embedded runtimes and UI](categories/windows-embedded-runtimes-and-ui.md) (5)
+- [Windows / Graphics](categories/windows-graphics.md) (10)
+- [Windows / Graphics additions](categories/windows-graphics-additions.md) (3)
+- [Windows / Graphics binding options](categories/windows-graphics-binding-options.md) (1)
+- [Windows / Heap and debugger extensions](categories/windows-heap-and-debugger-extensions.md) (5)
+- [Windows / JIT code generation](categories/windows-jit-code-generation.md) (2)
+- [Windows / Legacy references](categories/windows-legacy-references.md) (2)
+- [Windows / Named pipes and function interception](categories/windows-named-pipes-and-function-interception.md) (3)
+- [Windows / Native audio and images](categories/windows-native-audio-and-images.md) (3)
+- [Windows / Native crash and heap diagnostics](categories/windows-native-crash-and-heap-diagnostics.md) (4)
+- [Windows / Native integration](categories/windows-native-integration.md) (10)
+- [Windows / Native libraries](categories/windows-native-libraries.md) (13)
+- [Windows / Native networking and data](categories/windows-native-networking-and-data.md) (7)
+- [Windows / Native platform integration](categories/windows-native-platform-integration.md) (3)
+- [Windows / Native system APIs](categories/windows-native-system-apis.md) (4)
+- [Windows / Native utility additions](categories/windows-native-utility-additions.md) (3)
+- [Windows / Networking and virtual devices](categories/windows-networking-and-virtual-devices.md) (3)
+- [Windows / Offline Windows formats](categories/windows-offline-windows-formats.md) (3)
+- [Windows / PDB and PE tooling](categories/windows-pdb-and-pe-tooling.md) (6)
+- [Windows / Processes and console](categories/windows-processes-and-console.md) (2)
+- [Windows / Projected files and shell](categories/windows-projected-files-and-shell.md) (2)
+- [Windows / Reference additions](categories/windows-reference-additions.md) (3)
+- [Windows / Resources](categories/windows-resources.md) (8)
+- [Windows / Revival candidates and useful starting points](categories/windows-revival-candidates-and-useful-starting-points.md) (8)
+- [Windows / Runtimes](categories/windows-runtimes.md) (7)
+- [Windows / Shared memory and pipes](categories/windows-shared-memory-and-pipes.md) (1)
+- [Windows / Small native utility additions](categories/windows-small-native-utility-additions.md) (2)
+- [Windows / Static analysis additions](categories/windows-static-analysis-additions.md) (1)
+- [Windows / Testing](categories/windows-testing.md) (7)
+- [Windows / Windows APIs](categories/windows-windows-apis.md) (8)
+- [Windows / Windows inspection and COM](categories/windows-windows-inspection-and-com.md) (5)
+- [World of Warcraft addon development](categories/world-of-warcraft-addon-development.md) (4)
+
+## Full catalogs
+
+- [General development catalog](catalogs/software-development-resources.md)
+- [Windows development catalog](catalogs/windows-development-repositories.md)
+- [AI resources expansion](catalogs/ai-resources-expansion.md)

@@ -6916,8 +6916,8 @@
     "purpose": "Language home; install via rustup, edition and release info.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "The Rust Book",
@@ -6926,8 +6926,8 @@
     "purpose": "Canonical language tutorial; ownership, traits, error handling.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "crates.io",
@@ -6936,8 +6936,8 @@
     "purpose": "Rust package registry; check downloads, docs link, and maintenance before recommending a crate.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "docs.rs",
@@ -6946,8 +6946,8 @@
     "purpose": "Rendered docs for nearly every crate and version.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Cargo Book",
@@ -6956,8 +6956,8 @@
     "purpose": "Workspaces, features, profiles, publishing.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Python",
@@ -6966,8 +6966,8 @@
     "purpose": "Downloads, PEP index, release schedule.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "PyPI",
@@ -6976,8 +6976,8 @@
     "purpose": "Python package index; check version, requires-python, and project links.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Node.js",
@@ -6986,8 +6986,8 @@
     "purpose": "Runtime APIs, LTS schedule, globals.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "npm",
@@ -6996,8 +6996,8 @@
     "purpose": "JavaScript package registry; verify package identity carefully — similar names are a supply-chain risk.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "403"
   },
   {
     "name": "Deno",
@@ -7006,8 +7006,8 @@
     "purpose": "Secure JS/TS runtime, standard library, JSR registry.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Bun",
@@ -7016,8 +7016,8 @@
     "purpose": "JS runtime, bundler, test runner, package manager.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "NuGet Gallery",
@@ -7026,8 +7026,8 @@
     "purpose": ".NET package registry; check target frameworks and license per package.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "pkg.go.dev",
@@ -7036,8 +7036,8 @@
     "purpose": "Discover and read docs for Go packages and the standard library.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "C++ reference (cppreference)",
@@ -7046,8 +7046,8 @@
     "purpose": "De-facto C/C++ standard library and language reference.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "vcpkg",
@@ -7056,8 +7056,8 @@
     "purpose": "Microsoft C/C++ package manager; port list is searchable online.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Conan",
@@ -7066,8 +7066,8 @@
     "purpose": "C/C++ package manager and Conan Center index.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Java",
@@ -7076,8 +7076,8 @@
     "purpose": "JDK tutorials, API docs, release information.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Maven Central",
@@ -7086,8 +7086,8 @@
     "purpose": "JVM artifact registry; verify group/artifact coordinates.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Kubernetes documentation",
@@ -7096,8 +7096,8 @@
     "purpose": "Concepts, kubectl reference, API reference.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "GitHub Docs",
@@ -7106,8 +7106,8 @@
     "purpose": "Actions, REST/GraphQL APIs, Copilot, code security.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Model Context Protocol",
@@ -7116,8 +7116,8 @@
     "purpose": "Protocol spec, concepts (tools/resources/prompts), transports, and security guidance. Read this first.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP specification (GitHub)",
@@ -7126,8 +7126,8 @@
     "purpose": "Spec source, schemas, and proposals.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Official MCP servers",
@@ -7136,8 +7136,8 @@
     "purpose": "Reference servers: filesystem, fetch, git, memory, sequential-thinking, time, everything (test server), plus archived servers list.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP Registry",
@@ -7146,8 +7146,8 @@
     "purpose": "Official community registry for discovering public MCP servers.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP Registry (GitHub)",
@@ -7156,8 +7156,8 @@
     "purpose": "Registry API and publishing process.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP Python SDK",
@@ -7166,8 +7166,8 @@
     "purpose": "Official Python SDK (FastMCP-style server/client) for building MCP servers.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP TypeScript SDK",
@@ -7176,8 +7176,8 @@
     "purpose": "Official TypeScript SDK for servers and clients.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP C# SDK",
@@ -7186,8 +7186,8 @@
     "purpose": "Official .NET SDK, maintained with Microsoft.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP Rust SDK",
@@ -7196,8 +7196,8 @@
     "purpose": "Official Rust SDK (rmcp).",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP Go SDK",
@@ -7206,8 +7206,8 @@
     "purpose": "Official Go SDK, maintained with Google.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP Java SDK",
@@ -7216,8 +7216,8 @@
     "purpose": "Official Java SDK, built on Spring AI infrastructure.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "GitHub MCP Server",
@@ -7226,8 +7226,8 @@
     "purpose": "GitHub's official MCP server: repos, issues, PRs, Actions. Prefer this over scraping GitHub.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Playwright MCP",
@@ -7236,8 +7236,8 @@
     "purpose": "Microsoft's MCP server for browser automation via Playwright accessibility snapshots.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Chrome DevTools MCP",
@@ -7246,8 +7246,8 @@
     "purpose": "Official Chrome DevTools MCP server for debugging, traces, and network inspection.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "AWS MCP servers (awslabs)",
@@ -7256,8 +7256,8 @@
     "purpose": "AWS's suite of MCP servers for AWS services, docs, and architecture guidance.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Cloudflare MCP servers",
@@ -7266,18 +7266,18 @@
     "purpose": "Cloudflare's remote MCP servers for Workers, DNS, observability, and more.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Stripe Agent Toolkit",
-    "url": "https://github.com/stripe/agent-toolkit",
+    "url": "https://github.com/stripe/ai",
     "category": "AI MCP servers and tool use",
     "purpose": "Stripe's official tools for agents, including MCP integration for payments APIs.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Awesome MCP Servers",
@@ -7286,8 +7286,8 @@
     "purpose": "Large community list of MCP servers by category; a discovery aid — verify each server before use.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP.so",
@@ -7296,8 +7296,8 @@
     "purpose": "Community directory of MCP servers and clients with categories.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Glama MCP directory",
@@ -7306,8 +7306,8 @@
     "purpose": "Searchable MCP server directory with listings and metadata.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Smithery",
@@ -7316,8 +7316,8 @@
     "purpose": "Hosted MCP server discovery and connection service.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "PulseMCP",
@@ -7326,18 +7326,18 @@
     "purpose": "MCP server directory and weekly newsletter tracking the ecosystem.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MCP clients list",
     "url": "https://modelcontextprotocol.io/clients",
     "category": "AI MCP servers and tool use",
-    "purpose": "Which clients support which MCP features — check before assuming a client supports resources/prompts/sampling.",
+    "purpose": "Which clients support which MCP features. The standalone clients page now redirects into the versioned MCP documentation; client feature support is maintained there.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "LangChain documentation",
@@ -7346,8 +7346,8 @@
     "purpose": "LangChain + LangGraph docs: agents, tools, retrieval, streaming.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "LangChain (GitHub)",
@@ -7356,8 +7356,8 @@
     "purpose": "Core LangChain monorepo.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "LangGraph",
@@ -7366,8 +7366,8 @@
     "purpose": "Stateful, durable agent orchestration as graphs; persistence and human-in-the-loop.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "LlamaIndex documentation",
@@ -7376,8 +7376,8 @@
     "purpose": "Data framework for RAG and agents: ingestion, indexes, query engines, workflows.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "LlamaIndex (GitHub)",
@@ -7386,8 +7386,8 @@
     "purpose": "LlamaIndex core and integrations.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Microsoft Semantic Kernel",
@@ -7396,8 +7396,8 @@
     "purpose": ".NET/Python/Java AI orchestration SDK from Microsoft.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Microsoft AutoGen",
@@ -7406,8 +7406,8 @@
     "purpose": "Multi-agent conversation framework from Microsoft Research.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "CrewAI",
@@ -7416,8 +7416,8 @@
     "purpose": "Role-based multi-agent crews and flows (Python).",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "OpenAI Agents SDK",
@@ -7426,28 +7426,28 @@
     "purpose": "OpenAI's lightweight agents SDK: agents, handoffs, guardrails, tracing.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Claude Agent SDK (Anthropic docs)",
-    "url": "https://docs.claude.com/en/api/agent-sdk/overview",
+    "url": "https://code.claude.com/docs/en/agent-sdk/overview",
     "category": "AI agent frameworks and orchestration",
     "purpose": "Anthropic's agent SDK for building agents on Muse.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Google Agent Development Kit (ADK)",
-    "url": "https://google.github.io/adk-docs/",
+    "url": "https://adk.dev/",
     "category": "AI agent frameworks and orchestration",
     "purpose": "Google's open-source agent framework (Python/Java/Go).",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Haystack",
@@ -7456,8 +7456,8 @@
     "purpose": "deepset's framework for production NLP/RAG pipelines and agents.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "DSPy",
@@ -7466,18 +7466,18 @@
     "purpose": "Programmatic (compiled) LLM pipelines from Stanford NLP — declare, don't prompt-engineer by hand.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Pydantic AI",
-    "url": "https://ai.pydantic.dev/",
+    "url": "https://pydantic.dev/docs/ai/overview/",
     "category": "AI agent frameworks and orchestration",
     "purpose": "Type-safe Python agent framework from the Pydantic team.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "smolagents (Hugging Face)",
@@ -7486,8 +7486,8 @@
     "purpose": "Minimal agents library where agents write Python code as actions.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Mastra",
@@ -7496,8 +7496,8 @@
     "purpose": "TypeScript agent framework: agents, workflows, RAG, evals.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Vercel AI SDK",
@@ -7506,8 +7506,8 @@
     "purpose": "TypeScript SDK for AI apps: streaming UI, tool calling, provider-agnostic models.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Instructor",
@@ -7516,8 +7516,8 @@
     "purpose": "Structured outputs from LLMs via Pydantic validation and retries.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Ollama",
@@ -7526,8 +7526,8 @@
     "purpose": "One-command local model runner (macOS/Windows/Linux) with an OpenAI-compatible API.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Ollama (GitHub)",
@@ -7536,8 +7536,8 @@
     "purpose": "Source, model library format, API reference.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "SGLang",
@@ -7546,8 +7546,8 @@
     "purpose": "Fast serving framework with structured generation (RadixAttention).",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "LM Studio",
@@ -7556,8 +7556,8 @@
     "purpose": "Desktop app to discover, download, and serve local models with a GUI.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MLX (Apple)",
@@ -7566,8 +7566,8 @@
     "purpose": "Apple's array framework for ML on Apple silicon; mlx-lm runs LLMs locally on Macs.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "whisper.cpp",
@@ -7576,8 +7576,8 @@
     "purpose": "Port of OpenAI Whisper speech recognition in C/C++ for local transcription.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "GPT4All",
@@ -7586,8 +7586,8 @@
     "purpose": "Nomic's local chatbot app and ecosystem.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Jan",
@@ -7596,8 +7596,8 @@
     "purpose": "Open-source offline ChatGPT alternative desktop app.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "NVIDIA TensorRT-LLM",
@@ -7606,8 +7606,8 @@
     "purpose": "Optimized LLM inference on NVIDIA GPUs for production serving.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Hugging Face Text Generation Inference",
@@ -7616,8 +7616,8 @@
     "purpose": "Production inference server for open models (TGI).",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Hugging Face Hub",
@@ -7626,8 +7626,8 @@
     "purpose": "The model/dataset hub: model cards carry license, files, and usage snippets. Read the card before recommending a model.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Hugging Face documentation",
@@ -7636,28 +7636,28 @@
     "purpose": "Transformers, Datasets, Diffusers, PEFT, TRL, and Hub APIs.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "OpenAI platform documentation",
-    "url": "https://platform.openai.com/docs",
+    "url": "https://developers.openai.com/api/docs",
     "category": "AI models and API providers",
     "purpose": "API reference, models, reasoning, tools, and pricing links.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Meta Llama",
-    "url": "https://www.llama.com/",
+    "url": "https://dev.meta.ai/",
     "category": "AI models and API providers",
     "purpose": "Llama models, downloads, and responsible-use docs.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Mistral AI documentation",
@@ -7666,8 +7666,8 @@
     "purpose": "Mistral models and API (chat, embeddings, OCR).",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Cohere documentation",
@@ -7676,8 +7676,8 @@
     "purpose": "Command, Embed, and Rerank APIs — strong for enterprise RAG.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Groq documentation",
@@ -7686,8 +7686,8 @@
     "purpose": "Very fast inference API (LPU) for open models.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Together AI",
@@ -7696,8 +7696,8 @@
     "purpose": "Hosted open-model inference, fine-tuning, and dedicated endpoints.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Fireworks AI",
@@ -7706,8 +7706,8 @@
     "purpose": "Fast hosted inference for open models and fine-tunes.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Replicate",
@@ -7716,8 +7716,8 @@
     "purpose": "Run community and official models (LLMs, image, audio) via one API.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "OpenRouter",
@@ -7726,8 +7726,8 @@
     "purpose": "One API key routed to many providers/models; useful for comparison.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "arXiv",
@@ -7736,18 +7736,18 @@
     "purpose": "Preprint server — where most model papers land first. A paper is a claim, not a benchmark result.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
-    "name": "Papers With Code",
-    "url": "https://paperswithcode.com/",
+    "name": "Papers With Code / Hugging Face Papers",
+    "url": "https://huggingface.co/papers/trending",
     "category": "AI models and API providers",
-    "purpose": "Papers linked to code and benchmark leaderboards (SOTA tables).",
+    "purpose": "Papers With Code now redirects to Hugging Face Papers (trending papers). The original SOTA tables are historical; verify benchmark claims in the linked papers and code.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Pinecone documentation",
@@ -7756,8 +7756,8 @@
     "purpose": "Managed vector database; indexes, namespaces, metadata filtering.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Weaviate documentation",
@@ -7766,8 +7766,8 @@
     "purpose": "Open-source vector database with hybrid search and built-in vectorizers.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Milvus documentation",
@@ -7776,8 +7776,8 @@
     "purpose": "Large-scale open-source vector database from Zilliz.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "302"
   },
   {
     "name": "Chroma documentation",
@@ -7786,8 +7786,8 @@
     "purpose": "Lightweight embedding database popular for local RAG prototypes.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "FAISS",
@@ -7796,8 +7796,8 @@
     "purpose": "Meta's library for efficient similarity search and clustering of dense vectors.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "LanceDB",
@@ -7806,8 +7806,8 @@
     "purpose": "Embedded vector database on the Lance columnar format.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "sqlite-vec",
@@ -7816,28 +7816,28 @@
     "purpose": "Vector search extension for SQLite — good for local/offline apps.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Elasticsearch documentation",
-    "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html",
+    "url": "https://www.elastic.co/docs/reference/elasticsearch",
     "category": "AI retrieval and vector search",
     "purpose": "Full-text + vector (kNN) search; BM25 still matters for hybrid retrieval.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "OpenAI embeddings guide",
-    "url": "https://platform.openai.com/docs/guides/embeddings",
+    "url": "https://developers.openai.com/api/docs/guides/embeddings",
     "category": "AI retrieval and vector search",
     "purpose": "How embeddings work and which model dimensions to expect.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Sentence Transformers documentation",
@@ -7846,8 +7846,8 @@
     "purpose": "Open embedding models, training, and semantic search recipes.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Unstructured",
@@ -7856,8 +7856,8 @@
     "purpose": "Parsing PDFs/Office/HTML into clean elements for ingestion pipelines.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "MarkItDown (Microsoft)",
@@ -7866,8 +7866,8 @@
     "purpose": "Convert Office/PDF/etc. to Markdown for LLM ingestion.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Docling (IBM)",
@@ -7876,8 +7876,8 @@
     "purpose": "Document parsing to Markdown/JSON with layout and OCR support.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "OpenAI Evals",
@@ -7886,8 +7886,8 @@
     "purpose": "OpenAI's eval framework and registry of benchmarks.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "promptfoo",
@@ -7896,8 +7896,8 @@
     "purpose": "CLI-first LLM evals and red-teaming; test prompts/RAG/agents in CI.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "LangSmith documentation",
@@ -7906,8 +7906,8 @@
     "purpose": "LangChain's tracing, datasets, and evaluation platform (works with other frameworks too).",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Langfuse documentation",
@@ -7916,8 +7916,8 @@
     "purpose": "Open-source LLM observability: traces, evals, prompt management.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Arize Phoenix",
@@ -7926,8 +7926,8 @@
     "purpose": "Open-source AI observability and evaluation notebooks/platform.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Weights & Biases documentation",
@@ -7936,8 +7936,8 @@
     "purpose": "Experiment tracking, W&B Weave for LLM tracing/evals.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Ragas documentation",
@@ -7946,8 +7946,8 @@
     "purpose": "RAG evaluation metrics: faithfulness, answer relevancy, context precision/recall.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "DeepEval",
@@ -7956,8 +7956,8 @@
     "purpose": "Unit-test-style LLM evaluation framework (Confident AI).",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Inspect AI (UK AISI)",
@@ -7966,8 +7966,8 @@
     "purpose": "UK AI Security Institute's framework for rigorous model evaluations.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Hugging Face Evaluate",
@@ -7976,18 +7976,18 @@
     "purpose": "Standard ML/NLP metrics library and leaderboard tooling.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "NVIDIA NeMo Guardrails",
-    "url": "https://github.com/NVIDIA/NeMo-Guardrails",
+    "url": "https://github.com/NVIDIA-NeMo/Guardrails",
     "category": "AI evaluation observability and guardrails",
     "purpose": "Programmable guardrails (Colang) for LLM apps.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Guardrails AI",
@@ -7996,38 +7996,38 @@
     "purpose": "Output validation/retry framework with a validator hub.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "OWASP Top 10 for LLM Applications",
-    "url": "https://owasp.org/www-project-top-10-for-large-language-model-applications/",
+    "url": "https://owasp.org/projects/top-10-for-large-language-model-applications",
     "category": "AI evaluation observability and guardrails",
     "purpose": "The security risk list for LLM apps: prompt injection, insecure output handling, training-data poisoning, etc. Read before shipping.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Anthropic prompt engineering guide",
-    "url": "https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview",
+    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview",
     "category": "AI prompt and context engineering",
     "purpose": "Claude prompting: clarity, examples, XML structure, extended thinking.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "OpenAI prompt engineering guide",
-    "url": "https://platform.openai.com/docs/guides/prompt-engineering",
+    "url": "https://developers.openai.com/api/docs/guides/prompt-engineering",
     "category": "AI prompt and context engineering",
     "purpose": "Strategy and tactics for GPT-class models, plus reasoning-model guidance.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Google Gemini prompting strategies",
@@ -8036,8 +8036,8 @@
     "purpose": "Gemini-specific prompting and media prompting.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "302"
   },
   {
     "name": "DAIR Prompt Engineering Guide",
@@ -8046,8 +8046,8 @@
     "purpose": "Comprehensive community guide: techniques, papers, RAG/agent prompting.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Learn Prompting",
@@ -8056,38 +8056,38 @@
     "purpose": "Free course-style prompting documentation, including security topics.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Awesome ChatGPT Prompts",
-    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/prompts.chat",
     "category": "AI prompt and context engineering",
     "purpose": "Large prompt-pattern collection; useful as examples, not as verified best practice.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Anthropic",
-    "url": "https://www.anthropic.com/engineering/building-effective-agents",
+    "url": "https://www.anthropic.com/research/building-effective-agents",
     "category": "AI prompt and context engineering",
     "purpose": "Anthropic's patterns: workflows vs agents, prompt chaining, routing, orchestrator-workers, evaluator-optimizer.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Anthropic",
-    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
     "category": "AI prompt and context engineering",
     "purpose": "Context windows as a finite resource: compaction, note-taking, sub-agents.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "OpenAI",
@@ -8096,8 +8096,8 @@
     "purpose": "OpenAI's practitioner guide: when to use agents, guardrails, orchestration patterns.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Aider",
@@ -8106,8 +8106,8 @@
     "purpose": "Terminal pair-programming with git integration and repo maps.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Cline",
@@ -8116,8 +8116,8 @@
     "purpose": "Autonomous coding agent for VS Code with MCP support.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Continue",
@@ -8126,18 +8126,18 @@
     "purpose": "Open-source AI code assistant for IDEs; bring-your-own-model, MCP support.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "OpenHands",
-    "url": "https://github.com/All-Hands-AI/OpenHands",
+    "url": "https://github.com/OpenHands/OpenHands",
     "category": "AI coding agents and assistants",
     "purpose": "Open platform for autonomous software-development agents.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "SWE-agent",
@@ -8146,8 +8146,8 @@
     "purpose": "Princeton's agent that fixes GitHub issues; SWE-bench reference implementation.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "SWE-bench",
@@ -8156,8 +8156,8 @@
     "purpose": "The standard benchmark for issue-fixing agents; check which split (Lite/Verified) a claim uses.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Muse documentation",
@@ -8166,18 +8166,18 @@
     "purpose": "Copilot features, agent mode, code review, and administration.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Muse documentation",
-    "url": "https://docs.claude.com/en/docs/claude-code/overview",
+    "url": "https://code.claude.com/docs/en/overview",
     "category": "AI coding agents and assistants",
     "purpose": "Anthropic's terminal coding agent: hooks, subagents, MCP, settings.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Gemini CLI",
@@ -8186,8 +8186,8 @@
     "purpose": "Google's open-source terminal agent for Gemini, MCP-compatible.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "OpenCode",
@@ -8196,8 +8196,8 @@
     "purpose": "Open-source terminal coding agent, provider-agnostic.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Roo Code",
@@ -8206,8 +8206,8 @@
     "purpose": "VS Code agent (Cline fork) with modes and MCP marketplace.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "TensorFlow documentation",
@@ -8216,8 +8216,8 @@
     "purpose": "Keras-based training and deployment APIs.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "302"
   },
   {
     "name": "JAX documentation",
@@ -8226,8 +8226,8 @@
     "purpose": "Composable transformations (grad/jit/vmap) for ML research.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "scikit-learn documentation",
@@ -8236,8 +8236,8 @@
     "purpose": "Classical ML: preprocessing, models, model evaluation — still the right tool for many tabular problems.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Hugging Face PEFT",
@@ -8246,8 +8246,8 @@
     "purpose": "Parameter-efficient fine-tuning: LoRA and friends.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Hugging Face TRL",
@@ -8256,8 +8256,8 @@
     "purpose": "SFT/DPO/RLHF training for Transformers models.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Axolotl",
@@ -8266,18 +8266,18 @@
     "purpose": "YAML-configured LLM fine-tuning (LoRA/full) across providers.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "LLaMA-Factory",
-    "url": "https://github.com/hiyouga/LLaMA-Factory",
+    "url": "https://github.com/hiyouga/LlamaFactory",
     "category": "AI machine learning and local inference",
     "purpose": "Fine-tuning toolkit with web UI for 100+ models.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Unsloth",
@@ -8286,8 +8286,8 @@
     "purpose": "Fast, memory-efficient LoRA/QLoRA fine-tuning notebooks and library.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "ONNX documentation",
@@ -8296,8 +8296,8 @@
     "purpose": "Open model interchange format and ONNX Runtime for cross-platform inference.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "NumPy documentation",
@@ -8306,8 +8306,8 @@
     "purpose": "Array computing foundation of the Python ML stack.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Karpathy",
@@ -8316,8 +8316,8 @@
     "purpose": "nanoGPT: the simplest readable GPT training implementation; pair with the YouTube series of the same name.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Karpathy",
@@ -8326,8 +8326,8 @@
     "purpose": "GPT training in plain C/CUDA — what frameworks abstract away, made visible.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Hugging Face LLM Course",
@@ -8336,8 +8336,8 @@
     "purpose": "Free course: Transformers, fine-tuning, datasets, sharing models.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Microsoft",
@@ -8346,8 +8346,8 @@
     "purpose": "12-week curriculum: neural networks, CV, NLP, ethics.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Microsoft",
@@ -8356,8 +8356,8 @@
     "purpose": "21-lesson course on building GenAI apps (Python/TypeScript/.NET tracks).",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Microsoft",
@@ -8366,8 +8366,8 @@
     "purpose": "Classical ML curriculum with projects.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "LLM Course (mlabonne)",
@@ -8376,8 +8376,8 @@
     "purpose": "Roadmap with notebooks: LLM fundamentals, scientist, and engineer tracks.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "The Illustrated Transformer",
@@ -8386,8 +8386,8 @@
     "purpose": "Jay Alammar's visual walkthrough of the Transformer architecture.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Fast.ai",
@@ -8396,18 +8396,18 @@
     "purpose": "Top-down deep learning course (free).",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "DeepLearning.AI short courses",
-    "url": "https://www.deeplearning.ai/short-courses/",
+    "url": "https://www.deeplearning.ai/courses",
     "category": "AI learning and references",
     "purpose": "Short practitioner courses on RAG, agents, fine-tuning, and evals.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Awesome LLM",
@@ -8416,8 +8416,8 @@
     "purpose": "Papers, training frameworks, tools, and courses around LLMs.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Awesome Generative AI",
@@ -8426,8 +8426,8 @@
     "purpose": "Broad GenAI tools and services index.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Awesome LangChain",
@@ -8436,8 +8436,8 @@
     "purpose": "LangChain ecosystem projects and resources.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Awesome Production LLM",
@@ -8446,8 +8446,8 @@
     "purpose": "Production LLM stack components and case studies.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Applied ML (eugeneyan)",
@@ -8456,8 +8456,8 @@
     "purpose": "Papers and blog posts on production ML systems from real companies.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   },
   {
     "name": "Awesome AI Agents",
@@ -8466,7 +8466,7 @@
     "purpose": "Agent frameworks and applications index.",
     "source": "ai-expansion",
     "checked_on": "2026-10-23",
-    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
-    "http_status": "not separately checked"
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; link check 2026-10-23 recorded in http_status (200 = reachable; 403/302 = access-limited to the automated checker, not a dead link); no adoption audit",
+    "http_status": "200"
   }
 ]

@@ -223,3 +223,107 @@ Entries are primary-source pointers (official documentation, official registries
 | [Conan](https://conan.io/center) | C/C++ package manager and Conan Center index. |
 | [Java](https://dev.java/) | JDK tutorials, API docs, release information. |
 | [Maven Central](https://central.sonatype.com/) | JVM artifact registry; verify group/artifact coordinates. |
+
+## Round 2 additions — 2026-10-23
+
+45 further entries, suggested from a gap analysis against the full catalog and approved by Sean. Every URL was link-checked before entry: **45/45 reachable (HTTP 200)**; two already-stale URLs were corrected pre-entry (Exa docs moved to exa.ai/docs; LMArena rebranded to Arena). This round also adds `llms.txt` at the repository root. The repository itself was renamed by Sean from `useful-dev-resources` to `ForAI` on 2026-10-23; older links redirect.
+
+### AI MCP servers and tool use
+
+| Resource | Useful for / constraints |
+|---|---|
+| [MCP Inspector](https://github.com/modelcontextprotocol/inspector) | Official visual testing/debugging tool for MCP servers: inspect tools, resources, prompts, and notifications during development. |
+| [FastMCP](https://gofastmcp.com/) | High-level Python framework for building MCP servers and clients; much of the ecosystem is built on it. Mind the version — FastMCP 1.x was merged into the official Python SDK lineage. |
+
+### AI agent frameworks and orchestration
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Browser Use](https://docs.browser-use.com/) | Library that lets an LLM control a real browser to complete tasks; Python. Powerful and fragile in the usual browser-automation ways. |
+| [Stagehand (Browserbase)](https://docs.stagehand.dev/) | AI browser-automation SDK (act/extract/observe primitives) on Playwright; pairs with Browserbase's hosted browsers. |
+| [Skyvern](https://github.com/Skyvern-AI/skyvern) | Automates browser workflows with LLMs and computer vision, including form filling and 2FA handling; AGPL — check license fit. |
+
+### AI agent memory and context
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Mem0](https://docs.mem0.ai/) | Long-term memory layer for agents: extraction, storage, and retrieval of user/agent memories; self-host or use the hosted platform. |
+| [Letta](https://docs.letta.com/) | Stateful-agent platform (the MemGPT lineage): agents with self-editing long-term memory and persistence. |
+| [Zep](https://help.getzep.com/) | Long-term memory for AI agents built on a temporal knowledge graph (Graphiti); session/context assembly for production apps. |
+
+### AI agent protocols and interoperability
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Agent2Agent (A2A) Protocol](https://a2a-protocol.org/latest/) | Linux Foundation protocol for agent-to-agent discovery, task delegation, and interoperability — the complement to MCP's tool access. Check version compatibility between implementations. |
+| [A2A protocol (GitHub)](https://github.com/a2aproject/A2A) | Specification source, samples, and SDK links for Agent2Agent. |
+| [AG-UI Protocol](https://docs.ag-ui.com/) | Event-based protocol connecting agent backends to user interfaces (streaming state, tool calls, human input). |
+| [CopilotKit](https://docs.copilotkit.ai/) | React framework for agent-native UIs; creators/stewards of AG-UI. Use when the frontend must render agent state, not just chat text. |
+
+### AI data and annotation
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Label Studio](https://labelstud.io/guide/) | Multi-type data labeling platform (text, image, audio) for training and evaluation datasets; open-source core with a hosted tier. |
+| [Argilla](https://docs.argilla.io/) | Data curation and human-feedback platform for LLM datasets (now part of Hugging Face); pairs with Distilabel. |
+| [Distilabel (Argilla)](https://distilabel.argilla.io/) | Framework for synthetic data generation and AI feedback pipelines for fine-tuning and evaluation. |
+
+### AI evaluation observability and guardrails
+
+| Resource | Useful for / constraints |
+|---|---|
+| [LMArena (now Arena)](https://arena.ai/) | Crowdsourced blind-preference model arena — the LMSYS Chatbot Arena lineage, now Arena (lmarena.ai redirects here). Preference rankings are not task benchmarks — read both. |
+| [Artificial Analysis](https://artificialanalysis.ai/) | Independent model/provider comparisons: quality indexes, speed, and price/performance measured the same way across providers. |
+| [LiveBench](https://livebench.ai/) | Contamination-resistant benchmark refreshed with new questions; objective scoring across reasoning, coding, math, and language. |
+| [Terminal-Bench](https://www.tbench.ai/) | Benchmark of real terminal tasks for agents (Stanford/Laude Institute); the reference for CLI-agent claims. |
+| [Garak (NVIDIA)](https://github.com/NVIDIA/garak) | LLM vulnerability scanner: probes for jailbreaks, leakage, hallucination, toxicity, and injection weaknesses. |
+| [PyRIT (Microsoft)](https://github.com/Azure/PyRIT) | Microsoft's Python Risk Identification Toolkit for automated red-teaming of generative AI systems. |
+| [MITRE ATLAS](https://atlas.mitre.org/) | Knowledge base of adversary tactics and techniques against AI systems (the ATT&CK companion for ML threats). |
+| [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) | US NIST's voluntary framework for governing, mapping, measuring, and managing AI risk; useful structure for compliance-minded work. |
+
+### AI machine learning and local inference
+
+| Resource | Useful for / constraints |
+|---|---|
+| [ComfyUI](https://github.com/comfy-org/ComfyUI) | Node-graph interface and engine for diffusion/image (and video/audio) generation; the standard power-user local image stack. |
+| [Hugging Face Diffusers](https://huggingface.co/docs/diffusers) | Pipelines and building blocks for diffusion models (image/video/audio) in PyTorch; model licenses vary per model. |
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Polished local image-generation studio (canvas, workflows) built on Diffusers; AGPL — check license fit. |
+| [Transformers.js](https://huggingface.co/docs/transformers.js) | Run Transformers models in the browser (WebGPU/WASM) — on-device inference with no server; model size is the constraint. |
+| [WebLLM (MLC)](https://webllm.mlc.ai/) | Run LLMs entirely in-browser via WebGPU with an OpenAI-compatible API; part of the MLC stack. |
+| [ExecuTorch](https://docs.pytorch.org/executorch/stable/) | PyTorch's on-device runtime for phones, embedded, and edge; export from PyTorch to a lean device binary. |
+| [tiktoken (OpenAI)](https://github.com/openai/tiktoken) | Fast BPE tokenizer for OpenAI models; use it to count tokens/cost before calls instead of estimating from characters. |
+
+### AI models and API providers
+
+| Resource | Useful for / constraints |
+|---|---|
+| [LiteLLM](https://docs.litellm.ai/) | OpenAI-compatible interface over 100+ model providers, as an SDK or self-hosted gateway with budgets, routing, and fallbacks. |
+| [Portkey](https://portkey.ai/docs) | AI gateway with observability, guardrails, and routing across providers; hosted and self-hosted options. |
+
+### AI prompt and context engineering
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Outlines](https://dottxt-ai.github.io/outlines/) | Structured generation library (dottxt): guarantee valid JSON/regex/grammar-constrained output from local and API models. |
+| [XGrammar](https://xgrammar.mlc.ai/) | Fast, portable grammar engine for structured generation; used under several serving stacks for JSON/schema output. |
+| [Guidance (Microsoft)](https://github.com/guidance-ai/guidance) | Constrain LLM generation with regex/grammar interleaved with generation; effective for strict formats with smaller models. |
+| [BAML](https://docs.boundaryml.com/) | DSL for typed prompt functions with schema-aligned parsing; generates clients for Python/TS/Ruby/Go. |
+
+### AI retrieval and vector search
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Tavily](https://docs.tavily.com/) | Search and extraction API built for LLM agents: search, extract, crawl, and research endpoints with LLM-ready output. |
+| [Exa](https://exa.ai/docs) | Neural/keyword web search API designed for AI applications, with contents retrieval and research modes. |
+| [Jina Reader](https://jina.ai/reader) | Fetch a URL as clean LLM-friendly Markdown via r.jina.ai; simple ingestion building block. Hosted service terms apply. |
+| [Crawl4AI](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly web crawler: structured extraction and Markdown generation for RAG/agent pipelines. |
+| [Marker (Datalab)](https://github.com/datalab-to/marker) | Convert PDFs and documents to Markdown/JSON quickly, with OCR and layout support; check model licenses for the Surya components. |
+
+### AI speech voice and realtime
+
+| Resource | Useful for / constraints |
+|---|---|
+| [LiveKit Agents](https://docs.livekit.io/agents/) | Framework for realtime voice/multimodal agents on LiveKit's WebRTC infrastructure; Python and Node SDKs. |
+| [Pipecat](https://docs.pipecat.ai/) | Open-source Python framework for voice and multimodal conversational agents: pipelines of STT, LLM, TTS, and transports. |
+| [Deepgram](https://developers.deepgram.com/) | Speech APIs: fast streaming speech-to-text, text-to-speech, and voice-agent API. Hosted; per-minute pricing. |
+| [ElevenLabs](https://elevenlabs.io/docs) | Text-to-speech, voice cloning, and conversational agents API. Hosted service; voice-clone consent and terms matter. |

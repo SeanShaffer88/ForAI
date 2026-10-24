@@ -2,7 +2,7 @@
 
 > A project-aware resource library for developers and their AI assistants: repositories, SDKs, APIs, libraries, toolchains, MCP servers, and tools, organized by purpose. This file is the machine-readable index; the knowledge lives at the linked primary sources — verify there before relying on any entry.
 
-892 catalog entries · 888 distinct URLs · 89 purpose-based categories.
+992 catalog entries · 988 distinct URLs · 89 purpose-based categories.
 
 ## Start here
 
@@ -18,26 +18,26 @@
 ## Categories
 
 - [.NET application building blocks](categories/net-application-building-blocks.md) (9)
-- [AI MCP servers and tool use](categories/ai-mcp-servers-and-tool-use.md) (25)
-- [AI agent frameworks and orchestration](categories/ai-agent-frameworks-and-orchestration.md) (22)
-- [AI agent memory and context](categories/ai-agent-memory-and-context.md) (3)
+- [AI MCP servers and tool use](categories/ai-mcp-servers-and-tool-use.md) (39)
+- [AI agent frameworks and orchestration](categories/ai-agent-frameworks-and-orchestration.md) (34)
+- [AI agent memory and context](categories/ai-agent-memory-and-context.md) (6)
 - [AI agent protocols and interoperability](categories/ai-agent-protocols-and-interoperability.md) (4)
-- [AI coding agents and assistants](categories/ai-coding-agents-and-assistants.md) (11)
-- [AI data and annotation](categories/ai-data-and-annotation.md) (3)
-- [AI evaluation observability and guardrails](categories/ai-evaluation-observability-and-guardrails.md) (21)
-- [AI learning and references](categories/ai-learning-and-references.md) (15)
-- [AI machine learning and local inference](categories/ai-machine-learning-and-local-inference.md) (38)
-- [AI models and API providers](categories/ai-models-and-api-providers.md) (15)
-- [AI prompt and context engineering](categories/ai-prompt-and-context-engineering.md) (13)
-- [AI retrieval and vector search](categories/ai-retrieval-and-vector-search.md) (18)
-- [AI speech voice and realtime](categories/ai-speech-voice-and-realtime.md) (4)
+- [AI coding agents and assistants](categories/ai-coding-agents-and-assistants.md) (18)
+- [AI data and annotation](categories/ai-data-and-annotation.md) (6)
+- [AI evaluation observability and guardrails](categories/ai-evaluation-observability-and-guardrails.md) (29)
+- [AI learning and references](categories/ai-learning-and-references.md) (24)
+- [AI machine learning and local inference](categories/ai-machine-learning-and-local-inference.md) (54)
+- [AI models and API providers](categories/ai-models-and-api-providers.md) (24)
+- [AI prompt and context engineering](categories/ai-prompt-and-context-engineering.md) (14)
+- [AI retrieval and vector search](categories/ai-retrieval-and-vector-search.md) (28)
+- [AI speech voice and realtime](categories/ai-speech-voice-and-realtime.md) (8)
 - [API contracts clients and networking](categories/api-contracts-clients-and-networking.md) (17)
 - [Accessibility internationalization and documentation](categories/accessibility-internationalization-and-documentation.md) (8)
 - [Android APK development and analysis](categories/android-apk-development-and-analysis.md) (56)
 - [Backup storage transfer and resilience](categories/backup-storage-transfer-and-resilience.md) (8)
 - [Builds packages and environments](categories/builds-packages-and-environments.md) (19)
 - [CI version control and releases](categories/ci-version-control-and-releases.md) (13)
-- [Cloud infrastructure and deployment](categories/cloud-infrastructure-and-deployment.md) (18)
+- [Cloud infrastructure and deployment](categories/cloud-infrastructure-and-deployment.md) (20)
 - [Collaboration local state and rich text](categories/collaboration-local-state-and-rich-text.md) (9)
 - [Databases data access and analytics](categories/databases-data-access-and-analytics.md) (17)
 - [Desktop mobile and device SDKs](categories/desktop-mobile-and-device-sdks.md) (14)
@@ -57,7 +57,7 @@
 - [Security identity and supply chain](categories/security-identity-and-supply-chain.md) (19)
 - [Standards and discovery](categories/standards-and-discovery.md) (6)
 - [Testing verification and performance](categories/testing-verification-and-performance.md) (19)
-- [Web interfaces and application frameworks](categories/web-interfaces-and-application-frameworks.md) (18)
+- [Web interfaces and application frameworks](categories/web-interfaces-and-application-frameworks.md) (20)
 - [WebAssembly and plugin runtimes](categories/webassembly-and-plugin-runtimes.md) (6)
 - [Windows / .NET application helpers](categories/windows-net-application-helpers.md) (3)
 - [Windows / Binary and build analysis](categories/windows-binary-and-build-analysis.md) (6)

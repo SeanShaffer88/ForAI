@@ -33,3 +33,20 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [Browser Use](https://docs.browser-use.com/) | Library that lets an LLM control a real browser to complete tasks; Python. Powerful and fragile in the usual browser-automation ways. |
 | [Stagehand (Browserbase)](https://docs.stagehand.dev/) | AI browser-automation SDK (act/extract/observe primitives) on Playwright; pairs with Browserbase's hosted browsers. |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | Automates browser workflows with LLMs and computer vision, including form filling and 2FA handling; AGPL — check license fit. |
+
+## AI expansion round 3 additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Dify](https://docs.dify.ai/) | Open-source LLM app platform: visual workflows, RAG, agent tools, and an API layer for shipping AI apps. |
+| [Langflow](https://docs.langflow.org/) | Visual builder for LangChain-based agents and flows; exportable to code/API. |
+| [Agno](https://docs.agno.com/) | Lightweight Python framework for multi-modal agents with memory, knowledge, and tools (the Phidata lineage). |
+| [Strands Agents (AWS)](https://strandsagents.com/) | AWS's open-source, model-driven agent SDK (Python/TypeScript); Bedrock-first but provider-agnostic. |
+| [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) | Microsoft's successor line uniting Semantic Kernel and AutoGen patterns for .NET/Python agents and workflows. |
+| [BeeAI Framework](https://framework.beeai.dev/) | IBM-backed open framework for building agents in Python/TypeScript, with A2A/ACP interoperability work. |
+| [n8n](https://docs.n8n.io/) | Workflow automation platform with first-class AI/agent nodes; self-hostable. Good for glue automations around models. |
+| [Firebase Genkit](https://genkit.dev/) | Google's open-source framework for AI-powered apps (Go/JS/Python) with flows, tooling, and a dev UI. |
+| [E2B](https://docs.e2b.dev/) | Secure cloud sandboxes for AI agents to run code — the standard isolated-execution layer for code agents. |
+| [Daytona](https://www.daytona.io/docs/) | Sandboxes and dev environments for AI-generated code and agent workloads, with fast cold starts. |
+| [Browserbase](https://docs.browserbase.com/) | Hosted headless browsers for agents: sessions, debugging, and stealth infrastructure under Stagehand and friends. |
+| [Restack](https://docs.restack.io/) | Open-source framework for durable, long-running AI agents and workflows with deterministic replay. |

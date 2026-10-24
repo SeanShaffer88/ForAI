@@ -38,7 +38,7 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Hugging Face PEFT](https://huggingface.co/docs/peft) | Parameter-efficient fine-tuning: LoRA and friends. |
 | [Hugging Face TRL](https://huggingface.co/docs/trl) | SFT/DPO/RLHF training for Transformers models. |
 | [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) | YAML-configured LLM fine-tuning (LoRA/full) across providers. |
-| [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | Fine-tuning toolkit with web UI for 100+ models. |
+| [LLaMA-Factory](https://github.com/hiyouga/LlamaFactory) | Fine-tuning toolkit with web UI for 100+ models. |
 | [Unsloth](https://github.com/unslothai/unsloth) | Fast, memory-efficient LoRA/QLoRA fine-tuning notebooks and library. |
 | [ONNX documentation](https://onnx.ai/onnx/) | Open model interchange format and ONNX Runtime for cross-platform inference. |
 | [NumPy documentation](https://numpy.org/doc/stable/) | Array computing foundation of the Python ML stack. |

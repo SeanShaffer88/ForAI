@@ -29,3 +29,18 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [Jina Reader](https://jina.ai/reader) | Fetch a URL as clean LLM-friendly Markdown via r.jina.ai; simple ingestion building block. Hosted service terms apply. |
 | [Crawl4AI](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly web crawler: structured extraction and Markdown generation for RAG/agent pipelines. |
 | [Marker (Datalab)](https://github.com/datalab-to/marker) | Convert PDFs and documents to Markdown/JSON quickly, with OCR and layout support; check model licenses for the Surya components. |
+
+## AI expansion round 3 additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [GraphRAG (Microsoft)](https://microsoft.github.io/graphrag/) | Microsoft's graph-based RAG: build a knowledge graph from a corpus for global, theme-level questions naive RAG misses. |
+| [LightRAG](https://github.com/HKUDS/LightRAG) | Lightweight graph-enhanced RAG framework (HKUDS) with incremental updates; simpler than full GraphRAG. |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | Open-source RAG engine with deep document understanding, chunking visualizations, and agent/canvas features. |
+| [Onyx (formerly Danswer)](https://docs.onyx.app/) | Open-source enterprise search and AI chat over company knowledge (connectors, permissions-aware). |
+| [Chonkie](https://github.com/feyninc/chonkie) | Fast, feathery text chunking library for RAG: many chunking strategies with a small footprint. |
+| [RAGatouille](https://github.com/AnswerDotAI/RAGatouille) | Easy ColBERT late-interaction retrieval for RAG — strong quality per index size. |
+| [Turbopuffer](https://turbopuffer.com/docs) | Serverless vector + full-text search built on object storage; cheap at large scale. |
+| [Apify](https://docs.apify.com/) | Web scraping and automation platform (Actors) increasingly used as agent tooling and a data source for RAG. |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Baidu's multilingual OCR toolkit; a standard choice for document ingestion pipelines. |
+| [Surya](https://github.com/datalab-to/surya) | OCR, layout analysis, and table recognition in 90+ languages; the engine under Marker. |

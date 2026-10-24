@@ -54,3 +54,24 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [WebLLM (MLC)](https://webllm.mlc.ai/) | Run LLMs entirely in-browser via WebGPU with an OpenAI-compatible API; part of the MLC stack. |
 | [ExecuTorch](https://docs.pytorch.org/executorch/stable/) | PyTorch's on-device runtime for phones, embedded, and edge; export from PyTorch to a lean device binary. |
 | [tiktoken (OpenAI)](https://github.com/openai/tiktoken) | Fast BPE tokenizer for OpenAI models; use it to count tokens/cost before calls instead of estimating from characters. |
+
+## AI expansion round 3 additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Open WebUI](https://docs.openwebui.com/) | Self-hosted ChatGPT-style interface for Ollama/OpenAI-compatible backends, with RAG and user management. |
+| [text-generation-webui](https://github.com/oobabooga/textgen) | The long-standing Gradio UI for running local LLMs (llama.cpp/Transformers/ExLlama backends). |
+| [MLC LLM](https://github.com/mlc-ai/mlc-llm) | Compile and deploy LLMs across GPUs, phones, and browsers from one stack (the engine behind WebLLM). |
+| [OpenVINO](https://docs.openvino.ai/) | Intel's toolkit for optimizing and deploying inference on Intel CPUs, GPUs, and NPUs. |
+| [Hugging Face Accelerate](https://huggingface.co/docs/accelerate) | Train PyTorch models on any hardware setup (single GPU to clusters) with minimal code changes; under most HF training. |
+| [DeepSpeed](https://www.deepspeed.ai/) | Microsoft's distributed training library (ZeRO sharding) for very large models; also inference kernels. |
+| [torchtune](https://meta-pytorch.org/torchtune/) | PyTorch-native library of hackable fine-tuning recipes for popular LLMs (LoRA, full, QAT). |
+| [mergekit (Arcee)](https://github.com/arcee-ai/mergekit) | Merge and evolve model weights (SLERP, TIES, DARE and more) — how many community model variants are made. |
+| [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) | 8-bit/4-bit optimizers and quantization for PyTorch — the library behind most QLoRA setups. |
+| [AWQ (MIT Han Lab)](https://github.com/mit-han-lab/llm-awq) | Activation-aware weight quantization for LLMs: 4-bit models with small quality loss, widely deployed. |
+| [Safetensors](https://huggingface.co/docs/safetensors) | The safe, fast tensor file format that replaced pickle-based checkpoints across the HF ecosystem. |
+| [GGUF format specification](https://github.com/ggml-org/ggml/blob/master/docs/gguf.md) | The GGUF file-format spec (successor to GGML) used by llama.cpp-ecosystem models and quantization levels. |
+| [Ray](https://docs.ray.io/) | Distributed compute framework behind many training/serving stacks (Ray Train, Ray Serve, vLLM deployments). |
+| [Ultralytics YOLO](https://docs.ultralytics.com/) | The YOLO object-detection family and tooling; the default starting point for applied computer vision. |
+| [Segment Anything (Meta)](https://github.com/facebookresearch/segment-anything) | Meta's promptable segmentation model (SAM) and dataset tooling; a foundation block for vision pipelines. |
+| [OpenPipe ART](https://github.com/OpenPipe/ART) | Agent Reinforcement Trainer: RL training (GRPO) for multi-step agents on your own data and backends. |

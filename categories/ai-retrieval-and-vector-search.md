@@ -13,8 +13,8 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [FAISS](https://github.com/facebookresearch/faiss) | Meta's library for efficient similarity search and clustering of dense vectors. |
 | [LanceDB](https://lancedb.github.io/lancedb/) | Embedded vector database on the Lance columnar format. |
 | [sqlite-vec](https://github.com/asg017/sqlite-vec) | Vector search extension for SQLite — good for local/offline apps. |
-| [Elasticsearch documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) | Full-text + vector (kNN) search; BM25 still matters for hybrid retrieval. |
-| [OpenAI embeddings guide](https://platform.openai.com/docs/guides/embeddings) | How embeddings work and which model dimensions to expect. |
+| [Elasticsearch documentation](https://www.elastic.co/docs/reference/elasticsearch) | Full-text + vector (kNN) search; BM25 still matters for hybrid retrieval. |
+| [OpenAI embeddings guide](https://developers.openai.com/api/docs/guides/embeddings) | How embeddings work and which model dimensions to expect. |
 | [Sentence Transformers documentation](https://www.sbert.net/) | Open embedding models, training, and semantic search recipes. |
 | [Unstructured](https://docs.unstructured.io/) | Parsing PDFs/Office/HTML into clean elements for ingestion pipelines. |
 | [MarkItDown (Microsoft)](https://github.com/microsoft/markitdown) | Convert Office/PDF/etc. to Markdown for LLM ingestion. |

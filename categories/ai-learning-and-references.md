@@ -15,7 +15,7 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [LLM Course (mlabonne)](https://github.com/mlabonne/llm-course) | Roadmap with notebooks: LLM fundamentals, scientist, and engineer tracks. |
 | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | Jay Alammar's visual walkthrough of the Transformer architecture. |
 | [Fast.ai](https://course.fast.ai/) | Top-down deep learning course (free). |
-| [DeepLearning.AI short courses](https://www.deeplearning.ai/short-courses/) | Short practitioner courses on RAG, agents, fine-tuning, and evals. |
+| [DeepLearning.AI short courses](https://www.deeplearning.ai/courses) | Short practitioner courses on RAG, agents, fine-tuning, and evals. |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Papers, training frameworks, tools, and courses around LLMs. |
 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | Broad GenAI tools and services index. |
 | [Awesome Production LLM](https://github.com/jihoo-kim/awesome-production-llm) | Production LLM stack components and case studies. |

@@ -8918,5 +8918,1005 @@
     "checked_on": "2026-10-23",
     "review": "AI expansion round 2 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
     "http_status": "200"
+  },
+  {
+    "name": "Dify",
+    "url": "https://docs.dify.ai/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Open-source LLM app platform: visual workflows, RAG, agent tools, and an API layer for shipping AI apps.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Langflow",
+    "url": "https://docs.langflow.org/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Visual builder for LangChain-based agents and flows; exportable to code/API.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Agno",
+    "url": "https://docs.agno.com/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Lightweight Python framework for multi-modal agents with memory, knowledge, and tools (the Phidata lineage).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Strands Agents (AWS)",
+    "url": "https://strandsagents.com/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "AWS's open-source, model-driven agent SDK (Python/TypeScript); Bedrock-first but provider-agnostic.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Microsoft Agent Framework",
+    "url": "https://learn.microsoft.com/en-us/agent-framework/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Microsoft's successor line uniting Semantic Kernel and AutoGen patterns for .NET/Python agents and workflows.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "BeeAI Framework",
+    "url": "https://framework.beeai.dev/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "IBM-backed open framework for building agents in Python/TypeScript, with A2A/ACP interoperability work.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "n8n",
+    "url": "https://docs.n8n.io/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Workflow automation platform with first-class AI/agent nodes; self-hostable. Good for glue automations around models.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Firebase Genkit",
+    "url": "https://genkit.dev/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Google's open-source framework for AI-powered apps (Go/JS/Python) with flows, tooling, and a dev UI.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "E2B",
+    "url": "https://docs.e2b.dev/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Secure cloud sandboxes for AI agents to run code — the standard isolated-execution layer for code agents.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Daytona",
+    "url": "https://www.daytona.io/docs/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Sandboxes and dev environments for AI-generated code and agent workloads, with fast cold starts.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Browserbase",
+    "url": "https://docs.browserbase.com/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Hosted headless browsers for agents: sessions, debugging, and stealth infrastructure under Stagehand and friends.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Restack",
+    "url": "https://docs.restack.io/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Open-source framework for durable, long-running AI agents and workflows with deterministic replay.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Docker MCP Toolkit and Catalog",
+    "url": "https://docs.docker.com/ai/mcp-catalog-and-toolkit/",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Docker's curated MCP catalog and toolkit: run MCP servers as containers with isolation and secret handling.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Kubernetes MCP Server",
+    "url": "https://github.com/containers/kubernetes-mcp-server",
+    "category": "AI MCP servers and tool use",
+    "purpose": "MCP server for Kubernetes and OpenShift operations via native API calls.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Terraform MCP Server (HashiCorp)",
+    "url": "https://github.com/hashicorp/terraform-mcp-server",
+    "category": "AI MCP servers and tool use",
+    "purpose": "HashiCorp's MCP server for Terraform Registry modules, providers, and workspace operations.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "MongoDB MCP Server",
+    "url": "https://github.com/mongodb-js/mongodb-mcp-server",
+    "category": "AI MCP servers and tool use",
+    "purpose": "MongoDB's official MCP server for database exploration and operations (read-only modes available).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Supabase MCP Server",
+    "url": "https://github.com/supabase/mcp",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Supabase's official MCP server: manage tables, run SQL, and deploy functions from an agent. Use read-only mode for safety.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Neon MCP Server",
+    "url": "https://github.com/neondatabase/mcp-server-neon",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Neon's MCP server for managing serverless Postgres projects, branches, and queries.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Redis MCP Server",
+    "url": "https://github.com/redis/mcp-redis",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Redis's official MCP server for natural-language operations against Redis data.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Sentry MCP Server",
+    "url": "https://github.com/getsentry/toolkit",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Sentry's official MCP server (now developed in Sentry's toolkit monorepo): query issues, errors, and performance data from coding agents.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Linear MCP Server",
+    "url": "https://linear.app/docs/mcp",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Linear's official remote MCP server for issues and project data in agents.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Figma MCP Server (Dev Mode)",
+    "url": "https://developers.figma.com/docs/figma-mcp-server/",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Figma's official MCP server: bring design context (and code generation hints) into coding agents.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "ToolHive (Stacklok)",
+    "url": "https://docs.stacklok.com/toolhive/",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Run and manage MCP servers in containers with a registry, proxy, and access controls.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "ContextForge MCP Gateway (IBM)",
+    "url": "https://github.com/IBM/mcp-context-forge",
+    "category": "AI MCP servers and tool use",
+    "purpose": "IBM's open-source MCP gateway and registry: federation, auth, and tool virtualization for teams.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "LangChain MCP Adapters",
+    "url": "https://github.com/langchain-ai/langchain-mcp-adapters",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Adapters that turn MCP tools into LangChain/LangGraph tools; the standard bridge between the two ecosystems.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "mcp-use",
+    "url": "https://github.com/mcp-use/mcp-use",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Framework to build full MCP agents (client + server) in Python/TypeScript, with a hosted inspector.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Amazon Bedrock",
+    "url": "https://docs.aws.amazon.com/bedrock/",
+    "category": "AI models and API providers",
+    "purpose": "AWS's managed foundation-model service: model choice, Agents, Knowledge Bases, and guardrails inside AWS.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Azure AI Foundry",
+    "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/",
+    "category": "AI models and API providers",
+    "purpose": "Microsoft's AI platform: Azure OpenAI and a broad model catalog, agents, and evaluation tooling.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "NVIDIA NIM",
+    "url": "https://docs.nvidia.com/nim/",
+    "category": "AI models and API providers",
+    "purpose": "NVIDIA's optimized inference microservices for deploying models on NVIDIA GPUs, cloud or on-prem.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "xAI (Grok) API",
+    "url": "https://docs.x.ai/",
+    "category": "AI models and API providers",
+    "purpose": "xAI's API for Grok models, including realtime data features; OpenAI-compatible endpoints.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Perplexity API",
+    "url": "https://docs.perplexity.ai/",
+    "category": "AI models and API providers",
+    "purpose": "Search-grounded answer APIs (Sonar) and chat completions with citations.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "DeepSeek API",
+    "url": "https://api-docs.deepseek.com/",
+    "category": "AI models and API providers",
+    "purpose": "DeepSeek's API platform for its chat and reasoning models; OpenAI/Anthropic-compatible formats.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Cerebras Inference",
+    "url": "https://inference-docs.cerebras.ai/",
+    "category": "AI models and API providers",
+    "purpose": "Wafer-scale inference with very high tokens/sec for open models; OpenAI-compatible API.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Voyage AI",
+    "url": "https://docs.voyageai.com/",
+    "category": "AI models and API providers",
+    "purpose": "Embeddings and rerankers (general, code, finance, law) — a common upgrade over default embedding models for RAG.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Baseten",
+    "url": "https://docs.baseten.co/",
+    "category": "AI models and API providers",
+    "purpose": "Hosted inference for custom and open models with autoscaling GPUs and model APIs (Truss).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Modal",
+    "url": "https://modal.com/docs",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "Serverless GPU compute in Python: deploy model inference, batch jobs, and sandboxes without managing servers.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "RunPod",
+    "url": "https://docs.runpod.io/",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "GPU cloud (Pods and Serverless endpoints) commonly used for model hosting and fine-tuning runs.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Open WebUI",
+    "url": "https://docs.openwebui.com/",
+    "category": "AI machine learning and local inference",
+    "purpose": "Self-hosted ChatGPT-style interface for Ollama/OpenAI-compatible backends, with RAG and user management.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "text-generation-webui",
+    "url": "https://github.com/oobabooga/textgen",
+    "category": "AI machine learning and local inference",
+    "purpose": "The long-standing Gradio UI for running local LLMs (llama.cpp/Transformers/ExLlama backends).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "MLC LLM",
+    "url": "https://github.com/mlc-ai/mlc-llm",
+    "category": "AI machine learning and local inference",
+    "purpose": "Compile and deploy LLMs across GPUs, phones, and browsers from one stack (the engine behind WebLLM).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "OpenVINO",
+    "url": "https://docs.openvino.ai/",
+    "category": "AI machine learning and local inference",
+    "purpose": "Intel's toolkit for optimizing and deploying inference on Intel CPUs, GPUs, and NPUs.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "GraphRAG (Microsoft)",
+    "url": "https://microsoft.github.io/graphrag/",
+    "category": "AI retrieval and vector search",
+    "purpose": "Microsoft's graph-based RAG: build a knowledge graph from a corpus for global, theme-level questions naive RAG misses.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "LightRAG",
+    "url": "https://github.com/HKUDS/LightRAG",
+    "category": "AI retrieval and vector search",
+    "purpose": "Lightweight graph-enhanced RAG framework (HKUDS) with incremental updates; simpler than full GraphRAG.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "RAGFlow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "category": "AI retrieval and vector search",
+    "purpose": "Open-source RAG engine with deep document understanding, chunking visualizations, and agent/canvas features.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Onyx (formerly Danswer)",
+    "url": "https://docs.onyx.app/",
+    "category": "AI retrieval and vector search",
+    "purpose": "Open-source enterprise search and AI chat over company knowledge (connectors, permissions-aware).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Chonkie",
+    "url": "https://github.com/feyninc/chonkie",
+    "category": "AI retrieval and vector search",
+    "purpose": "Fast, feathery text chunking library for RAG: many chunking strategies with a small footprint.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "RAGatouille",
+    "url": "https://github.com/AnswerDotAI/RAGatouille",
+    "category": "AI retrieval and vector search",
+    "purpose": "Easy ColBERT late-interaction retrieval for RAG — strong quality per index size.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Turbopuffer",
+    "url": "https://turbopuffer.com/docs",
+    "category": "AI retrieval and vector search",
+    "purpose": "Serverless vector + full-text search built on object storage; cheap at large scale.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Apify",
+    "url": "https://docs.apify.com/",
+    "category": "AI retrieval and vector search",
+    "purpose": "Web scraping and automation platform (Actors) increasingly used as agent tooling and a data source for RAG.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "category": "AI retrieval and vector search",
+    "purpose": "Baidu's multilingual OCR toolkit; a standard choice for document ingestion pipelines.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Surya",
+    "url": "https://github.com/datalab-to/surya",
+    "category": "AI retrieval and vector search",
+    "purpose": "OCR, layout analysis, and table recognition in 90+ languages; the engine under Marker.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Opik (Comet)",
+    "url": "https://www.comet.com/docs/opik/",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Open-source LLM evaluation and tracing platform from Comet: datasets, experiments, and production monitoring.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Braintrust",
+    "url": "https://www.braintrust.dev/docs",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Eval-first AI product platform: scoring, datasets, prompt playground, and production logging.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Evidently AI",
+    "url": "https://docs.evidentlyai.com/",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Open-source evaluation and monitoring for ML and LLM systems, with reports and a monitoring service.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "TensorZero",
+    "url": "https://github.com/tensorzero/tensorzero",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Open-source stack unifying an LLM gateway, observability, evals, and optimization (prompts/models from data).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "OpenLLMetry (Traceloop)",
+    "url": "https://github.com/traceloop/openllmetry",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "OpenTelemetry-based instrumentation for LLM apps and frameworks; pairs with any OTel backend.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "AgentOps",
+    "url": "https://docs.agentops.ai/",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Observability platform purpose-built for agents: session replays, cost/latency, and failure analysis.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "LLM Guard (Protect AI)",
+    "url": "https://github.com/protectai/llm-guard",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Input/output scanners for LLM apps: prompt-injection, PII, toxicity, and secrets detection/mitigation.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Lakera Guard",
+    "url": "https://docs.lakera.ai/",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Hosted runtime defense against prompt injection and data leakage, with a public prompt-attack database (Gandalf lineage).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "TextGrad",
+    "url": "https://github.com/zou-group/textgrad",
+    "category": "AI prompt and context engineering",
+    "purpose": "Automatic 'textual gradient' optimization of prompts and compound AI systems (Stanford; Nature-published).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Hugging Face Accelerate",
+    "url": "https://huggingface.co/docs/accelerate",
+    "category": "AI machine learning and local inference",
+    "purpose": "Train PyTorch models on any hardware setup (single GPU to clusters) with minimal code changes; under most HF training.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "DeepSpeed",
+    "url": "https://www.deepspeed.ai/",
+    "category": "AI machine learning and local inference",
+    "purpose": "Microsoft's distributed training library (ZeRO sharding) for very large models; also inference kernels.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "torchtune",
+    "url": "https://meta-pytorch.org/torchtune/",
+    "category": "AI machine learning and local inference",
+    "purpose": "PyTorch-native library of hackable fine-tuning recipes for popular LLMs (LoRA, full, QAT).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "mergekit (Arcee)",
+    "url": "https://github.com/arcee-ai/mergekit",
+    "category": "AI machine learning and local inference",
+    "purpose": "Merge and evolve model weights (SLERP, TIES, DARE and more) — how many community model variants are made.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "bitsandbytes",
+    "url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+    "category": "AI machine learning and local inference",
+    "purpose": "8-bit/4-bit optimizers and quantization for PyTorch — the library behind most QLoRA setups.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "AWQ (MIT Han Lab)",
+    "url": "https://github.com/mit-han-lab/llm-awq",
+    "category": "AI machine learning and local inference",
+    "purpose": "Activation-aware weight quantization for LLMs: 4-bit models with small quality loss, widely deployed.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Safetensors",
+    "url": "https://huggingface.co/docs/safetensors",
+    "category": "AI machine learning and local inference",
+    "purpose": "The safe, fast tensor file format that replaced pickle-based checkpoints across the HF ecosystem.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "GGUF format specification",
+    "url": "https://github.com/ggml-org/ggml/blob/master/docs/gguf.md",
+    "category": "AI machine learning and local inference",
+    "purpose": "The GGUF file-format spec (successor to GGML) used by llama.cpp-ecosystem models and quantization levels.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Ray",
+    "url": "https://docs.ray.io/",
+    "category": "AI machine learning and local inference",
+    "purpose": "Distributed compute framework behind many training/serving stacks (Ray Train, Ray Serve, vLLM deployments).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Ultralytics YOLO",
+    "url": "https://docs.ultralytics.com/",
+    "category": "AI machine learning and local inference",
+    "purpose": "The YOLO object-detection family and tooling; the default starting point for applied computer vision.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Segment Anything (Meta)",
+    "url": "https://github.com/facebookresearch/segment-anything",
+    "category": "AI machine learning and local inference",
+    "purpose": "Meta's promptable segmentation model (SAM) and dataset tooling; a foundation block for vision pipelines.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "OpenPipe ART",
+    "url": "https://github.com/OpenPipe/ART",
+    "category": "AI machine learning and local inference",
+    "purpose": "Agent Reinforcement Trainer: RL training (GRPO) for multi-step agents on your own data and backends.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Gradio",
+    "url": "https://www.gradio.app/docs",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Python library for ML demo interfaces in a few lines; the UI under a large share of HF Spaces.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Streamlit",
+    "url": "https://docs.streamlit.io/",
+    "category": "Web interfaces and application frameworks",
+    "purpose": "Turn Python scripts into data/LLM apps quickly; a common first UI for internal AI tools.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Codex CLI (OpenAI)",
+    "url": "https://github.com/openai/codex",
+    "category": "AI coding agents and assistants",
+    "purpose": "OpenAI's open-source terminal coding agent (Rust) for the Codex models; sandboxed approvals model.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Goose (Block)",
+    "url": "https://block.github.io/goose/",
+    "category": "AI coding agents and assistants",
+    "purpose": "Block's open-source, extensible AI agent (Rust) that installs, executes, and tests code; strong MCP support.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Kilo Code",
+    "url": "https://github.com/Kilo-Org/kilocode",
+    "category": "AI coding agents and assistants",
+    "purpose": "Popular open-source VS Code agent (Cline/Roo lineage) with modes, MCP marketplace, and multi-model support.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Devin (Cognition)",
+    "url": "https://docs.devin.ai/",
+    "category": "AI coding agents and assistants",
+    "purpose": "Cognition's autonomous software-engineering agent product; docs cover sessions, knowledge, and API use.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Kiro (AWS)",
+    "url": "https://kiro.dev/docs/",
+    "category": "AI coding agents and assistants",
+    "purpose": "AWS's spec-driven agentic IDE: requirements/design/tasks before code, built for production workflows.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Tabby",
+    "url": "https://tabby.tabbyml.com/docs/",
+    "category": "AI coding agents and assistants",
+    "purpose": "Self-hosted AI coding assistant (completion and chat) for teams that cannot send code to a cloud.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "LLM CLI (Simon Willison)",
+    "url": "https://llm.datasette.io/",
+    "category": "AI coding agents and assistants",
+    "purpose": "Command-line tool to run prompts against many models from the shell, with logging to SQLite and plugin-extensible providers.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "category": "AI agent memory and context",
+    "purpose": "Open-source memory layer that builds a knowledge graph from documents and conversations for agent recall (ECL pipeline).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Graphiti (Zep)",
+    "url": "https://github.com/getzep/graphiti",
+    "category": "AI agent memory and context",
+    "purpose": "Temporal knowledge-graph engine for agent memory — the open core under Zep; tracks facts as they change over time.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "LangMem (LangChain)",
+    "url": "https://github.com/langchain-ai/langmem",
+    "category": "AI agent memory and context",
+    "purpose": "LangChain's memory toolkit: extract, store, and retrieve long-term memories for LangGraph agents.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Faster Whisper",
+    "url": "https://github.com/SYSTRAN/faster-whisper",
+    "category": "AI speech voice and realtime",
+    "purpose": "Whisper reimplemented on CTranslate2: up to 4x faster with less memory; the usual production Whisper choice.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "WhisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "category": "AI speech voice and realtime",
+    "purpose": "Whisper with word-level timestamps, alignment, and speaker diarization for transcription pipelines.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Kokoro TTS",
+    "url": "https://github.com/hexgrad/kokoro",
+    "category": "AI speech voice and realtime",
+    "purpose": "Small (82M) open-weight text-to-speech model with fast CPU inference and an OpenAI-compatible server ecosystem.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "F5-TTS",
+    "url": "https://github.com/SWivid/F5-TTS",
+    "category": "AI speech voice and realtime",
+    "purpose": "Diffusion-transformer TTS with zero-shot voice cloning from a short reference clip.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "NeMo Curator",
+    "url": "https://github.com/NVIDIA-NeMo/Curator",
+    "category": "AI data and annotation",
+    "purpose": "GPU-accelerated data curation for LLM training: filtering, deduplication, and quality scoring at scale.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "DataTrove (Hugging Face)",
+    "url": "https://github.com/huggingface/datatrove",
+    "category": "AI data and annotation",
+    "purpose": "HF's library for large-scale text data processing — how datasets like FineWeb were built.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Dolma (AI2)",
+    "url": "https://huggingface.co/datasets/allenai/dolma",
+    "category": "AI data and annotation",
+    "purpose": "AI2's 3T-token open pretraining corpus with its curation toolkit and documentation.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "OpenAI Cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "category": "AI learning and references",
+    "purpose": "Example notebooks for the OpenAI API: embeddings, RAG, agents, evals — copy-adapt patterns, verify model names/pricing in current docs.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Anthropic Cookbooks",
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "category": "AI learning and references",
+    "purpose": "Worked Claude examples: tool use, RAG, agents, vision, and evaluation patterns.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Google Gemini Cookbook",
+    "url": "https://github.com/google-gemini/cookbook",
+    "category": "AI learning and references",
+    "purpose": "Gemini API examples and quickstarts from Google, including multimodal and agent patterns.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Hugging Face Agents Course",
+    "url": "https://huggingface.co/learn/agents-course",
+    "category": "AI learning and references",
+    "purpose": "Free course on building agents (smolagents, LangGraph, LlamaIndex) with a certification track.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Anthropic Courses",
+    "url": "https://github.com/anthropics/courses",
+    "category": "AI learning and references",
+    "purpose": "Anthropic's own courses: API fundamentals, prompt engineering, and tool use, as notebooks.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "LLMs from Scratch (Raschka)",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "category": "AI learning and references",
+    "purpose": "Build a GPT-style LLM step by step in PyTorch — the companion repo to the book, excellent for fundamentals.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Lil'Log (Lilian Weng)",
+    "url": "https://lilianweng.github.io/",
+    "category": "AI learning and references",
+    "purpose": "Long-form, carefully-cited explainers on agents, reward hacking, diffusion, and alignment from OpenAI's Lilian Weng.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Stanford CS336: Language Modeling from Scratch",
+    "url": "https://cs336.stanford.edu/",
+    "category": "AI learning and references",
+    "purpose": "Stanford's build-everything course: tokenizers, Transformers, training, data, and evaluation from first principles.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
+  },
+  {
+    "name": "Attention Is All You Need (paper)",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "category": "AI learning and references",
+    "purpose": "The 2017 Transformer paper. Read it before citing it; most 'Transformer facts' trace back here.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion round 3 2026-10-23; primary source identified from official documentation or the project's own repository; link checked at entry on 2026-10-23, result recorded in http_status; no adoption audit",
+    "http_status": "200"
   }
 ]

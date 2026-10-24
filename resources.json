@@ -6908,5 +6908,1565 @@
     "checked_on": "2026-10-23",
     "review": "Official pack page and downloaded 2.0 ZIP license inspected: CC0. Six selected food GLBs plus four further Nature Kit props passed glTF Validator with zero errors/warnings; local paths and exact hashes retained in Emberline. Scope is the selected subset, not an audit of all 200 models or a phone performance check.",
     "http_status": "200"
+  },
+  {
+    "name": "Rust",
+    "url": "https://www.rust-lang.org/",
+    "category": "Languages and runtimes",
+    "purpose": "Language home; install via rustup, edition and release info.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "The Rust Book",
+    "url": "https://doc.rust-lang.org/book/",
+    "category": "Languages and runtimes",
+    "purpose": "Canonical language tutorial; ownership, traits, error handling.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "crates.io",
+    "url": "https://crates.io/",
+    "category": "Languages and runtimes",
+    "purpose": "Rust package registry; check downloads, docs link, and maintenance before recommending a crate.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "docs.rs",
+    "url": "https://docs.rs/",
+    "category": "Languages and runtimes",
+    "purpose": "Rendered docs for nearly every crate and version.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Cargo Book",
+    "url": "https://doc.rust-lang.org/cargo/",
+    "category": "Languages and runtimes",
+    "purpose": "Workspaces, features, profiles, publishing.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Python",
+    "url": "https://www.python.org/",
+    "category": "Languages and runtimes",
+    "purpose": "Downloads, PEP index, release schedule.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "PyPI",
+    "url": "https://pypi.org/",
+    "category": "Languages and runtimes",
+    "purpose": "Python package index; check version, requires-python, and project links.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Node.js",
+    "url": "https://nodejs.org/en/docs",
+    "category": "Languages and runtimes",
+    "purpose": "Runtime APIs, LTS schedule, globals.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "npm",
+    "url": "https://www.npmjs.com/",
+    "category": "Languages and runtimes",
+    "purpose": "JavaScript package registry; verify package identity carefully — similar names are a supply-chain risk.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Deno",
+    "url": "https://docs.deno.com/",
+    "category": "Languages and runtimes",
+    "purpose": "Secure JS/TS runtime, standard library, JSR registry.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Bun",
+    "url": "https://bun.sh/docs",
+    "category": "Languages and runtimes",
+    "purpose": "JS runtime, bundler, test runner, package manager.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "NuGet Gallery",
+    "url": "https://www.nuget.org/",
+    "category": "Languages and runtimes",
+    "purpose": ".NET package registry; check target frameworks and license per package.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "pkg.go.dev",
+    "url": "https://pkg.go.dev/",
+    "category": "Languages and runtimes",
+    "purpose": "Discover and read docs for Go packages and the standard library.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "C++ reference (cppreference)",
+    "url": "https://en.cppreference.com/",
+    "category": "Languages and runtimes",
+    "purpose": "De-facto C/C++ standard library and language reference.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "vcpkg",
+    "url": "https://vcpkg.io/",
+    "category": "Languages and runtimes",
+    "purpose": "Microsoft C/C++ package manager; port list is searchable online.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Conan",
+    "url": "https://conan.io/center",
+    "category": "Languages and runtimes",
+    "purpose": "C/C++ package manager and Conan Center index.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Java",
+    "url": "https://dev.java/",
+    "category": "Languages and runtimes",
+    "purpose": "JDK tutorials, API docs, release information.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Maven Central",
+    "url": "https://central.sonatype.com/",
+    "category": "Languages and runtimes",
+    "purpose": "JVM artifact registry; verify group/artifact coordinates.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Kubernetes documentation",
+    "url": "https://kubernetes.io/docs/home/",
+    "category": "Cloud infrastructure and deployment",
+    "purpose": "Concepts, kubectl reference, API reference.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "GitHub Docs",
+    "url": "https://docs.github.com/",
+    "category": "CI version control and releases",
+    "purpose": "Actions, REST/GraphQL APIs, Copilot, code security.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Model Context Protocol",
+    "url": "https://modelcontextprotocol.io/",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Protocol spec, concepts (tools/resources/prompts), transports, and security guidance. Read this first.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP specification (GitHub)",
+    "url": "https://github.com/modelcontextprotocol/modelcontextprotocol",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Spec source, schemas, and proposals.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Official MCP servers",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Reference servers: filesystem, fetch, git, memory, sequential-thinking, time, everything (test server), plus archived servers list.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP Registry",
+    "url": "https://registry.modelcontextprotocol.io/",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Official community registry for discovering public MCP servers.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP Registry (GitHub)",
+    "url": "https://github.com/modelcontextprotocol/registry",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Registry API and publishing process.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP Python SDK",
+    "url": "https://github.com/modelcontextprotocol/python-sdk",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Official Python SDK (FastMCP-style server/client) for building MCP servers.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP TypeScript SDK",
+    "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Official TypeScript SDK for servers and clients.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP C# SDK",
+    "url": "https://github.com/modelcontextprotocol/csharp-sdk",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Official .NET SDK, maintained with Microsoft.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP Rust SDK",
+    "url": "https://github.com/modelcontextprotocol/rust-sdk",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Official Rust SDK (rmcp).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP Go SDK",
+    "url": "https://github.com/modelcontextprotocol/go-sdk",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Official Go SDK, maintained with Google.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP Java SDK",
+    "url": "https://github.com/modelcontextprotocol/java-sdk",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Official Java SDK, built on Spring AI infrastructure.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "GitHub MCP Server",
+    "url": "https://github.com/github/github-mcp-server",
+    "category": "AI MCP servers and tool use",
+    "purpose": "GitHub's official MCP server: repos, issues, PRs, Actions. Prefer this over scraping GitHub.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Playwright MCP",
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Microsoft's MCP server for browser automation via Playwright accessibility snapshots.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Chrome DevTools MCP",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Official Chrome DevTools MCP server for debugging, traces, and network inspection.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "AWS MCP servers (awslabs)",
+    "url": "https://github.com/awslabs/mcp",
+    "category": "AI MCP servers and tool use",
+    "purpose": "AWS's suite of MCP servers for AWS services, docs, and architecture guidance.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Cloudflare MCP servers",
+    "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Cloudflare's remote MCP servers for Workers, DNS, observability, and more.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Stripe Agent Toolkit",
+    "url": "https://github.com/stripe/agent-toolkit",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Stripe's official tools for agents, including MCP integration for payments APIs.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Awesome MCP Servers",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Large community list of MCP servers by category; a discovery aid — verify each server before use.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP.so",
+    "url": "https://mcp.so/",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Community directory of MCP servers and clients with categories.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Glama MCP directory",
+    "url": "https://glama.ai/mcp/servers",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Searchable MCP server directory with listings and metadata.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Smithery",
+    "url": "https://smithery.ai/",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Hosted MCP server discovery and connection service.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "PulseMCP",
+    "url": "https://www.pulsemcp.com/",
+    "category": "AI MCP servers and tool use",
+    "purpose": "MCP server directory and weekly newsletter tracking the ecosystem.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MCP clients list",
+    "url": "https://modelcontextprotocol.io/clients",
+    "category": "AI MCP servers and tool use",
+    "purpose": "Which clients support which MCP features — check before assuming a client supports resources/prompts/sampling.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "LangChain documentation",
+    "url": "https://docs.langchain.com/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "LangChain + LangGraph docs: agents, tools, retrieval, streaming.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "LangChain (GitHub)",
+    "url": "https://github.com/langchain-ai/langchain",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Core LangChain monorepo.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "LangGraph",
+    "url": "https://github.com/langchain-ai/langgraph",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Stateful, durable agent orchestration as graphs; persistence and human-in-the-loop.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "LlamaIndex documentation",
+    "url": "https://developers.llamaindex.ai/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Data framework for RAG and agents: ingestion, indexes, query engines, workflows.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "LlamaIndex (GitHub)",
+    "url": "https://github.com/run-llama/llama_index",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "LlamaIndex core and integrations.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Microsoft Semantic Kernel",
+    "url": "https://learn.microsoft.com/en-us/semantic-kernel/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": ".NET/Python/Java AI orchestration SDK from Microsoft.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Microsoft AutoGen",
+    "url": "https://github.com/microsoft/autogen",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Multi-agent conversation framework from Microsoft Research.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "CrewAI",
+    "url": "https://docs.crewai.com/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Role-based multi-agent crews and flows (Python).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "OpenAI Agents SDK",
+    "url": "https://openai.github.io/openai-agents-python/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "OpenAI's lightweight agents SDK: agents, handoffs, guardrails, tracing.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Claude Agent SDK (Anthropic docs)",
+    "url": "https://docs.claude.com/en/api/agent-sdk/overview",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Anthropic's agent SDK for building agents on Muse.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Google Agent Development Kit (ADK)",
+    "url": "https://google.github.io/adk-docs/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Google's open-source agent framework (Python/Java/Go).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Haystack",
+    "url": "https://docs.haystack.deepset.ai/docs/intro",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "deepset's framework for production NLP/RAG pipelines and agents.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "DSPy",
+    "url": "https://dspy.ai/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Programmatic (compiled) LLM pipelines from Stanford NLP — declare, don't prompt-engineer by hand.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Pydantic AI",
+    "url": "https://ai.pydantic.dev/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Type-safe Python agent framework from the Pydantic team.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "smolagents (Hugging Face)",
+    "url": "https://huggingface.co/docs/smolagents",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Minimal agents library where agents write Python code as actions.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Mastra",
+    "url": "https://mastra.ai/docs",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "TypeScript agent framework: agents, workflows, RAG, evals.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Vercel AI SDK",
+    "url": "https://ai-sdk.dev/docs",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "TypeScript SDK for AI apps: streaming UI, tool calling, provider-agnostic models.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Instructor",
+    "url": "https://python.useinstructor.com/",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "Structured outputs from LLMs via Pydantic validation and retries.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Ollama",
+    "url": "https://ollama.com/",
+    "category": "AI machine learning and local inference",
+    "purpose": "One-command local model runner (macOS/Windows/Linux) with an OpenAI-compatible API.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Ollama (GitHub)",
+    "url": "https://github.com/ollama/ollama",
+    "category": "AI machine learning and local inference",
+    "purpose": "Source, model library format, API reference.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "SGLang",
+    "url": "https://github.com/sgl-project/sglang",
+    "category": "AI machine learning and local inference",
+    "purpose": "Fast serving framework with structured generation (RadixAttention).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "LM Studio",
+    "url": "https://lmstudio.ai/",
+    "category": "AI machine learning and local inference",
+    "purpose": "Desktop app to discover, download, and serve local models with a GUI.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MLX (Apple)",
+    "url": "https://github.com/ml-explore/mlx",
+    "category": "AI machine learning and local inference",
+    "purpose": "Apple's array framework for ML on Apple silicon; mlx-lm runs LLMs locally on Macs.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "whisper.cpp",
+    "url": "https://github.com/ggml-org/whisper.cpp",
+    "category": "AI machine learning and local inference",
+    "purpose": "Port of OpenAI Whisper speech recognition in C/C++ for local transcription.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "GPT4All",
+    "url": "https://www.nomic.ai/gpt4all",
+    "category": "AI machine learning and local inference",
+    "purpose": "Nomic's local chatbot app and ecosystem.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Jan",
+    "url": "https://jan.ai/",
+    "category": "AI machine learning and local inference",
+    "purpose": "Open-source offline ChatGPT alternative desktop app.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "NVIDIA TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "category": "AI machine learning and local inference",
+    "purpose": "Optimized LLM inference on NVIDIA GPUs for production serving.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Hugging Face Text Generation Inference",
+    "url": "https://huggingface.co/docs/text-generation-inference",
+    "category": "AI machine learning and local inference",
+    "purpose": "Production inference server for open models (TGI).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Hugging Face Hub",
+    "url": "https://huggingface.co/models",
+    "category": "AI models and API providers",
+    "purpose": "The model/dataset hub: model cards carry license, files, and usage snippets. Read the card before recommending a model.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Hugging Face documentation",
+    "url": "https://huggingface.co/docs",
+    "category": "AI models and API providers",
+    "purpose": "Transformers, Datasets, Diffusers, PEFT, TRL, and Hub APIs.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "OpenAI platform documentation",
+    "url": "https://platform.openai.com/docs",
+    "category": "AI models and API providers",
+    "purpose": "API reference, models, reasoning, tools, and pricing links.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Meta Llama",
+    "url": "https://www.llama.com/",
+    "category": "AI models and API providers",
+    "purpose": "Llama models, downloads, and responsible-use docs.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Mistral AI documentation",
+    "url": "https://docs.mistral.ai/",
+    "category": "AI models and API providers",
+    "purpose": "Mistral models and API (chat, embeddings, OCR).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Cohere documentation",
+    "url": "https://docs.cohere.com/",
+    "category": "AI models and API providers",
+    "purpose": "Command, Embed, and Rerank APIs — strong for enterprise RAG.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Groq documentation",
+    "url": "https://console.groq.com/docs",
+    "category": "AI models and API providers",
+    "purpose": "Very fast inference API (LPU) for open models.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Together AI",
+    "url": "https://docs.together.ai/",
+    "category": "AI models and API providers",
+    "purpose": "Hosted open-model inference, fine-tuning, and dedicated endpoints.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Fireworks AI",
+    "url": "https://docs.fireworks.ai/",
+    "category": "AI models and API providers",
+    "purpose": "Fast hosted inference for open models and fine-tunes.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Replicate",
+    "url": "https://replicate.com/docs",
+    "category": "AI models and API providers",
+    "purpose": "Run community and official models (LLMs, image, audio) via one API.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "OpenRouter",
+    "url": "https://openrouter.ai/docs",
+    "category": "AI models and API providers",
+    "purpose": "One API key routed to many providers/models; useful for comparison.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "arXiv",
+    "url": "https://arxiv.org/",
+    "category": "AI models and API providers",
+    "purpose": "Preprint server — where most model papers land first. A paper is a claim, not a benchmark result.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Papers With Code",
+    "url": "https://paperswithcode.com/",
+    "category": "AI models and API providers",
+    "purpose": "Papers linked to code and benchmark leaderboards (SOTA tables).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Pinecone documentation",
+    "url": "https://docs.pinecone.io/",
+    "category": "AI retrieval and vector search",
+    "purpose": "Managed vector database; indexes, namespaces, metadata filtering.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Weaviate documentation",
+    "url": "https://docs.weaviate.io/",
+    "category": "AI retrieval and vector search",
+    "purpose": "Open-source vector database with hybrid search and built-in vectorizers.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Milvus documentation",
+    "url": "https://milvus.io/docs",
+    "category": "AI retrieval and vector search",
+    "purpose": "Large-scale open-source vector database from Zilliz.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Chroma documentation",
+    "url": "https://docs.trychroma.com/",
+    "category": "AI retrieval and vector search",
+    "purpose": "Lightweight embedding database popular for local RAG prototypes.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "FAISS",
+    "url": "https://github.com/facebookresearch/faiss",
+    "category": "AI retrieval and vector search",
+    "purpose": "Meta's library for efficient similarity search and clustering of dense vectors.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "LanceDB",
+    "url": "https://lancedb.github.io/lancedb/",
+    "category": "AI retrieval and vector search",
+    "purpose": "Embedded vector database on the Lance columnar format.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "sqlite-vec",
+    "url": "https://github.com/asg017/sqlite-vec",
+    "category": "AI retrieval and vector search",
+    "purpose": "Vector search extension for SQLite — good for local/offline apps.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Elasticsearch documentation",
+    "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html",
+    "category": "AI retrieval and vector search",
+    "purpose": "Full-text + vector (kNN) search; BM25 still matters for hybrid retrieval.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "OpenAI embeddings guide",
+    "url": "https://platform.openai.com/docs/guides/embeddings",
+    "category": "AI retrieval and vector search",
+    "purpose": "How embeddings work and which model dimensions to expect.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Sentence Transformers documentation",
+    "url": "https://www.sbert.net/",
+    "category": "AI retrieval and vector search",
+    "purpose": "Open embedding models, training, and semantic search recipes.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Unstructured",
+    "url": "https://docs.unstructured.io/",
+    "category": "AI retrieval and vector search",
+    "purpose": "Parsing PDFs/Office/HTML into clean elements for ingestion pipelines.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "MarkItDown (Microsoft)",
+    "url": "https://github.com/microsoft/markitdown",
+    "category": "AI retrieval and vector search",
+    "purpose": "Convert Office/PDF/etc. to Markdown for LLM ingestion.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Docling (IBM)",
+    "url": "https://github.com/docling-project/docling",
+    "category": "AI retrieval and vector search",
+    "purpose": "Document parsing to Markdown/JSON with layout and OCR support.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "OpenAI Evals",
+    "url": "https://github.com/openai/evals",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "OpenAI's eval framework and registry of benchmarks.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "promptfoo",
+    "url": "https://www.promptfoo.dev/docs/intro/",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "CLI-first LLM evals and red-teaming; test prompts/RAG/agents in CI.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "LangSmith documentation",
+    "url": "https://docs.langchain.com/langsmith",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "LangChain's tracing, datasets, and evaluation platform (works with other frameworks too).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Langfuse documentation",
+    "url": "https://langfuse.com/docs",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Open-source LLM observability: traces, evals, prompt management.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Arize Phoenix",
+    "url": "https://github.com/Arize-ai/phoenix",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Open-source AI observability and evaluation notebooks/platform.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Weights & Biases documentation",
+    "url": "https://docs.wandb.ai/",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Experiment tracking, W&B Weave for LLM tracing/evals.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Ragas documentation",
+    "url": "https://docs.ragas.io/",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "RAG evaluation metrics: faithfulness, answer relevancy, context precision/recall.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "DeepEval",
+    "url": "https://deepeval.com/docs/getting-started",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Unit-test-style LLM evaluation framework (Confident AI).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Inspect AI (UK AISI)",
+    "url": "https://inspect.aisi.org.uk/",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "UK AI Security Institute's framework for rigorous model evaluations.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Hugging Face Evaluate",
+    "url": "https://huggingface.co/docs/evaluate",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Standard ML/NLP metrics library and leaderboard tooling.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "NVIDIA NeMo Guardrails",
+    "url": "https://github.com/NVIDIA/NeMo-Guardrails",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Programmable guardrails (Colang) for LLM apps.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Guardrails AI",
+    "url": "https://www.guardrailsai.com/docs",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "Output validation/retry framework with a validator hub.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "OWASP Top 10 for LLM Applications",
+    "url": "https://owasp.org/www-project-top-10-for-large-language-model-applications/",
+    "category": "AI evaluation observability and guardrails",
+    "purpose": "The security risk list for LLM apps: prompt injection, insecure output handling, training-data poisoning, etc. Read before shipping.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Anthropic prompt engineering guide",
+    "url": "https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview",
+    "category": "AI prompt and context engineering",
+    "purpose": "Claude prompting: clarity, examples, XML structure, extended thinking.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "OpenAI prompt engineering guide",
+    "url": "https://platform.openai.com/docs/guides/prompt-engineering",
+    "category": "AI prompt and context engineering",
+    "purpose": "Strategy and tactics for GPT-class models, plus reasoning-model guidance.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Google Gemini prompting strategies",
+    "url": "https://ai.google.dev/gemini-api/docs/prompting-strategies",
+    "category": "AI prompt and context engineering",
+    "purpose": "Gemini-specific prompting and media prompting.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "DAIR Prompt Engineering Guide",
+    "url": "https://www.promptingguide.ai/",
+    "category": "AI prompt and context engineering",
+    "purpose": "Comprehensive community guide: techniques, papers, RAG/agent prompting.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Learn Prompting",
+    "url": "https://learnprompting.org/docs/introduction",
+    "category": "AI prompt and context engineering",
+    "purpose": "Free course-style prompting documentation, including security topics.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Awesome ChatGPT Prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "category": "AI prompt and context engineering",
+    "purpose": "Large prompt-pattern collection; useful as examples, not as verified best practice.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Anthropic",
+    "url": "https://www.anthropic.com/engineering/building-effective-agents",
+    "category": "AI prompt and context engineering",
+    "purpose": "Anthropic's patterns: workflows vs agents, prompt chaining, routing, orchestrator-workers, evaluator-optimizer.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Anthropic",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "category": "AI prompt and context engineering",
+    "purpose": "Context windows as a finite resource: compaction, note-taking, sub-agents.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf",
+    "category": "AI prompt and context engineering",
+    "purpose": "OpenAI's practitioner guide: when to use agents, guardrails, orchestration patterns.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Aider",
+    "url": "https://aider.chat/docs/",
+    "category": "AI coding agents and assistants",
+    "purpose": "Terminal pair-programming with git integration and repo maps.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Cline",
+    "url": "https://github.com/cline/cline",
+    "category": "AI coding agents and assistants",
+    "purpose": "Autonomous coding agent for VS Code with MCP support.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Continue",
+    "url": "https://docs.continue.dev/",
+    "category": "AI coding agents and assistants",
+    "purpose": "Open-source AI code assistant for IDEs; bring-your-own-model, MCP support.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "OpenHands",
+    "url": "https://github.com/All-Hands-AI/OpenHands",
+    "category": "AI coding agents and assistants",
+    "purpose": "Open platform for autonomous software-development agents.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "SWE-agent",
+    "url": "https://github.com/SWE-agent/SWE-agent",
+    "category": "AI coding agents and assistants",
+    "purpose": "Princeton's agent that fixes GitHub issues; SWE-bench reference implementation.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "SWE-bench",
+    "url": "https://www.swebench.com/",
+    "category": "AI coding agents and assistants",
+    "purpose": "The standard benchmark for issue-fixing agents; check which split (Lite/Verified) a claim uses.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Muse documentation",
+    "url": "https://docs.github.com/en/copilot",
+    "category": "AI coding agents and assistants",
+    "purpose": "Copilot features, agent mode, code review, and administration.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Muse documentation",
+    "url": "https://docs.claude.com/en/docs/claude-code/overview",
+    "category": "AI coding agents and assistants",
+    "purpose": "Anthropic's terminal coding agent: hooks, subagents, MCP, settings.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Gemini CLI",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "category": "AI coding agents and assistants",
+    "purpose": "Google's open-source terminal agent for Gemini, MCP-compatible.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "OpenCode",
+    "url": "https://opencode.ai/docs",
+    "category": "AI coding agents and assistants",
+    "purpose": "Open-source terminal coding agent, provider-agnostic.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Roo Code",
+    "url": "https://github.com/RooCodeInc/Roo-Code",
+    "category": "AI coding agents and assistants",
+    "purpose": "VS Code agent (Cline fork) with modes and MCP marketplace.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "TensorFlow documentation",
+    "url": "https://www.tensorflow.org/api_docs",
+    "category": "AI machine learning and local inference",
+    "purpose": "Keras-based training and deployment APIs.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "JAX documentation",
+    "url": "https://docs.jax.dev/",
+    "category": "AI machine learning and local inference",
+    "purpose": "Composable transformations (grad/jit/vmap) for ML research.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "scikit-learn documentation",
+    "url": "https://scikit-learn.org/stable/",
+    "category": "AI machine learning and local inference",
+    "purpose": "Classical ML: preprocessing, models, model evaluation — still the right tool for many tabular problems.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Hugging Face PEFT",
+    "url": "https://huggingface.co/docs/peft",
+    "category": "AI machine learning and local inference",
+    "purpose": "Parameter-efficient fine-tuning: LoRA and friends.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Hugging Face TRL",
+    "url": "https://huggingface.co/docs/trl",
+    "category": "AI machine learning and local inference",
+    "purpose": "SFT/DPO/RLHF training for Transformers models.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Axolotl",
+    "url": "https://github.com/axolotl-ai-cloud/axolotl",
+    "category": "AI machine learning and local inference",
+    "purpose": "YAML-configured LLM fine-tuning (LoRA/full) across providers.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "LLaMA-Factory",
+    "url": "https://github.com/hiyouga/LLaMA-Factory",
+    "category": "AI machine learning and local inference",
+    "purpose": "Fine-tuning toolkit with web UI for 100+ models.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Unsloth",
+    "url": "https://github.com/unslothai/unsloth",
+    "category": "AI machine learning and local inference",
+    "purpose": "Fast, memory-efficient LoRA/QLoRA fine-tuning notebooks and library.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "ONNX documentation",
+    "url": "https://onnx.ai/onnx/",
+    "category": "AI machine learning and local inference",
+    "purpose": "Open model interchange format and ONNX Runtime for cross-platform inference.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "NumPy documentation",
+    "url": "https://numpy.org/doc/stable/",
+    "category": "AI machine learning and local inference",
+    "purpose": "Array computing foundation of the Python ML stack.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Karpathy",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "category": "AI learning and references",
+    "purpose": "nanoGPT: the simplest readable GPT training implementation; pair with the YouTube series of the same name.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Karpathy",
+    "url": "https://github.com/karpathy/llm.c",
+    "category": "AI learning and references",
+    "purpose": "GPT training in plain C/CUDA — what frameworks abstract away, made visible.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Hugging Face LLM Course",
+    "url": "https://huggingface.co/learn/llm-course",
+    "category": "AI learning and references",
+    "purpose": "Free course: Transformers, fine-tuning, datasets, sharing models.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "category": "AI learning and references",
+    "purpose": "12-week curriculum: neural networks, CV, NLP, ethics.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "category": "AI learning and references",
+    "purpose": "21-lesson course on building GenAI apps (Python/TypeScript/.NET tracks).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "category": "AI learning and references",
+    "purpose": "Classical ML curriculum with projects.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "LLM Course (mlabonne)",
+    "url": "https://github.com/mlabonne/llm-course",
+    "category": "AI learning and references",
+    "purpose": "Roadmap with notebooks: LLM fundamentals, scientist, and engineer tracks.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "The Illustrated Transformer",
+    "url": "https://jalammar.github.io/illustrated-transformer/",
+    "category": "AI learning and references",
+    "purpose": "Jay Alammar's visual walkthrough of the Transformer architecture.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Fast.ai",
+    "url": "https://course.fast.ai/",
+    "category": "AI learning and references",
+    "purpose": "Top-down deep learning course (free).",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "DeepLearning.AI short courses",
+    "url": "https://www.deeplearning.ai/short-courses/",
+    "category": "AI learning and references",
+    "purpose": "Short practitioner courses on RAG, agents, fine-tuning, and evals.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Awesome LLM",
+    "url": "https://github.com/Hannibal046/Awesome-LLM",
+    "category": "AI learning and references",
+    "purpose": "Papers, training frameworks, tools, and courses around LLMs.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Awesome Generative AI",
+    "url": "https://github.com/steven2358/awesome-generative-ai",
+    "category": "AI learning and references",
+    "purpose": "Broad GenAI tools and services index.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Awesome LangChain",
+    "url": "https://github.com/kyrolabs/awesome-langchain",
+    "category": "AI agent frameworks and orchestration",
+    "purpose": "LangChain ecosystem projects and resources.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Awesome Production LLM",
+    "url": "https://github.com/jihoo-kim/awesome-production-llm",
+    "category": "AI learning and references",
+    "purpose": "Production LLM stack components and case studies.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Applied ML (eugeneyan)",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "category": "AI learning and references",
+    "purpose": "Papers and blog posts on production ML systems from real companies.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
+  },
+  {
+    "name": "Awesome AI Agents",
+    "url": "https://github.com/e2b-dev/awesome-ai-agents",
+    "category": "AI learning and references",
+    "purpose": "Agent frameworks and applications index.",
+    "source": "ai-expansion",
+    "checked_on": "2026-10-23",
+    "review": "AI expansion 2026-10-23; primary source identified from official documentation or the project's own repository; not individually re-fetched in this pass",
+    "http_status": "not separately checked"
   }
 ]

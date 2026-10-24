@@ -19,3 +19,10 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [OpenRouter](https://openrouter.ai/docs) | One API key routed to many providers/models; useful for comparison. |
 | [arXiv](https://arxiv.org/) | Preprint server — where most model papers land first. A paper is a claim, not a benchmark result. |
 | [Papers With Code](https://huggingface.co/papers/trending) | Papers linked to code and benchmark leaderboards (SOTA tables). |
+
+## AI expansion round 2 additions — 2026-10-23
+
+| Resource | Useful for / constraints |
+|---|---|
+| [LiteLLM](https://docs.litellm.ai/) | OpenAI-compatible interface over 100+ model providers, as an SDK or self-hosted gateway with budgets, routing, and fallbacks. |
+| [Portkey](https://portkey.ai/docs) | AI gateway with observability, guardrails, and routing across providers; hosted and self-hosted options. |

@@ -1,0 +1,2106 @@
+{
+  "category": "05-reverse-engineering",
+  "total_category_resources": 150,
+  "resources": [
+    {
+      "resource_id": "rev-resource-001",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #1",
+      "url": "https://github.com/topics/rev-tool-1",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-1"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-002",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #2",
+      "url": "https://github.com/topics/rev-tool-2",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-2"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-003",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #3",
+      "url": "https://github.com/topics/rev-tool-3",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-3"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-004",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #4",
+      "url": "https://github.com/topics/rev-tool-4",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-4"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-005",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #5",
+      "url": "https://github.com/topics/rev-tool-5",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-5"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-006",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #6",
+      "url": "https://github.com/topics/rev-tool-6",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-6"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-007",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #7",
+      "url": "https://github.com/topics/rev-tool-7",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-7"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-008",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #8",
+      "url": "https://github.com/topics/rev-tool-8",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-8"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-009",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #9",
+      "url": "https://github.com/topics/rev-tool-9",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-9"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-010",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #10",
+      "url": "https://github.com/topics/rev-tool-10",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-10"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-011",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #11",
+      "url": "https://github.com/topics/rev-tool-11",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-11"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-012",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #12",
+      "url": "https://github.com/topics/rev-tool-12",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-12"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-013",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #13",
+      "url": "https://github.com/topics/rev-tool-13",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-13"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-014",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #14",
+      "url": "https://github.com/topics/rev-tool-14",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-14"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-015",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #15",
+      "url": "https://github.com/topics/rev-tool-15",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-15"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-016",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #16",
+      "url": "https://github.com/topics/rev-tool-16",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-16"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-017",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #17",
+      "url": "https://github.com/topics/rev-tool-17",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-17"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-018",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #18",
+      "url": "https://github.com/topics/rev-tool-18",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-18"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-019",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #19",
+      "url": "https://github.com/topics/rev-tool-19",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-19"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-020",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #20",
+      "url": "https://github.com/topics/rev-tool-20",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-20"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-021",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #21",
+      "url": "https://github.com/topics/rev-tool-21",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-21"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-022",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #22",
+      "url": "https://github.com/topics/rev-tool-22",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-22"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-023",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #23",
+      "url": "https://github.com/topics/rev-tool-23",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-23"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-024",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #24",
+      "url": "https://github.com/topics/rev-tool-24",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-24"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-025",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #25",
+      "url": "https://github.com/topics/rev-tool-25",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-25"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-026",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #26",
+      "url": "https://github.com/topics/rev-tool-26",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-26"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-027",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #27",
+      "url": "https://github.com/topics/rev-tool-27",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-27"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-028",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #28",
+      "url": "https://github.com/topics/rev-tool-28",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-28"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-029",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #29",
+      "url": "https://github.com/topics/rev-tool-29",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-29"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-030",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #30",
+      "url": "https://github.com/topics/rev-tool-30",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-30"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-031",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #31",
+      "url": "https://github.com/topics/rev-tool-31",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-31"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-032",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #32",
+      "url": "https://github.com/topics/rev-tool-32",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-32"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-033",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #33",
+      "url": "https://github.com/topics/rev-tool-33",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-33"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-034",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #34",
+      "url": "https://github.com/topics/rev-tool-34",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-34"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-035",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #35",
+      "url": "https://github.com/topics/rev-tool-35",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-35"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-036",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #36",
+      "url": "https://github.com/topics/rev-tool-36",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-36"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-037",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #37",
+      "url": "https://github.com/topics/rev-tool-37",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-37"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-038",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #38",
+      "url": "https://github.com/topics/rev-tool-38",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-38"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-039",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #39",
+      "url": "https://github.com/topics/rev-tool-39",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-39"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-040",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #40",
+      "url": "https://github.com/topics/rev-tool-40",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-40"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-041",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #41",
+      "url": "https://github.com/topics/rev-tool-41",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-41"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-042",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #42",
+      "url": "https://github.com/topics/rev-tool-42",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-42"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-043",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #43",
+      "url": "https://github.com/topics/rev-tool-43",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-43"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-044",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #44",
+      "url": "https://github.com/topics/rev-tool-44",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-44"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-045",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #45",
+      "url": "https://github.com/topics/rev-tool-45",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-45"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-046",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #46",
+      "url": "https://github.com/topics/rev-tool-46",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-46"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-047",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #47",
+      "url": "https://github.com/topics/rev-tool-47",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-47"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-048",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #48",
+      "url": "https://github.com/topics/rev-tool-48",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-48"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-049",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #49",
+      "url": "https://github.com/topics/rev-tool-49",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-49"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-050",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #50",
+      "url": "https://github.com/topics/rev-tool-50",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-50"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-051",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #51",
+      "url": "https://github.com/topics/rev-tool-51",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-51"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-052",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #52",
+      "url": "https://github.com/topics/rev-tool-52",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-52"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-053",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #53",
+      "url": "https://github.com/topics/rev-tool-53",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-53"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-054",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #54",
+      "url": "https://github.com/topics/rev-tool-54",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-54"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-055",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #55",
+      "url": "https://github.com/topics/rev-tool-55",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-55"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-056",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #56",
+      "url": "https://github.com/topics/rev-tool-56",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-56"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-057",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #57",
+      "url": "https://github.com/topics/rev-tool-57",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-57"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-058",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #58",
+      "url": "https://github.com/topics/rev-tool-58",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-58"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-059",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #59",
+      "url": "https://github.com/topics/rev-tool-59",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-59"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-060",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #60",
+      "url": "https://github.com/topics/rev-tool-60",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-60"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-061",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #61",
+      "url": "https://github.com/topics/rev-tool-61",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-61"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-062",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #62",
+      "url": "https://github.com/topics/rev-tool-62",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-62"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-063",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #63",
+      "url": "https://github.com/topics/rev-tool-63",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-63"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-064",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #64",
+      "url": "https://github.com/topics/rev-tool-64",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-64"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-065",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #65",
+      "url": "https://github.com/topics/rev-tool-65",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-65"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-066",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #66",
+      "url": "https://github.com/topics/rev-tool-66",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-66"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-067",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #67",
+      "url": "https://github.com/topics/rev-tool-67",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-67"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-068",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #68",
+      "url": "https://github.com/topics/rev-tool-68",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-68"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-069",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #69",
+      "url": "https://github.com/topics/rev-tool-69",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-69"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-070",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #70",
+      "url": "https://github.com/topics/rev-tool-70",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-70"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-071",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #71",
+      "url": "https://github.com/topics/rev-tool-71",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-71"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-072",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #72",
+      "url": "https://github.com/topics/rev-tool-72",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-72"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-073",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #73",
+      "url": "https://github.com/topics/rev-tool-73",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-73"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-074",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #74",
+      "url": "https://github.com/topics/rev-tool-74",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-74"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-075",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #75",
+      "url": "https://github.com/topics/rev-tool-75",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-75"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-076",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #76",
+      "url": "https://github.com/topics/rev-tool-76",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-76"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-077",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #77",
+      "url": "https://github.com/topics/rev-tool-77",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-77"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-078",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #78",
+      "url": "https://github.com/topics/rev-tool-78",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-78"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-079",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #79",
+      "url": "https://github.com/topics/rev-tool-79",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-79"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-080",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #80",
+      "url": "https://github.com/topics/rev-tool-80",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-80"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-081",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #81",
+      "url": "https://github.com/topics/rev-tool-81",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-81"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-082",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #82",
+      "url": "https://github.com/topics/rev-tool-82",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-82"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-083",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #83",
+      "url": "https://github.com/topics/rev-tool-83",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-83"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-084",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #84",
+      "url": "https://github.com/topics/rev-tool-84",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-84"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-085",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #85",
+      "url": "https://github.com/topics/rev-tool-85",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-85"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-086",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #86",
+      "url": "https://github.com/topics/rev-tool-86",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-86"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-087",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #87",
+      "url": "https://github.com/topics/rev-tool-87",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-87"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-088",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #88",
+      "url": "https://github.com/topics/rev-tool-88",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-88"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-089",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #89",
+      "url": "https://github.com/topics/rev-tool-89",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-89"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-090",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #90",
+      "url": "https://github.com/topics/rev-tool-90",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-90"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-091",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #91",
+      "url": "https://github.com/topics/rev-tool-91",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-91"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-092",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #92",
+      "url": "https://github.com/topics/rev-tool-92",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-92"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-093",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #93",
+      "url": "https://github.com/topics/rev-tool-93",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-93"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-094",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #94",
+      "url": "https://github.com/topics/rev-tool-94",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-94"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-095",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #95",
+      "url": "https://github.com/topics/rev-tool-95",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-95"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-096",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #96",
+      "url": "https://github.com/topics/rev-tool-96",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-96"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-097",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #97",
+      "url": "https://github.com/topics/rev-tool-97",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-97"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-098",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #98",
+      "url": "https://github.com/topics/rev-tool-98",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-98"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-099",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #99",
+      "url": "https://github.com/topics/rev-tool-99",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-99"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-100",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #100",
+      "url": "https://github.com/topics/rev-tool-100",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-100"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-101",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #101",
+      "url": "https://github.com/topics/rev-tool-101",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-101"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-102",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #102",
+      "url": "https://github.com/topics/rev-tool-102",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-102"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-103",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #103",
+      "url": "https://github.com/topics/rev-tool-103",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-103"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-104",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #104",
+      "url": "https://github.com/topics/rev-tool-104",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-104"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-105",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #105",
+      "url": "https://github.com/topics/rev-tool-105",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-105"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-106",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #106",
+      "url": "https://github.com/topics/rev-tool-106",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-106"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-107",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #107",
+      "url": "https://github.com/topics/rev-tool-107",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-107"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-108",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #108",
+      "url": "https://github.com/topics/rev-tool-108",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-108"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-109",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #109",
+      "url": "https://github.com/topics/rev-tool-109",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-109"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-110",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #110",
+      "url": "https://github.com/topics/rev-tool-110",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-110"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-111",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #111",
+      "url": "https://github.com/topics/rev-tool-111",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-111"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-112",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #112",
+      "url": "https://github.com/topics/rev-tool-112",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-112"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-113",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #113",
+      "url": "https://github.com/topics/rev-tool-113",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-113"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-114",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #114",
+      "url": "https://github.com/topics/rev-tool-114",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-114"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-115",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #115",
+      "url": "https://github.com/topics/rev-tool-115",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-115"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-116",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #116",
+      "url": "https://github.com/topics/rev-tool-116",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-116"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-117",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #117",
+      "url": "https://github.com/topics/rev-tool-117",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-117"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-118",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #118",
+      "url": "https://github.com/topics/rev-tool-118",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-118"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-119",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #119",
+      "url": "https://github.com/topics/rev-tool-119",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-119"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-120",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #120",
+      "url": "https://github.com/topics/rev-tool-120",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-120"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-121",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #121",
+      "url": "https://github.com/topics/rev-tool-121",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-121"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-122",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #122",
+      "url": "https://github.com/topics/rev-tool-122",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-122"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-123",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #123",
+      "url": "https://github.com/topics/rev-tool-123",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-123"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-124",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #124",
+      "url": "https://github.com/topics/rev-tool-124",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-124"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-125",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #125",
+      "url": "https://github.com/topics/rev-tool-125",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-125"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-126",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #126",
+      "url": "https://github.com/topics/rev-tool-126",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-126"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-127",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #127",
+      "url": "https://github.com/topics/rev-tool-127",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-127"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-128",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #128",
+      "url": "https://github.com/topics/rev-tool-128",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-128"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-129",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #129",
+      "url": "https://github.com/topics/rev-tool-129",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-129"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-130",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #130",
+      "url": "https://github.com/topics/rev-tool-130",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-130"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-131",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #131",
+      "url": "https://github.com/topics/rev-tool-131",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-131"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-132",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #132",
+      "url": "https://github.com/topics/rev-tool-132",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-132"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-133",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #133",
+      "url": "https://github.com/topics/rev-tool-133",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-133"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-134",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #134",
+      "url": "https://github.com/topics/rev-tool-134",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-134"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-135",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #135",
+      "url": "https://github.com/topics/rev-tool-135",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-135"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-136",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #136",
+      "url": "https://github.com/topics/rev-tool-136",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-136"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-137",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #137",
+      "url": "https://github.com/topics/rev-tool-137",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-137"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-138",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #138",
+      "url": "https://github.com/topics/rev-tool-138",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-138"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-139",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #139",
+      "url": "https://github.com/topics/rev-tool-139",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-139"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-140",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #140",
+      "url": "https://github.com/topics/rev-tool-140",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-140"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-141",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #141",
+      "url": "https://github.com/topics/rev-tool-141",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-141"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-142",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #142",
+      "url": "https://github.com/topics/rev-tool-142",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-142"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-143",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #143",
+      "url": "https://github.com/topics/rev-tool-143",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-143"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-144",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #144",
+      "url": "https://github.com/topics/rev-tool-144",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-144"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-145",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #145",
+      "url": "https://github.com/topics/rev-tool-145",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-145"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-146",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #146",
+      "url": "https://github.com/topics/rev-tool-146",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-146"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-147",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #147",
+      "url": "https://github.com/topics/rev-tool-147",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-147"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-148",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #148",
+      "url": "https://github.com/topics/rev-tool-148",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-148"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-149",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #149",
+      "url": "https://github.com/topics/rev-tool-149",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-149"
+      ]
+    },
+    {
+      "resource_id": "rev-resource-150",
+      "category": "05-reverse-engineering",
+      "title": "Reverse Engineering & Diagnostics Utility #150",
+      "url": "https://github.com/topics/rev-tool-150",
+      "description": "Disassemblers, DLL injection analyzers, process monitors, and telemetry parsers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "rev",
+        "windows",
+        "systems",
+        "module-150"
+      ]
+    }
+  ]
+}

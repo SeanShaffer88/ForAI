@@ -1,0 +1,2106 @@
+{
+  "category": "04-ai-agent-skills",
+  "total_category_resources": 150,
+  "resources": [
+    {
+      "resource_id": "ai-resource-001",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #1",
+      "url": "https://github.com/topics/ai-tool-1",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-1"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-002",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #2",
+      "url": "https://github.com/topics/ai-tool-2",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-2"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-003",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #3",
+      "url": "https://github.com/topics/ai-tool-3",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-3"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-004",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #4",
+      "url": "https://github.com/topics/ai-tool-4",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-4"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-005",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #5",
+      "url": "https://github.com/topics/ai-tool-5",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-5"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-006",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #6",
+      "url": "https://github.com/topics/ai-tool-6",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-6"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-007",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #7",
+      "url": "https://github.com/topics/ai-tool-7",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-7"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-008",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #8",
+      "url": "https://github.com/topics/ai-tool-8",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-8"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-009",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #9",
+      "url": "https://github.com/topics/ai-tool-9",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-9"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-010",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #10",
+      "url": "https://github.com/topics/ai-tool-10",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-10"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-011",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #11",
+      "url": "https://github.com/topics/ai-tool-11",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-11"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-012",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #12",
+      "url": "https://github.com/topics/ai-tool-12",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-12"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-013",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #13",
+      "url": "https://github.com/topics/ai-tool-13",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-13"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-014",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #14",
+      "url": "https://github.com/topics/ai-tool-14",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-14"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-015",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #15",
+      "url": "https://github.com/topics/ai-tool-15",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-15"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-016",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #16",
+      "url": "https://github.com/topics/ai-tool-16",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-16"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-017",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #17",
+      "url": "https://github.com/topics/ai-tool-17",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-17"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-018",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #18",
+      "url": "https://github.com/topics/ai-tool-18",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-18"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-019",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #19",
+      "url": "https://github.com/topics/ai-tool-19",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-19"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-020",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #20",
+      "url": "https://github.com/topics/ai-tool-20",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-20"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-021",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #21",
+      "url": "https://github.com/topics/ai-tool-21",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-21"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-022",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #22",
+      "url": "https://github.com/topics/ai-tool-22",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-22"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-023",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #23",
+      "url": "https://github.com/topics/ai-tool-23",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-23"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-024",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #24",
+      "url": "https://github.com/topics/ai-tool-24",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-24"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-025",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #25",
+      "url": "https://github.com/topics/ai-tool-25",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-25"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-026",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #26",
+      "url": "https://github.com/topics/ai-tool-26",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-26"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-027",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #27",
+      "url": "https://github.com/topics/ai-tool-27",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-27"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-028",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #28",
+      "url": "https://github.com/topics/ai-tool-28",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-28"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-029",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #29",
+      "url": "https://github.com/topics/ai-tool-29",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-29"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-030",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #30",
+      "url": "https://github.com/topics/ai-tool-30",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-30"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-031",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #31",
+      "url": "https://github.com/topics/ai-tool-31",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-31"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-032",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #32",
+      "url": "https://github.com/topics/ai-tool-32",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-32"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-033",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #33",
+      "url": "https://github.com/topics/ai-tool-33",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-33"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-034",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #34",
+      "url": "https://github.com/topics/ai-tool-34",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-34"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-035",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #35",
+      "url": "https://github.com/topics/ai-tool-35",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-35"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-036",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #36",
+      "url": "https://github.com/topics/ai-tool-36",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-36"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-037",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #37",
+      "url": "https://github.com/topics/ai-tool-37",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-37"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-038",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #38",
+      "url": "https://github.com/topics/ai-tool-38",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-38"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-039",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #39",
+      "url": "https://github.com/topics/ai-tool-39",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-39"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-040",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #40",
+      "url": "https://github.com/topics/ai-tool-40",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-40"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-041",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #41",
+      "url": "https://github.com/topics/ai-tool-41",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-41"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-042",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #42",
+      "url": "https://github.com/topics/ai-tool-42",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-42"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-043",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #43",
+      "url": "https://github.com/topics/ai-tool-43",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-43"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-044",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #44",
+      "url": "https://github.com/topics/ai-tool-44",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-44"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-045",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #45",
+      "url": "https://github.com/topics/ai-tool-45",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-45"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-046",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #46",
+      "url": "https://github.com/topics/ai-tool-46",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-46"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-047",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #47",
+      "url": "https://github.com/topics/ai-tool-47",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-47"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-048",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #48",
+      "url": "https://github.com/topics/ai-tool-48",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-48"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-049",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #49",
+      "url": "https://github.com/topics/ai-tool-49",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-49"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-050",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #50",
+      "url": "https://github.com/topics/ai-tool-50",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-50"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-051",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #51",
+      "url": "https://github.com/topics/ai-tool-51",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-51"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-052",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #52",
+      "url": "https://github.com/topics/ai-tool-52",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-52"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-053",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #53",
+      "url": "https://github.com/topics/ai-tool-53",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-53"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-054",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #54",
+      "url": "https://github.com/topics/ai-tool-54",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-54"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-055",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #55",
+      "url": "https://github.com/topics/ai-tool-55",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-55"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-056",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #56",
+      "url": "https://github.com/topics/ai-tool-56",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-56"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-057",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #57",
+      "url": "https://github.com/topics/ai-tool-57",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-57"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-058",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #58",
+      "url": "https://github.com/topics/ai-tool-58",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-58"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-059",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #59",
+      "url": "https://github.com/topics/ai-tool-59",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-59"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-060",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #60",
+      "url": "https://github.com/topics/ai-tool-60",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-60"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-061",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #61",
+      "url": "https://github.com/topics/ai-tool-61",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-61"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-062",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #62",
+      "url": "https://github.com/topics/ai-tool-62",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-62"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-063",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #63",
+      "url": "https://github.com/topics/ai-tool-63",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-63"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-064",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #64",
+      "url": "https://github.com/topics/ai-tool-64",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-64"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-065",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #65",
+      "url": "https://github.com/topics/ai-tool-65",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-65"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-066",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #66",
+      "url": "https://github.com/topics/ai-tool-66",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-66"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-067",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #67",
+      "url": "https://github.com/topics/ai-tool-67",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-67"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-068",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #68",
+      "url": "https://github.com/topics/ai-tool-68",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-68"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-069",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #69",
+      "url": "https://github.com/topics/ai-tool-69",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-69"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-070",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #70",
+      "url": "https://github.com/topics/ai-tool-70",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-70"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-071",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #71",
+      "url": "https://github.com/topics/ai-tool-71",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-71"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-072",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #72",
+      "url": "https://github.com/topics/ai-tool-72",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-72"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-073",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #73",
+      "url": "https://github.com/topics/ai-tool-73",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-73"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-074",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #74",
+      "url": "https://github.com/topics/ai-tool-74",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-74"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-075",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #75",
+      "url": "https://github.com/topics/ai-tool-75",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-75"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-076",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #76",
+      "url": "https://github.com/topics/ai-tool-76",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-76"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-077",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #77",
+      "url": "https://github.com/topics/ai-tool-77",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-77"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-078",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #78",
+      "url": "https://github.com/topics/ai-tool-78",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-78"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-079",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #79",
+      "url": "https://github.com/topics/ai-tool-79",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-79"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-080",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #80",
+      "url": "https://github.com/topics/ai-tool-80",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-80"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-081",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #81",
+      "url": "https://github.com/topics/ai-tool-81",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-81"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-082",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #82",
+      "url": "https://github.com/topics/ai-tool-82",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-82"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-083",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #83",
+      "url": "https://github.com/topics/ai-tool-83",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-83"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-084",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #84",
+      "url": "https://github.com/topics/ai-tool-84",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-84"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-085",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #85",
+      "url": "https://github.com/topics/ai-tool-85",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-85"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-086",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #86",
+      "url": "https://github.com/topics/ai-tool-86",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-86"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-087",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #87",
+      "url": "https://github.com/topics/ai-tool-87",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-87"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-088",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #88",
+      "url": "https://github.com/topics/ai-tool-88",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-88"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-089",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #89",
+      "url": "https://github.com/topics/ai-tool-89",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-89"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-090",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #90",
+      "url": "https://github.com/topics/ai-tool-90",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-90"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-091",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #91",
+      "url": "https://github.com/topics/ai-tool-91",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-91"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-092",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #92",
+      "url": "https://github.com/topics/ai-tool-92",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-92"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-093",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #93",
+      "url": "https://github.com/topics/ai-tool-93",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-93"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-094",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #94",
+      "url": "https://github.com/topics/ai-tool-94",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-94"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-095",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #95",
+      "url": "https://github.com/topics/ai-tool-95",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-95"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-096",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #96",
+      "url": "https://github.com/topics/ai-tool-96",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-96"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-097",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #97",
+      "url": "https://github.com/topics/ai-tool-97",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-97"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-098",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #98",
+      "url": "https://github.com/topics/ai-tool-98",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-98"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-099",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #99",
+      "url": "https://github.com/topics/ai-tool-99",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-99"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-100",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #100",
+      "url": "https://github.com/topics/ai-tool-100",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-100"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-101",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #101",
+      "url": "https://github.com/topics/ai-tool-101",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-101"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-102",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #102",
+      "url": "https://github.com/topics/ai-tool-102",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-102"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-103",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #103",
+      "url": "https://github.com/topics/ai-tool-103",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-103"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-104",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #104",
+      "url": "https://github.com/topics/ai-tool-104",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-104"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-105",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #105",
+      "url": "https://github.com/topics/ai-tool-105",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-105"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-106",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #106",
+      "url": "https://github.com/topics/ai-tool-106",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-106"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-107",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #107",
+      "url": "https://github.com/topics/ai-tool-107",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-107"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-108",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #108",
+      "url": "https://github.com/topics/ai-tool-108",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-108"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-109",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #109",
+      "url": "https://github.com/topics/ai-tool-109",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-109"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-110",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #110",
+      "url": "https://github.com/topics/ai-tool-110",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-110"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-111",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #111",
+      "url": "https://github.com/topics/ai-tool-111",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-111"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-112",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #112",
+      "url": "https://github.com/topics/ai-tool-112",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-112"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-113",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #113",
+      "url": "https://github.com/topics/ai-tool-113",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-113"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-114",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #114",
+      "url": "https://github.com/topics/ai-tool-114",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-114"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-115",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #115",
+      "url": "https://github.com/topics/ai-tool-115",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-115"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-116",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #116",
+      "url": "https://github.com/topics/ai-tool-116",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-116"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-117",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #117",
+      "url": "https://github.com/topics/ai-tool-117",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-117"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-118",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #118",
+      "url": "https://github.com/topics/ai-tool-118",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-118"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-119",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #119",
+      "url": "https://github.com/topics/ai-tool-119",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-119"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-120",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #120",
+      "url": "https://github.com/topics/ai-tool-120",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-120"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-121",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #121",
+      "url": "https://github.com/topics/ai-tool-121",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-121"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-122",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #122",
+      "url": "https://github.com/topics/ai-tool-122",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-122"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-123",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #123",
+      "url": "https://github.com/topics/ai-tool-123",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-123"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-124",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #124",
+      "url": "https://github.com/topics/ai-tool-124",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-124"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-125",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #125",
+      "url": "https://github.com/topics/ai-tool-125",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-125"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-126",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #126",
+      "url": "https://github.com/topics/ai-tool-126",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-126"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-127",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #127",
+      "url": "https://github.com/topics/ai-tool-127",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-127"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-128",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #128",
+      "url": "https://github.com/topics/ai-tool-128",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-128"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-129",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #129",
+      "url": "https://github.com/topics/ai-tool-129",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-129"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-130",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #130",
+      "url": "https://github.com/topics/ai-tool-130",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-130"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-131",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #131",
+      "url": "https://github.com/topics/ai-tool-131",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-131"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-132",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #132",
+      "url": "https://github.com/topics/ai-tool-132",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-132"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-133",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #133",
+      "url": "https://github.com/topics/ai-tool-133",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-133"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-134",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #134",
+      "url": "https://github.com/topics/ai-tool-134",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-134"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-135",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #135",
+      "url": "https://github.com/topics/ai-tool-135",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-135"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-136",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #136",
+      "url": "https://github.com/topics/ai-tool-136",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-136"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-137",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #137",
+      "url": "https://github.com/topics/ai-tool-137",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-137"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-138",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #138",
+      "url": "https://github.com/topics/ai-tool-138",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-138"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-139",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #139",
+      "url": "https://github.com/topics/ai-tool-139",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-139"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-140",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #140",
+      "url": "https://github.com/topics/ai-tool-140",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-140"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-141",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #141",
+      "url": "https://github.com/topics/ai-tool-141",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-141"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-142",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #142",
+      "url": "https://github.com/topics/ai-tool-142",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-142"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-143",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #143",
+      "url": "https://github.com/topics/ai-tool-143",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-143"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-144",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #144",
+      "url": "https://github.com/topics/ai-tool-144",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-144"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-145",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #145",
+      "url": "https://github.com/topics/ai-tool-145",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-145"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-146",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #146",
+      "url": "https://github.com/topics/ai-tool-146",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-146"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-147",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #147",
+      "url": "https://github.com/topics/ai-tool-147",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-147"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-148",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #148",
+      "url": "https://github.com/topics/ai-tool-148",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-148"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-149",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #149",
+      "url": "https://github.com/topics/ai-tool-149",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-149"
+      ]
+    },
+    {
+      "resource_id": "ai-resource-150",
+      "category": "04-ai-agent-skills",
+      "title": "AI Agent Skills & Prompt Orchestration Utility #150",
+      "url": "https://github.com/topics/ai-tool-150",
+      "description": "SKILL.md specifications, MCP servers, prompt engineering templates, and tool schemas. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "ai",
+        "windows",
+        "systems",
+        "module-150"
+      ]
+    }
+  ]
+}

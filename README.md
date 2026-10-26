@@ -2,7 +2,7 @@
 
 A project-aware resource library for developers and their AI assistants, curated by Sean Shaffer. Find useful repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources for the work you are actually doing.
 
-**1192 catalog entries · 1188 distinct URLs · 89 purpose-based categories.** Includes the complete saved collections of 459 general resources and 232 Windows repositories, plus 301 AI resources and 200 further development resources added 2026-10-23 (see the expansion catalogs). Entries overlap; distinct URLs do not necessarily mean distinct projects.
+**2192 catalog entries · 2188 distinct URLs · 90 purpose-based categories.** Includes the complete saved collections of 459 general resources and 232 Windows repositories, plus 301 AI resources and 200 further development resources added 2026-10-23, and 1000 additional AI resources added 2026-10-26 covering the skills.sh ecosystem and all sites listed on it (see the expansion catalogs). Entries overlap; distinct URLs do not necessarily mean distinct projects.
 
 ## Point your AI here
 
@@ -18,6 +18,7 @@ An assistant needs browsing, repository access, or a downloaded copy to read the
 - [Browse all categories](categories/README.md): links grouped by purpose, with practical notes.
 - [General development catalog](catalogs/software-development-resources.md): platform SDKs, languages, web, mobile, APIs, data, AI, testing, infrastructure, security, and more.
 - [AI resources expansion](catalogs/ai-resources-expansion.md): toolchains, MCP servers and SDKs, agent frameworks, local inference, model providers, retrieval, evaluation, coding agents, and learning references, added 2026-10-23.
+- [AI resources expansion — 2026-10-26 (1000 resources)](catalogs/ai-resources-expansion-2026-10-26.md): 1000 additional AI resources including https://www.skills.sh/ and every site listed on it, plus model providers, inference, frameworks, MCP, coding agents, retrieval, eval, speech, prompt, data, learning, memory, and protocols.
 - [Development resources expansion](catalogs/development-expansion-2026-10-23.md): 200 additions across 18 existing categories, with source evidence and maintenance/licensing caveats.
 - [Windows development catalog](catalogs/windows-development-repositories.md): native APIs, interop, DLLs, diagnostics, UI, graphics, devices, build and packaging, plus revival candidates.
 - [Windows revival backlog](catalogs/windows-development-todo.md): historical WR-001 through WR-010 snapshot, including completed win-pipe work and Microsoft IPC development status.

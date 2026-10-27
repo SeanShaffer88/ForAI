@@ -75,3 +75,19 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Ultralytics YOLO](https://docs.ultralytics.com/) | The YOLO object-detection family and tooling; the default starting point for applied computer vision. |
 | [Segment Anything (Meta)](https://github.com/facebookresearch/segment-anything) | Meta's promptable segmentation model (SAM) and dataset tooling; a foundation block for vision pipelines. |
 | [OpenPipe ART](https://github.com/OpenPipe/ART) | Agent Reinforcement Trainer: RL training (GRPO) for multi-step agents on your own data and backends. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [semantic-kernel](https://github.com/microsoft/semantic-kernel) | Integrate cutting-edge LLM technology quickly and easily into your apps |
+| [verl](https://github.com/verl-project/verl) | verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework |
+| [FastChat](https://github.com/lm-sys/FastChat) | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. |
+| [ragas](https://github.com/vibrantlabsai/ragas) | Supercharge Your LLM Application Evaluations 🚀 |
+| [MNN](https://github.com/alibaba/MNN) | MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI. |
+| [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) | AdalFlow: The library to build & auto-optimize LLM applications. |
+| [gpt-neox](https://github.com/EleutherAI/gpt-neox) | An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries |
+| [BitNet](https://github.com/microsoft/BitNet) | Official inference framework for 1-bit LLMs |
+| [bark](https://github.com/suno-ai/bark) | 🔊 Text-Prompted Generative Audio Model |

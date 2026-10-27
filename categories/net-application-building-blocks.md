@@ -32,3 +32,18 @@ Scoped metadata and README checks. See the [full expansion and evidence limits](
 | [RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream) | Pool .NET stream buffers to reduce allocation pressure; dispose streams and set memory limits. |
 | [Sprache](https://github.com/sprache/Sprache) | Compose small parsers in C#; assess grammar complexity and error-reporting requirements. GitHub reports its last push as 2024-04-18; maintenance responsiveness was not established. |
 | [Superpower](https://github.com/datalust/superpower) | Build C# parsers with tokenization and diagnostics; design token and grammar rules explicitly. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Lean](https://github.com/QuantConnect/Lean) | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
+| [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET |
+| [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | A simple, cross platform, modulith ecommerce system built on .NET |
+| [FusionCache](https://github.com/ZiggyCreatures/FusionCache) | FusionCache is an easy to use, fast and robust hybrid cache with advanced resiliency features. |
+| [AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) | AspectCore is an AOP-based cross platform framework for .NET Standard. |
+| [Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) | Papercut SMTP -- The Simple Desktop Email Server |
+| [Serenity](https://github.com/serenity-is/Serenity) | Business Apps Made Simple with Asp.Net Core MVC / TypeScript |
+| [sharpcompress](https://github.com/adamhathcock/sharpcompress) | SharpCompress is a fully managed C# library to deal with many compression types and formats. |

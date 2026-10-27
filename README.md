@@ -2,7 +2,7 @@
 
 A project-aware resource library for developers and their AI assistants, curated by Sean Shaffer. Find useful repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources for the work you are actually doing.
 
-**1192 catalog entries · 1188 distinct URLs · 89 purpose-based categories.** Includes the complete saved collections of 459 general resources and 232 Windows repositories, plus 301 AI resources and 200 further development resources added 2026-10-23 (see the expansion catalogs). Entries overlap; distinct URLs do not necessarily mean distinct projects.
+**2202 catalog entries · 2198 distinct URLs · 97 purpose-based categories.** Includes 459 general resources, 232 Windows repositories, 301 AI resources, 200 development resources added 2026-10-23, two 500-resource development expansions added 2026-10-27, and 10 user-requested design-reference links. Entries overlap; distinct URLs do not necessarily mean distinct projects.
 
 ## Point your AI here
 
@@ -16,12 +16,17 @@ An assistant needs browsing, repository access, or a downloaded copy to read the
 
 - [Dev Resource Explorer](https://seanshaffer88.github.io/dev-resource-explorer/): search the catalog, filter discovery topics, save resources in your browser, and read the original research notes. Uses a reviewed snapshot; [application source and releases](https://github.com/SeanShaffer88/dev-resource-explorer).
 - [Browse all categories](categories/README.md): links grouped by purpose, with practical notes.
+- [UI design inspiration and reference](catalogs/design-inspiration-resources.md): visual research and interface discovery links, with usage cautions.
 - [General development catalog](catalogs/software-development-resources.md): platform SDKs, languages, web, mobile, APIs, data, AI, testing, infrastructure, security, and more.
 - [AI resources expansion](catalogs/ai-resources-expansion.md): toolchains, MCP servers and SDKs, agent frameworks, local inference, model providers, retrieval, evaluation, coding agents, and learning references, added 2026-10-23.
-- [Development resources expansion](catalogs/development-expansion-2026-10-23.md): 200 additions across 18 existing categories, with source evidence and maintenance/licensing caveats.
+- [Development resources expansion (2026-10-23)](catalogs/development-expansion-2026-10-23.md): 200 additions across 18 existing categories, with scoped source checks.
+- [Software development expansion (2026-10-27)](catalogs/development-expansion-2026-10-27.md): 500 additional tools and references across implementation, design, testing, security, infrastructure, and more; includes evidence limits and a metadata snapshot.
+- [Niche software development expansion (2026-10-27, round 2)](catalogs/development-expansion-2026-10-27-round-2.md): 500 curated additions emphasizing specialized languages, test automation, infrastructure, architecture, design systems, data science, and security; includes the metadata snapshot and verification limits.
 - [Windows development catalog](catalogs/windows-development-repositories.md): native APIs, interop, DLLs, diagnostics, UI, graphics, devices, build and packaging, plus revival candidates.
 - [Windows revival backlog](catalogs/windows-development-todo.md): historical WR-001 through WR-010 snapshot, including completed win-pipe work and Microsoft IPC development status.
-- [JSON index](resources.json) / [CSV index](resources.csv): all entries for searching or ingestion.
+- [JSON catalog](resources.json) / [CSV export](resources.csv): all entries with stable IDs, typed facets, and provenance.
+- [Resource schema](index/resource-schema.json) / [facet taxonomy](index/taxonomy.json): the current record and facet contract.
+- [Generated category index](index/categories.json): category IDs, counts, paths, and resource membership.
 - [llms.txt](llms.txt): AI-readable index of the whole library.
 - [AI selection workflow](AGENTS.md) and [contribution guide](CONTRIBUTING.md).
 
@@ -35,12 +40,16 @@ Requires Python 3, with no third-party packages:
 
 ```sh
 python scripts/search.py "named pipes"
-python scripts/search.py "testing" --category Windows
-python scripts/search.py "SQLite" --json
+python scripts/search.py "testing" --category Windows --topic testing
+python scripts/search.py "SQLite" --type repository --limit 10
+python scripts/search.py "browser test" --use-case test-and-verify-software --json
+python scripts/export_csv.py       # after editing resources.json
+python scripts/generate_indexes.py # after changing catalog categories/resources
 python scripts/validate.py
+python -m unittest discover -s tests -v
 ```
 
-Search matches words across names, categories, URLs, and notes. Use shorter queries for broader results. It is a discovery tool, not a ranking or suitability engine.
+Search requires every query term to match a descriptive field or curated facet, then ranks name matches above purpose, category, and facet matches. Review/status/provenance boilerplate is excluded. Exact facet filters include `--topic`, `--type`, `--use-case`, `--language`, and `--platform`; `--category` is a category-name substring. Search is a local discovery aid, not a suitability, freshness, or security audit.
 
 ## Evidence and provenance
 

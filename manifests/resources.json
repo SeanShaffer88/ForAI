@@ -1,0 +1,37 @@
+{
+  "repository": "ForAI",
+  "owner": "SeanShaffer88",
+  "schema_version": "2.1.0",
+  "last_updated": "2026-10-26",
+  "target_environment": "Windows 11 / Native Win32",
+  "categories": [
+    {
+      "id": "win32-apis",
+      "name": "Win32 APIs & Native Windows",
+      "path": "modules/win32-apis",
+      "resource_count": 250,
+      "tags": ["c++", "rust", "win32", "low-level", "system"]
+    },
+    {
+      "id": "rust-tooling",
+      "name": "Rust Tooling & Portable Utilities",
+      "path": "modules/rust-tooling",
+      "resource_count": 300,
+      "tags": ["rust", "zero-dependency", "portable", "cli"]
+    },
+    {
+      "id": "automation",
+      "name": "Automation & PowerShell",
+      "path": "modules/automation",
+      "resource_count": 150,
+      "tags": ["powershell", "batch", "debloat", "setup"]
+    },
+    {
+      "id": "agent-skills",
+      "name": "Agent Capabilities & Manifests",
+      "path": "modules/agent-skills",
+      "resource_count": 200,
+      "tags": ["ai", "agents", "json", "prompts"]
+    }
+  ]
+}

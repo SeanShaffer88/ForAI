@@ -31,3 +31,13 @@ Scoped metadata and README checks. See the [full expansion and evidence limits](
 | [VitePress](https://github.com/vuejs/vitepress) | Build documentation sites with Vite and Vue; check hosting paths and search integration. |
 | [Starlight](https://github.com/withastro/starlight) | Astro documentation framework; customize navigation and verify accessibility after changes. |
 | [Vale](https://github.com/vale-cli/vale) | Lint prose against configurable style rules; curate rules to avoid noisy feedback. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [scramble](https://github.com/dedoc/scramble) | Modern Laravel OpenAPI (Swagger) documentation generator. No PHPDoc annotations required. |
+| [SwiftUICharts](https://github.com/willdale/SwiftUICharts) | A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility features built in. |
+| [redoc](https://github.com/Redocly/redoc) | 📘 OpenAPI/Swagger-generated API Reference Documentation |

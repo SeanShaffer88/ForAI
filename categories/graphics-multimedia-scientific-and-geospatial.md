@@ -50,3 +50,18 @@ Scoped metadata and README checks. See the [full expansion and evidence limits](
 | [Shapely](https://github.com/shapely/shapely) | Analyze planar geometries in Python; understand coordinate-system and GEOS requirements. |
 | [GeoPandas](https://github.com/geopandas/geopandas) | Work with geospatial dataframes; choose coordinate reference systems and compatible native dependencies. |
 | [Rasterio](https://github.com/rasterio/rasterio) | Read and write geospatial rasters in Python; inspect GDAL drivers and binary compatibility. Repository license text uses BSD-style redistribution terms. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. |
+| [effectcraft](https://github.com/storytold/effectcraft) | EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust |
+| [thorvg](https://github.com/thorvg/thorvg) | A production-ready C++ vector graphics engine supporting SVG and Lottie formats, featuring advanced rendering backends such as WebGPU for high-performance graphics. |
+| [Simd](https://github.com/ermig1979/Simd) | C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX for x86/x64, NEON, SVE for ARM, HVX for Hexagon |
+| [libsndfile](https://github.com/libsndfile/libsndfile) | A C library for reading and writing sound files containing sampled audio data. |
+| [rom](https://github.com/hanakai-rb/rom) | Data mapping and persistence toolkit for Ruby |
+| [FluidAudio](https://github.com/FluidInference/FluidAudio) | Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. |
+| [metube](https://github.com/alexta69/metube) | Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp) |

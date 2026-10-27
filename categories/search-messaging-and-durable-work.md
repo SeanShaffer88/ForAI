@@ -35,3 +35,12 @@ Scoped metadata and README checks. See the [full expansion and evidence limits](
 | [Trigger.dev](https://github.com/triggerdotdev/trigger.dev) | Run background tasks from application code; evaluate worker deployment and resource limits. |
 | [Argo Workflows](https://github.com/argoproj/argo-workflows) | Execute container workflows on Kubernetes; define artifact storage and service-account permissions. |
 | [Luigi](https://github.com/spotify/luigi) | Build dependency-based batch pipelines in Python; design task completeness and idempotency. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [gulp](https://github.com/gulpjs/gulp) | A toolkit to automate & enhance your workflow |
+| [enqueue-dev](https://github.com/php-enqueue/enqueue-dev) | Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro |

@@ -49,3 +49,13 @@ Scoped metadata and README checks. See the [full expansion and evidence limits](
 | [Box2D](https://github.com/erincatto/box2d) | Simulate 2D rigid bodies; review current API generation and numerical assumptions. |
 | [raylib](https://github.com/raysan5/raylib) | Build graphics and games with a compact C API; confirm backend and platform build dependencies. |
 | [Flecs](https://github.com/SanderMertens/flecs) | Add an entity-component system to C or C++ applications; plan data ownership and scheduling. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [ezEngine](https://github.com/ezEngine/ezEngine) | An open source C++ game engine. |
+| [nCine](https://github.com/nCine/nCine) | A cross-platform 2D game engine |
+| [game-datasets](https://github.com/leomaurodesenv/game-datasets) | :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games |

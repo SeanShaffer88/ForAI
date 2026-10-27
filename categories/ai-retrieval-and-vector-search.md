@@ -44,3 +44,12 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [Apify](https://docs.apify.com/) | Web scraping and automation platform (Actors) increasingly used as agent tooling and a data source for RAG. |
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Baidu's multilingual OCR toolkit; a standard choice for document ingestion pipelines. |
 | [Surya](https://github.com/datalab-to/surya) | OCR, layout analysis, and table recognition in 90+ languages; the engine under Marker. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain |
+| [serviette](https://github.com/pathwaycom/serviette) | A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway. |

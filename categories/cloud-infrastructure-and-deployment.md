@@ -53,3 +53,52 @@ Scoped metadata and README checks. See the [full expansion and evidence limits](
 | [Crossplane](https://github.com/crossplane/crossplane) | Manage infrastructure through Kubernetes APIs; review provider permissions and lifecycle policies. |
 | [KEDA](https://github.com/kedacore/keda) | Scale Kubernetes workloads from event metrics; validate scaler authentication and queue semantics. |
 | [Caddy](https://github.com/caddyserver/caddy) | HTTP serving and reverse proxying with certificate automation; review module trust and configuration. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [chroma](https://github.com/chroma-core/chroma) | Search infrastructure for AI |
+| [memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. |
+| [curvine](https://github.com/CurvineIO/curvine) | AI-Native & Cloud-Native FS: A high-performance file semantic layer for cloud object storage, integrated with high-speed cache. CNCF Sandbox Project. |
+| [go-zero](https://github.com/zeromicro/go-zero) | A cloud-native Go microservices framework with cli tool for productivity. |
+| [podinfo](https://github.com/stefanprodan/podinfo) | Go microservice template for Kubernetes |
+| [dragonfly](https://github.com/dragonflyoss/dragonfly) | Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch. |
+| [cli](https://github.com/create-go-app/cli) | ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command. |
+| [orleans](https://github.com/dotnet/orleans) | Cloud Native application framework for .NET |
+| [kamal](https://github.com/basecamp/kamal) | Deploy web apps anywhere. |
+| [bosh](https://github.com/cloudfoundry/bosh) | Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. |
+| [lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker |
+| [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. |
+| [docker-bench-security](https://github.com/docker/docker-bench-security) | The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. |
+| [falco](https://github.com/falcosecurity/falco) | Cloud Native Runtime Security |
+| [cri-o](https://github.com/cri-o/cri-o) | Open Container Initiative-based implementation of Kubernetes Container Runtime Interface |
+| [acme-companion](https://github.com/nginx-proxy/acme-companion) | Automated ACME SSL certificate generation for nginx-proxy |
+| [openwhisk](https://github.com/apache/openwhisk) | Apache OpenWhisk is an open source serverless cloud platform |
+| [kraken](https://github.com/uber/kraken) | P2P Docker registry capable of distributing TBs of data in seconds |
+| [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) | :dolphin: A comprehensive tutorial on getting started with Docker! |
+| [img](https://github.com/genuinetools/img) | Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder. |
+| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. |
+| [gosu](https://github.com/tianon/gosu) | Simple Go-based setuid+setgid+setgroups+exec |
+| [werf](https://github.com/werf/werf) | A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices. |
+| [preevy](https://github.com/livecycle/preevy) | Quickly deploy preview environments to the cloud! |
+| [ofelia](https://github.com/mcuadros/ofelia) | A docker job scheduler (aka. crontab for docker) |
+| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| [copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file |
+| [glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
+| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| [apprise](https://github.com/caronc/apprise) | Apprise - Push Notifications that work with just about every platform! |
+| [seerr](https://github.com/seerr-team/seerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
+| [homer](https://github.com/bastienwirtz/homer) | A very simple static homepage for your server. |
+| [2FAuth](https://github.com/Bubka/2FAuth) | A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes |
+| [librephotos](https://github.com/LibrePhotos/librephotos) | A self-hosted open source photo management service. |
+| [sanic](https://github.com/sanic-org/sanic) | Accelerate your web app development Build fast. Run fast. |
+| [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services. |
+| [hyperf](https://github.com/hyperf/hyperf) | 🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease. |
+| [dex](https://github.com/dexidp/dex) | OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors |
+| [nameko](https://github.com/nameko/nameko) | Python framework for building microservices |
+| [swoft](https://github.com/swoft-cloud/swoft) | 🚀 PHP Microservice Full Coroutine Framework |
+| [spin](https://github.com/spinframework/spin) | Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. |
+| [favbox](https://github.com/dd3v/favbox) | 🔖 FavBox is a local-first experimental browser extension that enhances and simplifies bookmark management without cloud storage or third-party services. |

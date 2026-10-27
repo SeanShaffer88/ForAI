@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "description": "Controlled vocabulary for ForAI discovery facets. Topics are concise discovery labels; use cases describe tasks; audiences describe likely practitioners. Facets are hints, not endorsements or compatibility guarantees.",
+  "resource_types": [
+    "repository", "documentation", "service", "standard", "dataset", "course", "curated-list", "design-reference", "reference"
+  ],
+  "topics": [
+    "accessibility", "ai", "android", "api-design", "api-integration", "architecture",
+    "browser-automation", "build-tools", "cloud", "containers", "data-science", "database",
+    "design-systems", "desktop", "elixir", "end-to-end-testing", "game-development", "git",
+    "go", "haskell", "infrastructure-as-code", "java", "javascript", "kotlin", "linux",
+    "llm", "mcp", "mobile", "observability", "php", "python", "ruby", "rust", "security",
+    "swift", "testing", "typescript", "web", "windows"
+  ],
+  "use_cases": [
+    "assess-and-secure-systems", "build-games-or-media-software", "build-or-debug-platform-software",
+    "build-or-evaluate-ai-systems", "design-or-integrate-apis", "develop-or-learn-software",
+    "deploy-and-operate-software", "document-or-improve-accessibility",
+    "implement-with-a-language-or-sdk", "research-or-build-interfaces",
+    "store-query-or-process-data", "test-and-verify-software"
+  ],
+  "languages": ["elixir", "go", "haskell", "java", "javascript", "kotlin", "php", "python", "ruby", "rust", "swift", "typescript"],
+  "platforms": ["android", "linux", "mobile", "web", "windows"],
+  "audiences": [
+    "ai-engineer", "designer", "frontend-developer", "operations-engineer",
+    "platform-engineer", "security-engineer", "software-developer", "test-engineer"
+  ],
+  "verification_levels": [
+    "historical-link-check", "historical-notes", "not-recorded", "page-fetch-or-source-check",
+    "repository-metadata", "source-excerpt-reviewed", "user-submitted"
+  ],
+  "verification_level_notes": {
+    "historical-link-check": "A numeric HTTP response was recorded historically; it is not a current reachability check.",
+    "historical-notes": "Historical discovery or review notes exist, but this label does not assert a recent URL check.",
+    "not-recorded": "No verification scope was recorded in the source fields.",
+    "page-fetch-or-source-check": "Review notes record a page fetch or scoped primary-source inspection; this is not a full adoption audit.",
+    "repository-metadata": "Repository API metadata was checked; this does not mean README, license, security, or compatibility were audited.",
+    "source-excerpt-reviewed": "A README or source excerpt was reviewed for limited metadata; this does not establish suitability.",
+    "user-submitted": "Added from a user-provided URL and not independently checked."
+  },
+  "project_identity": {
+    "github": "GitHub owner/repository normalized to lowercase; used to link multiple catalog entries for the same repository.",
+    "manual": "Non-GitHub endpoints listed explicitly in project-groups.json; do not merge distinct URLs into one resource record."
+  }
+}

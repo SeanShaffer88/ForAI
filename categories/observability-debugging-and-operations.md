@@ -65,3 +65,15 @@ Scoped metadata and README checks. See the [full expansion and evidence limits](
 | [Glances](https://github.com/nicolargo/glances) | Inspect host and container metrics; configure authentication for exposed monitoring endpoints. |
 | [bottom](https://github.com/ClementTsang/bottom) | View system utilization in a terminal; compare per-platform metric availability. |
 | [bandwhich](https://github.com/imsnif/bandwhich) | Attribute network bandwidth to local processes; inspect operating-system and privilege requirements. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [memray](https://github.com/bloomberg/memray) | Memray is a memory profiler for Python |
+| [GoModel](https://github.com/ENTERPILOT/GoModel) | AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI, Ollama, vLLM and more. A LiteLLM alternative with observability, guardrails, streaming, cost tracking, intelligent routing, sticky sessions, failover, real-time logs and usage tracking. Prod ready. |
+| [zipkin](https://github.com/openzipkin/zipkin) | Zipkin is a distributed tracing system |
+| [flogger](https://github.com/google/flogger) | A Fluent Logging API for Java |
+| [rustnet](https://github.com/domcyrus/rustnet) | Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed. |

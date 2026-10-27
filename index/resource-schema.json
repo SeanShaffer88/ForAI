@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:forai:resource-schema:v1",
+  "title": "ForAI resource record",
+  "description": "Schema for the active resources.json catalog. Existing provenance fields remain required; derived facets aid discovery and do not imply endorsement or a current audit.",
+  "type": "object",
+  "required": [
+    "name", "url", "category", "purpose", "source", "checked_on", "review",
+    "http_status", "resource_id", "category_id", "resource_type", "topics",
+    "use_cases", "languages", "platforms", "audiences", "related_resource_ids",
+    "verification_level"
+  ],
+  "properties": {
+    "name": { "type": "string", "minLength": 1 },
+    "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+    "category": { "type": "string", "minLength": 1 },
+    "purpose": { "type": "string", "minLength": 1 },
+    "source": { "type": "string", "minLength": 1 },
+    "checked_on": { "type": "string", "format": "date" },
+    "review": { "type": "string" },
+    "http_status": { "type": ["string", "integer", "null"] },
+    "resource_id": { "type": "string", "pattern": "^res-[a-z0-9-]+$" },
+    "category_id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "resource_type": {
+      "enum": ["repository", "documentation", "service", "standard", "dataset", "course", "curated-list", "design-reference", "reference"]
+    },
+    "topics": { "$ref": "#/$defs/stringList" },
+    "use_cases": { "$ref": "#/$defs/stringList" },
+    "languages": { "$ref": "#/$defs/stringList" },
+    "platforms": { "$ref": "#/$defs/stringList" },
+    "audiences": { "$ref": "#/$defs/stringList" },
+    "related_resource_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "string", "pattern": "^res-[a-z0-9-]+$" }
+    },
+    "project_id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9:/._-]*$" },
+    "verification_level": {
+      "enum": ["user-submitted", "repository-metadata", "source-excerpt-reviewed", "page-fetch-or-source-check", "historical-notes", "historical-link-check", "not-recorded"]
+    },
+    "discovery_source": { "type": "string" }
+  },
+  "$defs": {
+    "stringList": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "string", "minLength": 1 }
+    }
+  },
+  "additionalProperties": true
+}

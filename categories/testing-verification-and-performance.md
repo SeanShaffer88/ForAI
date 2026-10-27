@@ -47,3 +47,25 @@ Scoped metadata and README checks. See the [full expansion and evidence limits](
 | [TLA+ tools](https://github.com/tlaplus/tlaplus) | Model concurrent protocols and check invariants; bounded models do not prove implementation correctness. |
 | [cargo-nextest](https://github.com/nextest-rs/nextest) | Run Rust test binaries with scheduling and retries; confirm differences from cargo test. |
 | [proptest](https://github.com/proptest-rs/proptest) | Property-based Rust tests with shrinking; persist regressions and constrain generators. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [mocha](https://github.com/mochajs/mocha) | ☕️ Classic, reliable, trusted test framework for Node.js and the browser |
+| [core](https://github.com/adonisjs/core) | AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more. |
+| [nightwatch](https://github.com/nightwatchjs/nightwatch) | Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack |
+| [cherrybomb](https://github.com/blst-security/cherrybomb) | Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. |
+| [trust](https://github.com/japaric/trust) | Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows |
+| [fortio](https://github.com/fortio/fortio) | Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats. |
+| [xtd](https://github.com/gammasoft71/xtd) | Free open-source modern C++20/23 framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, Haiku, and SerenityOS. |
+| [kahlan](https://github.com/kahlan/kahlan) | :heavy_check_mark: PHP Test Framework for Freedom, Truth, and Justice |
+| [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) | Simple one-liner tests for common Rails functionality |
+| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [patrol](https://github.com/leancodepl/patrol) | Flutter-first UI testing framework. Ready for action! |
+| [container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) | validate the structure of your container images |
+| [http-prompt](https://github.com/httpie/http-prompt) | An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie |
+| [vuesion](https://github.com/vuesion/vuesion) | The original open-source Vuesion 5: a Nuxt 3 boilerplate with design system, Storybook, Figma UI kit, authentication and testing. MIT licensed, no longer maintained. Active development continues as the commercial Vuesion on Nuxt 4 with workspaces, billing and AI agent skills. |
+| [vue-testing-library](https://github.com/testing-library/vue-testing-library) | 🦎 Simple and complete Vue.js testing utilities that encourage good testing practices. |

@@ -47,3 +47,17 @@ Scoped metadata and README checks. See the [full expansion and evidence limits](
 | [SWC](https://github.com/swc-project/swc) | Compile and transform JavaScript/TypeScript with Rust tooling; verify plugin and syntax compatibility. |
 | [Oxc](https://github.com/oxc-project/oxc) | Rust-based JavaScript tooling components; evaluate individual parser, lint and transform maturity. |
 | [Biome](https://github.com/biomejs/biome) | Format and lint web code with unified tooling; check language and rule coverage before migration. |
+
+## Expansion — 2026-10-27
+
+A further 500-resource development discovery pass. Entries below were selected from curated project indexes and checked against GitHub repository API metadata only; see the [expansion notes and evidence limits](../catalogs/development-expansion-2026-10-27.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [xo](https://github.com/xojs/xo) | ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults |
+| [Nuitka](https://github.com/Nuitka/Nuitka) | Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. |
+| [turborepo](https://github.com/vercel/turborepo) | Build system optimized for JavaScript and TypeScript, written in Rust |
+| [golangci-lint](https://github.com/golangci/golangci-lint) | Fast linters runner for Go |
+| [peachpie](https://github.com/peachpiecompiler/peachpie) | PeachPie - the PHP compiler and runtime for .NET and .NET Core |
+| [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) | A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability. |
+| [hadolint](https://github.com/hadolint/hadolint) | Dockerfile linter, validate inline bash, written in Haskell |

@@ -20,7 +20,7 @@
   "name": "LangChain (GitHub)",
   "url": "https://github.com/langchain-ai/langchain",
   "category_id": "ai-agent-frameworks-and-orchestration",
-  "purpose": "Core LangChain monorepo.",
+  "purpose": "LangChain core monorepo: model, tool, and agent abstractions across providers; powerful but fast-moving — pin versions and expect breaking changes.",
   "resource_type": "repository",
   "topics": [
    "ai"
@@ -68,7 +68,7 @@
   "name": "LlamaIndex (GitHub)",
   "url": "https://github.com/run-llama/llama_index",
   "category_id": "ai-agent-frameworks-and-orchestration",
-  "purpose": "LlamaIndex core and integrations.",
+  "purpose": "LlamaIndex core and integrations: data connectors, indexes, and retrieval for RAG applications; the Python package is the main surface.",
   "resource_type": "repository",
   "topics": [
    "ai"

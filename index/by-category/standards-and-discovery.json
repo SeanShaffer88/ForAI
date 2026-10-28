@@ -32,7 +32,7 @@
   "name": "WHATWG",
   "url": "https://spec.whatwg.org/",
   "category_id": "standards-and-discovery",
-  "purpose": "Living browser platform standards.",
+  "purpose": "Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough.",
   "resource_type": "reference",
   "topics": [],
   "use_cases": [

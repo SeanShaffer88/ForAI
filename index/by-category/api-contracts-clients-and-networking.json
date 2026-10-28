@@ -202,7 +202,7 @@
   "name": "Requests",
   "url": "https://requests.readthedocs.io/",
   "category_id": "api-contracts-clients-and-networking",
-  "purpose": "Python synchronous HTTP integration.",
+  "purpose": "Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work.",
   "resource_type": "reference",
   "topics": [
    "api-integration",
@@ -403,7 +403,7 @@
   "name": "micro",
   "url": "https://github.com/vercel/micro",
   "category_id": "api-contracts-clients-and-networking",
-  "purpose": "Asynchronous HTTP microservices",
+  "purpose": "Asynchronous HTTP microservices for Node.js: a tiny handler library from Vercel for single-purpose services; routing and middleware are bring-your-own.",
   "resource_type": "repository",
   "topics": [
    "api-integration",

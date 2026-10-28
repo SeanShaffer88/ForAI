@@ -29,9 +29,9 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [crates.io](https://crates.io/) | Rust package registry; check downloads, docs link, and maintenance before recommending a crate. |
 | [docs.rs](https://docs.rs/) | Rendered docs for nearly every crate and version. |
 | [Cargo Book](https://doc.rust-lang.org/cargo/) | Workspaces, features, profiles, publishing. |
-| [Python](https://www.python.org/) | Downloads, PEP index, release schedule. |
+| [Python](https://www.python.org/) | Python downloads, PEP index, and release schedule on python.org; check the release schedule before promising support for a new or end-of-life version. |
 | [PyPI](https://pypi.org/) | Python package index; check version, requires-python, and project links. |
-| [Node.js](https://nodejs.org/en/docs) | Runtime APIs, LTS schedule, globals. |
+| [Node.js](https://nodejs.org/en/docs) | Node.js runtime: API docs, LTS schedule, and globals; pin an LTS release for production work and check the schedule before adopting a new major version. |
 | [npm](https://www.npmjs.com/) | JavaScript package registry; verify package identity carefully — similar names are a supply-chain risk. |
 | [Deno](https://docs.deno.com/) | Secure JS/TS runtime, standard library, JSR registry. |
 | [Bun](https://bun.sh/docs) | JS runtime, bundler, test runner, package manager. |
@@ -51,15 +51,15 @@ A further 500-resource development discovery pass. Entries below were selected f
 |---|---|
 | [playframework](https://github.com/playframework/playframework) | The Community Maintained High Velocity Web Framework For Java and Scala. |
 | [agentscope-java](https://github.com/agentscope-ai/agentscope-java) | Build distributed, production-grade, long-running agents. |
-| [spotless](https://github.com/diffplug/spotless) | Keep your code spotless |
-| [intellij-community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA & IntelliJ Platform |
+| [spotless](https://github.com/diffplug/spotless) | Keep your code spotless: formatting enforcement for Gradle/Maven projects (Java, Kotlin, and more) that fails the build or rewrites files to a canonical format. |
+| [intellij-community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA and the IntelliJ Platform source: the basis for building JetBrains IDE plugins; most users want the released IDE, not this repo. |
 | [classgraph](https://github.com/classgraph/classgraph) | An uber-fast parallelized Java classpath scanner and module scanner. |
 | [bc-java](https://github.com/bcgit/bc-java) | Bouncy Castle Java Distribution (Mirror) |
 | [jmh](https://github.com/openjdk/jmh) | https://openjdk.org/projects/code-tools/jmh |
 | [jbang](https://github.com/jbangdev/jbang) | Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease. |
 | [smile](https://github.com/haifengl/smile) | Statistical Machine Intelligence & Learning Engine |
 | [tribuo](https://github.com/oracle/tribuo) | Tribuo - A Java machine learning library |
-| [pebble](https://github.com/PebbleTemplates/pebble) | Java Template Engine |
+| [pebble](https://github.com/PebbleTemplates/pebble) | Pebble, a Java template engine inspired by Twig: inheritance, macros, and auto-escaping for server-rendered Java web pages. |
 | [JavaPackager](https://github.com/javapackager/JavaPackager) | Gradle/Maven plugin to package Java applications as native Windows, MacOS, or Linux executables and create installers for them. |
 | [jspecify](https://github.com/jspecify/jspecify) | An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis. |
 | [seastar](https://github.com/scylladb/seastar) | High performance server-side application framework |

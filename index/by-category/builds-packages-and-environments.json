@@ -22,7 +22,7 @@
   "name": "Ruff",
   "url": "https://docs.astral.sh/ruff/",
   "category_id": "builds-packages-and-environments",
-  "purpose": "Python linting and formatting.",
+  "purpose": "Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup.",
   "resource_type": "documentation",
   "topics": [
    "python"
@@ -94,7 +94,7 @@
   "name": "NuGet",
   "url": "https://learn.microsoft.com/en-us/nuget/",
   "category_id": "builds-packages-and-environments",
-  "purpose": ".NET dependency packaging and restore.",
+  "purpose": ".NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages.",
   "resource_type": "documentation",
   "topics": [],
   "use_cases": [
@@ -122,7 +122,7 @@
   "name": "Ninja",
   "url": "https://ninja-build.org/manual.html",
   "category_id": "builds-packages-and-environments",
-  "purpose": "Execute generated native build graphs.",
+  "purpose": "Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written.",
   "resource_type": "reference",
   "topics": [],
   "use_cases": [
@@ -529,7 +529,7 @@
   "name": "golangci-lint",
   "url": "https://github.com/golangci/golangci-lint",
   "category_id": "builds-packages-and-environments",
-  "purpose": "Fast linters runner for Go",
+  "purpose": "Fast linters runner for Go: runs dozens of linters in parallel with one config; the standard Go lint gate in CI.",
   "resource_type": "repository",
   "topics": [],
   "use_cases": [

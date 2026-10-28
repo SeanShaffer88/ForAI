@@ -24,7 +24,7 @@
   "name": "Avalonia",
   "url": "https://docs.avaloniaui.net/",
   "category_id": "desktop-mobile-and-device-sdks",
-  "purpose": "Cross-platform .NET desktop UI.",
+  "purpose": "Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters.",
   "resource_type": "documentation",
   "topics": [
    "desktop",
@@ -182,7 +182,7 @@
   "name": "Kotlin Multiplatform",
   "url": "https://kotlinlang.org/docs/multiplatform/get-started.html",
   "category_id": "desktop-mobile-and-device-sdks",
-  "purpose": "Shared Kotlin code across targets.",
+  "purpose": "Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer.",
   "resource_type": "documentation",
   "topics": [
    "desktop",
@@ -309,7 +309,7 @@
   "name": "Magisk",
   "url": "https://github.com/topjohnwu/Magisk",
   "category_id": "desktop-mobile-and-device-sdks",
-  "purpose": "The Magic Mask for Android",
+  "purpose": "The Magic Mask for Android: systemless root and module framework; powerful device modification — expect SafetyNet/Play Integrity and warranty implications.",
   "resource_type": "repository",
   "topics": [
    "android",
@@ -632,7 +632,7 @@
   "name": "flutter_form_builder",
   "url": "https://github.com/flutter-form-builder-ecosystem/flutter_form_builder",
   "category_id": "desktop-mobile-and-device-sdks",
-  "purpose": "Simple form maker for Flutter Framework",
+  "purpose": "Simple form maker for the Flutter framework: prebuilt form fields with validation on top of Flutter's Form, cutting form boilerplate.",
   "resource_type": "repository",
   "topics": [
    "desktop",

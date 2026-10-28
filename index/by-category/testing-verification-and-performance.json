@@ -22,7 +22,7 @@
   "name": "pytest",
   "url": "https://docs.pytest.org/",
   "category_id": "testing-verification-and-performance",
-  "purpose": "Python unit and integration tests.",
+  "purpose": "Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites.",
   "resource_type": "documentation",
   "topics": [
    "python",
@@ -60,7 +60,7 @@
   "name": "Vitest",
   "url": "https://vitest.dev/guide/",
   "category_id": "testing-verification-and-performance",
-  "purpose": "JavaScript and TypeScript test runner.",
+  "purpose": "JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects.",
   "resource_type": "reference",
   "topics": [
    "javascript",
@@ -97,7 +97,7 @@
   "name": "JUnit",
   "url": "https://junit.org/",
   "category_id": "testing-verification-and-performance",
-  "purpose": "JVM testing framework.",
+  "purpose": "JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on.",
   "resource_type": "reference",
   "topics": [
    "testing"
@@ -113,7 +113,7 @@
   "name": "xUnit.net",
   "url": "https://xunit.net/",
   "category_id": "testing-verification-and-performance",
-  "purpose": ".NET testing framework.",
+  "purpose": ".NET testing framework, the common default for new C# test projects alongside NUnit and MSTest.",
   "resource_type": "reference",
   "topics": [
    "testing"
@@ -129,7 +129,7 @@
   "name": "GoogleTest",
   "url": "https://google.github.io/googletest/",
   "category_id": "testing-verification-and-performance",
-  "purpose": "C++ unit tests and mocking.",
+  "purpose": "C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects.",
   "resource_type": "repository",
   "topics": [
    "testing"
@@ -145,7 +145,7 @@
   "name": "Catch2",
   "url": "https://github.com/catchorg/Catch2",
   "category_id": "testing-verification-and-performance",
-  "purpose": "C++ test and benchmark framework.",
+  "purpose": "C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing.",
   "resource_type": "repository",
   "topics": [
    "testing"
@@ -226,7 +226,7 @@
   "name": "Locust",
   "url": "https://docs.locust.io/",
   "category_id": "testing-verification-and-performance",
-  "purpose": "Python-programmed load testing.",
+  "purpose": "Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists.",
   "resource_type": "documentation",
   "topics": [
    "python",
@@ -294,7 +294,7 @@
   "name": "libFuzzer",
   "url": "https://llvm.org/docs/LibFuzzer.html",
   "category_id": "testing-verification-and-performance",
-  "purpose": "Coverage-guided native fuzzing.",
+  "purpose": "Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing.",
   "resource_type": "documentation",
   "topics": [
    "testing"

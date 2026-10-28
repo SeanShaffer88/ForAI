@@ -20,7 +20,7 @@
   "name": "axe-core",
   "url": "https://github.com/dequelabs/axe-core",
   "category_id": "accessibility-internationalization-and-documentation",
-  "purpose": "Automated accessibility rule engine.",
+  "purpose": "Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required.",
   "resource_type": "repository",
   "topics": [
    "accessibility"
@@ -84,7 +84,7 @@
   "name": "MkDocs",
   "url": "https://www.mkdocs.org/",
   "category_id": "accessibility-internationalization-and-documentation",
-  "purpose": "Markdown documentation sites.",
+  "purpose": "Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo.",
   "resource_type": "documentation",
   "topics": [
    "accessibility"

@@ -18,6 +18,7 @@ maintenance, license, and compatibility at the primary source.
    `index/resources.compact.json` is the same catalog at ~38% of the size
    when you genuinely need every category at once.
 
+Single-file alternative: `llms-full.txt` concatenates every category page and catalog for one-shot ingestion.
 Local alternative: `python scripts/search.py "your query"` with
 `--topic`, `--type`, `--use-case`, `--language`, or `--platform` filters.
 

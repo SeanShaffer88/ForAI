@@ -350,7 +350,7 @@
   "name": "Cobra",
   "url": "https://cobra.dev/",
   "category_id": "python-rust-and-go-building-blocks",
-  "purpose": "Go CLI commands, flags and completion.",
+  "purpose": "Go CLI library for commands, flags, and shell completion (used by kubectl and Hugo); pair with Viper for configuration files and environment variables.",
   "resource_type": "reference",
   "topics": [
    "python",
@@ -903,7 +903,7 @@
   "name": "keras",
   "url": "https://github.com/keras-team/keras",
   "category_id": "python-rust-and-go-building-blocks",
-  "purpose": "Deep Learning for humans",
+  "purpose": "Deep learning for humans: the high-level Keras 3 API for building and training neural networks across TensorFlow, JAX, and PyTorch backends.",
   "resource_type": "repository",
   "topics": [
    "python",
@@ -1024,7 +1024,7 @@
   "name": "optuna",
   "url": "https://github.com/optuna/optuna",
   "category_id": "python-rust-and-go-building-blocks",
-  "purpose": "A hyperparameter optimization framework",
+  "purpose": "A hyperparameter optimization framework for ML: define-by-run trial APIs, pruners, and samplers; framework-agnostic across training stacks.",
   "resource_type": "repository",
   "topics": [
    "python",

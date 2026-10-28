@@ -13,14 +13,14 @@ Entries are primary-source pointers (official documentation, official registries
 | Resource | Useful for / constraints |
 |---|---|
 | [Model Context Protocol](https://modelcontextprotocol.io/) | Protocol spec, concepts (tools/resources/prompts), transports, and security guidance. Read this first. |
-| [MCP specification (GitHub)](https://github.com/modelcontextprotocol/modelcontextprotocol) | Spec source, schemas, and proposals. |
+| [MCP specification (GitHub)](https://github.com/modelcontextprotocol/modelcontextprotocol) | MCP specification source, schemas, and proposals on GitHub; read the versioned spec site for normal use and this repo when tracking changes or proposing features. |
 | [Official MCP servers](https://github.com/modelcontextprotocol/servers) | Reference servers: filesystem, fetch, git, memory, sequential-thinking, time, everything (test server), plus archived servers list. |
 | [MCP Registry](https://registry.modelcontextprotocol.io/) | Official community registry for discovering public MCP servers. |
-| [MCP Registry (GitHub)](https://github.com/modelcontextprotocol/registry) | Registry API and publishing process. |
+| [MCP Registry (GitHub)](https://github.com/modelcontextprotocol/registry) | MCP Registry source: the registry API and server publishing process; the registry site is the discovery surface, this repo is for publishers and implementers. |
 | [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | Official Python SDK (FastMCP-style server/client) for building MCP servers. |
 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | Official TypeScript SDK for servers and clients. |
 | [MCP C# SDK](https://github.com/modelcontextprotocol/csharp-sdk) | Official .NET SDK, maintained with Microsoft. |
-| [MCP Rust SDK](https://github.com/modelcontextprotocol/rust-sdk) | Official Rust SDK (rmcp). |
+| [MCP Rust SDK](https://github.com/modelcontextprotocol/rust-sdk) | Official Rust SDK (rmcp) for building MCP servers and clients; the reference Rust implementation, still evolving with the spec. |
 | [MCP Go SDK](https://github.com/modelcontextprotocol/go-sdk) | Official Go SDK, maintained with Google. |
 | [MCP Java SDK](https://github.com/modelcontextprotocol/java-sdk) | Official Java SDK, built on Spring AI infrastructure. |
 | [GitHub MCP Server](https://github.com/github/github-mcp-server) | GitHub's official MCP server: repos, issues, PRs, Actions. Prefer this over scraping GitHub. |
@@ -41,10 +41,10 @@ Entries are primary-source pointers (official documentation, official registries
 | Resource | Useful for / constraints |
 |---|---|
 | [LangChain documentation](https://docs.langchain.com/) | LangChain + LangGraph docs: agents, tools, retrieval, streaming. |
-| [LangChain (GitHub)](https://github.com/langchain-ai/langchain) | Core LangChain monorepo. |
+| [LangChain (GitHub)](https://github.com/langchain-ai/langchain) | LangChain core monorepo: model, tool, and agent abstractions across providers; powerful but fast-moving — pin versions and expect breaking changes. |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Stateful, durable agent orchestration as graphs; persistence and human-in-the-loop. |
 | [LlamaIndex documentation](https://developers.llamaindex.ai/) | Data framework for RAG and agents: ingestion, indexes, query engines, workflows. |
-| [LlamaIndex (GitHub)](https://github.com/run-llama/llama_index) | LlamaIndex core and integrations. |
+| [LlamaIndex (GitHub)](https://github.com/run-llama/llama_index) | LlamaIndex core and integrations: data connectors, indexes, and retrieval for RAG applications; the Python package is the main surface. |
 | [Microsoft Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/) | .NET/Python/Java AI orchestration SDK from Microsoft. |
 | [Microsoft AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversation framework from Microsoft Research. |
 | [CrewAI](https://docs.crewai.com/) | Role-based multi-agent crews and flows (Python). |
@@ -106,7 +106,7 @@ Entries are primary-source pointers (official documentation, official registries
 | [Microsoft](https://github.com/microsoft/ML-For-Beginners) | Classical ML curriculum with projects. |
 | [LLM Course (mlabonne)](https://github.com/mlabonne/llm-course) | Roadmap with notebooks: LLM fundamentals, scientist, and engineer tracks. |
 | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | Jay Alammar's visual walkthrough of the Transformer architecture. |
-| [Fast.ai](https://course.fast.ai/) | Top-down deep learning course (free). |
+| [Fast.ai](https://course.fast.ai/) | Top-down deep learning course (free) plus the fastai library: learn by building working models first; the course targets practitioners, not ML theory. |
 | [DeepLearning.AI short courses](https://www.deeplearning.ai/courses) | Short practitioner courses on RAG, agents, fine-tuning, and evals. |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Papers, training frameworks, tools, and courses around LLMs. |
 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | Broad GenAI tools and services index. |
@@ -210,9 +210,9 @@ Entries are primary-source pointers (official documentation, official registries
 | [crates.io](https://crates.io/) | Rust package registry; check downloads, docs link, and maintenance before recommending a crate. |
 | [docs.rs](https://docs.rs/) | Rendered docs for nearly every crate and version. |
 | [Cargo Book](https://doc.rust-lang.org/cargo/) | Workspaces, features, profiles, publishing. |
-| [Python](https://www.python.org/) | Downloads, PEP index, release schedule. |
+| [Python](https://www.python.org/) | Python downloads, PEP index, and release schedule on python.org; check the release schedule before promising support for a new or end-of-life version. |
 | [PyPI](https://pypi.org/) | Python package index; check version, requires-python, and project links. |
-| [Node.js](https://nodejs.org/en/docs) | Runtime APIs, LTS schedule, globals. |
+| [Node.js](https://nodejs.org/en/docs) | Node.js runtime: API docs, LTS schedule, and globals; pin an LTS release for production work and check the schedule before adopting a new major version. |
 | [npm](https://www.npmjs.com/) | JavaScript package registry; verify package identity carefully — similar names are a supply-chain risk. |
 | [Deno](https://docs.deno.com/) | Secure JS/TS runtime, standard library, JSR registry. |
 | [Bun](https://bun.sh/docs) | JS runtime, bundler, test runner, package manager. |

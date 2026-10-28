@@ -20,7 +20,7 @@
   "name": "awesome-falsehood",
   "url": "https://github.com/kdeldycke/awesome-falsehood",
   "category_id": "test-automation-and-quality-engineering",
-  "purpose": "😱 Falsehoods Programmers Believe in",
+  "purpose": "Falsehoods programmers believe in: a curated list of wrong assumptions about names, time, addresses, and more — a design-review checklist for data modelling.",
   "resource_type": "curated-list",
   "topics": [
    "testing"
@@ -36,7 +36,7 @@
   "name": "rrweb",
   "url": "https://github.com/rrweb-io/rrweb",
   "category_id": "test-automation-and-quality-engineering",
-  "purpose": "record and replay the web",
+  "purpose": "Record and replay the web: capture DOM events in the browser and replay sessions for debugging and support; mind the privacy of recorded user data.",
   "resource_type": "repository",
   "topics": [
    "testing"
@@ -70,7 +70,7 @@
   "name": "zaproxy",
   "url": "https://github.com/zaproxy/zaproxy",
   "category_id": "test-automation-and-quality-engineering",
-  "purpose": "The ZAP by Checkmarx Core project",
+  "purpose": "OWASP ZAP (by Checkmarx): the free web-application security scanner and intercepting proxy; the open-source alternative to Burp Suite for DAST.",
   "resource_type": "repository",
   "topics": [
    "testing"
@@ -171,7 +171,7 @@
   "name": "bats-core",
   "url": "https://github.com/bats-core/bats-core",
   "category_id": "test-automation-and-quality-engineering",
-  "purpose": "Bash Automated Testing System",
+  "purpose": "Bash Automated Testing System: a TAP-compliant test framework for Bash scripts and command-line behaviour.",
   "resource_type": "repository",
   "topics": [
    "testing"
@@ -219,7 +219,7 @@
   "name": "ferrum",
   "url": "https://github.com/rubycdp/ferrum",
   "category_id": "test-automation-and-quality-engineering",
-  "purpose": "Headless Chrome Ruby API",
+  "purpose": "Headless Chrome Ruby API: drive Chrome via the DevTools protocol from Ruby for scraping, screenshots, and browser tests.",
   "resource_type": "repository",
   "topics": [
    "api-integration",
@@ -381,7 +381,7 @@
   "name": "playwright-bdd",
   "url": "https://github.com/vitalets/playwright-bdd",
   "category_id": "test-automation-and-quality-engineering",
-  "purpose": "BDD testing with Playwright runner",
+  "purpose": "BDD testing with the Playwright runner: write Gherkin features and run them as Playwright tests, combining cucumber-style specs with browser automation.",
   "resource_type": "repository",
   "topics": [
    "browser-automation",

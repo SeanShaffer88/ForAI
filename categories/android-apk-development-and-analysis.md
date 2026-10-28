@@ -8,7 +8,7 @@ Selected primary documentation, README excerpts and repository metadata reviewed
 |---|---|
 | [APK Analyzer](https://developer.android.com/studio/debug/apk-analyzer) | Inspect manifest, DEX, resources and package size in Android Studio. |
 | [apkanalyzer](https://developer.android.com/tools/apkanalyzer) | Scriptable package, manifest, DEX and resource inspection. |
-| [Android CLI](https://developer.android.com/tools/android-cli) | Current command-line Android project and SDK workflows; recheck availability before replacing existing tooling. |
+| [Android CLI](https://developer.android.com/studio/intro) | Current command-line Android project and SDK workflows; recheck availability before replacing existing tooling. |
 | [sdkmanager](https://developer.android.com/tools/sdkmanager) | SDK package management reference; fetched page marks it deprecated in favor of Android CLI, while existing SDK installations still use it. |
 | [Android command-line builds](https://developer.android.com/build/building-cmdline) | Gradle-wrapper builds of APKs and app bundles from source. |
 | [Android Gradle Plugin](https://developer.android.com/build/releases/about-agp) | Build-system compatibility and release guidance; pin compatible AGP, Gradle and JDK versions. |
@@ -60,7 +60,7 @@ Selected primary documentation, README excerpts and repository metadata reviewed
 | [React Native Android releases](https://reactnative.dev/docs/signed-apk-android) | Understand JS/assets, native packaging and signing of React Native Android builds. |
 | [Godot Android export](https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html) | Godot Android toolchain, templates, package data and signing requirements. |
 | [Perfetto](https://perfetto.dev/docs/) | System/app tracing for startup, scheduling and performance investigation. |
-| [Android Monkey](https://developer.android.com/studio/test/monkey) | Device UI event stress testing; bound runs and inspect results rather than treating no crash as correctness. |
+| [Android Monkey](https://developer.android.com/studio/test/other-testing-tools/monkey) | Device UI event stress testing; bound runs and inspect results rather than treating no crash as correctness. |
 
 Project reference checked 2026-10-22:
 

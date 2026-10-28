@@ -43,8 +43,8 @@ A further 500-resource development discovery pass. Entries below were selected f
 | Resource | Useful for / constraints |
 |---|---|
 | [oclif](https://github.com/oclif/oclif) | CLI for generating, building, and releasing oclif CLIs. Built by Salesforce. |
-| [nyc](https://github.com/istanbuljs/nyc) | the Istanbul command line interface |
-| [atuin](https://github.com/atuinsh/atuin) | ✨ Making your shell magical |
+| [nyc](https://github.com/istanbuljs/nyc) | The Istanbul command-line interface: code-coverage reporting for JavaScript test runs, wrapping Istanbul's instrumentation and reports. |
+| [atuin](https://github.com/atuinsh/atuin) | Shell history replacement (Rust): searchable, syncable history across machines with end-to-end encryption; replaces Ctrl-R rather than your shell. |
 | [aichat](https://github.com/sigoden/aichat) | All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. |
 | [skills-manager](https://github.com/xingkongliang/skills-manager) | A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
 | [Kaku](https://github.com/tw93/Kaku) | A fast, good-looking, AI-friendly terminal for the Mac. |
@@ -58,19 +58,19 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [fvm](https://github.com/btwld/fvm) | Flutter Version Management: A simple CLI to manage Flutter SDK versions. |
 | [starship](https://github.com/starship/starship) | ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 | [gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
-| [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager |
+| [nnn](https://github.com/jarun/nnn) | nnn (n3): the unorthodox terminal file manager — extremely fast and small, keyboard-driven, with a plugin ecosystem; expect a learning curve. |
 | [asciinema](https://github.com/asciinema/asciinema) | Terminal session recorder, streamer and player 📹 |
 | [gotty](https://github.com/yudai/gotty) | Share your terminal as a web application |
 | [sshuttle](https://github.com/sshuttle/sshuttle) | Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling. |
 | [npm-check-updates](https://github.com/raineorshine/npm-check-updates) | Find newer versions of package dependencies than what your package.json allows |
 | [visidata](https://github.com/saulpw/visidata) | A terminal spreadsheet multitool for discovering and arranging data |
 | [release-it](https://github.com/release-it/release-it) | 🚀 Automate versioning and package publishing |
-| [skim](https://github.com/skim-rs/skim) | Fuzzy Finder in rust! |
+| [skim](https://github.com/skim-rs/skim) | Fuzzy finder in Rust (like fzf): interactive filtering for files, history, and command output in the terminal. |
 | [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) | An informative and fancy bash prompt for Git users |
 | [git-standup](https://github.com/nilbuild/git-standup) | Recall what you or your team did on the last working day |
 | [xxh](https://github.com/xxh/xxh) | 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on. |
 | [themer](https://github.com/mjswensen/themer) | 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more). |
 | [git-stats](https://github.com/IonicaBizau/git-stats) | 🍀 Local git statistics including GitHub-like contributions calendars. |
-| [emacs](https://github.com/emacs-mirror/emacs) | Mirror of GNU Emacs |
+| [emacs](https://github.com/emacs-mirror/emacs) | Mirror of GNU Emacs: the extensible text editor and Lisp environment; most users install a release build rather than building this source. |
 | [freeze](https://github.com/charmbracelet/freeze) | Generate images of code and terminal output 📸 |
 | [musikcube](https://github.com/clangen/musikcube) | a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++ |

@@ -40,7 +40,9 @@
   "category_id": "integration-apis-and-business-sdks",
   "purpose": "Microsoft 365 and identity-backed APIs; scopes, consent and beta stability matter.",
   "resource_type": "documentation",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "design-or-integrate-apis"
   ],
@@ -54,7 +56,9 @@
   "category_id": "integration-apis-and-business-sdks",
   "purpose": "Docs, Sheets, Drive, Gmail and Calendar integration entry point.",
   "resource_type": "documentation",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "design-or-integrate-apis"
   ],
@@ -84,7 +88,9 @@
   "category_id": "integration-apis-and-business-sdks",
   "purpose": "Messaging, voice and communications SDKs.",
   "resource_type": "documentation",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "design-or-integrate-apis"
   ],
@@ -98,7 +104,9 @@
   "category_id": "integration-apis-and-business-sdks",
   "purpose": "Transactional email APIs and deliverability integration.",
   "resource_type": "documentation",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "design-or-integrate-apis"
   ],
@@ -110,7 +118,7 @@
   "name": "Resend",
   "url": "https://resend.com/docs",
   "category_id": "integration-apis-and-business-sdks",
-  "purpose": "Email API and SDK documentation.",
+  "purpose": "Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted.",
   "resource_type": "documentation",
   "topics": [
    "api-integration"
@@ -142,9 +150,11 @@
   "name": "Discord",
   "url": "https://discord.com/developers/docs/intro",
   "category_id": "integration-apis-and-business-sdks",
-  "purpose": "Bot and application interfaces.",
+  "purpose": "Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms.",
   "resource_type": "documentation",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "design-or-integrate-apis"
   ],
@@ -156,9 +166,11 @@
   "name": "Notion",
   "url": "https://developers.notion.com/",
   "category_id": "integration-apis-and-business-sdks",
-  "purpose": "Workspace content integration.",
+  "purpose": "Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do.",
   "resource_type": "documentation",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "design-or-integrate-apis"
   ],
@@ -172,7 +184,9 @@
   "category_id": "integration-apis-and-business-sdks",
   "purpose": "Commerce applications, APIs and extensions.",
   "resource_type": "documentation",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "design-or-integrate-apis"
   ],
@@ -186,7 +200,9 @@
   "category_id": "integration-apis-and-business-sdks",
   "purpose": "Maps, geocoding and navigation SDKs; review usage and data terms.",
   "resource_type": "documentation",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "design-or-integrate-apis"
   ],
@@ -200,7 +216,9 @@
   "category_id": "integration-apis-and-business-sdks",
   "purpose": "Mapping, routing and places APIs; billing and retention rules vary.",
   "resource_type": "documentation",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "design-or-integrate-apis"
   ],

@@ -123,7 +123,7 @@
   "name": "SQLAlchemy",
   "url": "https://docs.sqlalchemy.org/",
   "category_id": "databases-data-access-and-analytics",
-  "purpose": "Python SQL expression layer and ORM.",
+  "purpose": "Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion.",
   "resource_type": "documentation",
   "topics": [
    "data-science",
@@ -214,7 +214,7 @@
   "name": "Alembic",
   "url": "https://alembic.sqlalchemy.org/",
   "category_id": "databases-data-access-and-analytics",
-  "purpose": "SQLAlchemy-oriented schema migrations.",
+  "purpose": "Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data.",
   "resource_type": "reference",
   "topics": [
    "data-science"
@@ -262,7 +262,7 @@
   "name": "pandas",
   "url": "https://pandas.pydata.org/docs/",
   "category_id": "databases-data-access-and-analytics",
-  "purpose": "Python tabular data processing.",
+  "purpose": "Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead.",
   "resource_type": "documentation",
   "topics": [
    "data-science",
@@ -281,7 +281,7 @@
   "name": "ClickHouse",
   "url": "https://clickhouse.com/docs",
   "category_id": "databases-data-access-and-analytics",
-  "purpose": "Columnar analytical database.",
+  "purpose": "Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database.",
   "resource_type": "documentation",
   "topics": [
    "data-science",

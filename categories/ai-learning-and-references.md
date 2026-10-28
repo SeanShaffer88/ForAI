@@ -14,7 +14,7 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [Microsoft](https://github.com/microsoft/ML-For-Beginners) | Classical ML curriculum with projects. |
 | [LLM Course (mlabonne)](https://github.com/mlabonne/llm-course) | Roadmap with notebooks: LLM fundamentals, scientist, and engineer tracks. |
 | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | Jay Alammar's visual walkthrough of the Transformer architecture. |
-| [Fast.ai](https://course.fast.ai/) | Top-down deep learning course (free). |
+| [Fast.ai](https://course.fast.ai/) | Top-down deep learning course (free) plus the fastai library: learn by building working models first; the course targets practitioners, not ML theory. |
 | [DeepLearning.AI short courses](https://www.deeplearning.ai/courses) | Short practitioner courses on RAG, agents, fine-tuning, and evals. |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Papers, training frameworks, tools, and courses around LLMs. |
 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | Broad GenAI tools and services index. |

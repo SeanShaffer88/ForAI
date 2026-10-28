@@ -4,7 +4,7 @@
   "name": "OpenSearch",
   "url": "https://docs.opensearch.org/",
   "category_id": "search-messaging-and-durable-work",
-  "purpose": "Search, indexing and analytics.",
+  "purpose": "Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search.",
   "resource_type": "documentation",
   "topics": [
    "data-science"
@@ -20,7 +20,7 @@
   "name": "Meilisearch",
   "url": "https://www.meilisearch.com/docs",
   "category_id": "search-messaging-and-durable-work",
-  "purpose": "Application search APIs and indexing.",
+  "purpose": "Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features.",
   "resource_type": "documentation",
   "topics": [],
   "use_cases": [
@@ -120,7 +120,7 @@
   "name": "Celery",
   "url": "https://docs.celeryq.dev/",
   "category_id": "search-messaging-and-durable-work",
-  "purpose": "Python task queues and workers.",
+  "purpose": "Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower).",
   "resource_type": "documentation",
   "topics": [
    "python"
@@ -138,7 +138,7 @@
   "name": "BullMQ",
   "url": "https://docs.bullmq.io/",
   "category_id": "search-messaging-and-durable-work",
-  "purpose": "Redis-backed Node.js job processing.",
+  "purpose": "Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance.",
   "resource_type": "documentation",
   "topics": [
    "database",
@@ -157,7 +157,7 @@
   "name": "Hangfire",
   "url": "https://docs.hangfire.io/",
   "category_id": "search-messaging-and-durable-work",
-  "purpose": "Persistent background work for .NET.",
+  "purpose": "Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store.",
   "resource_type": "documentation",
   "topics": [],
   "use_cases": [

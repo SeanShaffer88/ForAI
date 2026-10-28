@@ -36,7 +36,7 @@
   "name": "OWASP API Security",
   "url": "https://owasp.org/projects/api-security-project",
   "category_id": "security-identity-and-supply-chain",
-  "purpose": "API threat and review reference.",
+  "purpose": "API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner.",
   "resource_type": "reference",
   "topics": [
    "api-integration",
@@ -101,7 +101,7 @@
   "name": "Keycloak",
   "url": "https://www.keycloak.org/documentation",
   "category_id": "security-identity-and-supply-chain",
-  "purpose": "Self-hosted identity and federation.",
+  "purpose": "Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database.",
   "resource_type": "documentation",
   "topics": [
    "security"
@@ -591,7 +591,7 @@
   "name": "RustScan",
   "url": "https://github.com/bee-san/RustScan",
   "category_id": "security-identity-and-supply-chain",
-  "purpose": "🤖 The Modern Port Scanner 🤖",
+  "purpose": "The modern port scanner (Rust): finds open ports fast, then hands off to Nmap for service detection; scan only systems you own or are authorised to test.",
   "resource_type": "repository",
   "topics": [
    "security"
@@ -707,7 +707,7 @@
   "name": "firezone",
   "url": "https://github.com/firezone/firezone",
   "category_id": "security-identity-and-supply-chain",
-  "purpose": "Blazing-fast remote access",
+  "purpose": "Blazing-fast remote access: a WireGuard-based VPN/ZTNA alternative to legacy corporate VPNs; self-hostable, with a managed cloud option.",
   "resource_type": "repository",
   "topics": [
    "security"
@@ -739,7 +739,7 @@
   "name": "tfsec",
   "url": "https://github.com/aquasecurity/tfsec",
   "category_id": "security-identity-and-supply-chain",
-  "purpose": "Tfsec is now part of Trivy",
+  "purpose": "tfsec is now part of Trivy: Terraform security scanning has moved into Trivy — use Trivy for new work and treat tfsec as archived guidance.",
   "resource_type": "repository",
   "topics": [
    "security"
@@ -820,7 +820,7 @@
   "name": "frida",
   "url": "https://github.com/frida/frida",
   "category_id": "security-identity-and-supply-chain",
-  "purpose": "Main repo for hosting release binaries",
+  "purpose": "Frida main repo for hosting release binaries: a dynamic instrumentation toolkit for observing and modifying running apps; use only on software you own or are authorised to test.",
   "resource_type": "repository",
   "topics": [
    "security"
@@ -1108,7 +1108,7 @@
   "name": "binwalk",
   "url": "https://github.com/ReFirmLabs/binwalk",
   "category_id": "security-identity-and-supply-chain",
-  "purpose": "Firmware Analysis Tool",
+  "purpose": "Firmware analysis tool: scan and extract embedded file systems and images from firmware binaries; a staple first step in embedded-device research on images you have the right to inspect.",
   "resource_type": "repository",
   "topics": [
    "security"
@@ -1375,7 +1375,7 @@
   "name": "nikto",
   "url": "https://github.com/sullo/nikto",
   "category_id": "security-identity-and-supply-chain",
-  "purpose": "Nikto web server scanner",
+  "purpose": "Nikto web server scanner: checks for known dangerous files, outdated software, and misconfigurations; noisy and unauthenticated by design — scan only authorised targets.",
   "resource_type": "repository",
   "topics": [
    "security"

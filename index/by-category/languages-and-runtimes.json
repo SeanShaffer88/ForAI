@@ -322,7 +322,7 @@
   "name": "Python",
   "url": "https://www.python.org/",
   "category_id": "languages-and-runtimes",
-  "purpose": "Downloads, PEP index, release schedule.",
+  "purpose": "Python downloads, PEP index, and release schedule on python.org; check the release schedule before promising support for a new or end-of-life version.",
   "resource_type": "reference",
   "topics": [
    "python"
@@ -358,7 +358,7 @@
   "name": "Node.js",
   "url": "https://nodejs.org/en/docs",
   "category_id": "languages-and-runtimes",
-  "purpose": "Runtime APIs, LTS schedule, globals.",
+  "purpose": "Node.js runtime: API docs, LTS schedule, and globals; pin an LTS release for production work and check the schedule before adopting a new major version.",
   "resource_type": "documentation",
   "topics": [
    "javascript"
@@ -574,7 +574,7 @@
   "name": "spotless",
   "url": "https://github.com/diffplug/spotless",
   "category_id": "languages-and-runtimes",
-  "purpose": "Keep your code spotless",
+  "purpose": "Keep your code spotless: formatting enforcement for Gradle/Maven projects (Java, Kotlin, and more) that fails the build or rewrites files to a canonical format.",
   "resource_type": "repository",
   "topics": [],
   "use_cases": [
@@ -588,7 +588,7 @@
   "name": "intellij-community",
   "url": "https://github.com/JetBrains/intellij-community",
   "category_id": "languages-and-runtimes",
-  "purpose": "IntelliJ IDEA & IntelliJ Platform",
+  "purpose": "IntelliJ IDEA and the IntelliJ Platform source: the basis for building JetBrains IDE plugins; most users want the released IDE, not this repo.",
   "resource_type": "repository",
   "topics": [],
   "use_cases": [
@@ -703,7 +703,7 @@
   "name": "pebble",
   "url": "https://github.com/PebbleTemplates/pebble",
   "category_id": "languages-and-runtimes",
-  "purpose": "Java Template Engine",
+  "purpose": "Pebble, a Java template engine inspired by Twig: inheritance, macros, and auto-escaping for server-rendered Java web pages.",
   "resource_type": "repository",
   "topics": [
    "java"

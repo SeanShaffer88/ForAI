@@ -140,7 +140,7 @@
   "name": "Fast.ai",
   "url": "https://course.fast.ai/",
   "category_id": "ai-learning-and-references",
-  "purpose": "Top-down deep learning course (free).",
+  "purpose": "Top-down deep learning course (free) plus the fastai library: learn by building working models first; the course targets practitioners, not ML theory.",
   "resource_type": "course",
   "topics": [
    "ai"

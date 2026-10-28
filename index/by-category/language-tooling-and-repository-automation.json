@@ -387,7 +387,7 @@
   "name": "nyc",
   "url": "https://github.com/istanbuljs/nyc",
   "category_id": "language-tooling-and-repository-automation",
-  "purpose": "the Istanbul command line interface",
+  "purpose": "The Istanbul command-line interface: code-coverage reporting for JavaScript test runs, wrapping Istanbul's instrumentation and reports.",
   "resource_type": "repository",
   "topics": [
    "git"
@@ -403,7 +403,7 @@
   "name": "atuin",
   "url": "https://github.com/atuinsh/atuin",
   "category_id": "language-tooling-and-repository-automation",
-  "purpose": "✨ Making your shell magical",
+  "purpose": "Shell history replacement (Rust): searchable, syncable history across machines with end-to-end encryption; replaces Ctrl-R rather than your shell.",
   "resource_type": "repository",
   "topics": [
    "git"
@@ -646,7 +646,7 @@
   "name": "nnn",
   "url": "https://github.com/jarun/nnn",
   "category_id": "language-tooling-and-repository-automation",
-  "purpose": "n³ The unorthodox terminal file manager",
+  "purpose": "nnn (n3): the unorthodox terminal file manager — extremely fast and small, keyboard-driven, with a plugin ecosystem; expect a learning curve.",
   "resource_type": "repository",
   "topics": [
    "git"
@@ -764,7 +764,7 @@
   "name": "skim",
   "url": "https://github.com/skim-rs/skim",
   "category_id": "language-tooling-and-repository-automation",
-  "purpose": "Fuzzy Finder in rust!",
+  "purpose": "Fuzzy finder in Rust (like fzf): interactive filtering for files, history, and command output in the terminal.",
   "resource_type": "repository",
   "topics": [
    "git",
@@ -863,7 +863,7 @@
   "name": "emacs",
   "url": "https://github.com/emacs-mirror/emacs",
   "category_id": "language-tooling-and-repository-automation",
-  "purpose": "Mirror of GNU Emacs",
+  "purpose": "Mirror of GNU Emacs: the extensible text editor and Lisp environment; most users install a release build rather than building this source.",
   "resource_type": "repository",
   "topics": [
    "git"

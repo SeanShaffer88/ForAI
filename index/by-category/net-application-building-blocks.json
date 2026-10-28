@@ -302,7 +302,7 @@
   "name": "reactive",
   "url": "https://github.com/dotnet/reactive",
   "category_id": "net-application-building-blocks",
-  "purpose": "The Reactive Extensions for .NET",
+  "purpose": "The Reactive Extensions for .NET (Rx.NET): compose asynchronous, event-based programs with LINQ-style operators; a learning curve, best for genuinely event-heavy code.",
   "resource_type": "repository",
   "topics": [],
   "use_cases": [

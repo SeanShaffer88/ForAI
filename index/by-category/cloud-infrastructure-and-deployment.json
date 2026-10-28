@@ -36,7 +36,7 @@
   "name": "Google Cloud client libraries",
   "url": "https://docs.cloud.google.com/apis/docs/cloud-client-libraries",
   "category_id": "cloud-infrastructure-and-deployment",
-  "purpose": "Language clients for Google Cloud APIs.",
+  "purpose": "Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning.",
   "resource_type": "documentation",
   "topics": [
    "cloud"
@@ -52,7 +52,7 @@
   "name": "Cloudflare API",
   "url": "https://developers.cloudflare.com/api/",
   "category_id": "cloud-infrastructure-and-deployment",
-  "purpose": "Cloudflare service management APIs.",
+  "purpose": "Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account.",
   "resource_type": "documentation",
   "topics": [
    "api-integration",
@@ -240,7 +240,7 @@
   "name": "Vercel",
   "url": "https://vercel.com/docs",
   "category_id": "cloud-infrastructure-and-deployment",
-  "purpose": "Web application hosting and deployment.",
+  "purpose": "Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices.",
   "resource_type": "documentation",
   "topics": [
    "cloud",
@@ -523,7 +523,7 @@
   "name": "chroma",
   "url": "https://github.com/chroma-core/chroma",
   "category_id": "cloud-infrastructure-and-deployment",
-  "purpose": "Search infrastructure for AI",
+  "purpose": "Search infrastructure for AI: an open-source embedding database for retrieval (RAG) with a simple API; runs embedded for prototypes or as a server.",
   "resource_type": "repository",
   "topics": [
    "ai",
@@ -668,7 +668,7 @@
   "name": "kamal",
   "url": "https://github.com/basecamp/kamal",
   "category_id": "cloud-infrastructure-and-deployment",
-  "purpose": "Deploy web apps anywhere.",
+  "purpose": "Deploy web apps anywhere: zero-downtime Docker deploys to plain servers from Basecamp; an alternative to managed PaaS and full Kubernetes.",
   "resource_type": "repository",
   "topics": [
    "cloud"
@@ -751,7 +751,7 @@
   "name": "falco",
   "url": "https://github.com/falcosecurity/falco",
   "category_id": "cloud-infrastructure-and-deployment",
-  "purpose": "Cloud Native Runtime Security",
+  "purpose": "Cloud Native Runtime Security: detects unexpected behaviour in Linux hosts and containers via system-call rules (CNCF project); a detection layer, not prevention.",
   "resource_type": "repository",
   "topics": [
    "cloud",

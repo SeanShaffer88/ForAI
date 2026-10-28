@@ -16,6 +16,19 @@ Fastest path: read `AI_INDEX.md` (one page), pick a domain in `index/category-gr
 - [Resource schema](index/resource-schema.json) and [facet taxonomy](index/taxonomy.json): record and discovery vocabulary.
 - [Local search](scripts/search.py): ranked, standard-library search with exact facet filters.
 - [Compact catalog](index/resources.compact.json): the full catalog, shortlisting fields only, ~38% of the canonical file's size. Per-category shards live in `index/by-category/`.
+- [Full text edition](llms-full.txt): every category page and long-form catalog in one generated file, for single-shot ingestion.
+
+## Categories
+
+The linked JSON catalog is canonical; category pages are human-readable navigation views.
+
+## Categories
+
+The linked JSON catalog is canonical; category pages are human-readable navigation views.
+
+## Categories
+
+The linked JSON catalog is canonical; category pages are human-readable navigation views.
 
 ## Categories
 

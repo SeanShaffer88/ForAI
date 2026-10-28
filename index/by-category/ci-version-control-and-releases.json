@@ -36,7 +36,7 @@
   "name": "GitLab CI",
   "url": "https://docs.gitlab.com/ci/",
   "category_id": "ci-version-control-and-releases",
-  "purpose": "Pipeline configuration and runners.",
+  "purpose": "Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit.",
   "resource_type": "documentation",
   "topics": [
    "git"
@@ -154,7 +154,7 @@
   "name": "MSIX",
   "url": "https://learn.microsoft.com/en-us/windows/msix/",
   "category_id": "ci-version-control-and-releases",
-  "purpose": "Windows package format and deployment.",
+  "purpose": "Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported.",
   "resource_type": "documentation",
   "topics": [
    "git",

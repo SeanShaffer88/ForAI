@@ -23,7 +23,7 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [pgx](https://github.com/jackc/pgx) | Go PostgreSQL driver and toolkit; check pooling and cancellation behavior. |
 | [sqlc](https://docs.sqlc.dev/en/stable/) | Generate typed data access from SQL; database and language support differ. |
 | [goose](https://pressly.github.io/goose/) | SQL and Go database migrations; validate locking and rollback strategy. |
-| [Cobra](https://cobra.dev/) | Go CLI commands, flags and completion. |
+| [Cobra](https://cobra.dev/) | Go CLI library for commands, flags, and shell completion (used by kubectl and Hugo); pair with Viper for configuration files and environment variables. |
 | [Bubble Tea](https://github.com/charmbracelet/bubbletea) | Go terminal application framework; test Windows terminals and redirected I/O. |
 
 ## Expansion — 2026-10-23
@@ -64,13 +64,13 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
 | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | scikit-learn: machine learning in Python |
-| [keras](https://github.com/keras-team/keras) | Deep Learning for humans |
+| [keras](https://github.com/keras-team/keras) | Deep learning for humans: the high-level Keras 3 API for building and training neural networks across TensorFlow, JAX, and PyTorch backends. |
 | [agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi |
 | [jax](https://github.com/jax-ml/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
 | [timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 | [spaCy](https://github.com/explosion/spaCy) | 💫 Industrial-strength Natural Language Processing (NLP) in Python |
 | [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes. |
-| [optuna](https://github.com/optuna/optuna) | A hyperparameter optimization framework |
+| [optuna](https://github.com/optuna/optuna) | A hyperparameter optimization framework for ML: define-by-run trial APIs, pruners, and samplers; framework-agnostic across training stacks. |
 | [reflex](https://github.com/reflex-dev/reflex) | 🕸️ Web apps in pure Python 🐍 |
 | [stagehand](https://github.com/browserbase/stagehand) | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more. |
 | [starlette](https://github.com/Kludex/starlette) | The little ASGI framework that shines. 🌟 |

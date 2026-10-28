@@ -6,7 +6,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -71,7 +73,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "An open source tool for building UI Design Systems with Vue.js",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -101,7 +105,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -132,7 +138,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "One place for service teams to find styles, components and patterns for designing government services.",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -327,7 +335,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "The accessible HTML-Standard",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -373,7 +383,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "Yoga design-system: a scientific system of practices made to help each one of us achieve our highest potential and experience.",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -468,7 +480,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "😈 UI library for creating interfaces in Rambler guidelines with React power",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -482,7 +496,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "KRDS HTML Component Kit을 설치하여 디자인 시스템을 쉽게 적용할 수 있도록 가이드라인을 제공한다.",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -563,7 +579,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "A modern alternative to CSS resets",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -596,7 +614,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "Transforming styles with JS plugins",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -610,7 +630,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "Less. The dynamic stylesheet language.",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -624,7 +646,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "Sass makes CSS fun!",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -638,7 +662,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "Full CSS support for JSX without compromises",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -670,7 +696,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "A best-practices CSS foundation",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -684,7 +712,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "CSS Working Group Editor Drafts",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -716,7 +746,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -730,7 +762,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "Principles of writing consistent, idiomatic CSS.",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -744,7 +778,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "A tiny modern CSS reset",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -758,7 +794,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -772,7 +810,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "light – weight css preprocessor",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -786,7 +826,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -818,7 +860,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "Style tools for UI components",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -832,7 +876,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "The Modern CSS Reset 🚀",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],
@@ -846,7 +892,9 @@
   "category_id": "design-systems-and-design-engineering",
   "purpose": "☝️One <div>. Many possibilities.",
   "resource_type": "repository",
-  "topics": [],
+  "topics": [
+   "design-systems"
+  ],
   "use_cases": [
    "research-or-build-interfaces"
   ],

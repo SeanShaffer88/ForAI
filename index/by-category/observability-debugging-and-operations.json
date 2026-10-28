@@ -52,7 +52,7 @@
   "name": "Loki",
   "url": "https://grafana.com/docs/loki/latest/",
   "category_id": "observability-debugging-and-operations",
-  "purpose": "Log aggregation and querying.",
+  "purpose": "Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search.",
   "resource_type": "documentation",
   "topics": [
    "observability"
@@ -100,7 +100,7 @@
   "name": "Serilog",
   "url": "https://serilog.net/",
   "category_id": "observability-debugging-and-operations",
-  "purpose": "Structured logging for .NET.",
+  "purpose": "Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library.",
   "resource_type": "reference",
   "topics": [
    "observability"
@@ -116,7 +116,7 @@
   "name": "structlog",
   "url": "https://www.structlog.org/",
   "category_id": "observability-debugging-and-operations",
-  "purpose": "Structured Python logging.",
+  "purpose": "Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline.",
   "resource_type": "reference",
   "topics": [
    "observability",
@@ -135,7 +135,7 @@
   "name": "Pino",
   "url": "https://getpino.io/",
   "category_id": "observability-debugging-and-operations",
-  "purpose": "Structured JavaScript logging.",
+  "purpose": "Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free.",
   "resource_type": "reference",
   "topics": [
    "javascript",
@@ -170,7 +170,7 @@
   "name": "RenderDoc",
   "url": "https://renderdoc.org/",
   "category_id": "observability-debugging-and-operations",
-  "purpose": "Graphics frame capture and debugging.",
+  "purpose": "Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code.",
   "resource_type": "reference",
   "topics": [
    "observability"
@@ -507,7 +507,7 @@
   "name": "memray",
   "url": "https://github.com/bloomberg/memray",
   "category_id": "observability-debugging-and-operations",
-  "purpose": "Memray is a memory profiler for Python",
+  "purpose": "Memray is a memory profiler for Python (from Bloomberg): tracks allocations to find leaks and hot spots in long-running processes.",
   "resource_type": "repository",
   "topics": [
    "observability",
@@ -544,7 +544,7 @@
   "name": "zipkin",
   "url": "https://github.com/openzipkin/zipkin",
   "category_id": "observability-debugging-and-operations",
-  "purpose": "Zipkin is a distributed tracing system",
+  "purpose": "Zipkin is a distributed tracing system: collects and visualises request traces across services (OpenZipkin); OpenTelemetry is the newer instrumentation standard feeding it.",
   "resource_type": "repository",
   "topics": [
    "observability"

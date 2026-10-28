@@ -4,7 +4,7 @@
   "name": "React",
   "url": "https://react.dev/learn",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "Component-based web interfaces.",
+  "purpose": "Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself.",
   "resource_type": "documentation",
   "topics": [],
   "use_cases": [
@@ -32,7 +32,7 @@
   "name": "Vue",
   "url": "https://vuejs.org/guide/",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "Reactive component framework.",
+  "purpose": "Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt).",
   "resource_type": "reference",
   "topics": [],
   "use_cases": [
@@ -46,7 +46,7 @@
   "name": "Nuxt",
   "url": "https://nuxt.com/docs",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "Vue application framework.",
+  "purpose": "Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box.",
   "resource_type": "documentation",
   "topics": [],
   "use_cases": [
@@ -124,7 +124,7 @@
   "name": "Tailwind CSS",
   "url": "https://tailwindcss.com/docs",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "Utility-based CSS styling.",
+  "purpose": "Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you.",
   "resource_type": "documentation",
   "topics": [],
   "use_cases": [
@@ -246,7 +246,7 @@
   "name": "Spring Boot",
   "url": "https://docs.spring.io/spring-boot/",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "JVM application and service framework.",
+  "purpose": "JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities.",
   "resource_type": "documentation",
   "topics": [],
   "use_cases": [
@@ -260,7 +260,7 @@
   "name": "Laravel",
   "url": "https://laravel.com/docs",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "PHP web application framework.",
+  "purpose": "PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework.",
   "resource_type": "documentation",
   "topics": [
    "php",
@@ -281,7 +281,7 @@
   "name": "Ruby on Rails",
   "url": "https://guides.rubyonrails.org/",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "Ruby web applications and conventions.",
+  "purpose": "Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly.",
   "resource_type": "reference",
   "topics": [
    "ruby"
@@ -562,7 +562,7 @@
   "name": "ramda",
   "url": "https://github.com/ramda/ramda",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": ":ram: Practical functional Javascript",
+  "purpose": "Practical functional programming library for JavaScript: immutable, side-effect-free helpers designed for composition; a style choice, not a utility grab-bag like Lodash.",
   "resource_type": "repository",
   "topics": [
    "javascript"
@@ -632,7 +632,7 @@
   "name": "robotjs",
   "url": "https://github.com/octalmage/robotjs",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "Node.js Desktop Automation.",
+  "purpose": "Node.js desktop automation: mouse, keyboard, and screen control from JavaScript; native module, so expect per-platform build and permission quirks.",
   "resource_type": "repository",
   "topics": [
    "desktop",
@@ -651,7 +651,7 @@
   "name": "meteor",
   "url": "https://github.com/meteor/meteor",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "Meteor, the JavaScript App Platform",
+  "purpose": "Meteor, the full-stack JavaScript app platform: reactive data, isomorphic code, and its own build system and hosting (Galaxy); a bigger commitment than a framework alone.",
   "resource_type": "repository",
   "topics": [
    "javascript"
@@ -899,7 +899,7 @@
   "name": "blueprint",
   "url": "https://github.com/palantir/blueprint",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "A React-based UI toolkit for the web",
+  "purpose": "Blueprint, a React-based UI toolkit for the web (Palantir): dense, data-heavy desktop-style interfaces such as admin tools and dashboards.",
   "resource_type": "repository",
   "topics": [],
   "use_cases": [
@@ -913,7 +913,7 @@
   "name": "carbon",
   "url": "https://github.com/carbon-design-system/carbon",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "A design system built by IBM",
+  "purpose": "Carbon, IBM's design system: components, tokens, and guidelines with React, Angular, Vue, and web-component implementations.",
   "resource_type": "repository",
   "topics": [
    "design-systems"
@@ -1173,7 +1173,7 @@
   "name": "remix",
   "url": "https://github.com/remix-run/remix",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "The fully-stacked web framework",
+  "purpose": "The fully-stacked web framework (now merging into React Router): full-stack React with server loaders/actions and web-standard APIs.",
   "resource_type": "repository",
   "topics": [
    "web"
@@ -1205,7 +1205,7 @@
   "name": "react-select",
   "url": "https://github.com/JedWatson/react-select",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "The Select Component for React.js",
+  "purpose": "The select component for React: accessible dropdowns with search, multi-select, and async options; the long-standing default for complex select inputs.",
   "resource_type": "repository",
   "topics": [],
   "use_cases": [
@@ -1269,7 +1269,7 @@
   "name": "swr",
   "url": "https://github.com/vercel/swr",
   "category_id": "web-interfaces-and-application-frameworks",
-  "purpose": "React Hooks for Data Fetching",
+  "purpose": "React hooks for data fetching (stale-while-revalidate): caching, revalidation, and pagination for client data; a Vercel library, pairs naturally with Next.js.",
   "resource_type": "repository",
   "topics": [],
   "use_cases": [

@@ -42,7 +42,7 @@
  {
   "resource_id": "res-android-cli-7ab5c7364a89",
   "name": "Android CLI",
-  "url": "https://developer.android.com/tools/android-cli",
+  "url": "https://developer.android.com/studio/intro",
   "category_id": "android-apk-development-and-analysis",
   "purpose": "Current command-line Android project and SDK workflows; recheck availability before replacing existing tooling.",
   "resource_type": "documentation",
@@ -1107,7 +1107,7 @@
  {
   "resource_id": "res-android-monkey-2c0490d43486",
   "name": "Android Monkey",
-  "url": "https://developer.android.com/studio/test/monkey",
+  "url": "https://developer.android.com/studio/test/other-testing-tools/monkey",
   "category_id": "android-apk-development-and-analysis",
   "purpose": "Device UI event stress testing; bound runs and inspect results rather than treating no crash as correctness.",
   "resource_type": "documentation",

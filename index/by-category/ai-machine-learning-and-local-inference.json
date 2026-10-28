@@ -120,7 +120,7 @@
   "name": "Ollama",
   "url": "https://docs.ollama.com/",
   "category_id": "ai-machine-learning-and-local-inference",
-  "purpose": "Local model runtime and API.",
+  "purpose": "Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware.",
   "resource_type": "documentation",
   "topics": [
    "ai",

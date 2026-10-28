@@ -22,7 +22,7 @@
   "name": "MCP specification (GitHub)",
   "url": "https://github.com/modelcontextprotocol/modelcontextprotocol",
   "category_id": "ai-mcp-servers-and-tool-use",
-  "purpose": "Spec source, schemas, and proposals.",
+  "purpose": "MCP specification source, schemas, and proposals on GitHub; read the versioned spec site for normal use and this repo when tracking changes or proposing features.",
   "resource_type": "repository",
   "topics": [
    "ai",
@@ -75,7 +75,7 @@
   "name": "MCP Registry (GitHub)",
   "url": "https://github.com/modelcontextprotocol/registry",
   "category_id": "ai-mcp-servers-and-tool-use",
-  "purpose": "Registry API and publishing process.",
+  "purpose": "MCP Registry source: the registry API and server publishing process; the registry site is the discovery surface, this repo is for publishers and implementers.",
   "resource_type": "repository",
   "topics": [
    "ai",
@@ -153,7 +153,7 @@
   "name": "MCP Rust SDK",
   "url": "https://github.com/modelcontextprotocol/rust-sdk",
   "category_id": "ai-mcp-servers-and-tool-use",
-  "purpose": "Official Rust SDK (rmcp).",
+  "purpose": "Official Rust SDK (rmcp) for building MCP servers and clients; the reference Rust implementation, still evolving with the spec.",
   "resource_type": "repository",
   "topics": [
    "ai",

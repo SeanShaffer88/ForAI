@@ -103,7 +103,9 @@
   "category_id": "public-data-research-and-location-apis",
   "purpose": "Water measurements and geospatial data; check endpoint lifecycle and units.",
   "resource_type": "reference",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "store-query-or-process-data"
   ],
@@ -150,7 +152,9 @@
   "category_id": "public-data-research-and-location-apis",
   "purpose": "Literature metadata and available full text; full-text rights differ by article.",
   "resource_type": "reference",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "store-query-or-process-data"
   ],
@@ -164,7 +168,9 @@
   "category_id": "public-data-research-and-location-apis",
   "purpose": "SPARQL over structured public knowledge; respect public-endpoint limits.",
   "resource_type": "reference",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "store-query-or-process-data"
   ],
@@ -178,7 +184,9 @@
   "category_id": "public-data-research-and-location-apis",
   "purpose": "Query OSM features; public instances have usage limits and ODbL obligations.",
   "resource_type": "reference",
-  "topics": [],
+  "topics": [
+   "api-integration"
+  ],
   "use_cases": [
    "store-query-or-process-data"
   ],

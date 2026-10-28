@@ -70,7 +70,7 @@
   "name": "Godot",
   "url": "https://docs.godotengine.org/en/stable/",
   "category_id": "graphics-multimedia-scientific-and-geospatial",
-  "purpose": "Game engine and scripting reference.",
+  "purpose": "Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games.",
   "resource_type": "documentation",
   "topics": [
    "game-development"
@@ -162,7 +162,7 @@
   "name": "OpenCV",
   "url": "https://docs.opencv.org/",
   "category_id": "graphics-multimedia-scientific-and-geospatial",
-  "purpose": "Computer vision and image processing.",
+  "purpose": "Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need.",
   "resource_type": "documentation",
   "topics": [],
   "use_cases": [

@@ -9,14 +9,14 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [AppTrail](https://github.com/SeanShaffer88/AppTrail) | Local Windows folder snapshots, named project checkpoints, Git details, saved source diffs and HTML change reports. MIT; unsigned x64 portable release; snapshots are observations, not backups. |
 | [BuildTrail](https://github.com/SeanShaffer88/BuildTrail) | Local Windows build recipes, compiler/tool probes, dependency-manifest evidence, logs, output hashes and AppTrail source comparisons. MIT; unsigned x64 portable app; manifests are not a complete installed dependency graph. |
@@ -72,8 +72,8 @@ A further 500-resource development discovery pass. Entries below were selected f
 
 | Resource | Useful for / constraints |
 |---|---|
-| [memray](https://github.com/bloomberg/memray) | Memray is a memory profiler for Python |
+| [memray](https://github.com/bloomberg/memray) | Memray is a memory profiler for Python (from Bloomberg): tracks allocations to find leaks and hot spots in long-running processes. |
 | [GoModel](https://github.com/ENTERPILOT/GoModel) | AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI, Ollama, vLLM and more. A LiteLLM alternative with observability, guardrails, streaming, cost tracking, intelligent routing, sticky sessions, failover, real-time logs and usage tracking. Prod ready. |
-| [zipkin](https://github.com/openzipkin/zipkin) | Zipkin is a distributed tracing system |
+| [zipkin](https://github.com/openzipkin/zipkin) | Zipkin is a distributed tracing system: collects and visualises request traces across services (OpenZipkin); OpenTelemetry is the newer instrumentation standard feeding it. |
 | [flogger](https://github.com/google/flogger) | A Fluent Logging API for Java |
 | [rustnet](https://github.com/domcyrus/rustnet) | Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed. |

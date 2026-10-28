@@ -52,6 +52,7 @@ python scripts/export_csv.py       # after editing resources.json
 python scripts/generate_indexes.py # after changing catalog categories/resources
 python scripts/generate_ai_views.py # after changing catalog categories/resources
 python scripts/validate.py
+python scripts/link_check.py --only-unchecked   # reachability only; a monthly workflow checks every URL
 python -m unittest discover -s tests -v
 ```
 

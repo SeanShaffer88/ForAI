@@ -1,0 +1,706 @@
+{
+  "category": "07-performance-profiling",
+  "total_category_resources": 50,
+  "resources": [
+    {
+      "resource_id": "perf-resource-001",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #1",
+      "url": "https://github.com/topics/perf-tool-1",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-1"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-002",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #2",
+      "url": "https://github.com/topics/perf-tool-2",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-2"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-003",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #3",
+      "url": "https://github.com/topics/perf-tool-3",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-3"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-004",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #4",
+      "url": "https://github.com/topics/perf-tool-4",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-4"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-005",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #5",
+      "url": "https://github.com/topics/perf-tool-5",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-5"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-006",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #6",
+      "url": "https://github.com/topics/perf-tool-6",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-6"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-007",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #7",
+      "url": "https://github.com/topics/perf-tool-7",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-7"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-008",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #8",
+      "url": "https://github.com/topics/perf-tool-8",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-8"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-009",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #9",
+      "url": "https://github.com/topics/perf-tool-9",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-9"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-010",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #10",
+      "url": "https://github.com/topics/perf-tool-10",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-10"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-011",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #11",
+      "url": "https://github.com/topics/perf-tool-11",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-11"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-012",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #12",
+      "url": "https://github.com/topics/perf-tool-12",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-12"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-013",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #13",
+      "url": "https://github.com/topics/perf-tool-13",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-13"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-014",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #14",
+      "url": "https://github.com/topics/perf-tool-14",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-14"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-015",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #15",
+      "url": "https://github.com/topics/perf-tool-15",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-15"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-016",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #16",
+      "url": "https://github.com/topics/perf-tool-16",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-16"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-017",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #17",
+      "url": "https://github.com/topics/perf-tool-17",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-17"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-018",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #18",
+      "url": "https://github.com/topics/perf-tool-18",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-18"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-019",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #19",
+      "url": "https://github.com/topics/perf-tool-19",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-19"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-020",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #20",
+      "url": "https://github.com/topics/perf-tool-20",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-20"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-021",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #21",
+      "url": "https://github.com/topics/perf-tool-21",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-21"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-022",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #22",
+      "url": "https://github.com/topics/perf-tool-22",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-22"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-023",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #23",
+      "url": "https://github.com/topics/perf-tool-23",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-23"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-024",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #24",
+      "url": "https://github.com/topics/perf-tool-24",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-24"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-025",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #25",
+      "url": "https://github.com/topics/perf-tool-25",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-25"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-026",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #26",
+      "url": "https://github.com/topics/perf-tool-26",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-26"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-027",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #27",
+      "url": "https://github.com/topics/perf-tool-27",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-27"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-028",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #28",
+      "url": "https://github.com/topics/perf-tool-28",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-28"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-029",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #29",
+      "url": "https://github.com/topics/perf-tool-29",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-29"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-030",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #30",
+      "url": "https://github.com/topics/perf-tool-30",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-30"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-031",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #31",
+      "url": "https://github.com/topics/perf-tool-31",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-31"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-032",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #32",
+      "url": "https://github.com/topics/perf-tool-32",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-32"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-033",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #33",
+      "url": "https://github.com/topics/perf-tool-33",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-33"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-034",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #34",
+      "url": "https://github.com/topics/perf-tool-34",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-34"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-035",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #35",
+      "url": "https://github.com/topics/perf-tool-35",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-35"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-036",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #36",
+      "url": "https://github.com/topics/perf-tool-36",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-36"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-037",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #37",
+      "url": "https://github.com/topics/perf-tool-37",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-37"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-038",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #38",
+      "url": "https://github.com/topics/perf-tool-38",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-38"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-039",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #39",
+      "url": "https://github.com/topics/perf-tool-39",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-39"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-040",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #40",
+      "url": "https://github.com/topics/perf-tool-40",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-40"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-041",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #41",
+      "url": "https://github.com/topics/perf-tool-41",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-41"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-042",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #42",
+      "url": "https://github.com/topics/perf-tool-42",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-42"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-043",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #43",
+      "url": "https://github.com/topics/perf-tool-43",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-43"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-044",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #44",
+      "url": "https://github.com/topics/perf-tool-44",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-44"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-045",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #45",
+      "url": "https://github.com/topics/perf-tool-45",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-45"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-046",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #46",
+      "url": "https://github.com/topics/perf-tool-46",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-46"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-047",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #47",
+      "url": "https://github.com/topics/perf-tool-47",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-47"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-048",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #48",
+      "url": "https://github.com/topics/perf-tool-48",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-48"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-049",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #49",
+      "url": "https://github.com/topics/perf-tool-49",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-49"
+      ]
+    },
+    {
+      "resource_id": "perf-resource-050",
+      "category": "07-performance-profiling",
+      "title": "Performance Profiling & Telemetry Utility #50",
+      "url": "https://github.com/topics/perf-tool-50",
+      "description": "ETW tracing, CPU/GPU benchmarking, memory footprint reduction, and I/O tracking. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "perf",
+        "windows",
+        "systems",
+        "module-50"
+      ]
+    }
+  ]
+}

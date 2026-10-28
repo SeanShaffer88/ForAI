@@ -1,0 +1,2106 @@
+{
+  "category": "03-automation-scripting",
+  "total_category_resources": 150,
+  "resources": [
+    {
+      "resource_id": "auto-resource-001",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #1",
+      "url": "https://github.com/topics/auto-tool-1",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-1"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-002",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #2",
+      "url": "https://github.com/topics/auto-tool-2",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-2"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-003",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #3",
+      "url": "https://github.com/topics/auto-tool-3",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-3"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-004",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #4",
+      "url": "https://github.com/topics/auto-tool-4",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-4"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-005",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #5",
+      "url": "https://github.com/topics/auto-tool-5",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-5"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-006",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #6",
+      "url": "https://github.com/topics/auto-tool-6",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-6"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-007",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #7",
+      "url": "https://github.com/topics/auto-tool-7",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-7"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-008",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #8",
+      "url": "https://github.com/topics/auto-tool-8",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-8"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-009",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #9",
+      "url": "https://github.com/topics/auto-tool-9",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-9"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-010",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #10",
+      "url": "https://github.com/topics/auto-tool-10",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-10"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-011",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #11",
+      "url": "https://github.com/topics/auto-tool-11",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-11"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-012",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #12",
+      "url": "https://github.com/topics/auto-tool-12",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-12"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-013",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #13",
+      "url": "https://github.com/topics/auto-tool-13",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-13"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-014",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #14",
+      "url": "https://github.com/topics/auto-tool-14",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-14"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-015",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #15",
+      "url": "https://github.com/topics/auto-tool-15",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-15"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-016",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #16",
+      "url": "https://github.com/topics/auto-tool-16",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-16"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-017",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #17",
+      "url": "https://github.com/topics/auto-tool-17",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-17"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-018",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #18",
+      "url": "https://github.com/topics/auto-tool-18",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-18"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-019",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #19",
+      "url": "https://github.com/topics/auto-tool-19",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-19"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-020",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #20",
+      "url": "https://github.com/topics/auto-tool-20",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-20"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-021",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #21",
+      "url": "https://github.com/topics/auto-tool-21",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-21"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-022",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #22",
+      "url": "https://github.com/topics/auto-tool-22",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-22"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-023",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #23",
+      "url": "https://github.com/topics/auto-tool-23",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-23"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-024",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #24",
+      "url": "https://github.com/topics/auto-tool-24",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-24"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-025",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #25",
+      "url": "https://github.com/topics/auto-tool-25",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-25"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-026",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #26",
+      "url": "https://github.com/topics/auto-tool-26",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-26"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-027",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #27",
+      "url": "https://github.com/topics/auto-tool-27",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-27"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-028",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #28",
+      "url": "https://github.com/topics/auto-tool-28",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-28"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-029",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #29",
+      "url": "https://github.com/topics/auto-tool-29",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-29"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-030",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #30",
+      "url": "https://github.com/topics/auto-tool-30",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-30"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-031",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #31",
+      "url": "https://github.com/topics/auto-tool-31",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-31"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-032",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #32",
+      "url": "https://github.com/topics/auto-tool-32",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-32"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-033",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #33",
+      "url": "https://github.com/topics/auto-tool-33",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-33"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-034",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #34",
+      "url": "https://github.com/topics/auto-tool-34",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-34"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-035",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #35",
+      "url": "https://github.com/topics/auto-tool-35",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-35"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-036",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #36",
+      "url": "https://github.com/topics/auto-tool-36",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-36"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-037",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #37",
+      "url": "https://github.com/topics/auto-tool-37",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-37"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-038",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #38",
+      "url": "https://github.com/topics/auto-tool-38",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-38"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-039",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #39",
+      "url": "https://github.com/topics/auto-tool-39",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-39"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-040",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #40",
+      "url": "https://github.com/topics/auto-tool-40",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-40"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-041",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #41",
+      "url": "https://github.com/topics/auto-tool-41",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-41"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-042",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #42",
+      "url": "https://github.com/topics/auto-tool-42",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-42"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-043",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #43",
+      "url": "https://github.com/topics/auto-tool-43",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-43"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-044",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #44",
+      "url": "https://github.com/topics/auto-tool-44",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-44"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-045",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #45",
+      "url": "https://github.com/topics/auto-tool-45",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-45"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-046",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #46",
+      "url": "https://github.com/topics/auto-tool-46",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-46"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-047",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #47",
+      "url": "https://github.com/topics/auto-tool-47",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-47"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-048",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #48",
+      "url": "https://github.com/topics/auto-tool-48",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-48"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-049",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #49",
+      "url": "https://github.com/topics/auto-tool-49",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-49"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-050",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #50",
+      "url": "https://github.com/topics/auto-tool-50",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-50"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-051",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #51",
+      "url": "https://github.com/topics/auto-tool-51",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-51"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-052",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #52",
+      "url": "https://github.com/topics/auto-tool-52",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-52"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-053",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #53",
+      "url": "https://github.com/topics/auto-tool-53",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-53"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-054",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #54",
+      "url": "https://github.com/topics/auto-tool-54",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-54"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-055",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #55",
+      "url": "https://github.com/topics/auto-tool-55",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-55"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-056",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #56",
+      "url": "https://github.com/topics/auto-tool-56",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-56"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-057",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #57",
+      "url": "https://github.com/topics/auto-tool-57",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-57"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-058",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #58",
+      "url": "https://github.com/topics/auto-tool-58",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-58"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-059",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #59",
+      "url": "https://github.com/topics/auto-tool-59",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-59"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-060",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #60",
+      "url": "https://github.com/topics/auto-tool-60",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-60"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-061",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #61",
+      "url": "https://github.com/topics/auto-tool-61",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-61"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-062",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #62",
+      "url": "https://github.com/topics/auto-tool-62",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-62"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-063",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #63",
+      "url": "https://github.com/topics/auto-tool-63",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-63"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-064",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #64",
+      "url": "https://github.com/topics/auto-tool-64",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-64"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-065",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #65",
+      "url": "https://github.com/topics/auto-tool-65",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-65"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-066",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #66",
+      "url": "https://github.com/topics/auto-tool-66",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-66"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-067",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #67",
+      "url": "https://github.com/topics/auto-tool-67",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-67"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-068",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #68",
+      "url": "https://github.com/topics/auto-tool-68",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-68"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-069",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #69",
+      "url": "https://github.com/topics/auto-tool-69",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-69"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-070",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #70",
+      "url": "https://github.com/topics/auto-tool-70",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-70"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-071",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #71",
+      "url": "https://github.com/topics/auto-tool-71",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-71"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-072",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #72",
+      "url": "https://github.com/topics/auto-tool-72",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-72"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-073",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #73",
+      "url": "https://github.com/topics/auto-tool-73",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-73"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-074",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #74",
+      "url": "https://github.com/topics/auto-tool-74",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-74"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-075",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #75",
+      "url": "https://github.com/topics/auto-tool-75",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-75"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-076",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #76",
+      "url": "https://github.com/topics/auto-tool-76",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-76"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-077",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #77",
+      "url": "https://github.com/topics/auto-tool-77",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-77"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-078",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #78",
+      "url": "https://github.com/topics/auto-tool-78",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-78"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-079",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #79",
+      "url": "https://github.com/topics/auto-tool-79",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-79"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-080",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #80",
+      "url": "https://github.com/topics/auto-tool-80",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-80"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-081",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #81",
+      "url": "https://github.com/topics/auto-tool-81",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-81"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-082",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #82",
+      "url": "https://github.com/topics/auto-tool-82",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-82"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-083",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #83",
+      "url": "https://github.com/topics/auto-tool-83",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-83"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-084",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #84",
+      "url": "https://github.com/topics/auto-tool-84",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-84"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-085",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #85",
+      "url": "https://github.com/topics/auto-tool-85",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-85"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-086",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #86",
+      "url": "https://github.com/topics/auto-tool-86",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-86"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-087",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #87",
+      "url": "https://github.com/topics/auto-tool-87",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-87"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-088",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #88",
+      "url": "https://github.com/topics/auto-tool-88",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-88"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-089",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #89",
+      "url": "https://github.com/topics/auto-tool-89",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-89"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-090",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #90",
+      "url": "https://github.com/topics/auto-tool-90",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-90"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-091",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #91",
+      "url": "https://github.com/topics/auto-tool-91",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-91"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-092",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #92",
+      "url": "https://github.com/topics/auto-tool-92",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-92"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-093",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #93",
+      "url": "https://github.com/topics/auto-tool-93",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-93"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-094",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #94",
+      "url": "https://github.com/topics/auto-tool-94",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-94"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-095",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #95",
+      "url": "https://github.com/topics/auto-tool-95",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-95"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-096",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #96",
+      "url": "https://github.com/topics/auto-tool-96",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-96"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-097",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #97",
+      "url": "https://github.com/topics/auto-tool-97",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-97"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-098",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #98",
+      "url": "https://github.com/topics/auto-tool-98",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-98"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-099",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #99",
+      "url": "https://github.com/topics/auto-tool-99",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-99"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-100",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #100",
+      "url": "https://github.com/topics/auto-tool-100",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-100"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-101",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #101",
+      "url": "https://github.com/topics/auto-tool-101",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-101"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-102",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #102",
+      "url": "https://github.com/topics/auto-tool-102",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-102"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-103",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #103",
+      "url": "https://github.com/topics/auto-tool-103",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-103"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-104",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #104",
+      "url": "https://github.com/topics/auto-tool-104",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-104"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-105",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #105",
+      "url": "https://github.com/topics/auto-tool-105",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-105"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-106",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #106",
+      "url": "https://github.com/topics/auto-tool-106",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-106"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-107",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #107",
+      "url": "https://github.com/topics/auto-tool-107",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-107"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-108",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #108",
+      "url": "https://github.com/topics/auto-tool-108",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-108"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-109",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #109",
+      "url": "https://github.com/topics/auto-tool-109",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-109"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-110",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #110",
+      "url": "https://github.com/topics/auto-tool-110",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-110"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-111",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #111",
+      "url": "https://github.com/topics/auto-tool-111",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-111"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-112",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #112",
+      "url": "https://github.com/topics/auto-tool-112",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-112"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-113",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #113",
+      "url": "https://github.com/topics/auto-tool-113",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-113"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-114",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #114",
+      "url": "https://github.com/topics/auto-tool-114",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-114"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-115",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #115",
+      "url": "https://github.com/topics/auto-tool-115",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-115"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-116",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #116",
+      "url": "https://github.com/topics/auto-tool-116",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-116"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-117",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #117",
+      "url": "https://github.com/topics/auto-tool-117",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-117"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-118",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #118",
+      "url": "https://github.com/topics/auto-tool-118",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-118"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-119",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #119",
+      "url": "https://github.com/topics/auto-tool-119",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-119"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-120",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #120",
+      "url": "https://github.com/topics/auto-tool-120",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-120"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-121",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #121",
+      "url": "https://github.com/topics/auto-tool-121",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-121"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-122",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #122",
+      "url": "https://github.com/topics/auto-tool-122",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-122"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-123",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #123",
+      "url": "https://github.com/topics/auto-tool-123",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-123"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-124",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #124",
+      "url": "https://github.com/topics/auto-tool-124",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-124"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-125",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #125",
+      "url": "https://github.com/topics/auto-tool-125",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-125"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-126",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #126",
+      "url": "https://github.com/topics/auto-tool-126",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-126"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-127",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #127",
+      "url": "https://github.com/topics/auto-tool-127",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-127"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-128",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #128",
+      "url": "https://github.com/topics/auto-tool-128",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-128"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-129",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #129",
+      "url": "https://github.com/topics/auto-tool-129",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-129"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-130",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #130",
+      "url": "https://github.com/topics/auto-tool-130",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-130"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-131",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #131",
+      "url": "https://github.com/topics/auto-tool-131",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-131"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-132",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #132",
+      "url": "https://github.com/topics/auto-tool-132",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-132"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-133",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #133",
+      "url": "https://github.com/topics/auto-tool-133",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-133"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-134",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #134",
+      "url": "https://github.com/topics/auto-tool-134",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-134"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-135",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #135",
+      "url": "https://github.com/topics/auto-tool-135",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-135"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-136",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #136",
+      "url": "https://github.com/topics/auto-tool-136",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-136"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-137",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #137",
+      "url": "https://github.com/topics/auto-tool-137",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-137"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-138",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #138",
+      "url": "https://github.com/topics/auto-tool-138",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-138"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-139",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #139",
+      "url": "https://github.com/topics/auto-tool-139",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-139"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-140",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #140",
+      "url": "https://github.com/topics/auto-tool-140",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-140"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-141",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #141",
+      "url": "https://github.com/topics/auto-tool-141",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-141"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-142",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #142",
+      "url": "https://github.com/topics/auto-tool-142",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-142"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-143",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #143",
+      "url": "https://github.com/topics/auto-tool-143",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-143"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-144",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #144",
+      "url": "https://github.com/topics/auto-tool-144",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-144"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-145",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #145",
+      "url": "https://github.com/topics/auto-tool-145",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-145"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-146",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #146",
+      "url": "https://github.com/topics/auto-tool-146",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-146"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-147",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #147",
+      "url": "https://github.com/topics/auto-tool-147",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-147"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-148",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #148",
+      "url": "https://github.com/topics/auto-tool-148",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-148"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-149",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #149",
+      "url": "https://github.com/topics/auto-tool-149",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-149"
+      ]
+    },
+    {
+      "resource_id": "auto-resource-150",
+      "category": "03-automation-scripting",
+      "title": "Automation & CLI Scripting Utility #150",
+      "url": "https://github.com/topics/auto-tool-150",
+      "description": "PowerShell modules, advanced batch processing, and Windows task schedulers. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "auto",
+        "windows",
+        "systems",
+        "module-150"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2806 @@
+{
+  "category": "01-windows-win32-apis",
+  "total_category_resources": 200,
+  "resources": [
+    {
+      "resource_id": "win32-resource-001",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #1",
+      "url": "https://github.com/topics/win32-tool-1",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-1"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-002",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #2",
+      "url": "https://github.com/topics/win32-tool-2",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-2"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-003",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #3",
+      "url": "https://github.com/topics/win32-tool-3",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-3"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-004",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #4",
+      "url": "https://github.com/topics/win32-tool-4",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-4"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-005",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #5",
+      "url": "https://github.com/topics/win32-tool-5",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-5"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-006",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #6",
+      "url": "https://github.com/topics/win32-tool-6",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-6"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-007",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #7",
+      "url": "https://github.com/topics/win32-tool-7",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-7"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-008",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #8",
+      "url": "https://github.com/topics/win32-tool-8",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-8"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-009",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #9",
+      "url": "https://github.com/topics/win32-tool-9",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-9"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-010",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #10",
+      "url": "https://github.com/topics/win32-tool-10",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-10"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-011",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #11",
+      "url": "https://github.com/topics/win32-tool-11",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-11"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-012",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #12",
+      "url": "https://github.com/topics/win32-tool-12",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-12"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-013",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #13",
+      "url": "https://github.com/topics/win32-tool-13",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-13"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-014",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #14",
+      "url": "https://github.com/topics/win32-tool-14",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-14"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-015",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #15",
+      "url": "https://github.com/topics/win32-tool-15",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-15"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-016",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #16",
+      "url": "https://github.com/topics/win32-tool-16",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-16"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-017",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #17",
+      "url": "https://github.com/topics/win32-tool-17",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-17"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-018",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #18",
+      "url": "https://github.com/topics/win32-tool-18",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-18"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-019",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #19",
+      "url": "https://github.com/topics/win32-tool-19",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-19"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-020",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #20",
+      "url": "https://github.com/topics/win32-tool-20",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-20"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-021",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #21",
+      "url": "https://github.com/topics/win32-tool-21",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-21"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-022",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #22",
+      "url": "https://github.com/topics/win32-tool-22",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-22"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-023",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #23",
+      "url": "https://github.com/topics/win32-tool-23",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-23"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-024",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #24",
+      "url": "https://github.com/topics/win32-tool-24",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-24"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-025",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #25",
+      "url": "https://github.com/topics/win32-tool-25",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-25"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-026",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #26",
+      "url": "https://github.com/topics/win32-tool-26",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-26"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-027",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #27",
+      "url": "https://github.com/topics/win32-tool-27",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-27"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-028",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #28",
+      "url": "https://github.com/topics/win32-tool-28",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-28"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-029",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #29",
+      "url": "https://github.com/topics/win32-tool-29",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-29"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-030",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #30",
+      "url": "https://github.com/topics/win32-tool-30",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-30"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-031",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #31",
+      "url": "https://github.com/topics/win32-tool-31",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-31"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-032",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #32",
+      "url": "https://github.com/topics/win32-tool-32",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-32"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-033",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #33",
+      "url": "https://github.com/topics/win32-tool-33",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-33"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-034",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #34",
+      "url": "https://github.com/topics/win32-tool-34",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-34"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-035",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #35",
+      "url": "https://github.com/topics/win32-tool-35",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-35"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-036",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #36",
+      "url": "https://github.com/topics/win32-tool-36",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-36"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-037",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #37",
+      "url": "https://github.com/topics/win32-tool-37",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-37"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-038",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #38",
+      "url": "https://github.com/topics/win32-tool-38",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-38"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-039",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #39",
+      "url": "https://github.com/topics/win32-tool-39",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-39"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-040",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #40",
+      "url": "https://github.com/topics/win32-tool-40",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-40"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-041",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #41",
+      "url": "https://github.com/topics/win32-tool-41",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-41"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-042",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #42",
+      "url": "https://github.com/topics/win32-tool-42",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-42"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-043",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #43",
+      "url": "https://github.com/topics/win32-tool-43",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-43"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-044",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #44",
+      "url": "https://github.com/topics/win32-tool-44",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-44"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-045",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #45",
+      "url": "https://github.com/topics/win32-tool-45",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-45"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-046",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #46",
+      "url": "https://github.com/topics/win32-tool-46",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-46"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-047",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #47",
+      "url": "https://github.com/topics/win32-tool-47",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-47"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-048",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #48",
+      "url": "https://github.com/topics/win32-tool-48",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-48"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-049",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #49",
+      "url": "https://github.com/topics/win32-tool-49",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-49"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-050",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #50",
+      "url": "https://github.com/topics/win32-tool-50",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-50"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-051",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #51",
+      "url": "https://github.com/topics/win32-tool-51",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-51"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-052",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #52",
+      "url": "https://github.com/topics/win32-tool-52",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-52"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-053",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #53",
+      "url": "https://github.com/topics/win32-tool-53",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-53"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-054",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #54",
+      "url": "https://github.com/topics/win32-tool-54",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-54"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-055",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #55",
+      "url": "https://github.com/topics/win32-tool-55",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-55"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-056",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #56",
+      "url": "https://github.com/topics/win32-tool-56",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-56"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-057",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #57",
+      "url": "https://github.com/topics/win32-tool-57",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-57"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-058",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #58",
+      "url": "https://github.com/topics/win32-tool-58",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-58"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-059",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #59",
+      "url": "https://github.com/topics/win32-tool-59",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-59"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-060",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #60",
+      "url": "https://github.com/topics/win32-tool-60",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-60"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-061",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #61",
+      "url": "https://github.com/topics/win32-tool-61",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-61"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-062",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #62",
+      "url": "https://github.com/topics/win32-tool-62",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-62"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-063",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #63",
+      "url": "https://github.com/topics/win32-tool-63",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-63"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-064",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #64",
+      "url": "https://github.com/topics/win32-tool-64",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-64"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-065",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #65",
+      "url": "https://github.com/topics/win32-tool-65",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-65"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-066",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #66",
+      "url": "https://github.com/topics/win32-tool-66",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-66"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-067",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #67",
+      "url": "https://github.com/topics/win32-tool-67",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-67"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-068",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #68",
+      "url": "https://github.com/topics/win32-tool-68",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-68"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-069",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #69",
+      "url": "https://github.com/topics/win32-tool-69",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-69"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-070",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #70",
+      "url": "https://github.com/topics/win32-tool-70",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-70"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-071",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #71",
+      "url": "https://github.com/topics/win32-tool-71",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-71"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-072",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #72",
+      "url": "https://github.com/topics/win32-tool-72",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-72"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-073",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #73",
+      "url": "https://github.com/topics/win32-tool-73",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-73"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-074",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #74",
+      "url": "https://github.com/topics/win32-tool-74",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-74"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-075",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #75",
+      "url": "https://github.com/topics/win32-tool-75",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-75"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-076",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #76",
+      "url": "https://github.com/topics/win32-tool-76",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-76"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-077",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #77",
+      "url": "https://github.com/topics/win32-tool-77",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-77"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-078",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #78",
+      "url": "https://github.com/topics/win32-tool-78",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-78"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-079",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #79",
+      "url": "https://github.com/topics/win32-tool-79",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-79"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-080",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #80",
+      "url": "https://github.com/topics/win32-tool-80",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-80"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-081",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #81",
+      "url": "https://github.com/topics/win32-tool-81",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-81"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-082",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #82",
+      "url": "https://github.com/topics/win32-tool-82",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-82"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-083",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #83",
+      "url": "https://github.com/topics/win32-tool-83",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-83"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-084",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #84",
+      "url": "https://github.com/topics/win32-tool-84",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-84"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-085",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #85",
+      "url": "https://github.com/topics/win32-tool-85",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-85"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-086",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #86",
+      "url": "https://github.com/topics/win32-tool-86",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-86"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-087",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #87",
+      "url": "https://github.com/topics/win32-tool-87",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-87"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-088",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #88",
+      "url": "https://github.com/topics/win32-tool-88",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-88"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-089",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #89",
+      "url": "https://github.com/topics/win32-tool-89",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-89"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-090",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #90",
+      "url": "https://github.com/topics/win32-tool-90",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-90"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-091",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #91",
+      "url": "https://github.com/topics/win32-tool-91",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-91"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-092",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #92",
+      "url": "https://github.com/topics/win32-tool-92",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-92"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-093",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #93",
+      "url": "https://github.com/topics/win32-tool-93",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-93"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-094",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #94",
+      "url": "https://github.com/topics/win32-tool-94",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-94"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-095",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #95",
+      "url": "https://github.com/topics/win32-tool-95",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-95"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-096",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #96",
+      "url": "https://github.com/topics/win32-tool-96",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-96"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-097",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #97",
+      "url": "https://github.com/topics/win32-tool-97",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-97"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-098",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #98",
+      "url": "https://github.com/topics/win32-tool-98",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-98"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-099",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #99",
+      "url": "https://github.com/topics/win32-tool-99",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-99"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-100",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #100",
+      "url": "https://github.com/topics/win32-tool-100",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-100"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-101",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #101",
+      "url": "https://github.com/topics/win32-tool-101",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-101"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-102",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #102",
+      "url": "https://github.com/topics/win32-tool-102",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-102"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-103",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #103",
+      "url": "https://github.com/topics/win32-tool-103",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-103"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-104",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #104",
+      "url": "https://github.com/topics/win32-tool-104",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-104"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-105",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #105",
+      "url": "https://github.com/topics/win32-tool-105",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-105"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-106",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #106",
+      "url": "https://github.com/topics/win32-tool-106",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-106"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-107",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #107",
+      "url": "https://github.com/topics/win32-tool-107",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-107"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-108",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #108",
+      "url": "https://github.com/topics/win32-tool-108",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-108"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-109",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #109",
+      "url": "https://github.com/topics/win32-tool-109",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-109"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-110",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #110",
+      "url": "https://github.com/topics/win32-tool-110",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-110"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-111",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #111",
+      "url": "https://github.com/topics/win32-tool-111",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-111"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-112",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #112",
+      "url": "https://github.com/topics/win32-tool-112",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-112"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-113",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #113",
+      "url": "https://github.com/topics/win32-tool-113",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-113"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-114",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #114",
+      "url": "https://github.com/topics/win32-tool-114",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-114"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-115",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #115",
+      "url": "https://github.com/topics/win32-tool-115",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-115"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-116",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #116",
+      "url": "https://github.com/topics/win32-tool-116",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-116"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-117",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #117",
+      "url": "https://github.com/topics/win32-tool-117",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-117"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-118",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #118",
+      "url": "https://github.com/topics/win32-tool-118",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-118"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-119",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #119",
+      "url": "https://github.com/topics/win32-tool-119",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-119"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-120",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #120",
+      "url": "https://github.com/topics/win32-tool-120",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-120"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-121",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #121",
+      "url": "https://github.com/topics/win32-tool-121",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-121"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-122",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #122",
+      "url": "https://github.com/topics/win32-tool-122",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-122"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-123",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #123",
+      "url": "https://github.com/topics/win32-tool-123",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-123"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-124",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #124",
+      "url": "https://github.com/topics/win32-tool-124",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-124"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-125",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #125",
+      "url": "https://github.com/topics/win32-tool-125",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-125"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-126",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #126",
+      "url": "https://github.com/topics/win32-tool-126",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-126"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-127",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #127",
+      "url": "https://github.com/topics/win32-tool-127",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-127"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-128",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #128",
+      "url": "https://github.com/topics/win32-tool-128",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-128"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-129",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #129",
+      "url": "https://github.com/topics/win32-tool-129",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-129"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-130",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #130",
+      "url": "https://github.com/topics/win32-tool-130",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-130"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-131",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #131",
+      "url": "https://github.com/topics/win32-tool-131",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-131"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-132",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #132",
+      "url": "https://github.com/topics/win32-tool-132",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-132"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-133",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #133",
+      "url": "https://github.com/topics/win32-tool-133",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-133"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-134",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #134",
+      "url": "https://github.com/topics/win32-tool-134",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-134"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-135",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #135",
+      "url": "https://github.com/topics/win32-tool-135",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-135"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-136",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #136",
+      "url": "https://github.com/topics/win32-tool-136",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-136"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-137",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #137",
+      "url": "https://github.com/topics/win32-tool-137",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-137"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-138",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #138",
+      "url": "https://github.com/topics/win32-tool-138",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-138"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-139",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #139",
+      "url": "https://github.com/topics/win32-tool-139",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-139"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-140",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #140",
+      "url": "https://github.com/topics/win32-tool-140",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-140"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-141",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #141",
+      "url": "https://github.com/topics/win32-tool-141",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-141"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-142",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #142",
+      "url": "https://github.com/topics/win32-tool-142",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-142"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-143",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #143",
+      "url": "https://github.com/topics/win32-tool-143",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-143"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-144",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #144",
+      "url": "https://github.com/topics/win32-tool-144",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-144"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-145",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #145",
+      "url": "https://github.com/topics/win32-tool-145",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-145"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-146",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #146",
+      "url": "https://github.com/topics/win32-tool-146",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-146"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-147",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #147",
+      "url": "https://github.com/topics/win32-tool-147",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-147"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-148",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #148",
+      "url": "https://github.com/topics/win32-tool-148",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-148"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-149",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #149",
+      "url": "https://github.com/topics/win32-tool-149",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-149"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-150",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #150",
+      "url": "https://github.com/topics/win32-tool-150",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-150"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-151",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #151",
+      "url": "https://github.com/topics/win32-tool-151",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-151"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-152",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #152",
+      "url": "https://github.com/topics/win32-tool-152",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-152"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-153",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #153",
+      "url": "https://github.com/topics/win32-tool-153",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-153"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-154",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #154",
+      "url": "https://github.com/topics/win32-tool-154",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-154"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-155",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #155",
+      "url": "https://github.com/topics/win32-tool-155",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-155"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-156",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #156",
+      "url": "https://github.com/topics/win32-tool-156",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-156"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-157",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #157",
+      "url": "https://github.com/topics/win32-tool-157",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-157"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-158",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #158",
+      "url": "https://github.com/topics/win32-tool-158",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-158"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-159",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #159",
+      "url": "https://github.com/topics/win32-tool-159",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-159"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-160",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #160",
+      "url": "https://github.com/topics/win32-tool-160",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-160"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-161",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #161",
+      "url": "https://github.com/topics/win32-tool-161",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-161"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-162",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #162",
+      "url": "https://github.com/topics/win32-tool-162",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-162"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-163",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #163",
+      "url": "https://github.com/topics/win32-tool-163",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-163"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-164",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #164",
+      "url": "https://github.com/topics/win32-tool-164",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-164"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-165",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #165",
+      "url": "https://github.com/topics/win32-tool-165",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-165"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-166",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #166",
+      "url": "https://github.com/topics/win32-tool-166",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-166"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-167",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #167",
+      "url": "https://github.com/topics/win32-tool-167",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-167"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-168",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #168",
+      "url": "https://github.com/topics/win32-tool-168",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-168"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-169",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #169",
+      "url": "https://github.com/topics/win32-tool-169",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-169"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-170",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #170",
+      "url": "https://github.com/topics/win32-tool-170",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-170"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-171",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #171",
+      "url": "https://github.com/topics/win32-tool-171",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-171"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-172",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #172",
+      "url": "https://github.com/topics/win32-tool-172",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-172"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-173",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #173",
+      "url": "https://github.com/topics/win32-tool-173",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-173"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-174",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #174",
+      "url": "https://github.com/topics/win32-tool-174",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-174"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-175",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #175",
+      "url": "https://github.com/topics/win32-tool-175",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-175"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-176",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #176",
+      "url": "https://github.com/topics/win32-tool-176",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-176"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-177",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #177",
+      "url": "https://github.com/topics/win32-tool-177",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-177"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-178",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #178",
+      "url": "https://github.com/topics/win32-tool-178",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-178"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-179",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #179",
+      "url": "https://github.com/topics/win32-tool-179",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-179"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-180",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #180",
+      "url": "https://github.com/topics/win32-tool-180",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-180"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-181",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #181",
+      "url": "https://github.com/topics/win32-tool-181",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-181"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-182",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #182",
+      "url": "https://github.com/topics/win32-tool-182",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-182"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-183",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #183",
+      "url": "https://github.com/topics/win32-tool-183",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-183"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-184",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #184",
+      "url": "https://github.com/topics/win32-tool-184",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-184"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-185",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #185",
+      "url": "https://github.com/topics/win32-tool-185",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-185"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-186",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #186",
+      "url": "https://github.com/topics/win32-tool-186",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-186"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-187",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #187",
+      "url": "https://github.com/topics/win32-tool-187",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-187"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-188",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #188",
+      "url": "https://github.com/topics/win32-tool-188",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-188"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-189",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #189",
+      "url": "https://github.com/topics/win32-tool-189",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-189"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-190",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #190",
+      "url": "https://github.com/topics/win32-tool-190",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-190"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-191",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #191",
+      "url": "https://github.com/topics/win32-tool-191",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.1,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-191"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-192",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #192",
+      "url": "https://github.com/topics/win32-tool-192",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.2,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-192"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-193",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #193",
+      "url": "https://github.com/topics/win32-tool-193",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.3,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-193"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-194",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #194",
+      "url": "https://github.com/topics/win32-tool-194",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.4,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-194"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-195",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #195",
+      "url": "https://github.com/topics/win32-tool-195",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.5,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-195"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-196",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #196",
+      "url": "https://github.com/topics/win32-tool-196",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.6,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-196"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-197",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #197",
+      "url": "https://github.com/topics/win32-tool-197",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.7,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-197"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-198",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #198",
+      "url": "https://github.com/topics/win32-tool-198",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.8,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-198"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-199",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #199",
+      "url": "https://github.com/topics/win32-tool-199",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 9.9,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-199"
+      ]
+    },
+    {
+      "resource_id": "win32-resource-200",
+      "category": "01-windows-win32-apis",
+      "title": "Windows Win32 APIs & Low-Level Systems Utility #200",
+      "url": "https://github.com/topics/win32-tool-200",
+      "description": "Low-level system programming, native hooks, PE parsing, and runtime instrumentation. Optimized for automated ingestion and low-overhead technical reference.",
+      "ai_utility_score": 8.0,
+      "tags": [
+        "win32",
+        "windows",
+        "systems",
+        "module-200"
+      ]
+    }
+  ]
+}

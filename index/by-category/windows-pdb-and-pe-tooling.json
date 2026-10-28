@@ -1,0 +1,116 @@
+[
+ {
+  "resource_id": "res-molecularmatters-raw-pdb-1e6b8a15f739",
+  "name": "MolecularMatters/raw_pdb",
+  "url": "https://github.com/MolecularMatters/raw_pdb",
+  "category_id": "windows-pdb-and-pe-tooling",
+  "purpose": "Read Microsoft PDB streams directly from C++ | Low-level C++11 library; callers construct higher-level symbol abstractions",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-wbenny-pdbex-1f83f70b7368",
+  "name": "wbenny/pdbex",
+  "url": "https://github.com/wbenny/pdbex",
+  "category_id": "windows-pdb-and-pe-tooling",
+  "purpose": "Reconstruct C structure and union declarations from PDB symbols | Tool; symbol information can omit details needed for exact source reconstruction",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-moyix-pdbparse-b070a2b0b034",
+  "name": "moyix/pdbparse",
+  "url": "https://github.com/moyix/pdbparse",
+  "category_id": "windows-pdb-and-pe-tooling",
+  "purpose": "Parse Microsoft PDB debug information using Python | Library; GPL; verify compatibility with required PDB streams and Python version",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-stackandpointer-pdb-insight-30bc3f85a15c",
+  "name": "StackAndPointer/PDB-Insight",
+  "url": "https://github.com/StackAndPointer/PDB-Insight",
+  "category_id": "windows-pdb-and-pe-tooling",
+  "purpose": "Browse PDB types and functions and export symbol information | Win32 and DIA SDK tool; supports symbol-server downloads",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-trailofbits-pe-parse-5a3d0de1b878",
+  "name": "trailofbits/pe-parse",
+  "url": "https://github.com/trailofbits/pe-parse",
+  "category_id": "windows-pdb-and-pe-tooling",
+  "purpose": "Parse Windows PE imports exports sections and relocations | C++ library intended for robust executable analysis",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-zodiacon-peexplorer-02c660f2e050",
+  "name": "zodiacon/PEExplorer",
+  "url": "https://github.com/zodiacon/PEExplorer",
+  "category_id": "windows-pdb-and-pe-tooling",
+  "purpose": "Inspect Portable Executable structure in a GUI | Desktop tool and parser reference; inspect repository branch and project requirements",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

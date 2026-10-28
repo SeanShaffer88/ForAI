@@ -7,10 +7,10 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | Resource | Useful for / constraints |
 |---|---|
 | [LangChain documentation](https://docs.langchain.com/) | LangChain + LangGraph docs: agents, tools, retrieval, streaming. |
-| [LangChain (GitHub)](https://github.com/langchain-ai/langchain) | Core LangChain monorepo. |
+| [LangChain (GitHub)](https://github.com/langchain-ai/langchain) | LangChain core monorepo: model, tool, and agent abstractions across providers; powerful but fast-moving — pin versions and expect breaking changes. |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Stateful, durable agent orchestration as graphs; persistence and human-in-the-loop. |
 | [LlamaIndex documentation](https://developers.llamaindex.ai/) | Data framework for RAG and agents: ingestion, indexes, query engines, workflows. |
-| [LlamaIndex (GitHub)](https://github.com/run-llama/llama_index) | LlamaIndex core and integrations. |
+| [LlamaIndex (GitHub)](https://github.com/run-llama/llama_index) | LlamaIndex core and integrations: data connectors, indexes, and retrieval for RAG applications; the Python package is the main surface. |
 | [Microsoft Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/) | .NET/Python/Java AI orchestration SDK from Microsoft. |
 | [Microsoft AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversation framework from Microsoft Research. |
 | [CrewAI](https://docs.crewai.com/) | Role-based multi-agent crews and flows (Python). |

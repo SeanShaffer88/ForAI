@@ -1,0 +1,809 @@
+[
+ {
+  "resource_id": "res-playwright-77012b9f8ef0",
+  "name": "Playwright",
+  "url": "https://playwright.dev/docs/intro",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Browser end-to-end testing; install matching browser binaries.",
+  "resource_type": "documentation",
+  "topics": [
+   "browser-automation",
+   "end-to-end-testing",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pytest-bfacee70455b",
+  "name": "pytest",
+  "url": "https://docs.pytest.org/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites.",
+  "resource_type": "documentation",
+  "topics": [
+   "python",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hypothesis-573167abe9b2",
+  "name": "Hypothesis",
+  "url": "https://hypothesis.readthedocs.io/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Property-based tests and shrinking for Python.",
+  "resource_type": "reference",
+  "topics": [
+   "python",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vitest-e451b9daa5a8",
+  "name": "Vitest",
+  "url": "https://vitest.dev/guide/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects.",
+  "resource_type": "reference",
+  "topics": [
+   "javascript",
+   "testing",
+   "typescript"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-testing-library-ea939485b51d",
+  "name": "Testing Library",
+  "url": "https://testing-library.com/docs/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "UI tests using observable user-facing behavior.",
+  "resource_type": "documentation",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-junit-82226191c42b",
+  "name": "JUnit",
+  "url": "https://junit.org/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on.",
+  "resource_type": "reference",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xunit-net-d32afc7cab49",
+  "name": "xUnit.net",
+  "url": "https://xunit.net/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": ".NET testing framework, the common default for new C# test projects alongside NUnit and MSTest.",
+  "resource_type": "reference",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-googletest-28a2dfa03dd3",
+  "name": "GoogleTest",
+  "url": "https://google.github.io/googletest/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-catch2-8e92090181f6",
+  "name": "Catch2",
+  "url": "https://github.com/catchorg/Catch2",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-testcontainers-d14c043805f3",
+  "name": "Testcontainers",
+  "url": "https://docs.docker.com/testcontainers/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Run real service dependencies in tests; needs a compatible container runtime.",
+  "resource_type": "documentation",
+  "topics": [
+   "containers",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pact-111b63445a81",
+  "name": "Pact",
+  "url": "https://docs.pact.io/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Consumer/provider contracts for HTTP and messages.",
+  "resource_type": "documentation",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wiremock-5f9184bf526c",
+  "name": "WireMock",
+  "url": "https://wiremock.org/docs/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "HTTP service stubs and integration simulations.",
+  "resource_type": "documentation",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-k6-62700a3c0a70",
+  "name": "k6",
+  "url": "https://grafana.com/docs/k6/latest/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Load and performance tests with explicit thresholds.",
+  "resource_type": "documentation",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-locust-8190a6e35580",
+  "name": "Locust",
+  "url": "https://docs.locust.io/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists.",
+  "resource_type": "documentation",
+  "topics": [
+   "python",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-benchmarkdotnet-bfefb4077f68",
+  "name": "BenchmarkDotNet",
+  "url": "https://benchmarkdotnet.org/",
+  "category_id": "testing-verification-and-performance",
+  "purpose": ".NET microbenchmarking with controlled execution.",
+  "resource_type": "reference",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-google-benchmark-ea82531e862f",
+  "name": "Google Benchmark",
+  "url": "https://github.com/google/benchmark",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "C++ microbenchmarks; representative workload selection remains essential.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llvm-sanitizers-3425835aab71",
+  "name": "LLVM sanitizers",
+  "url": "https://clang.llvm.org/docs/AddressSanitizer.html",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Native memory-error detection; support depends on platform and compiler.",
+  "resource_type": "documentation",
+  "topics": [
+   "build-tools",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-libfuzzer-1c93f6143519",
+  "name": "libFuzzer",
+  "url": "https://llvm.org/docs/LibFuzzer.html",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing.",
+  "resource_type": "documentation",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-diffimg-community-fork-42ead588d70d",
+  "name": "DiffImg (community fork)",
+  "url": "https://github.com/arbruijn/diffimg",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Standalone Qt/C++ screenshot-difference GUI. arbruijn fork descends from sandsmark/lingo/xbee; independent Windows Qt 6.12 x64 revival: https://github.com/SeanShaffer88/DiffImg-Windows/releases/tag/v2.6.0 . Adds JSON/JUnit CI reports, failure-file navigation, scoped HTML exports and RGB pixel inspection atop folder comparisons, profiles/masks and recoverable baseline approval. GPLv3 binary distribution with corresponding sources/notices; self-signed Authenticode is not public Windows trust. Equal dimensions and 8-bit white-matte RGB; compare WinMerge.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-fast-check-667f6a721265",
+  "name": "fast-check",
+  "url": "https://github.com/dubzzz/fast-check",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Generate and shrink JavaScript/TypeScript property tests; retain seeds for reproducibility.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "testing",
+   "typescript"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mock-service-worker-df95dfbf2d67",
+  "name": "Mock Service Worker",
+  "url": "https://github.com/mswjs/msw",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Intercept network requests in browser and Node tests; keep mocks aligned with real contracts.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tox-72a25eb98b9c",
+  "name": "tox",
+  "url": "https://github.com/tox-dev/tox",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Run Python checks across isolated environments; provision the required interpreter versions.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nox-4bca87998382",
+  "name": "Nox",
+  "url": "https://github.com/wntrblm/nox",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Define Python test sessions as code; manage interpreter and dependency matrices explicitly.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-strykerjs-975a6bb6a965",
+  "name": "StrykerJS",
+  "url": "https://github.com/stryker-mutator/stryker-js",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Mutation testing for JavaScript and TypeScript; budget runtime and inspect equivalent mutants.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "testing",
+   "typescript"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mutmut-fcce93c556b2",
+  "name": "mutmut",
+  "url": "https://github.com/boxed/mutmut",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Find Python test gaps through mutation; upstream requires WSL on Windows. Run against committed test code and inspect surviving mutations.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-jqwik-666f725f1a21",
+  "name": "jqwik",
+  "url": "https://github.com/jqwik-team/jqwik",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Property-based tests on the JUnit Platform. Upstream reports maintenance mode and an additional Anti-AI Usage Clause from v1.10; review those terms before use.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tla-tools-f12062d1d861",
+  "name": "TLA+ tools",
+  "url": "https://github.com/tlaplus/tlaplus",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Model concurrent protocols and check invariants; bounded models do not prove implementation correctness.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cargo-nextest-b4b3909d25ef",
+  "name": "cargo-nextest",
+  "url": "https://github.com/nextest-rs/nextest",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Run Rust test binaries with scheduling and retries; confirm differences from cargo test.",
+  "resource_type": "repository",
+  "topics": [
+   "rust",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-proptest-0e9020cc1d0e",
+  "name": "proptest",
+  "url": "https://github.com/proptest-rs/proptest",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Property-based Rust tests with shrinking; persist regressions and constrain generators.",
+  "resource_type": "repository",
+  "topics": [
+   "rust",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mocha-eb1173a7b9ec",
+  "name": "mocha",
+  "url": "https://github.com/mochajs/mocha",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "☕️ Classic, reliable, trusted test framework for Node.js and the browser",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-core-51d58c3f0d32",
+  "name": "core",
+  "url": "https://github.com/adonisjs/core",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "testing",
+   "typescript",
+   "web"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-nightwatch-fcf8a6365536",
+  "name": "nightwatch",
+  "url": "https://github.com/nightwatchjs/nightwatch",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "browser-automation",
+   "end-to-end-testing",
+   "javascript",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cherrybomb-a48bdb628d98",
+  "name": "cherrybomb",
+  "url": "https://github.com/blst-security/cherrybomb",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-trust-44bc6b34b431",
+  "name": "trust",
+  "url": "https://github.com/japaric/trust",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "rust",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-fortio-280eab3ad30d",
+  "name": "fortio",
+  "url": "https://github.com/fortio/fortio",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+  "resource_type": "repository",
+  "topics": [
+   "go",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "go"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xtd-7f39f92dc083",
+  "name": "xtd",
+  "url": "https://github.com/gammasoft71/xtd",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Free open-source modern C++20/23 framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, Haiku, and SerenityOS.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "linux",
+   "mobile",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "linux",
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-kahlan-36ff387ea857",
+  "name": "kahlan",
+  "url": "https://github.com/kahlan/kahlan",
+  "category_id": "testing-verification-and-performance",
+  "purpose": ":heavy_check_mark: PHP Test Framework for Freedom, Truth, and Justice",
+  "resource_type": "repository",
+  "topics": [
+   "php",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-shoulda-matchers-d023b8d56455",
+  "name": "shoulda-matchers",
+  "url": "https://github.com/thoughtbot/shoulda-matchers",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Simple one-liner tests for common Rails functionality",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swift-composable-architecture-2c65847c889c",
+  "name": "swift-composable-architecture",
+  "url": "https://github.com/pointfreeco/swift-composable-architecture",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "swift",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "swift"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-patrol-82385849d7a1",
+  "name": "patrol",
+  "url": "https://github.com/leancodepl/patrol",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Flutter-first UI testing framework. Ready for action!",
+  "resource_type": "repository",
+  "topics": [
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-container-structure-test-ac3bc4d22a7a",
+  "name": "container-structure-test",
+  "url": "https://github.com/GoogleContainerTools/container-structure-test",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "validate the structure of your container images",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-http-prompt-cd82f8ac4970",
+  "name": "http-prompt",
+  "url": "https://github.com/httpie/http-prompt",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vuesion-2efe3d0f4392",
+  "name": "vuesion",
+  "url": "https://github.com/vuesion/vuesion",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "The original open-source Vuesion 5: a Nuxt 3 boilerplate with design system, Storybook, Figma UI kit, authentication and testing. MIT licensed, no longer maintained. Active development continues as the commercial Vuesion on Nuxt 4 with workspaces, billing and AI agent skills.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "design-systems",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vue-testing-library-a544ecf419b5",
+  "name": "vue-testing-library",
+  "url": "https://github.com/testing-library/vue-testing-library",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "🦎 Simple and complete Vue.js testing utilities that encourage good testing practices.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

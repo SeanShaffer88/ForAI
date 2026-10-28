@@ -1,0 +1,238 @@
+[
+ {
+  "resource_id": "res-fmtlib-fmt-fad56414d8ea",
+  "name": "fmtlib/fmt",
+  "url": "https://github.com/fmtlib/fmt",
+  "category_id": "windows-native-libraries",
+  "purpose": "C++ formatting | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-gabime-spdlog-c0ff4e1db15f",
+  "name": "gabime/spdlog",
+  "url": "https://github.com/gabime/spdlog",
+  "category_id": "windows-native-libraries",
+  "purpose": "C++ logging | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-nlohmann-json-2b4850a99ae8",
+  "name": "nlohmann/json",
+  "url": "https://github.com/nlohmann/json",
+  "category_id": "windows-native-libraries",
+  "purpose": "C++ JSON | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-boostorg-boost-cec0abd3f237",
+  "name": "boostorg/boost",
+  "url": "https://github.com/boostorg/boost",
+  "category_id": "windows-native-libraries",
+  "purpose": "C++ utility libraries | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-chriskohlhoff-asio-f366b1fcb0c3",
+  "name": "chriskohlhoff/asio",
+  "url": "https://github.com/chriskohlhoff/asio",
+  "category_id": "windows-native-libraries",
+  "purpose": "Asynchronous networking and I/O | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-curl-curl-e2790f0529e8",
+  "name": "curl/curl",
+  "url": "https://github.com/curl/curl",
+  "category_id": "windows-native-libraries",
+  "purpose": "libcurl networking protocols and CLI | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-openssl-openssl-d7b1a7e42388",
+  "name": "openssl/openssl",
+  "url": "https://github.com/openssl/openssl",
+  "category_id": "windows-native-libraries",
+  "purpose": "TLS and cryptography | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libarchive-libarchive-c40897ff81cb",
+  "name": "libarchive/libarchive",
+  "url": "https://github.com/libarchive/libarchive",
+  "category_id": "windows-native-libraries",
+  "purpose": "Archive reading and writing | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-madler-zlib-bd0ff4757fc6",
+  "name": "madler/zlib",
+  "url": "https://github.com/madler/zlib",
+  "category_id": "windows-native-libraries",
+  "purpose": "Compression | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-facebook-zstd-46b04050435d",
+  "name": "facebook/zstd",
+  "url": "https://github.com/facebook/zstd",
+  "category_id": "windows-native-libraries",
+  "purpose": "Zstandard compression | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libgit2-libgit2-218e41890fa2",
+  "name": "libgit2/libgit2",
+  "url": "https://github.com/libgit2/libgit2",
+  "category_id": "windows-native-libraries",
+  "purpose": "Embeddable Git | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libffi-libffi-b8aa380352bf",
+  "name": "libffi/libffi",
+  "url": "https://github.com/libffi/libffi",
+  "category_id": "windows-native-libraries",
+  "purpose": "Foreign function interface | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-mimalloc-161255eebf6f",
+  "name": "microsoft/mimalloc",
+  "url": "https://github.com/microsoft/mimalloc",
+  "category_id": "windows-native-libraries",
+  "purpose": "Memory allocator | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

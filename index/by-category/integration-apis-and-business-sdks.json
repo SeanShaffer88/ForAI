@@ -1,0 +1,261 @@
+[
+ {
+  "resource_id": "res-github-rest-api-e6c96ae1d7b7",
+  "name": "GitHub REST API",
+  "url": "https://docs.github.com/en/rest",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Repository, issue, pull-request and automation integration.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "git"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-github-octokit-184759d34dea",
+  "name": "GitHub Octokit",
+  "url": "https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Official GitHub SDK entry point; select supported language and authentication.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-microsoft-graph-13ac520430f9",
+  "name": "Microsoft Graph",
+  "url": "https://learn.microsoft.com/en-us/graph/sdks/sdks-overview",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Microsoft 365 and identity-backed APIs; scopes, consent and beta stability matter.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-google-workspace-620e680a8845",
+  "name": "Google Workspace",
+  "url": "https://developers.google.com/workspace",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Docs, Sheets, Drive, Gmail and Calendar integration entry point.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stripe-729352da86a4",
+  "name": "Stripe",
+  "url": "https://docs.stripe.com/sdks",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Payments SDKs; align API version, webhook validation and idempotency.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-twilio-6b004ea59d04",
+  "name": "Twilio",
+  "url": "https://www.twilio.com/docs/libraries",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Messaging, voice and communications SDKs.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sendgrid-c98441fcc314",
+  "name": "SendGrid",
+  "url": "https://www.twilio.com/docs/sendgrid",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Transactional email APIs and deliverability integration.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-resend-d7061afe0237",
+  "name": "Resend",
+  "url": "https://resend.com/docs",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-slack-api-47ea62e92ec3",
+  "name": "Slack API",
+  "url": "https://api.slack.com/",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Workplace integration, events and bot interfaces.",
+  "resource_type": "service",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-discord-1434a29d5ce9",
+  "name": "Discord",
+  "url": "https://discord.com/developers/docs/intro",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-notion-0d22f7945e01",
+  "name": "Notion",
+  "url": "https://developers.notion.com/",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-shopify-09fbddb98c56",
+  "name": "Shopify",
+  "url": "https://shopify.dev/docs",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Commerce applications, APIs and extensions.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mapbox-a24006133fb8",
+  "name": "Mapbox",
+  "url": "https://docs.mapbox.com/",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Maps, geocoding and navigation SDKs; review usage and data terms.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-google-maps-platform-3407da87d113",
+  "name": "Google Maps Platform",
+  "url": "https://developers.google.com/maps/documentation",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Mapping, routing and places APIs; billing and retention rules vary.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-s3-api-03494f1c3603",
+  "name": "S3 API",
+  "url": "https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Object storage protocol reference; compatible providers can differ.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-firecrawl-7e724bfb4673",
+  "name": "Firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "category_id": "integration-apis-and-business-sdks",
+  "purpose": "Web search, scraping, crawling and structured extraction for data pipelines and AI applications. Hosted API and self-hosted source; review credits, service terms, deployment differences and AGPL-3.0 obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

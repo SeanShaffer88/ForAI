@@ -1,0 +1,110 @@
+[
+ {
+  "resource_id": "res-winfsp-winfsp-264ac7a45c85",
+  "name": "winfsp/winfsp",
+  "url": "https://github.com/winfsp/winfsp",
+  "category_id": "windows-devices-and-filesystems",
+  "purpose": "Implement Windows filesystems in user mode | Native filesystem framework; driver deployment applies",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dokan-dev-dokany-beefd21875c3",
+  "name": "dokan-dev/dokany",
+  "url": "https://github.com/dokan-dev/dokany",
+  "category_id": "windows-devices-and-filesystems",
+  "purpose": "User-mode Windows filesystem library and FUSE wrapper | Native filesystem framework; driver deployment applies",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libusb-hidapi-2e2b3c23630f",
+  "name": "libusb/hidapi",
+  "url": "https://github.com/libusb/hidapi",
+  "category_id": "windows-devices-and-filesystems",
+  "purpose": "Communicate with USB and Bluetooth HID-class devices | Native library; DLL or embedded source",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libusb-libusb-7fc51bf991fa",
+  "name": "libusb/libusb",
+  "url": "https://github.com/libusb/libusb",
+  "category_id": "windows-devices-and-filesystems",
+  "purpose": "User-space USB device access | Native library; Windows backend and device driver matter",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-pbatard-libwdi-4abcc6a5a77c",
+  "name": "pbatard/libwdi",
+  "url": "https://github.com/pbatard/libwdi",
+  "category_id": "windows-devices-and-filesystems",
+  "purpose": "Generate and install Windows USB driver packages | Native installer library; GPL terms",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-sigrokproject-libserialport-89ec41e0b7bb",
+  "name": "sigrokproject/libserialport",
+  "url": "https://github.com/sigrokproject/libserialport",
+  "category_id": "windows-devices-and-filesystems",
+  "purpose": "Enumerate and communicate with serial ports | C library; GitHub mirror",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

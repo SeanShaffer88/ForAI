@@ -1,0 +1,904 @@
+[
+ {
+  "resource_id": "res-galaxy-fd515fc8c5fa",
+  "name": "galaxy",
+  "url": "https://github.com/uiverse-io/galaxy",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-uswds-2fe998bb9377",
+  "name": "uswds",
+  "url": "https://github.com/uswds/uswds",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems",
+   "mobile"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-at-ui-0619d5c32eb1",
+  "name": "at-ui",
+  "url": "https://github.com/AT-UI/at-ui",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0 (DEPRECATED)",
+  "resource_type": "repository",
+  "topics": [
+   "desktop"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-braid-design-system-78a345d325a8",
+  "name": "braid-design-system",
+  "url": "https://github.com/seek-oss/braid-design-system",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Themeable design system for the SEEK Group",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vue-design-system-90836c6774e0",
+  "name": "vue-design-system",
+  "url": "https://github.com/arielsalminen/vue-design-system",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "An open source tool for building UI Design Systems with Vue.js",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-amplify-ui-b6e05852d61b",
+  "name": "amplify-ui",
+  "url": "https://github.com/aws-amplify/amplify-ui",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vanilla-framework-63ccc7458bfe",
+  "name": "vanilla-framework",
+  "url": "https://github.com/canonical/vanilla-framework",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-design-system-dee1e9094dcb",
+  "name": "design-system",
+  "url": "https://github.com/priceline/design-system",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Priceline.com Design System",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-govuk-design-system-4cf62a6321f0",
+  "name": "govuk-design-system",
+  "url": "https://github.com/alphagov/govuk-design-system",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "One place for service teams to find styles, components and patterns for designing government services.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stacks-d168b21e0525",
+  "name": "Stacks",
+  "url": "https://github.com/StackExchange/Stacks",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Stack Overflow’s Design System",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-welcome-ui-c09d6b58bea6",
+  "name": "welcome-ui",
+  "url": "https://github.com/WTTJ/welcome-ui",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Customizable design system from Welcome to the jungle (@wttj) with react, typescript, tailwindcss, ariakit and a lot of love 💛 Here you'll find all the core components you need to create a delightful webapp.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems",
+   "typescript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pivotal-ui-0c6e4208b3b6",
+  "name": "pivotal-ui",
+  "url": "https://github.com/pivotal-cf/pivotal-ui",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Pivotal's design system & component library",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-paste-b266c990727b",
+  "name": "paste",
+  "url": "https://github.com/twilio-labs/paste",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Paste is a design system for designing and building consistent experiences at Twilio.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vibe-5678f5d3b553",
+  "name": "vibe",
+  "url": "https://github.com/mondaycom/vibe",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "🎨 Vibe Design System - Official monday.com UI resources for application development in React.js",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ix-35911f130438",
+  "name": "ix",
+  "url": "https://github.com/siemens/ix",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Siemens Industrial Experience is a design system for designers and developers, to consistently create the perfect digital experience for industrial software products.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-canvas-kit-09943d0ca54e",
+  "name": "canvas-kit",
+  "url": "https://github.com/Workday/canvas-kit",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Development kits to implement UI following the Workday Sana Canvas Design System (https://design.workday.com/design-system). See our Component Storybook -",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-forma-36-18dfc06e9ead",
+  "name": "forma-36",
+  "url": "https://github.com/contentful/forma-36",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "A design system by Contentful",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mineral-ui-d019810c421b",
+  "name": "mineral-ui",
+  "url": "https://github.com/mineral-ui/mineral-ui",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "A design system and React component library for the web brought to you by CA Technologies.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-porsche-design-system-a0fa81bcea89",
+  "name": "porsche-design-system",
+  "url": "https://github.com/porsche-design-system/porsche-design-system",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "The official Porsche Design System repository, offering fundamental UXI guidelines and a library of reusable web components to enable designers and developers to build consistent, intuitive, and high-quality digital products that reflect the Porsche brand.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems",
+   "git"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-protocol-2ba61fdef7fe",
+  "name": "protocol",
+  "url": "https://github.com/mozilla/protocol",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "A design system for Mozilla websites.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kolibri-4d475f9ce27c",
+  "name": "kolibri",
+  "url": "https://github.com/public-ui/kolibri",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "The accessible HTML-Standard",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-leafygreen-ui-4908dc26ed83",
+  "name": "leafygreen-ui",
+  "url": "https://github.com/mongodb/leafygreen-ui",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "LeafyGreen UI – LeafyGreen's React UI Kit",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fundamental-305400a2388b",
+  "name": "fundamental",
+  "url": "https://github.com/SAP/fundamental",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Fundamental Library - SAP Design System Component Library",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-yoga-aaed5e1f4505",
+  "name": "yoga",
+  "url": "https://github.com/gympass/yoga",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Yoga design-system: a scientific system of practices made to help each one of us achieve our highest potential and experience.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dsfr-633f8c57e467",
+  "name": "dsfr",
+  "url": "https://github.com/GouvernementFR/dsfr",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "🇫🇷 Official french government's design system (Système de Design de l'État)",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-palette-37ce5123c133",
+  "name": "palette",
+  "url": "https://github.com/artsy/palette",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Artsy's design system",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-intergalactic-84128a67fc63",
+  "name": "intergalactic",
+  "url": "https://github.com/semrush/intergalactic",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Intergalactic Design System is a constantly developing design system and library of React components.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kaizen-design-system-51b07964063e",
+  "name": "kaizen-design-system",
+  "url": "https://github.com/cultureamp/kaizen-design-system",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Culture Amp's Kaizen Design System :seedling:",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-styleguide-1d034aa14915",
+  "name": "styleguide",
+  "url": "https://github.com/vtex/styleguide",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "The VTEX Design System and React component library.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rambler-ui-3a7ef545f16a",
+  "name": "rambler-ui",
+  "url": "https://github.com/rambler-digital-solutions/rambler-ui",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "😈 UI library for creating interfaces in Rambler guidelines with React power",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-krds-uiux-e7a88e29467c",
+  "name": "krds-uiux",
+  "url": "https://github.com/KRDS-uiux/krds-uiux",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "KRDS HTML Component Kit을 설치하여 디자인 시스템을 쉽게 적용할 수 있도록 가이드라인을 제공한다.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-retail-ui-73ee6d8dcd63",
+  "name": "retail-ui",
+  "url": "https://github.com/skbkontur/retail-ui",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Kontur UI design system",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bento-design-system-3c0b4712caf0",
+  "name": "bento-design-system",
+  "url": "https://github.com/buildo/bento-design-system",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "A customizable and extensible Design System framework for React.js projects",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pharos-e5a8cc819a18",
+  "name": "pharos",
+  "url": "https://github.com/ithaka/pharos",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "JSTOR's design system",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elements-b95044504d2f",
+  "name": "elements",
+  "url": "https://github.com/NVIDIA/elements",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "The UI SDK and agent-ready developer toolkit for AI factories, robotics, and autonomous vehicles.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-normalize-css-62f36893e3eb",
+  "name": "normalize.css",
+  "url": "https://github.com/necolas/normalize.css",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "A modern alternative to CSS resets",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-styled-components-5431afaa9a4f",
+  "name": "styled-components",
+  "url": "https://github.com/styled-components/styled-components",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "mobile"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-postcss-3fc229db6a52",
+  "name": "postcss",
+  "url": "https://github.com/postcss/postcss",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Transforming styles with JS plugins",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-less-js-aa265d0bba31",
+  "name": "less.js",
+  "url": "https://github.com/less/less.js",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Less. The dynamic stylesheet language.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sass-3779ecaff862",
+  "name": "sass",
+  "url": "https://github.com/sass/sass",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Sass makes CSS fun!",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-styled-jsx-fba6a0f5e2ec",
+  "name": "styled-jsx",
+  "url": "https://github.com/vercel/styled-jsx",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Full CSS support for JSX without compromises",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jss-82a65afe8ab4",
+  "name": "jss",
+  "url": "https://github.com/cssinjs/jss",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "JSS is an authoring tool for CSS which uses JavaScript as a host language.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sanitize-css-d986f56aec64",
+  "name": "sanitize.css",
+  "url": "https://github.com/csstools/sanitize.css",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "A best-practices CSS foundation",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-csswg-drafts-e347416828d9",
+  "name": "csswg-drafts",
+  "url": "https://github.com/w3c/csswg-drafts",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "CSS Working Group Editor Drafts",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rework-1d15d5e6c6ca",
+  "name": "rework",
+  "url": "https://github.com/reworkcss/rework",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Plugin framework for CSS preprocessing in Node.js",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aphrodite-bc8634773ecb",
+  "name": "aphrodite",
+  "url": "https://github.com/Khan/aphrodite",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-idiomatic-css-75dfddcbad63",
+  "name": "idiomatic-css",
+  "url": "https://github.com/necolas/idiomatic-css",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Principles of writing consistent, idiomatic CSS.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-minireset-css-74828aa03bda",
+  "name": "minireset.css",
+  "url": "https://github.com/jgthms/minireset.css",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "A tiny modern CSS reset",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-csstree-05cfc26c7762",
+  "name": "csstree",
+  "url": "https://github.com/csstree/csstree",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stylis-301cdec5e393",
+  "name": "stylis",
+  "url": "https://github.com/thysultan/stylis",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "light – weight css preprocessor",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-thinkup-c7fba4484a84",
+  "name": "ThinkUp",
+  "url": "https://github.com/ThinkUpLLC/ThinkUp",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-react-with-styles-0483e0088a8d",
+  "name": "react-with-styles",
+  "url": "https://github.com/airbnb/react-with-styles",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-suit-e47d416eccae",
+  "name": "suit",
+  "url": "https://github.com/suitcss/suit",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "Style tools for UI components",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reseter-css-770076ba1f9e",
+  "name": "reseter.css",
+  "url": "https://github.com/ikrishg/reseter.css",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "The Modern CSS Reset 🚀",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-singledivproject-69e87314bd0b",
+  "name": "SingleDivProject",
+  "url": "https://github.com/manrajgrover/SingleDivProject",
+  "category_id": "design-systems-and-design-engineering",
+  "purpose": "☝️One <div>. Many possibilities.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

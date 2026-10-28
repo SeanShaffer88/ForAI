@@ -1,0 +1,418 @@
+[
+ {
+  "resource_id": "res-hugging-face-hub-6bcc11b99d43",
+  "name": "Hugging Face Hub",
+  "url": "https://huggingface.co/models",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "The model/dataset hub: model cards carry license, files, and usage snippets. Read the card before recommending a model.",
+  "resource_type": "dataset",
+  "topics": [
+   "ai",
+   "api-integration",
+   "data-science"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugging-face-documentation-4c904ad40e3c",
+  "name": "Hugging Face documentation",
+  "url": "https://huggingface.co/docs",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Transformers, Datasets, Diffusers, PEFT, TRL, and Hub APIs.",
+  "resource_type": "dataset",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openai-platform-documentation-95828e33a23d",
+  "name": "OpenAI platform documentation",
+  "url": "https://developers.openai.com/api/docs",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "API reference, models, reasoning, tools, and pricing links.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-meta-llama-0d76e17389c7",
+  "name": "Meta Llama",
+  "url": "https://dev.meta.ai/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Llama models, downloads, and responsible-use docs.",
+  "resource_type": "service",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mistral-ai-documentation-3471c132cb16",
+  "name": "Mistral AI documentation",
+  "url": "https://docs.mistral.ai/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Mistral models and API (chat, embeddings, OCR).",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cohere-documentation-13f44bc5ec13",
+  "name": "Cohere documentation",
+  "url": "https://docs.cohere.com/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Command, Embed, and Rerank APIs — strong for enterprise RAG.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-groq-documentation-6b4d75ccf3a6",
+  "name": "Groq documentation",
+  "url": "https://console.groq.com/docs",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Very fast inference API (LPU) for open models.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-together-ai-c6aae1130f8f",
+  "name": "Together AI",
+  "url": "https://docs.together.ai/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Hosted open-model inference, fine-tuning, and dedicated endpoints.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fireworks-ai-512a497c19fa",
+  "name": "Fireworks AI",
+  "url": "https://docs.fireworks.ai/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Fast hosted inference for open models and fine-tunes.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-replicate-db9bb0da4a2e",
+  "name": "Replicate",
+  "url": "https://replicate.com/docs",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Run community and official models (LLMs, image, audio) via one API.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openrouter-54811ed4dba1",
+  "name": "OpenRouter",
+  "url": "https://openrouter.ai/docs",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "One API key routed to many providers/models; useful for comparison.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-arxiv-4c00ed934d8f",
+  "name": "arXiv",
+  "url": "https://arxiv.org/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Preprint server — where most model papers land first. A paper is a claim, not a benchmark result.",
+  "resource_type": "service",
+  "topics": [
+   "ai",
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-papers-with-code-hugging-face-papers-90ac87591982",
+  "name": "Papers With Code / Hugging Face Papers",
+  "url": "https://huggingface.co/papers/trending",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Papers With Code now redirects to Hugging Face Papers (trending papers). The original SOTA tables are historical; verify benchmark claims in the linked papers and code.",
+  "resource_type": "service",
+  "topics": [
+   "ai",
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-litellm-4e461ecb7660",
+  "name": "LiteLLM",
+  "url": "https://docs.litellm.ai/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "OpenAI-compatible interface over 100+ model providers, as an SDK or self-hosted gateway with budgets, routing, and fallbacks.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-portkey-9b2e9d4547ba",
+  "name": "Portkey",
+  "url": "https://portkey.ai/docs",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "AI gateway with observability, guardrails, and routing across providers; hosted and self-hosted options.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-amazon-bedrock-76a84e4a0241",
+  "name": "Amazon Bedrock",
+  "url": "https://docs.aws.amazon.com/bedrock/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "AWS's managed foundation-model service: model choice, Agents, Knowledge Bases, and guardrails inside AWS.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration",
+   "cloud"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-azure-ai-foundry-69c46b0659ed",
+  "name": "Azure AI Foundry",
+  "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Microsoft's AI platform: Azure OpenAI and a broad model catalog, agents, and evaluation tooling.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration",
+   "cloud"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nvidia-nim-2f9d7364723c",
+  "name": "NVIDIA NIM",
+  "url": "https://docs.nvidia.com/nim/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "NVIDIA's optimized inference microservices for deploying models on NVIDIA GPUs, cloud or on-prem.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration",
+   "architecture",
+   "cloud"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xai-grok-api-cf6b5cdf276d",
+  "name": "xAI (Grok) API",
+  "url": "https://docs.x.ai/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "xAI's API for Grok models, including realtime data features; OpenAI-compatible endpoints.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-perplexity-api-89da1f1c9b1a",
+  "name": "Perplexity API",
+  "url": "https://docs.perplexity.ai/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Search-grounded answer APIs (Sonar) and chat completions with citations.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-deepseek-api-53e6d2b54713",
+  "name": "DeepSeek API",
+  "url": "https://api-docs.deepseek.com/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "DeepSeek's API platform for its chat and reasoning models; OpenAI/Anthropic-compatible formats.",
+  "resource_type": "service",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cerebras-inference-32d7123b30f8",
+  "name": "Cerebras Inference",
+  "url": "https://inference-docs.cerebras.ai/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Wafer-scale inference with very high tokens/sec for open models; OpenAI-compatible API.",
+  "resource_type": "service",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-voyage-ai-5547ebd47027",
+  "name": "Voyage AI",
+  "url": "https://docs.voyageai.com/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Embeddings and rerankers (general, code, finance, law) — a common upgrade over default embedding models for RAG.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-baseten-3c00cfa9005d",
+  "name": "Baseten",
+  "url": "https://docs.baseten.co/",
+  "category_id": "ai-models-and-api-providers",
+  "purpose": "Hosted inference for custom and open models with autoscaling GPUs and model APIs (Truss).",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

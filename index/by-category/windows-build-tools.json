@@ -1,0 +1,183 @@
+[
+ {
+  "resource_id": "res-microsoft-vcpkg-2fab70156fef",
+  "name": "microsoft/vcpkg",
+  "url": "https://github.com/microsoft/vcpkg",
+  "category_id": "windows-build-tools",
+  "purpose": "Native C++ dependency manager | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-conan-io-conan-b438cd8e3312",
+  "name": "conan-io/conan",
+  "url": "https://github.com/conan-io/conan",
+  "category_id": "windows-build-tools",
+  "purpose": "C++ package and binary dependency manager | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-kitware-cmake-1136398a77f7",
+  "name": "Kitware/CMake",
+  "url": "https://github.com/Kitware/CMake",
+  "category_id": "windows-build-tools",
+  "purpose": "Cross-platform build configuration | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-ninja-build-ninja-c5b010c99e1c",
+  "name": "ninja-build/ninja",
+  "url": "https://github.com/ninja-build/ninja",
+  "category_id": "windows-build-tools",
+  "purpose": "Fast build executor | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-llvm-llvm-project-49e46c7c42f2",
+  "name": "llvm/llvm-project",
+  "url": "https://github.com/llvm/llvm-project",
+  "category_id": "windows-build-tools",
+  "purpose": "Clang clang-cl LLD and analysis tools | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dotnet-msbuild-e2ae723c53c4",
+  "name": "dotnet/msbuild",
+  "url": "https://github.com/dotnet/msbuild",
+  "category_id": "windows-build-tools",
+  "purpose": "Visual Studio and .NET build engine | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dotnet-roslyn-d65095547504",
+  "name": "dotnet/roslyn",
+  "url": "https://github.com/dotnet/roslyn",
+  "category_id": "windows-build-tools",
+  "purpose": "C# and Visual Basic compiler APIs | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-mesonbuild-meson-f17cd9f4c0ef",
+  "name": "mesonbuild/meson",
+  "url": "https://github.com/mesonbuild/meson",
+  "category_id": "windows-build-tools",
+  "purpose": "Cross-platform build configuration | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-msys2-msys2-packages-30a4c13a2213",
+  "name": "msys2/MSYS2-packages",
+  "url": "https://github.com/msys2/MSYS2-packages",
+  "category_id": "windows-build-tools",
+  "purpose": "MSYS2 package recipes | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-msys2-mingw-packages-e58a6ac2e010",
+  "name": "msys2/MINGW-packages",
+  "url": "https://github.com/msys2/MINGW-packages",
+  "category_id": "windows-build-tools",
+  "purpose": "Native Windows toolchain and library recipes | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

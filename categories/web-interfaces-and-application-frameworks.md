@@ -6,24 +6,24 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 
 | Resource | Useful for / constraints |
 |---|---|
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 
 ## AI expansion round 3 additions — 2026-10-23
 
@@ -59,12 +59,12 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [nodemon](https://github.com/remy/nodemon) | Monitor for any changes in your node.js application and automatically restart the server - perfect for development |
 | [koa](https://github.com/koajs/koa) | Expressive middleware for node.js using ES2017 async functions |
 | [cheerio](https://github.com/cheeriojs/cheerio) | The fast, flexible, and elegant library for parsing and manipulating HTML and XML. |
-| [ramda](https://github.com/ramda/ramda) | :ram: Practical functional Javascript |
+| [ramda](https://github.com/ramda/ramda) | Practical functional programming library for JavaScript: immutable, side-effect-free helpers designed for composition; a style choice, not a utility grab-bag like Lodash. |
 | [strapi](https://github.com/strapi/strapi) | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. |
 | [lodash](https://github.com/lodash/lodash) | A modern JavaScript utility library delivering modularity, performance, & extras. |
 | [ajv](https://github.com/ajv-validator/ajv) | The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927) |
-| [robotjs](https://github.com/octalmage/robotjs) | Node.js Desktop Automation. |
-| [meteor](https://github.com/meteor/meteor) | Meteor, the JavaScript App Platform |
+| [robotjs](https://github.com/octalmage/robotjs) | Node.js desktop automation: mouse, keyboard, and screen control from JavaScript; native module, so expect per-platform build and permission quirks. |
+| [meteor](https://github.com/meteor/meteor) | Meteor, the full-stack JavaScript app platform: reactive data, isomorphic code, and its own build system and hosting (Galaxy); a bigger commitment than a framework alone. |
 | [neon](https://github.com/neon-bindings/neon) | Rust bindings for writing safe and fast native Node.js modules. |
 | [brunch](https://github.com/brunch/brunch) | 🍴 Web applications made easy. Since 2011. |
 | [pug](https://github.com/pugjs/pug) | Pug – robust, elegant, feature rich template engine for Node.js |
@@ -80,8 +80,8 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [heroui](https://github.com/heroui-inc/heroui) | 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) |
 | [astryx](https://github.com/facebook/astryx) | An open source design system that's fully customizable and agent ready |
 | [evergreen](https://github.com/segmentio/evergreen) | 🌲 Evergreen React UI Framework by Segment |
-| [blueprint](https://github.com/palantir/blueprint) | A React-based UI toolkit for the web |
-| [carbon](https://github.com/carbon-design-system/carbon) | A design system built by IBM |
+| [blueprint](https://github.com/palantir/blueprint) | Blueprint, a React-based UI toolkit for the web (Palantir): dense, data-heavy desktop-style interfaces such as admin tools and dashboards. |
+| [carbon](https://github.com/carbon-design-system/carbon) | Carbon, IBM's design system: components, tokens, and guidelines with React, Angular, Vue, and web-component implementations. |
 | [flowbite](https://github.com/themesberg/flowbite) | Open-source UI component library and front-end development framework based on Tailwind CSS |
 | [grommet](https://github.com/grommet/grommet) | a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package |
 | [yeti](https://github.com/foundation/yeti) | A CSS-first, native, zero-build layout and styling framework for web designers. |
@@ -98,13 +98,13 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [ui](https://github.com/shadcn-ui/ui) | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. |
 | [gatsby](https://github.com/gatsbyjs/gatsby) | React-based framework with performance, scalability, and security built in. |
 | [refine](https://github.com/refinedev/refine) | A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility. |
-| [remix](https://github.com/remix-run/remix) | The fully-stacked web framework |
+| [remix](https://github.com/remix-run/remix) | The fully-stacked web framework (now merging into React Router): full-stack React with server loaders/actions and web-standard APIs. |
 | [redux](https://github.com/reduxjs/redux) | A JS library for predictable global state management |
-| [react-select](https://github.com/JedWatson/react-select) | The Select Component for React.js |
+| [react-select](https://github.com/JedWatson/react-select) | The select component for React: accessible dropdowns with search, multi-select, and async options; the long-standing default for complex select inputs. |
 | [react-email](https://github.com/resend/react-email) | 💌 Build and send emails using React |
 | [relay](https://github.com/facebook/relay) | Relay is a JavaScript framework for building data-driven React applications. |
 | [motion](https://github.com/motiondivision/motion) | A modern animation library for React and JavaScript |
-| [swr](https://github.com/vercel/swr) | React Hooks for Data Fetching |
+| [swr](https://github.com/vercel/swr) | React hooks for data fetching (stale-while-revalidate): caching, revalidation, and pagination for client data; a Vercel library, pairs naturally with Next.js. |
 | [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) | A React component for building Web forms from JSON Schema. |
 | [react-spring](https://github.com/pmndrs/react-spring) | ✌️ A spring physics based React animation library |
 | [headlessui](https://github.com/tailwindlabs/headlessui) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |

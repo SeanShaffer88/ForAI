@@ -1,0 +1,1503 @@
+[
+ {
+  "resource_id": "res-ockam-d09f75e7dde2",
+  "name": "ockam",
+  "url": "https://github.com/build-trust/ockam",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.",
+  "resource_type": "repository",
+  "topics": [
+   "end-to-end-testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bamboo-8a3134ba82d8",
+  "name": "bamboo",
+  "url": "https://github.com/beam-community/bamboo",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Testable, composable, and adapter based Elixir email library for devs that love piping.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jido-d8cd6e8db093",
+  "name": "jido",
+  "url": "https://github.com/agentjido/jido",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wallaby-08d34a71d2d7",
+  "name": "wallaby",
+  "url": "https://github.com/elixir-wallaby/wallaby",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Concurrent browser tests for your Elixir web apps.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-poison-3df7fa9d8b5a",
+  "name": "poison",
+  "url": "https://github.com/devinus/poison",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "An incredibly fast, pure Elixir JSON library",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-observer-cli-9286d68d1db4",
+  "name": "observer_cli",
+  "url": "https://github.com/zhongwencool/observer_cli",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Visualize Erlang/Elixir Nodes On The Command Line",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swoosh-b5b7eeb71a0d",
+  "name": "swoosh",
+  "url": "https://github.com/swoosh/swoosh",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Compose, deliver and test your emails easily in Elixir",
+  "resource_type": "repository",
+  "topics": [
+   "elixir",
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elixir-code-smells-9875a21865f9",
+  "name": "Elixir-Code-Smells",
+  "url": "https://github.com/lucasvegi/Elixir-Code-Smells",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Catalog of Elixir-specific code smells",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fun-with-flags-1054b118fc21",
+  "name": "fun_with_flags",
+  "url": "https://github.com/tompave/fun_with_flags",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Feature Flags/Toggles for Elixir",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-proper-753dc8002e84",
+  "name": "proper",
+  "url": "https://github.com/proper-testing/proper",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-plural-8544af49608d",
+  "name": "plural",
+  "url": "https://github.com/pluralsh/plural",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Enterprise Kubernetes management, accelerated. 🚀",
+  "resource_type": "repository",
+  "topics": [
+   "containers"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-torch-5446a813d5d8",
+  "name": "torch",
+  "url": "https://github.com/mojotech/torch",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A rapid admin generator for Elixir & Phoenix",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-porcelain-61f46e9c11bf",
+  "name": "porcelain",
+  "url": "https://github.com/alco/porcelain",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Work with external processes like a boss",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cubdb-225c115f94ca",
+  "name": "cubdb",
+  "url": "https://github.com/lucaong/cubdb",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Elixir embedded key/value database",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-phoenix-chat-example-81a3cedef6b0",
+  "name": "phoenix-chat-example",
+  "url": "https://github.com/dwyl/phoenix-chat-example",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "💬 The Step-by-Step Beginners Tutorial for Building, Testing & Deploying a Chat app in Phoenix 🚀",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-canary-132a39b4f8ca",
+  "name": "canary",
+  "url": "https://github.com/cpjk/canary",
+  "category_id": "niche-language-ecosystems",
+  "purpose": ":hatching_chick: Elixir authorization and resource-loading library for Plug applications.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-phoenix-liveview-counter-tutorial-4518b0a91515",
+  "name": "phoenix-liveview-counter-tutorial",
+  "url": "https://github.com/dwyl/phoenix-liveview-counter-tutorial",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "🤯 beginners tutorial building a real time counter in Phoenix + LiveView⚡️ Learn the fundamentals from first principals so you can make something amazing! 🚀",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-k8s-c2f29633c08f",
+  "name": "k8s",
+  "url": "https://github.com/coryodaniel/k8s",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Kubernetes API Client for Elixir",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "containers",
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elixir-ls-c2eebb369dae",
+  "name": "elixir-ls",
+  "url": "https://github.com/JakeBecker/elixir-ls",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the JSON-based \"Language Server Protocol\" standard and provides debugger support via VS Code's debugger protocol.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir",
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-awesome-elixir-cqrs-e2f674c09e6d",
+  "name": "awesome-elixir-cqrs",
+  "url": "https://github.com/slashdotdash/awesome-elixir-cqrs",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) resources.",
+  "resource_type": "curated-list",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ok-f2d8ec445dfd",
+  "name": "OK",
+  "url": "https://github.com/CrowdHailer/OK",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Elegant error/exception handling in Elixir, with result monads.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cog-2e0b63df2eb1",
+  "name": "cog",
+  "url": "https://github.com/operable/cog",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Bringing the power of the command line to chat",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elixir-mongodb-driver-a54e4bb36245",
+  "name": "elixir-mongodb-driver",
+  "url": "https://github.com/zookzook/elixir-mongodb-driver",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "MongoDB driver for Elixir",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xlsxir-0ee36fde7ff2",
+  "name": "xlsxir",
+  "url": "https://github.com/jsonkenl/xlsxir",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Xlsx parser for the Elixir language.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-number-4b6c2bce429e",
+  "name": "number",
+  "url": "https://github.com/danielberkompas/number",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "ActionView::Helpers::NumberHelper for Elixir",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-alloy-ci-85299ed6f4a6",
+  "name": "alloy_ci",
+  "url": "https://github.com/AlloyCI/alloy_ci",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Continuous Integration, Deployment, and Delivery coordinator, written in Elixir.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ex-debug-toolbar-057c89daa098",
+  "name": "ex_debug_toolbar",
+  "url": "https://github.com/kagux/ex_debug_toolbar",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A debug web toolbar for Phoenix projects to display all sorts of information about request",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elixir-refactorings-bad255c8ecfc",
+  "name": "Elixir-Refactorings",
+  "url": "https://github.com/lucasvegi/Elixir-Refactorings",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Catalog of Elixir Refactorings",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-phoenix-ecto-encryption-example-571de53e42b2",
+  "name": "phoenix-ecto-encryption-example",
+  "url": "https://github.com/dwyl/phoenix-ecto-encryption-example",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "🔐 A detailed example for how to encrypt data in an Elixir (Phoenix v1.7) App before inserting into a database using Ecto Types",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ex-gram-705aa3c88a27",
+  "name": "ex_gram",
+  "url": "https://github.com/rockneurotiko/ex_gram",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Telegram Bot API low level API and framework",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ex-crypto-4e4afa8c4fff",
+  "name": "ex_crypto",
+  "url": "https://github.com/ntrepid8/ex_crypto",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Wrapper around the Erlang crypto module for Elixir.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gatling-24a4358fa07a",
+  "name": "gatling",
+  "url": "https://github.com/hashrocket/gatling",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Deployment tool for Phoenix apps",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ash-ai-3553bb9e1cd0",
+  "name": "ash_ai",
+  "url": "https://github.com/ash-project/ash_ai",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Structured outputs, vectorization and tool calling for your Ash application",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-numerix-51bdcb36786d",
+  "name": "Numerix",
+  "url": "https://github.com/safwank/Numerix",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A collection of useful mathematical functions in Elixir with a slant towards statistics, linear algebra and machine learning",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-conduit-a64eef8b2094",
+  "name": "conduit",
+  "url": "https://github.com/conduitframework/conduit",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A message queue framework, with support for middleware and multiple adapters.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-scrivener-html-4fa61e0b8927",
+  "name": "scrivener_html",
+  "url": "https://github.com/mgwidmann/scrivener_html",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "HTML view helpers for Scrivener",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-immortal-36790e21bc7f",
+  "name": "immortal",
+  "url": "https://github.com/danielberkompas/immortal",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Helper modules for OTP applications",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pardall-markdown-6c38d8569c2f",
+  "name": "pardall_markdown",
+  "url": "https://github.com/alfredbaudisch/pardall_markdown",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding. Written in Elixir.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-quaff-be1e8372b4bb",
+  "name": "quaff",
+  "url": "https://github.com/qhool/quaff",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Erlang/Elixir helpers",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elixir-pubsub-bf9b11295b5d",
+  "name": "elixir_pubsub",
+  "url": "https://github.com/simonewebdesign/elixir_pubsub",
+  "category_id": "niche-language-ecosystems",
+  "purpose": ":droplet: Publish/Subscribe utility module",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elixir-webdriver-561cd28d12f1",
+  "name": "elixir-webdriver",
+  "url": "https://github.com/stuart/elixir-webdriver",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "WebDriver client for Elixir.",
+  "resource_type": "repository",
+  "topics": [
+   "browser-automation",
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-prometheus-process-collector-8f617c210bcb",
+  "name": "prometheus_process_collector",
+  "url": "https://github.com/prometheus-erl/prometheus_process_collector",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Prometheus.io process collector in Erlang",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-job-search-2fe0714358e0",
+  "name": "job_search",
+  "url": "https://github.com/tsurupin/job_search",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "An app to search startup jobs scraped from websites written in Elixir, Phoenix, React and styled-components.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-inet-cidr-6557bdd3ca08",
+  "name": "inet_cidr",
+  "url": "https://github.com/Cobenian/inet_cidr",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "CIDR library for Elixir that is compatible with Erlang's :inet and supports both IPv4 and IPv6",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chinese-translation-564c525bfae8",
+  "name": "chinese_translation",
+  "url": "https://github.com/tyrchen/chinese_translation",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "An elixir module to translate simplified Chinese to traditional Chinese, and vice versa, based on wikipedia data",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphql-engine-011c770b4ce2",
+  "name": "graphql-engine",
+  "url": "https://github.com/hasura/graphql-engine",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "database"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-simplex-chat-3e50f8d3006a",
+  "name": "simplex-chat",
+  "url": "https://github.com/simplex-chat/simplex-chat",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-wasp-80e31df69dc6",
+  "name": "wasp",
+  "url": "https://github.com/wasp-lang/wasp",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "end-to-end-testing",
+   "javascript"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ihp-57a0b1ef3160",
+  "name": "ihp",
+  "url": "https://github.com/digitallyinduced/ihp",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness",
+  "resource_type": "repository",
+  "topics": [
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-nammayatri-e8f870a35a82",
+  "name": "nammayatri",
+  "url": "https://github.com/nammayatri/nammayatri",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-duckling-c5143191ebef",
+  "name": "duckling",
+  "url": "https://github.com/facebook/duckling",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-monoscope-50995ade0a63",
+  "name": "monoscope",
+  "url": "https://github.com/monoscope-tech/monoscope",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-haskell-3f3883837845",
+  "name": "awesome-haskell",
+  "url": "https://github.com/krispo/awesome-haskell",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
+  "resource_type": "curated-list",
+  "topics": [
+   "haskell"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-implicitcad-b7541d9bb84d",
+  "name": "ImplicitCAD",
+  "url": "https://github.com/Haskell-Things/ImplicitCAD",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...",
+  "resource_type": "repository",
+  "topics": [
+   "haskell"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-neuron-78f25de4d1f4",
+  "name": "neuron",
+  "url": "https://github.com/srid/neuron",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-erd-9df2d7709efe",
+  "name": "erd",
+  "url": "https://github.com/BurntSushi/erd",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.",
+  "resource_type": "repository",
+  "topics": [
+   "database"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ghc-339e72867a11",
+  "name": "ghc",
+  "url": "https://github.com/ghc/ghc",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "haskell"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elm-format-6e3823be0865",
+  "name": "elm-format",
+  "url": "https://github.com/avh4/elm-format",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-servant-cde164107159",
+  "name": "servant",
+  "url": "https://github.com/haskell-servant/servant",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!",
+  "resource_type": "repository",
+  "topics": [
+   "haskell"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nix-output-monitor-0b5393bf86c8",
+  "name": "nix-output-monitor",
+  "url": "https://github.com/maralorn/nix-output-monitor",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-simplexmq-bca6a9cda453",
+  "name": "simplexmq",
+  "url": "https://github.com/simplex-chat/simplexmq",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-granule-db23938d2cc6",
+  "name": "granule",
+  "url": "https://github.com/granule-project/granule",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A statically-typed linear functional language with graded modal types for fine-grained program reasoning",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fossa-cli-21f1982c70d0",
+  "name": "fossa-cli",
+  "url": "https://github.com/fossas/fossa-cli",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lambdahack-2e78421d8295",
+  "name": "LambdaHack",
+  "url": "https://github.com/LambdaHack/LambdaHack",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Haskell game engine library for roguelike dungeon crawlers; please offer feedback, e.g., after trying out the sample game with the web frontend at",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "haskell",
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-full-fledged-hledger-82a9dd30c23e",
+  "name": "full-fledged-hledger",
+  "url": "https://github.com/adept/full-fledged-hledger",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hstream-5ed1692b7ce9",
+  "name": "hstream",
+  "url": "https://github.com/hstreamdb/hstream",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "database"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-plutus-pioneer-program-2ee9f96826a9",
+  "name": "plutus-pioneer-program",
+  "url": "https://github.com/input-output-hk/plutus-pioneer-program",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",
+  "resource_type": "course",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grin-926e4b033615",
+  "name": "grin",
+  "url": "https://github.com/grin-compiler/grin",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "GRIN is a compiler back-end for lazy and strict functional languages with whole program optimization support.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-software-design-in-haskell-d1f14b96b391",
+  "name": "software-design-in-haskell",
+  "url": "https://github.com/graninas/software-design-in-haskell",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.",
+  "resource_type": "repository",
+  "topics": [
+   "haskell"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-effectful-b46e686c57ea",
+  "name": "effectful",
+  "url": "https://github.com/haskell-effectful/effectful",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.",
+  "resource_type": "repository",
+  "topics": [
+   "haskell"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-snap-cc0b92030d8c",
+  "name": "snap",
+  "url": "https://github.com/snapframework/snap",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Top-level package for the official Snap Framework libraries, includes the snaplets API as well as infrastructure for sessions, auth, and templates.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-haskell-ci-21ac4f7fb281",
+  "name": "haskell-ci",
+  "url": "https://github.com/haskell-CI/haskell-ci",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations",
+  "resource_type": "repository",
+  "topics": [
+   "haskell"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-monocle-d0327991ef22",
+  "name": "monocle",
+  "url": "https://github.com/change-metrics/monocle",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gwern-net-04671bbc0d31",
+  "name": "gwern.net",
+  "url": "https://github.com/gwern/gwern.net",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Site infrastructure for gwern.net. Custom Hakyll website with unique link archiving, popup UX, transclusions/collapses, dark+reader mode, bidirectional backlinks, and typography (sidenotes, dropcaps, link icons, inflation-adjustment, subscripted-citations).",
+  "resource_type": "repository",
+  "topics": [
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-reflex-dom-2536fa1ea11b",
+  "name": "reflex-dom",
+  "url": "https://github.com/reflex-frp/reflex-dom",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xmonad-ubuntu-conf-55fa588f0e80",
+  "name": "xmonad-ubuntu-conf",
+  "url": "https://github.com/davidbrewer/xmonad-ubuntu-conf",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "My xmonad config for Ubuntu versions from 20.04 all the way back to 12.04! Including package list, config files, and instructions.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-transient-5a2cc8d930af",
+  "name": "transient",
+  "url": "https://github.com/transient-haskell/transient",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A full stack, reactive architecture for general purpose programming. Algebraic and monadically composable primitives for concurrency, parallelism, event handling, transactions, multithreading, Web, and distributed computing with complete de-inversion of control (No callbacks, no blocking, pure state)",
+  "resource_type": "repository",
+  "topics": [
+   "architecture"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-whyhaskellmatters-c56a1e0c36b5",
+  "name": "WhyHaskellMatters",
+  "url": "https://github.com/thma/WhyHaskellMatters",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "In this article I try to explain why Haskell keeps being such an important language by presenting some of its most important and distinguishing features and detailing them with working code examples. The presentation aims to be self-contained and does not require any previous knowledge of the language.",
+  "resource_type": "repository",
+  "topics": [
+   "haskell"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-picard-51bcc092644f",
+  "name": "picard",
+  "url": "https://github.com/ServiceNow/picard",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "PICARD - Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models. PICARD is a ServiceNow Research project that was started at Element AI.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fourmolu-2aceb16a9b9d",
+  "name": "fourmolu",
+  "url": "https://github.com/fourmolu/fourmolu",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A fourk of ormolu that uses four space indentation and allows arbitrary configuration. Don't like it? PRs welcome!",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-arkhamhorror-6d211d618a95",
+  "name": "ArkhamHorror",
+  "url": "https://github.com/halogenandtoast/ArkhamHorror",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ouroboros-network-47e46bd6f882",
+  "name": "ouroboros-network",
+  "url": "https://github.com/IntersectMBO/ouroboros-network",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reduceron-1cc84f206e95",
+  "name": "Reduceron",
+  "url": "https://github.com/tommythorn/Reduceron",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "FPGA Haskell machine with game changing performance. Reduceron is Matthew Naylor, Colin Runciman and Jason Reich's high performance FPGA softcore for running lazy functional programs, including hardware garbage collection. Reduceron has been implemented on various FPGAs with clock frequency ranging from 60 to 150 MHz depending on the FPGA. A high degree of parallelism allows Reduceron to implement graph evaluation very efficiently. This fork aims to continue development on this, with a view to practical applications. Comments, questions, etc are welcome.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "haskell"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chesspositionranking-8a37c100d960",
+  "name": "ChessPositionRanking",
+  "url": "https://github.com/tromp/ChessPositionRanking",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Software suite for ranking chess positions and accurately estimating the number of legal chess positions",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-onyx-6d39ac677305",
+  "name": "onyx",
+  "url": "https://github.com/mtolly/onyx",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bytestring-43e92291a0ef",
+  "name": "bytestring",
+  "url": "https://github.com/haskell/bytestring",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-allure-26397db8c383",
+  "name": "Allure",
+  "url": "https://github.com/AllureOfTheStars/Allure",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Allure of the Stars is a near-future Sci-Fi roguelike and tactical squad combat game written in Haskell; please offer feedback, e.g., after trying out the web frontend version at",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "haskell",
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-trifecta-480b452ad9cf",
+  "name": "trifecta",
+  "url": "https://github.com/ekmett/trifecta",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "Parser combinators with highlighting, slicing, layout, literate comments, Clang-style diagnostics and the kitchen sink",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sbv-f321f3d880e7",
+  "name": "sbv",
+  "url": "https://github.com/LeventErkok/sbv",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "SMT Based Verification in Haskell. Express properties about Haskell programs and automatically prove them using SMT solvers.",
+  "resource_type": "repository",
+  "topics": [
+   "haskell"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "haskell"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-learn-physics-a2bb8b01560c",
+  "name": "learn-physics",
+  "url": "https://github.com/walck/learn-physics",
+  "category_id": "niche-language-ecosystems",
+  "purpose": "A library of functions for vector calculus, calculation of electric field, electric flux, magnetic field, and other quantities in mechanics and electromagnetic theory.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

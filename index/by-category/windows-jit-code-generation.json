@@ -1,0 +1,40 @@
+[
+ {
+  "resource_id": "res-asmjit-asmjit-eb23e31d5302",
+  "name": "asmjit/asmjit",
+  "url": "https://github.com/asmjit/asmjit",
+  "category_id": "windows-jit-code-generation",
+  "purpose": "Generate native machine code at runtime | C++ JIT assembler library; select backend matching target architecture",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-herumi-xbyak-5de850404680",
+  "name": "herumi/xbyak",
+  "url": "https://github.com/herumi/xbyak",
+  "category_id": "windows-jit-code-generation",
+  "purpose": "Generate x86 and x64 instructions with C++ assembly syntax | Header-only JIT assembler; x86 and x64 architecture focus",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

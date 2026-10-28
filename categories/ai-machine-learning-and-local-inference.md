@@ -13,7 +13,7 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |

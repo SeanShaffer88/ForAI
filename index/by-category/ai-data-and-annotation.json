@@ -1,0 +1,100 @@
+[
+ {
+  "resource_id": "res-label-studio-6b10c7d3a385",
+  "name": "Label Studio",
+  "url": "https://labelstud.io/guide/",
+  "category_id": "ai-data-and-annotation",
+  "purpose": "Multi-type data labeling platform (text, image, audio) for training and evaluation datasets; open-source core with a hosted tier.",
+  "resource_type": "dataset",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-argilla-4d2681607464",
+  "name": "Argilla",
+  "url": "https://docs.argilla.io/",
+  "category_id": "ai-data-and-annotation",
+  "purpose": "Data curation and human-feedback platform for LLM datasets (now part of Hugging Face); pairs with Distilabel.",
+  "resource_type": "dataset",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-distilabel-argilla-3f0962b3761c",
+  "name": "Distilabel (Argilla)",
+  "url": "https://distilabel.argilla.io/",
+  "category_id": "ai-data-and-annotation",
+  "purpose": "Framework for synthetic data generation and AI feedback pipelines for fine-tuning and evaluation.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nemo-curator-44bf45d22e95",
+  "name": "NeMo Curator",
+  "url": "https://github.com/NVIDIA-NeMo/Curator",
+  "category_id": "ai-data-and-annotation",
+  "purpose": "GPU-accelerated data curation for LLM training: filtering, deduplication, and quality scoring at scale.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-datatrove-hugging-face-3dbb57008a3a",
+  "name": "DataTrove (Hugging Face)",
+  "url": "https://github.com/huggingface/datatrove",
+  "category_id": "ai-data-and-annotation",
+  "purpose": "HF's library for large-scale text data processing — how datasets like FineWeb were built.",
+  "resource_type": "dataset",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dolma-ai2-795dc2b7a364",
+  "name": "Dolma (AI2)",
+  "url": "https://huggingface.co/datasets/allenai/dolma",
+  "category_id": "ai-data-and-annotation",
+  "purpose": "AI2's 3T-token open pretraining corpus with its curation toolkit and documentation.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

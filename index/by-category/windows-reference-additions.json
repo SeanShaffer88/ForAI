@@ -1,0 +1,56 @@
+[
+ {
+  "resource_id": "res-lowleveldesign-debug-recipes-9a325842f93d",
+  "name": "lowleveldesign/debug-recipes",
+  "url": "https://github.com/lowleveldesign/debug-recipes",
+  "category_id": "windows-reference-additions",
+  "purpose": "Practical WinDbg ETW COM and .NET troubleshooting guides | Resource",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-nasbench-evtx-etw-resources-8d94da2f6173",
+  "name": "nasbench/EVTX-ETW-Resources",
+  "url": "https://github.com/nasbench/EVTX-ETW-Resources",
+  "category_id": "windows-reference-additions",
+  "purpose": "ETW provider manifests event catalogs and examples | Resource",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-etw-f6dcc90d0e30",
+  "name": "microsoft/ETW",
+  "url": "https://github.com/microsoft/ETW",
+  "category_id": "windows-reference-additions",
+  "purpose": "ETW tools libraries and samples | Resource",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

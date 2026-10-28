@@ -1,0 +1,286 @@
+[
+ {
+  "resource_id": "res-yjs-35c1e0843981",
+  "name": "Yjs",
+  "url": "https://docs.yjs.dev/",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "CRDT shared data for collaborative apps; persistence, transport and authorization are separate.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-automerge-2fc93676c671",
+  "name": "Automerge",
+  "url": "https://automerge.org/docs/hello/",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Local-first collaborative data structures and synchronization; assess storage growth and language support.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-prosemirror-36b18192d24e",
+  "name": "ProseMirror",
+  "url": "https://prosemirror.net/docs/",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Structured rich-text editing toolkit; application owns schema and collaboration policy.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tiptap-7b821bbc7ed1",
+  "name": "Tiptap",
+  "url": "https://tiptap.dev/docs",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Rich-text editor built on ProseMirror; distinguish open-source extensions from paid services.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lexical-316c753371bf",
+  "name": "Lexical",
+  "url": "https://lexical.dev/docs/intro",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Extensible text-editor framework; evaluate import/export and accessibility.",
+  "resource_type": "documentation",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-codemirror-75c45e7bab27",
+  "name": "CodeMirror",
+  "url": "https://codemirror.net/docs/",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Embeddable code editor and language extensions.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-monaco-editor-8e9af6a41eff",
+  "name": "Monaco Editor",
+  "url": "https://microsoft.github.io/monaco-editor/",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Browser code editor; integrate web workers and bundling. Upstream states mobile browsers/frameworks are unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "mobile"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-dexie-b4114e9c9d61",
+  "name": "Dexie",
+  "url": "https://dexie.org/docs/",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "IndexedDB wrapper for browser persistence; handle upgrades and storage limits.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rxdb-a1ac78987068",
+  "name": "RxDB",
+  "url": "https://rxdb.info/",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Reactive local database and replication; distinguish open-source and premium plugins.",
+  "resource_type": "reference",
+  "topics": [
+   "database"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pouchdb-51a531b3384e",
+  "name": "PouchDB",
+  "url": "https://github.com/apache/pouchdb",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Client-side document storage and replication; the canonical repository is now Apache PouchDB in incubation. Design conflict handling explicitly.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rxjs-27d6b1b1bc34",
+  "name": "RxJS",
+  "url": "https://github.com/ReactiveX/rxjs",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Compose asynchronous event streams; the default branch describes prerelease RxJS 9 work. Use documentation matching the released package you select.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zustand-13067fcb49e7",
+  "name": "Zustand",
+  "url": "https://github.com/pmndrs/zustand",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Small application state stores for React and other consumers; isolate server-side state per request.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jotai-13dfc09db9c6",
+  "name": "Jotai",
+  "url": "https://github.com/pmndrs/jotai",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Atomic React state management; design atom lifetimes and async dependencies.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-valtio-dfb6e1726c24",
+  "name": "Valtio",
+  "url": "https://github.com/pmndrs/valtio",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Proxy-based JavaScript state with React integration; understand snapshots and mutation boundaries.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xstate-e691cc30b111",
+  "name": "XState",
+  "url": "https://github.com/statelyai/xstate",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Model application behavior with state machines and actors; test transitions and persistence.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-immer-4baba031baad",
+  "name": "Immer",
+  "url": "https://github.com/immerjs/immer",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Produce immutable updates using mutation-style recipes; understand draft and freezing semantics.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-localforage-8284d71d4be4",
+  "name": "localForage",
+  "url": "https://github.com/localForage/localForage",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Asynchronous browser storage abstraction; account for quotas, eviction and supported value types. GitHub reports its last push as 2024-07-30; maintenance responsiveness was not established.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-electric-ede454bca4d6",
+  "name": "Electric",
+  "url": "https://github.com/electric-sql/electric",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Synchronize PostgreSQL data into applications; design authorization and client write paths.",
+  "resource_type": "repository",
+  "topics": [
+   "database"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-y-sweet-4cdc87117e53",
+  "name": "Y-Sweet",
+  "url": "https://github.com/jamsocket/y-sweet",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Host synchronization for Yjs documents; plan authentication, persistence and deployment operations.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

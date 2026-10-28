@@ -1,0 +1,159 @@
+[
+ {
+  "resource_id": "res-mobbin-d6be63bbb9ec",
+  "name": "Mobbin",
+  "url": "https://mobbin.com/",
+  "category_id": "ui-design-inspiration-and-reference",
+  "purpose": "Browse mobile and web product interface examples for visual research; check access and usage terms before relying on or reusing materials.",
+  "resource_type": "design-reference",
+  "topics": [
+   "mobile"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-page-flows-703b8472b494",
+  "name": "Page Flows",
+  "url": "https://pageflows.com/",
+  "category_id": "ui-design-inspiration-and-reference",
+  "purpose": "Study product journeys and interaction flows as design references; validate details against the live product and respect access and reuse terms.",
+  "resource_type": "design-reference",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dribbble-9aa9c42d9a18",
+  "name": "Dribbble",
+  "url": "https://dribbble.com/",
+  "category_id": "ui-design-inspiration-and-reference",
+  "purpose": "Discover and review designer portfolios and interface concepts; distinguish polished concepts from production-ready behavior and verify reuse rights.",
+  "resource_type": "design-reference",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-behance-c8ffefd16996",
+  "name": "Behance",
+  "url": "https://www.behance.net/",
+  "category_id": "ui-design-inspiration-and-reference",
+  "purpose": "Explore creative portfolios and design case studies; verify project context, attribution, and reuse rights.",
+  "resource_type": "design-reference",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-collect-ui-ec07b8eef747",
+  "name": "Collect UI",
+  "url": "https://collectui.com/",
+  "category_id": "ui-design-inspiration-and-reference",
+  "purpose": "Find curated UI examples and visual references for interface design; treat examples as inspiration, not implementation specifications.",
+  "resource_type": "design-reference",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-saasframe-f983051fc21b",
+  "name": "SaaSFrame",
+  "url": "https://www.saasframe.io/",
+  "category_id": "ui-design-inspiration-and-reference",
+  "purpose": "Explore SaaS interface references for product and web design; verify current access, context, and reuse permissions.",
+  "resource_type": "design-reference",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-interface-index-06dc088a27fa",
+  "name": "Interface Index",
+  "url": "https://interfaceindex.com/",
+  "category_id": "ui-design-inspiration-and-reference",
+  "purpose": "Use as an index of interface design references; confirm source context and rights before using any material.",
+  "resource_type": "design-reference",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pttrns-df24f027c8d6",
+  "name": "Pttrns",
+  "url": "https://pttrns.com/",
+  "category_id": "ui-design-inspiration-and-reference",
+  "purpose": "Research mobile interface patterns and examples; check current coverage and terms before use.",
+  "resource_type": "design-reference",
+  "topics": [
+   "mobile"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-awwwards-c43a0e42661b",
+  "name": "Awwwards",
+  "url": "https://www.awwwards.com/",
+  "category_id": "ui-design-inspiration-and-reference",
+  "purpose": "Discover and evaluate showcased website design; assess accessibility, usability, and implementation constraints independently.",
+  "resource_type": "design-reference",
+  "topics": [
+   "accessibility",
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-siteinspire-c4fe0a65a16d",
+  "name": "SiteInspire",
+  "url": "https://www.siteinspire.com/",
+  "category_id": "ui-design-inspiration-and-reference",
+  "purpose": "Browse website design examples and visual references; evaluate suitability and rights separately.",
+  "resource_type": "design-reference",
+  "topics": [
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ }
+]

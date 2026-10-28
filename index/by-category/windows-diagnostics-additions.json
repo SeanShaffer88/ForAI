@@ -1,0 +1,166 @@
+[
+ {
+  "resource_id": "res-randomascii-uiforetw-d27a3899a61a",
+  "name": "randomascii/UIforETW",
+  "url": "https://github.com/randomascii/UIforETW",
+  "category_id": "windows-diagnostics-additions",
+  "purpose": "Record and manage ETW performance traces | Current project location; google/UIforETW is archived",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-gametechdev-presentmon-83fb673da6ae",
+  "name": "GameTechDev/PresentMon",
+  "url": "https://github.com/GameTechDev/PresentMon",
+  "category_id": "windows-diagnostics-additions",
+  "purpose": "Capture frame timings and graphics presentation metrics | Tool and analysis library",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-zodiacon-alltools-176c62a2da0b",
+  "name": "zodiacon/AllTools",
+  "url": "https://github.com/zodiacon/AllTools",
+  "category_id": "windows-diagnostics-additions",
+  "purpose": "Collection of Windows internals diagnostic utilities | Tool collection; individual tools vary",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-zodiacon-procmonxv2-e344968f651d",
+  "name": "zodiacon/ProcMonXv2",
+  "url": "https://github.com/zodiacon/ProcMonXv2",
+  "category_id": "windows-diagnostics-additions",
+  "purpose": "ETW-based process and system event inspection | Diagnostic tool",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dynamorio-dynamorio-6eb2272ed716",
+  "name": "DynamoRIO/dynamorio",
+  "url": "https://github.com/DynamoRIO/dynamorio",
+  "category_id": "windows-diagnostics-additions",
+  "purpose": "Build dynamic binary instrumentation and analysis tools | Instrumentation runtime",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dynamorio-drmemory-6de738d55261",
+  "name": "DynamoRIO/drmemory",
+  "url": "https://github.com/DynamoRIO/drmemory",
+  "category_id": "windows-diagnostics-additions",
+  "purpose": "Detect memory errors leaks and Windows handle misuse | Binary instrumentation tool",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-wolfpld-tracy-d8085ab80b89",
+  "name": "wolfpld/tracy",
+  "url": "https://github.com/wolfpld/tracy",
+  "category_id": "windows-diagnostics-additions",
+  "purpose": "Instrument CPU GPU allocations locks and frame performance | Profiler",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-bombomby-optick-d706565fc861",
+  "name": "bombomby/optick",
+  "url": "https://github.com/bombomby/optick",
+  "category_id": "windows-diagnostics-additions",
+  "purpose": "C++ profiling with instrumentation and sampling | Profiler",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-davidxanatos-taskexplorer-92f8de4ba6b5",
+  "name": "DavidXanatos/TaskExplorer",
+  "url": "https://github.com/DavidXanatos/TaskExplorer",
+  "category_id": "windows-diagnostics-additions",
+  "purpose": "Detailed live inspection of process and thread activity | Diagnostic tool",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

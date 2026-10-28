@@ -6,17 +6,17 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 
 | Resource | Useful for / constraints |
 |---|---|
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 
 ## Expansion — 2026-10-23

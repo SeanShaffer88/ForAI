@@ -13,16 +13,16 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
 
 ## Expansion — 2026-10-23
 

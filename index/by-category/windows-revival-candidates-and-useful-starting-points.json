@@ -1,0 +1,156 @@
+[
+ {
+  "resource_id": "res-microsoft-ipc-4ffd74d25df8",
+  "name": "Microsoft IPC",
+  "url": "https://github.com/microsoft/IPC",
+  "category_id": "windows-revival-candidates-and-useful-starting-points",
+  "purpose": "Existing C++/.NET applications need the same shared-memory protocol and low-copy behavior. | Restore current MSVC/.NET builds; run cross-process tests for crashes, shutdown, message ownership and permissions; audit Boost and optional Bond. | Named pipes or an existing supported messaging library; benchmark using the actual payloads.",
+  "resource_type": "repository",
+  "topics": [
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-tx-b582ef38fb74",
+  "name": "Tx",
+  "url": "https://github.com/microsoft/Tx",
+  "category_id": "windows-revival-candidates-and-useful-starting-points",
+  "purpose": "LINQ-style ETW queries provide reusable analysis that would otherwise be rewritten. | Port only needed readers/operators to the chosen .NET and Rx versions; replay known trace fixtures. | TraceEvent/PerfView APIs or KrabsETW plus a small query layer.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-sharpdx-6a4e1bdc937b",
+  "name": "SharpDX",
+  "url": "https://github.com/sharpdx/SharpDX",
+  "category_id": "windows-revival-candidates-and-useful-starting-points",
+  "purpose": "A working legacy application needs narrow fixes and migration would be disproportionately large. | Isolate required assemblies; verify COM lifetime, ABI, architecture and current Windows behavior. | Vortice.Windows and current generated bindings; avoid restoring unused API families.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "architecture",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-crashrpt3-4f15bbebfe95",
+  "name": "CrashRpt3",
+  "url": "https://github.com/crashrpt3/crashrpt3",
+  "category_id": "windows-revival-candidates-and-useful-starting-points",
+  "purpose": "An application needs their Windows exception-handler behavior or existing report format. | Compare patch lineage; build a crash-type test matrix including fail-fast, stack overflow, thread handling and dump integrity. | Crashpad integration or application-specific WER/minidump handling.",
+  "resource_type": "repository",
+  "topics": [
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-crashrpt2-ab56b6f6b422",
+  "name": "CrashRpt2",
+  "url": "https://github.com/CrashRpt/crashrpt2",
+  "category_id": "windows-revival-candidates-and-useful-starting-points",
+  "purpose": "An application needs their Windows exception-handler behavior or existing report format. | Compare patch lineage; build a crash-type test matrix including fail-fast, stack overflow, thread handling and dump integrity. | Crashpad integration or application-specific WER/minidump handling.",
+  "resource_type": "repository",
+  "topics": [
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-pdb-e83cd730f071",
+  "name": "Microsoft PDB",
+  "url": "https://github.com/microsoft/microsoft-pdb",
+  "category_id": "windows-revival-candidates-and-useful-starting-points",
+  "purpose": "A missing debug-record definition or parser behavior blocks a symbol tool. | Extract the minimum needed record definitions and tests; README explicitly says the full source does not currently build. | RawPDB, DIA SDK or LLVM PDB tooling.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-c-rest-sdk-a425c1b5168f",
+  "name": "C++ REST SDK",
+  "url": "https://github.com/microsoft/cpprestsdk",
+  "category_id": "windows-revival-candidates-and-useful-starting-points",
+  "purpose": "Existing code depends heavily on its asynchronous API and migration cost is substantial. | Scope transport/TLS dependencies and regression tests; restore only the application-required functionality. | libcurl or Boost.Beast, as suggested by the archived upstream.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-bond-ba0c55c7d406",
+  "name": "Bond",
+  "url": "https://github.com/microsoft/bond",
+  "category_id": "windows-revival-candidates-and-useful-starting-points",
+  "purpose": "Existing stored data or deployed peers require Bond wire compatibility. | Test binary-format fixtures and schema evolution; audit parser/compiler dependencies and own necessary security fixes. | A maintained serialization format for new protocols, with a migration bridge for existing data.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "security",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

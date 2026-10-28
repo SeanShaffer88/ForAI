@@ -1,0 +1,59 @@
+[
+ {
+  "resource_id": "res-reactiveui-reactiveui-ff2c03812e76",
+  "name": "reactiveui/ReactiveUI",
+  "url": "https://github.com/reactiveui/ReactiveUI",
+  "category_id": "windows-net-application-helpers",
+  "purpose": "Reactive MVVM and application state composition | Cross-platform .NET library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-communitytoolkit-dotnet-b646485db35d",
+  "name": "CommunityToolkit/dotnet",
+  "url": "https://github.com/CommunityToolkit/dotnet",
+  "category_id": "windows-net-application-helpers",
+  "purpose": "MVVM generators diagnostics and performance helpers | Cross-platform .NET toolkit",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-cysharp-memorypack-73f9ef4ef5f4",
+  "name": "Cysharp/MemoryPack",
+  "url": "https://github.com/Cysharp/MemoryPack",
+  "category_id": "windows-net-application-helpers",
+  "purpose": "Source-generated binary serialization | Check schema evolution and runtime requirements",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

@@ -1,0 +1,909 @@
+[
+ {
+  "resource_id": "res-language-server-protocol-6ce6fdb98bd6",
+  "name": "Language Server Protocol",
+  "url": "https://microsoft.github.io/language-server-protocol/",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Editor-to-language-server protocol for completion, navigation and diagnostics; negotiate capabilities.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-debug-adapter-protocol-3d862a878a32",
+  "name": "Debug Adapter Protocol",
+  "url": "https://microsoft.github.io/debug-adapter-protocol/",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Debugger frontend/backend protocol; implementation capabilities vary.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-tree-sitter-531d317aab68",
+  "name": "Tree-sitter",
+  "url": "https://tree-sitter.github.io/tree-sitter/",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Incremental parsing for editors and code analysis; grammar versions matter.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-libgit2-b1646bf451b1",
+  "name": "libgit2",
+  "url": "https://libgit2.org/docs/",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Embed Git operations; check bindings, threading, transport and licensing exceptions.",
+  "resource_type": "documentation",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ripgrep-0a98d465f0d1",
+  "name": "ripgrep",
+  "url": "https://github.com/BurntSushi/ripgrep",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Fast repository text search respecting ignore rules.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ast-grep-409d4afcbdd5",
+  "name": "ast-grep",
+  "url": "https://ast-grep.github.io/",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Structural code search and rewriting; test rewrite rules on real syntax.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-comby-ba76e7e8350a",
+  "name": "Comby",
+  "url": "https://comby.dev/",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Structural source transformations using lightweight matching templates.",
+  "resource_type": "reference",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-just-ca653afbb8e1",
+  "name": "just",
+  "url": "https://just.systems/man/en/",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Repository command runner; shell and Windows recipe compatibility matter.",
+  "resource_type": "reference",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-mise-f6ed73c2a288",
+  "name": "mise",
+  "url": "https://mise.jdx.dev/",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Development-tool version management and task execution; verify Windows feature support.",
+  "resource_type": "reference",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-sccache-f6ae201de5d0",
+  "name": "sccache",
+  "url": "https://github.com/mozilla/sccache",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Cache native and Rust compiler work; environment and compiler compatibility affect reuse.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "git",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pre-commit-acc9b6b941e0",
+  "name": "pre-commit",
+  "url": "https://pre-commit.com/",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Manage repository hooks in isolated tool environments; CI should enforce required checks too.",
+  "resource_type": "reference",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-editorconfig-68e3f3f5d2fa",
+  "name": "EditorConfig",
+  "url": "https://editorconfig.org/",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Shared editor whitespace and formatting conventions.",
+  "resource_type": "reference",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fd-1c7509acaaac",
+  "name": "fd",
+  "url": "https://github.com/sharkdp/fd",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Find filesystem paths with convenient filtering; account for hidden and ignored-file defaults.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fzf-9d1fc8a13caf",
+  "name": "fzf",
+  "url": "https://github.com/junegunn/fzf",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Interactive fuzzy selection for terminal workflows; inspect commands bound to selected input.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bat-d10f70e4565d",
+  "name": "bat",
+  "url": "https://github.com/sharkdp/bat",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Inspect source with syntax highlighting and Git context; configure paging for automation.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-eza-3bb44f4d2fba",
+  "name": "eza",
+  "url": "https://github.com/eza-community/eza",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Explore filesystem listings with extra metadata; verify support on the intended platform.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-delta-fa6c8422eb5c",
+  "name": "delta",
+  "url": "https://github.com/dandavison/delta",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Improve terminal diff presentation; preserve raw patches for programmatic processing.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-watchexec-457d0b6ce6e8",
+  "name": "Watchexec",
+  "url": "https://github.com/watchexec/watchexec",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Run commands when files change; control watch scope and restart behavior.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-entr-335efa31dcf4",
+  "name": "entr",
+  "url": "https://github.com/eradman/entr",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Trigger commands from changed files on Unix-like systems; use alternatives where native support is absent.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-task-aa471947a052",
+  "name": "Task",
+  "url": "https://github.com/go-task/task",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Define repeatable tasks in YAML; verify shell behavior across target platforms.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hyperfine-ec2c211a2ce1",
+  "name": "Hyperfine",
+  "url": "https://github.com/sharkdp/hyperfine",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Benchmark command-line programs statistically; control warmup, caches and background load.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-git-cliff-b5083935b509",
+  "name": "git-cliff",
+  "url": "https://github.com/orhun/git-cliff",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Generate changelogs from Git history; configure grouping and release boundaries.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-oclif-c83ebba32aec",
+  "name": "oclif",
+  "url": "https://github.com/oclif/oclif",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nyc-ce4999088966",
+  "name": "nyc",
+  "url": "https://github.com/istanbuljs/nyc",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "The Istanbul command-line interface: code-coverage reporting for JavaScript test runs, wrapping Istanbul's instrumentation and reports.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-atuin-9bd2a1a89e14",
+  "name": "atuin",
+  "url": "https://github.com/atuinsh/atuin",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Shell history replacement (Rust): searchable, syncable history across machines with end-to-end encryption; replaces Ctrl-R rather than your shell.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aichat-968e547af227",
+  "name": "aichat",
+  "url": "https://github.com/sigoden/aichat",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git",
+   "llm"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-skills-manager-7104b135bee4",
+  "name": "skills-manager",
+  "url": "https://github.com/xingkongliang/skills-manager",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "desktop",
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kaku-3050e117ed4f",
+  "name": "Kaku",
+  "url": "https://github.com/tw93/Kaku",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "A fast, good-looking, AI-friendly terminal for the Mac.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nostr-vpn-f2e83305a36f",
+  "name": "nostr-vpn",
+  "url": "https://github.com/mmalmi/nostr-vpn",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Private mesh VPN for humans and agents. Local keys, signed enrollment, no provider account. Native apps and CLI.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kong-58bdaa908f2f",
+  "name": "kong",
+  "url": "https://github.com/alecthomas/kong",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Kong is a command-line parser for Go",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "go"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "go"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-upterm-eb6965dbb91b",
+  "name": "upterm",
+  "url": "https://github.com/owenthereal/upterm",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Instant Terminal Sharing",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ssh-net-e71b134e63ec",
+  "name": "SSH.NET",
+  "url": "https://github.com/sshnet/SSH.NET",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "security"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-commandline-c604db22e282",
+  "name": "commandline",
+  "url": "https://github.com/commandlineparser/commandline",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "The best C# command line parser that brings standardized *nix getopt style, for .NET. Includes F# support",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-assimp-5d955d8cf6eb",
+  "name": "assimp",
+  "url": "https://github.com/assimp/assimp",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-phpggc-bbe55fc4a686",
+  "name": "phpggc",
+  "url": "https://github.com/ambionics/phpggc",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "php"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fvm-8e72f58e7193",
+  "name": "fvm",
+  "url": "https://github.com/btwld/fvm",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Flutter Version Management: A simple CLI to manage Flutter SDK versions.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git",
+   "mobile"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-starship-14c085e083d7",
+  "name": "starship",
+  "url": "https://github.com/starship/starship",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gitui-43406419226d",
+  "name": "gitui",
+  "url": "https://github.com/gitui-org/gitui",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nnn-b028fb02a282",
+  "name": "nnn",
+  "url": "https://github.com/jarun/nnn",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "nnn (n3): the unorthodox terminal file manager — extremely fast and small, keyboard-driven, with a plugin ecosystem; expect a learning curve.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-asciinema-d2216d3b4e65",
+  "name": "asciinema",
+  "url": "https://github.com/asciinema/asciinema",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Terminal session recorder, streamer and player 📹",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gotty-edb339928027",
+  "name": "gotty",
+  "url": "https://github.com/yudai/gotty",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Share your terminal as a web application",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-sshuttle-d8f8b9454419",
+  "name": "sshuttle",
+  "url": "https://github.com/sshuttle/sshuttle",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "linux"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-npm-check-updates-ed44b8fd6d33",
+  "name": "npm-check-updates",
+  "url": "https://github.com/raineorshine/npm-check-updates",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Find newer versions of package dependencies than what your package.json allows",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-visidata-57ce9fdfc9ce",
+  "name": "visidata",
+  "url": "https://github.com/saulpw/visidata",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "A terminal spreadsheet multitool for discovering and arranging data",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-release-it-6b7ef5b11b09",
+  "name": "release-it",
+  "url": "https://github.com/release-it/release-it",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "🚀 Automate versioning and package publishing",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-skim-5035a362962c",
+  "name": "skim",
+  "url": "https://github.com/skim-rs/skim",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Fuzzy finder in Rust (like fzf): interactive filtering for files, history, and command output in the terminal.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bash-git-prompt-b17a426368e6",
+  "name": "bash-git-prompt",
+  "url": "https://github.com/magicmonty/bash-git-prompt",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "An informative and fancy bash prompt for Git users",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-git-standup-f95551c120ec",
+  "name": "git-standup",
+  "url": "https://github.com/nilbuild/git-standup",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Recall what you or your team did on the last working day",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xxh-24d1e5afafb3",
+  "name": "xxh",
+  "url": "https://github.com/xxh/xxh",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-themer-7099b77e1d45",
+  "name": "themer",
+  "url": "https://github.com/mjswensen/themer",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-git-stats-6ee35060b3f0",
+  "name": "git-stats",
+  "url": "https://github.com/IonicaBizau/git-stats",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "🍀 Local git statistics including GitHub-like contributions calendars.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-emacs-5ff78adf4d31",
+  "name": "emacs",
+  "url": "https://github.com/emacs-mirror/emacs",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Mirror of GNU Emacs: the extensible text editor and Lisp environment; most users install a release build rather than building this source.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-freeze-87a803ff4b62",
+  "name": "freeze",
+  "url": "https://github.com/charmbracelet/freeze",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Generate images of code and terminal output 📸",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-musikcube-f9ca6851d2be",
+  "name": "musikcube",
+  "url": "https://github.com/clangen/musikcube",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

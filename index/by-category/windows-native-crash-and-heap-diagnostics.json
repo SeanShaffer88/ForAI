@@ -1,0 +1,76 @@
+[
+ {
+  "resource_id": "res-ssbssa-heob-79c85584f190",
+  "name": "ssbssa/heob",
+  "url": "https://github.com/ssbssa/heob",
+  "category_id": "windows-native-crash-and-heap-diagnostics",
+  "purpose": "Detect heap buffer overruns and leaks in native Windows applications | Tool; MSVC and MinGW builds; PDB uses DbgHelp and DWARF can use dwarfstack",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-jrfonseca-drmingw-44f0ca30e536",
+  "name": "jrfonseca/drmingw",
+  "url": "https://github.com/jrfonseca/drmingw",
+  "category_id": "windows-native-crash-and-heap-diagnostics",
+  "purpose": "Capture unhandled exceptions and symbolize MinGW or MSVC stacks | Debugger and embeddable symbol/backtrace DLLs; supports DWARF and PDB",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-ssbssa-dwarfstack-93ade3c39b07",
+  "name": "ssbssa/dwarfstack",
+  "url": "https://github.com/ssbssa/dwarfstack",
+  "category_id": "windows-native-crash-and-heap-diagnostics",
+  "purpose": "Resolve MinGW executable addresses to source files and lines | Native Windows library focused on GCC DWARF information; stack completeness depends on compiler options",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-verysleepy-verysleepy-bf349f57aff5",
+  "name": "VerySleepy/verysleepy",
+  "url": "https://github.com/VerySleepy/verysleepy",
+  "category_id": "windows-native-crash-and-heap-diagnostics",
+  "purpose": "Sample CPU usage in Windows applications with symbol resolution | GUI and command-line profiler; evaluate current compiler and Windows compatibility",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

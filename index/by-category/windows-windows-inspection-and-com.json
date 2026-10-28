@@ -1,0 +1,97 @@
+[
+ {
+  "resource_id": "res-hakril-pythonforwindows-9ced7a050633",
+  "name": "hakril/PythonForWindows",
+  "url": "https://github.com/hakril/PythonForWindows",
+  "category_id": "windows-windows-inspection-and-com",
+  "purpose": "Python abstractions over Windows native APIs ALPC RPC and execution | ctypes-based Python library for x86 and x64",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-tyranid-oleviewdotnet-9a31a32c97d0",
+  "name": "tyranid/oleviewdotnet",
+  "url": "https://github.com/tyranid/oleviewdotnet",
+  "category_id": "windows-windows-inspection-and-com",
+  "purpose": "Inspect COM registrations interfaces type libraries and objects | OleView.NET tool; useful for COM activation and interop investigation",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-googleprojectzero-sandbox-attacksurface-an-e65ec64fe8db",
+  "name": "googleprojectzero/sandbox-attacksurface-analysis-tools",
+  "url": "https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools",
+  "category_id": "windows-windows-inspection-and-com",
+  "purpose": "Inspect Windows tokens access checks and sandbox exposure | PowerShell and .NET tools including NtObjectManager; use for isolation and permissions testing",
+  "resource_type": "repository",
+  "topics": [
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-m417z-winapiexec-59baa8e35457",
+  "name": "m417z/winapiexec",
+  "url": "https://github.com/m417z/winapiexec",
+  "category_id": "windows-windows-inspection-and-com",
+  "purpose": "Invoke Windows API functions from command-line arguments | Small diagnostic and experimentation utility; GPL",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-hfiref0x-winobjex64-107c013af9bc",
+  "name": "hfiref0x/WinObjEx64",
+  "url": "https://github.com/hfiref0x/WinObjEx64",
+  "category_id": "windows-windows-inspection-and-com",
+  "purpose": "Browse Object Manager namespaces and object properties | x64 Windows tool; some inspection requires elevated access",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

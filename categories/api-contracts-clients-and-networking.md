@@ -18,7 +18,7 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
@@ -44,7 +44,7 @@ A further 500-resource development discovery pass. Entries below were selected f
 | Resource | Useful for / constraints |
 |---|---|
 | [socketcluster](https://github.com/SocketCluster/socketcluster) | Highly scalable realtime pub/sub and RPC framework |
-| [micro](https://github.com/vercel/micro) | Asynchronous HTTP microservices |
+| [micro](https://github.com/vercel/micro) | Asynchronous HTTP microservices for Node.js: a tiny handler library from Vercel for single-purpose services; routing and middleware are bring-your-own. |
 | [type-graphql](https://github.com/MichalLytek/type-graphql) | Create GraphQL schema and resolvers with TypeScript, using classes and decorators! |
 | [undici](https://github.com/nodejs/undici) | An HTTP/1.1 client, written from scratch for Node.js |
 | [textual](https://github.com/Textualize/textual) | The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. |

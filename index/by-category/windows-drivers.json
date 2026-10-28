@@ -1,0 +1,59 @@
+[
+ {
+  "resource_id": "res-microsoft-dmf-63900268539d",
+  "name": "microsoft/DMF",
+  "url": "https://github.com/microsoft/DMF",
+  "category_id": "windows-drivers",
+  "purpose": "Reusable modules extending Windows Driver Frameworks | Driver Module Framework",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-windows-driver-frameworks-794b32575737",
+  "name": "microsoft/Windows-Driver-Frameworks",
+  "url": "https://github.com/microsoft/Windows-Driver-Frameworks",
+  "category_id": "windows-drivers",
+  "purpose": "KMDF and UMDF source for understanding and debugging WDF | Framework source reference",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-windows-drivers-rs-83cd96b82409",
+  "name": "microsoft/windows-drivers-rs",
+  "url": "https://github.com/microsoft/windows-drivers-rs",
+  "category_id": "windows-drivers",
+  "purpose": "Rust crates and build tooling for Windows drivers | Check current supported WDK and driver models",
+  "resource_type": "repository",
+  "topics": [
+   "rust",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

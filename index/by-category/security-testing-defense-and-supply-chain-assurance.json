@@ -1,0 +1,1034 @@
+[
+ {
+  "resource_id": "res-masscan-ce37130ca446",
+  "name": "masscan",
+  "url": "https://github.com/robertdavidgraham/masscan",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ciphey-524568ea794c",
+  "name": "Ciphey",
+  "url": "https://github.com/bee-san/Ciphey",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pwndbg-76af10b701bd",
+  "name": "pwndbg",
+  "url": "https://github.com/pwndbg/pwndbg",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Exploit Development and Reverse Engineering with GDB & LLDB Made Easy",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-social-engineer-toolkit-6daacd4714a3",
+  "name": "social-engineer-toolkit",
+  "url": "https://github.com/trustedsec/social-engineer-toolkit",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pcileech-87fcf5a5e45c",
+  "name": "pcileech",
+  "url": "https://github.com/ufrisk/pcileech",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Direct Memory Access (DMA) Attack Software",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-commando-vm-de0bea3a9ced",
+  "name": "commando-vm",
+  "url": "https://github.com/mandiant/commando-vm",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-pspy-d1d317178499",
+  "name": "pspy",
+  "url": "https://github.com/DominicBreuker/pspy",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Monitor linux processes without root permissions",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-linenum-842edfba6a17",
+  "name": "LinEnum",
+  "url": "https://github.com/rebootuser/LinEnum",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Scripted Local Linux Enumeration & Privilege Escalation Checks",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-merlin-d1c47bfc7b64",
+  "name": "merlin",
+  "url": "https://github.com/Ne0nd0g/merlin",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.",
+  "resource_type": "repository",
+  "topics": [
+   "go",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "go"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pwnagotchi-c2fdf4bdd91e",
+  "name": "pwnagotchi",
+  "url": "https://github.com/evilsocket/pwnagotchi",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fuzzdb-1e9afe33598c",
+  "name": "fuzzdb",
+  "url": "https://github.com/fuzzdb-project/fuzzdb",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-redelk-505bf8109a6d",
+  "name": "RedELK",
+  "url": "https://github.com/outflanknl/RedELK",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-brida-7afa8f068dd4",
+  "name": "Brida",
+  "url": "https://github.com/federicodotta/Brida",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "The new bridge between Burp Suite and Frida!",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fierce-dbf8541d7d23",
+  "name": "fierce",
+  "url": "https://github.com/mschwager/fierce",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "A DNS reconnaissance tool for locating non-contiguous IP space.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ufonet-776671d82945",
+  "name": "ufonet",
+  "url": "https://github.com/epsylon/ufonet",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "UFONet - Denial of Service Toolkit",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cwe-checker-4c3c4d2177c4",
+  "name": "cwe_checker",
+  "url": "https://github.com/fkie-cad/cwe_checker",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "cwe_checker finds vulnerable patterns in binary executables",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-domainpasswordspray-9930b318d0da",
+  "name": "DomainPasswordSpray",
+  "url": "https://github.com/dafthack/DomainPasswordSpray",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS!",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gocrack-e509f7ecf220",
+  "name": "gocrack",
+  "url": "https://github.com/mandiant/gocrack",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "GoCrack is a management frontend for password cracking tools written in Go",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing",
+   "web"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-vhostscan-211a7582405f",
+  "name": "VHostScan",
+  "url": "https://github.com/codingo/VHostScan",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, work around wildcards, aliases and dynamic default pages.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ruler-0d9e792f9312",
+  "name": "ruler",
+  "url": "https://github.com/sensepost/ruler",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "A tool to abuse Exchange services",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-atomic-red-team-b07dd4891b28",
+  "name": "atomic-red-team",
+  "url": "https://github.com/redcanaryco/atomic-red-team",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flare-vm-210a59b359c4",
+  "name": "flare-vm",
+  "url": "https://github.com/mandiant/flare-vm",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-caldera-ad1f9a1700eb",
+  "name": "caldera",
+  "url": "https://github.com/apache/caldera",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Automated Adversary Emulation Platform",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sigma-8a809708ac00",
+  "name": "sigma",
+  "url": "https://github.com/SigmaHQ/sigma",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Main Sigma Rule Repository",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-capa-0fce47c32ee0",
+  "name": "capa",
+  "url": "https://github.com/mandiant/capa",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "The FLARE team's open-source tool to identify capabilities in executable files.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-forensics-8e1caf5eb0cd",
+  "name": "awesome-forensics",
+  "url": "https://github.com/cugu/awesome-forensics",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "⭐️ A curated list of awesome forensic analysis tools and resources",
+  "resource_type": "curated-list",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-threathunter-playbook-805f2fd89ba8",
+  "name": "ThreatHunter-Playbook",
+  "url": "https://github.com/OTRF/ThreatHunter-Playbook",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rizin-33a39dec41d9",
+  "name": "rizin",
+  "url": "https://github.com/rizinorg/rizin",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "UNIX-like reverse engineering framework and command-line toolset.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fleet-128bef744088",
+  "name": "fleet",
+  "url": "https://github.com/fleetdm/fleet",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Open device management",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chainsaw-d8d0c71aadd9",
+  "name": "chainsaw",
+  "url": "https://github.com/WithSecureOpenSource/chainsaw",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Rapidly Search and Hunt through Windows Forensic Artefacts",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-angr-8f835953ec9a",
+  "name": "angr",
+  "url": "https://github.com/angr/angr",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "A powerful and user-friendly binary analysis platform!",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-maltrail-e47454abbb95",
+  "name": "maltrail",
+  "url": "https://github.com/stamparm/maltrail",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Malicious traffic detection system",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gef-655b722b223b",
+  "name": "gef",
+  "url": "https://github.com/hugsy/gef",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-thezoo-025ac4cb8759",
+  "name": "theZoo",
+  "url": "https://github.com/ytisf/theZoo",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-misp-b58070c9eb46",
+  "name": "MISP",
+  "url": "https://github.com/MISP/MISP",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pics-7085c1a53fcf",
+  "name": "pics",
+  "url": "https://github.com/corkami/pics",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "File formats dissections and more...",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flare-floss-83afd4933f6d",
+  "name": "flare-floss",
+  "url": "https://github.com/mandiant/flare-floss",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rules-38faf17acce3",
+  "name": "rules",
+  "url": "https://github.com/Yara-Rules/rules",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Repository of yara rules",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cowrie-ec595bdf787d",
+  "name": "cowrie",
+  "url": "https://github.com/cowrie/cowrie",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-scyllahide-06589ab5a120",
+  "name": "ScyllaHide",
+  "url": "https://github.com/x64dbg/ScyllaHide",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ublock-6847c2430c97",
+  "name": "uBlock",
+  "url": "https://github.com/gorhill/uBlock",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-open-source-ios-apps-a4d33902faa8",
+  "name": "open-source-ios-apps",
+  "url": "https://github.com/dkhamsing/open-source-ios-apps",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": ":iphone: Collaborative List of Open-Source iOS Apps",
+  "resource_type": "repository",
+  "topics": [
+   "mobile",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-win11debloat-46126fa9e30c",
+  "name": "Win11Debloat",
+  "url": "https://github.com/Raphire/Win11Debloat",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-hosts-1d01bf377008",
+  "name": "hosts",
+  "url": "https://github.com/StevenBlack/hosts",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dns-blocklists-648e78524748",
+  "name": "dns-blocklists",
+  "url": "https://github.com/hagezi/dns-blocklists",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "DNS-Blocklists: For a better internet - keep the internet clean!",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tpotce-d3d4e4bd9f81",
+  "name": "tpotce",
+  "url": "https://github.com/telekom-security/tpotce",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "🍯 T-Pot - The All In One Multi Honeypot Platform 🐝",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ivre-e848be137a81",
+  "name": "ivre",
+  "url": "https://github.com/ivre/ivre",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opencanary-074434e36b0e",
+  "name": "opencanary",
+  "url": "https://github.com/thinkst/opencanary",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Modular and decentralised honeypot",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pyrdp-68fb23286778",
+  "name": "pyrdp",
+  "url": "https://github.com/GoSecure/pyrdp",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "RDP monster-in-the-middle (mitm) and library for Python with the ability to watch connections live or after the fact",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sshesame-b7b64d08cbdc",
+  "name": "sshesame",
+  "url": "https://github.com/jaksi/sshesame",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-canarytokens-7b5db5ef88ff",
+  "name": "canarytokens",
+  "url": "https://github.com/thinkst/canarytokens",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Canarytokens helps track activity and actions on your network",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hellpot-a7018253da09",
+  "name": "HellPot",
+  "url": "https://github.com/yunginnanet/HellPot",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rdpy-8dfa29d3577d",
+  "name": "rdpy",
+  "url": "https://github.com/citronneur/rdpy",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "Remote Desktop Protocol in Twisted Python",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "python",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-django-admin-honeypot-8c0a7103fb87",
+  "name": "django-admin-honeypot",
+  "url": "https://github.com/dmpayton/django-admin-honeypot",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": ":honey_pot: A fake Django admin login screen page.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-honeypots-c55c79612b6f",
+  "name": "honeypots",
+  "url": "https://github.com/qeeqbox/honeypots",
+  "category_id": "security-testing-defense-and-supply-chain-assurance",
+  "purpose": "30 different honeypots in one package! (dhcp, dns, elastic, ftp, http proxy, https proxy, http, https, imap, ipp, irc, ldap, memcache, mssql, mysql, ntp, oracle, pjl, pop3, postgres, rdp, redis, sip, smb, smtp, snmp, socks5, ssh, telnet, vnc)",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

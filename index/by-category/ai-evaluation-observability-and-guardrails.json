@@ -1,0 +1,624 @@
+[
+ {
+  "resource_id": "res-openai-evals-13d766440613",
+  "name": "OpenAI Evals",
+  "url": "https://github.com/openai/evals",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "OpenAI's eval framework and registry of benchmarks.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-promptfoo-cacaec0f39b9",
+  "name": "promptfoo",
+  "url": "https://www.promptfoo.dev/docs/intro/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "CLI-first LLM evals and red-teaming; test prompts/RAG/agents in CI.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "llm",
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langsmith-documentation-b5ced80866b9",
+  "name": "LangSmith documentation",
+  "url": "https://docs.langchain.com/langsmith",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "LangChain's tracing, datasets, and evaluation platform (works with other frameworks too).",
+  "resource_type": "dataset",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langfuse-documentation-fba757829340",
+  "name": "Langfuse documentation",
+  "url": "https://langfuse.com/docs",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Open-source LLM observability: traces, evals, prompt management.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-arize-phoenix-29468929563e",
+  "name": "Arize Phoenix",
+  "url": "https://github.com/Arize-ai/phoenix",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Open-source AI observability and evaluation notebooks/platform.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-weights-biases-documentation-ee71b1707390",
+  "name": "Weights & Biases documentation",
+  "url": "https://docs.wandb.ai/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Experiment tracking, W&B Weave for LLM tracing/evals.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ragas-documentation-36f294d952d5",
+  "name": "Ragas documentation",
+  "url": "https://docs.ragas.io/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "RAG evaluation metrics: faithfulness, answer relevancy, context precision/recall.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-deepeval-bd93ac498fee",
+  "name": "DeepEval",
+  "url": "https://deepeval.com/docs/getting-started",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Unit-test-style LLM evaluation framework (Confident AI).",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "llm",
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-inspect-ai-uk-aisi-f1b48faf79af",
+  "name": "Inspect AI (UK AISI)",
+  "url": "https://inspect.aisi.org.uk/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "UK AI Security Institute's framework for rigorous model evaluations.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "observability",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugging-face-evaluate-1f5858dd560e",
+  "name": "Hugging Face Evaluate",
+  "url": "https://huggingface.co/docs/evaluate",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Standard ML/NLP metrics library and leaderboard tooling.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nvidia-nemo-guardrails-af449a28b4cf",
+  "name": "NVIDIA NeMo Guardrails",
+  "url": "https://github.com/NVIDIA-NeMo/Guardrails",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Programmable guardrails (Colang) for LLM apps.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-guardrails-ai-9df51bbf2442",
+  "name": "Guardrails AI",
+  "url": "https://www.guardrailsai.com/docs",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Output validation/retry framework with a validator hub.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-owasp-top-10-for-llm-applications-dd7cdcfe8779",
+  "name": "OWASP Top 10 for LLM Applications",
+  "url": "https://owasp.org/projects/top-10-for-large-language-model-applications",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "The security risk list for LLM apps: prompt injection, insecure output handling, training-data poisoning, etc. Read before shipping.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "llm",
+   "observability",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lmarena-now-arena-3899d055acb5",
+  "name": "LMArena (now Arena)",
+  "url": "https://arena.ai/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Crowdsourced blind-preference model arena — the LMSYS Chatbot Arena lineage, now Arena (lmarena.ai redirects here). Preference rankings are not task benchmarks — read both.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-artificial-analysis-1d4ee78811e7",
+  "name": "Artificial Analysis",
+  "url": "https://artificialanalysis.ai/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Independent model/provider comparisons: quality indexes, speed, and price/performance measured the same way across providers.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-livebench-6dd0ee1cc18b",
+  "name": "LiveBench",
+  "url": "https://livebench.ai/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Contamination-resistant benchmark refreshed with new questions; objective scoring across reasoning, coding, math, and language.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terminal-bench-28fce4d45a8f",
+  "name": "Terminal-Bench",
+  "url": "https://www.tbench.ai/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Benchmark of real terminal tasks for agents (Stanford/Laude Institute); the reference for CLI-agent claims.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-garak-nvidia-22fb0276e1a7",
+  "name": "Garak (NVIDIA)",
+  "url": "https://github.com/NVIDIA/garak",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "LLM vulnerability scanner: probes for jailbreaks, leakage, hallucination, toxicity, and injection weaknesses.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pyrit-microsoft-3fdddecdc0c0",
+  "name": "PyRIT (Microsoft)",
+  "url": "https://github.com/Azure/PyRIT",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Microsoft's Python Risk Identification Toolkit for automated red-teaming of generative AI systems.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mitre-atlas-9da26a2544fa",
+  "name": "MITRE ATLAS",
+  "url": "https://atlas.mitre.org/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Knowledge base of adversary tactics and techniques against AI systems (the ATT&CK companion for ML threats).",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nist-ai-risk-management-framework-2055c7479d65",
+  "name": "NIST AI Risk Management Framework",
+  "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "US NIST's voluntary framework for governing, mapping, measuring, and managing AI risk; useful structure for compliance-minded work.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opik-comet-e38d4d42a011",
+  "name": "Opik (Comet)",
+  "url": "https://www.comet.com/docs/opik/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Open-source LLM evaluation and tracing platform from Comet: datasets, experiments, and production monitoring.",
+  "resource_type": "dataset",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-braintrust-57907384040c",
+  "name": "Braintrust",
+  "url": "https://www.braintrust.dev/docs",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Eval-first AI product platform: scoring, datasets, prompt playground, and production logging.",
+  "resource_type": "dataset",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-evidently-ai-32ba523cce1c",
+  "name": "Evidently AI",
+  "url": "https://docs.evidentlyai.com/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Open-source evaluation and monitoring for ML and LLM systems, with reports and a monitoring service.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tensorzero-9770ccc2158e",
+  "name": "TensorZero",
+  "url": "https://github.com/tensorzero/tensorzero",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Open-source stack unifying an LLM gateway, observability, evals, and optimization (prompts/models from data).",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openllmetry-traceloop-e0f26eb93075",
+  "name": "OpenLLMetry (Traceloop)",
+  "url": "https://github.com/traceloop/openllmetry",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "OpenTelemetry-based instrumentation for LLM apps and frameworks; pairs with any OTel backend.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-agentops-bb18cc483b7d",
+  "name": "AgentOps",
+  "url": "https://docs.agentops.ai/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Observability platform purpose-built for agents: session replays, cost/latency, and failure analysis.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llm-guard-protect-ai-e7c6f6c4e0d2",
+  "name": "LLM Guard (Protect AI)",
+  "url": "https://github.com/protectai/llm-guard",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Input/output scanners for LLM apps: prompt-injection, PII, toxicity, and secrets detection/mitigation.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lakera-guard-f3900884104f",
+  "name": "Lakera Guard",
+  "url": "https://docs.lakera.ai/",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Hosted runtime defense against prompt injection and data leakage, with a public prompt-attack database (Gandalf lineage).",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "database",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lm-evaluation-harness-bebccf94c864",
+  "name": "lm-evaluation-harness",
+  "url": "https://github.com/EleutherAI/lm-evaluation-harness",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "A framework for few-shot evaluation of language models.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-evidently-3b84a1ec7ce8",
+  "name": "evidently",
+  "url": "https://github.com/evidentlyai/evidently",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-giskard-oss-599a5fba9e71",
+  "name": "giskard-oss",
+  "url": "https://github.com/Giskard-AI/giskard-oss",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langwatch-4ef47c83ab26",
+  "name": "langwatch",
+  "url": "https://github.com/langwatch/langwatch",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

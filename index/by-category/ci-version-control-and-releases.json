@@ -1,0 +1,222 @@
+[
+ {
+  "resource_id": "res-git-865e535d083e",
+  "name": "Git",
+  "url": "https://git-scm.com/doc",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Version control and repository operations.",
+  "resource_type": "documentation",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-github-actions-db27130a1517",
+  "name": "GitHub Actions",
+  "url": "https://docs.github.com/en/actions",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Repository CI and automation; constrain workflow token permissions.",
+  "resource_type": "documentation",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gitlab-ci-faf754119d2d",
+  "name": "GitLab CI",
+  "url": "https://docs.gitlab.com/ci/",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit.",
+  "resource_type": "documentation",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-renovate-1c55315d5d2d",
+  "name": "Renovate",
+  "url": "https://docs.renovatebot.com/",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Automated dependency updates with configurable policies.",
+  "resource_type": "documentation",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dependabot-c9cc19b7483c",
+  "name": "Dependabot",
+  "url": "https://docs.github.com/en/code-security/dependabot",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "GitHub dependency alerts and update workflows.",
+  "resource_type": "documentation",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-changesets-c7e4f2ff65e5",
+  "name": "Changesets",
+  "url": "https://github.com/changesets/changesets",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Multi-package versioning and changelogs.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-semantic-release-06c4a0cb6961",
+  "name": "semantic-release",
+  "url": "https://semantic-release.gitbook.io/semantic-release/",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Automated release versioning and publishing.",
+  "resource_type": "reference",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wix-toolset-42667451326b",
+  "name": "WiX Toolset",
+  "url": "https://docs.firegiant.com/wix/",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Windows Installer packaging; review toolchain and commercial-service terms.",
+  "resource_type": "documentation",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-inno-setup-cb4d70365ebb",
+  "name": "Inno Setup",
+  "url": "https://jrsoftware.org/isinfo.php",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Windows installer authoring and distribution.",
+  "resource_type": "reference",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-msix-d8046ff82677",
+  "name": "MSIX",
+  "url": "https://learn.microsoft.com/en-us/windows/msix/",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported.",
+  "resource_type": "documentation",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-velopack-4782c829d401",
+  "name": "Velopack",
+  "url": "https://docs.velopack.io/",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Application packaging and updates; verify target support.",
+  "resource_type": "documentation",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-github-private-vulnerability-reporting-490ca89a12e6",
+  "name": "GitHub private vulnerability reporting",
+  "url": "https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Provide a repository-specific private security-reporting route separate from public bug reports. Requires appropriate public-repository administration; notification delivery depends on account preferences.",
+  "resource_type": "documentation",
+  "topics": [
+   "git",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-github-docs-ac2cb9837251",
+  "name": "GitHub Docs",
+  "url": "https://docs.github.com/",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Actions, REST/GraphQL APIs, Copilot, code security.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration",
+   "git",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

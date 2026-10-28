@@ -13,10 +13,10 @@ Historical discovery notes dated 2026-10-21; Firecrawl added and reviewed 2026-1
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |

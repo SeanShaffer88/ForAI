@@ -1,0 +1,100 @@
+[
+ {
+  "resource_id": "res-webview-webview-602f3bbde503",
+  "name": "webview/webview",
+  "url": "https://github.com/webview/webview",
+  "category_id": "windows-embedded-runtimes-and-ui",
+  "purpose": "Small C/C++ webview abstraction using WebView2 on Windows | Requires appropriate WebView2 deployment",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-saucer-saucer-b16e884fa2b4",
+  "name": "saucer/saucer",
+  "url": "https://github.com/saucer/saucer",
+  "category_id": "windows-embedded-runtimes-and-ui",
+  "purpose": "Modern C++ desktop webview with JavaScript interoperability | Webview UI library",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "javascript",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-clearfoundry-clearscript-6c6299e25e5b",
+  "name": "ClearFoundry/ClearScript",
+  "url": "https://github.com/ClearFoundry/ClearScript",
+  "category_id": "windows-embedded-runtimes-and-ui",
+  "purpose": "Embed V8 and other scripting engines in .NET apps | Current location; redirected from microsoft/ClearScript",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-quickjs-ng-quickjs-682761fcaaf9",
+  "name": "quickjs-ng/quickjs",
+  "url": "https://github.com/quickjs-ng/quickjs",
+  "category_id": "windows-embedded-runtimes-and-ui",
+  "purpose": "Small embeddable JavaScript engine | Runtime; check Windows build configuration",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-luajit-luajit-764b02292ba8",
+  "name": "LuaJIT/LuaJIT",
+  "url": "https://github.com/LuaJIT/LuaJIT",
+  "category_id": "windows-embedded-runtimes-and-ui",
+  "purpose": "Embeddable Lua JIT compiler and FFI | GitHub mirror",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

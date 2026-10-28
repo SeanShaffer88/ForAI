@@ -1,5 +1,9 @@
 # Useful Development Resources
 
+## TL;DR
+
+A curated library of 2,202 development resources (repositories, SDKs, APIs, libraries, tools) organized into 97 categories, built so an AI assistant can find the right resource for a project without reading the whole library. **AI assistants: start with [AI_INDEX.md](AI_INDEX.md)** — one page that maps your task to the one or two category files worth opening.
+
 A project-aware resource library for developers and their AI assistants, curated by Sean Shaffer. Find useful repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources for the work you are actually doing.
 
 **2202 catalog entries · 2198 distinct URLs · 97 purpose-based categories.** Includes 459 general resources, 232 Windows repositories, 301 AI resources, 200 development resources added 2026-10-23, two 500-resource development expansions added 2026-10-27, and 10 user-requested design-reference links. Entries overlap; distinct URLs do not necessarily mean distinct projects.
@@ -25,6 +29,7 @@ An assistant needs browsing, repository access, or a downloaded copy to read the
 - [Windows development catalog](catalogs/windows-development-repositories.md): native APIs, interop, DLLs, diagnostics, UI, graphics, devices, build and packaging, plus revival candidates.
 - [Windows revival backlog](catalogs/windows-development-todo.md): historical WR-001 through WR-010 snapshot, including completed win-pipe work and Microsoft IPC development status.
 - [JSON catalog](resources.json) / [CSV export](resources.csv): all entries with stable IDs, typed facets, and provenance.
+- [Compact catalog](index/resources.compact.json) / [domain rollup](index/category-groups.json): the AI-optimized views — same catalog at ~38% of the size, plus per-category shards in `index/by-category/` (one category at a time).
 - [Resource schema](index/resource-schema.json) / [facet taxonomy](index/taxonomy.json): the current record and facet contract.
 - [Generated category index](index/categories.json): category IDs, counts, paths, and resource membership.
 - [llms.txt](llms.txt): AI-readable index of the whole library.
@@ -45,7 +50,9 @@ python scripts/search.py "SQLite" --type repository --limit 10
 python scripts/search.py "browser test" --use-case test-and-verify-software --json
 python scripts/export_csv.py       # after editing resources.json
 python scripts/generate_indexes.py # after changing catalog categories/resources
+python scripts/generate_ai_views.py # after changing catalog categories/resources
 python scripts/validate.py
+python scripts/link_check.py --only-unchecked   # reachability only; a monthly workflow checks every URL
 python -m unittest discover -s tests -v
 ```
 

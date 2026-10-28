@@ -1,0 +1,594 @@
+[
+ {
+  "resource_id": "res-opentelemetry-ffc9b01c5f6f",
+  "name": "OpenTelemetry",
+  "url": "https://opentelemetry.io/docs/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Vendor-neutral traces, metrics and logs with SDKs and collectors.",
+  "resource_type": "documentation",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-prometheus-34f3ac04af02",
+  "name": "Prometheus",
+  "url": "https://prometheus.io/docs/introduction/overview/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Metrics collection, querying and alerting.",
+  "resource_type": "documentation",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grafana-1456c9aef07f",
+  "name": "Grafana",
+  "url": "https://grafana.com/docs/grafana/latest/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Operational dashboards and visualization.",
+  "resource_type": "documentation",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-loki-17f50978147a",
+  "name": "Loki",
+  "url": "https://grafana.com/docs/loki/latest/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search.",
+  "resource_type": "documentation",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jaeger-40598ac2f6a5",
+  "name": "Jaeger",
+  "url": "https://www.jaegertracing.io/docs/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Distributed trace storage and inspection.",
+  "resource_type": "documentation",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sentry-dd96f4641a50",
+  "name": "Sentry",
+  "url": "https://docs.sentry.io/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Error reporting and application performance tooling.",
+  "resource_type": "documentation",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-serilog-e41fb7929cfe",
+  "name": "Serilog",
+  "url": "https://serilog.net/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library.",
+  "resource_type": "reference",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-structlog-34bf955dd5eb",
+  "name": "structlog",
+  "url": "https://www.structlog.org/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline.",
+  "resource_type": "reference",
+  "topics": [
+   "observability",
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pino-2b48bd2d9749",
+  "name": "Pino",
+  "url": "https://getpino.io/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free.",
+  "resource_type": "reference",
+  "topics": [
+   "javascript",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tracy-8f336aa853c0",
+  "name": "Tracy",
+  "url": "https://github.com/wolfpld/tracy",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Native and real-time application profiling.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-renderdoc-2d10403a2c69",
+  "name": "RenderDoc",
+  "url": "https://renderdoc.org/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code.",
+  "resource_type": "reference",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wireshark-c96473bedbec",
+  "name": "Wireshark",
+  "url": "https://www.wireshark.org/docs/",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Network protocol inspection and troubleshooting.",
+  "resource_type": "documentation",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apptrail-ddd3c3ffad1b",
+  "name": "AppTrail",
+  "url": "https://github.com/SeanShaffer88/AppTrail",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Local Windows folder snapshots, named project checkpoints, Git details, saved source diffs and HTML change reports. MIT; unsigned x64 portable release; snapshots are observations, not backups.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-buildtrail-39b058c24be6",
+  "name": "BuildTrail",
+  "url": "https://github.com/SeanShaffer88/BuildTrail",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Local Windows build recipes, compiler/tool probes, dependency-manifest evidence, logs, output hashes and AppTrail source comparisons. MIT; unsigned x64 portable app; manifests are not a complete installed dependency graph.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-attack-surface-analyzer-268d6d863569",
+  "name": "Microsoft Attack Surface Analyzer",
+  "url": "https://github.com/microsoft/AttackSurfaceAnalyzer",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Compare system security configuration snapshots with broad collectors and local SQLite evidence. MIT; README and license read 2026-10-22. Runtime, release maintenance and Windows compatibility need validation; not executed.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "observability",
+   "security",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-winledger-ac264b162f8b",
+  "name": "WinLedger",
+  "url": "https://github.com/fanyqe/winledger",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Local Windows before/after sessions for registry, services, tasks, startup, environment, firewall and selected files; conservative rollback. MIT license and README read 2026-10-22; Windows 11 x64/.NET 10 documented, not independently tested or adopted.",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dumpling-net-heap-analysis-573056c9bbcb",
+  "name": "Dumpling (.NET heap analysis)",
+  "url": "https://github.com/CoreyKaylor/dotnet-dumpling",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Apache-2.0 CLI and MCP candidate for .NET heap comparisons, retention paths and dominator analysis. Upstream documents .gcdump and ClrMD process-dump support; unarchived, repository pushed 2026-08-14. Validate format fidelity, memory use, distribution and supported runtimes before reuse.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "mcp",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dotnet-heapview-eb295bb3453c",
+  "name": "dotnet-heapview",
+  "url": "https://github.com/1hub/dotnet-heapview",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "MIT desktop heap viewer, shared heap model and MCP source example. Upstream lists .gcdump, .hprof and .mono-heap inputs; unarchived, repository pushed 2026-09-21. Compare PerfView and Dumpling; GUI completeness, packaging and Windows runtime support remain untested.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "git",
+   "mcp",
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-heaptrail-for-net-bad7afb0be44",
+  "name": "HeapTrail for .NET",
+  "url": "https://github.com/SeanShaffer88/HeapTrail",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Free MIT Windows x64 .NET heap investigation desktop: compare .gcdump counts/shallow bytes, inspect root/incoming/outgoing paths, save notes and export local HTML. Unsigned self-contained preview; no live attachment, retained-size/dominator analysis or allocation stacks.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-openobserve-ee0d5c6a114e",
+  "name": "OpenObserve",
+  "url": "https://github.com/openobserve/openobserve",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Store and query operational telemetry; review resource sizing and edition licensing.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-victoriametrics-d656c135b62d",
+  "name": "VictoriaMetrics",
+  "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Store and query time-series metrics; compare single-node, cluster and enterprise capabilities.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pyroscope-532c81f82a5c",
+  "name": "Pyroscope",
+  "url": "https://github.com/grafana/pyroscope",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Collect and explore continuous profiles; account for language-agent support and sampling overhead.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tempo-e9b9b762c9f5",
+  "name": "Tempo",
+  "url": "https://github.com/grafana/tempo",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Store distributed traces; plan object storage and telemetry ingestion limits.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-parca-7de351da190e",
+  "name": "Parca",
+  "url": "https://github.com/parca-dev/parca",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Profile workloads continuously; confirm platform and symbolization support.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bpftrace-6e95035a7019",
+  "name": "bpftrace",
+  "url": "https://github.com/bpftrace/bpftrace",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Trace Linux behavior with eBPF scripts; validate kernel features and required privileges.",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-pixie-d41c8807854b",
+  "name": "Pixie",
+  "url": "https://github.com/pixie-io/pixie",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Observe Kubernetes workloads through automatic instrumentation; assess eBPF and cluster requirements.",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-glances-62f0b8ccff31",
+  "name": "Glances",
+  "url": "https://github.com/nicolargo/glances",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Inspect host and container metrics; configure authentication for exposed monitoring endpoints.",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bottom-2fdf1c9942e3",
+  "name": "bottom",
+  "url": "https://github.com/ClementTsang/bottom",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "View system utilization in a terminal; compare per-platform metric availability.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bandwhich-ebe6a7339244",
+  "name": "bandwhich",
+  "url": "https://github.com/imsnif/bandwhich",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Attribute network bandwidth to local processes; inspect operating-system and privilege requirements.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-memray-345527124509",
+  "name": "memray",
+  "url": "https://github.com/bloomberg/memray",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Memray is a memory profiler for Python (from Bloomberg): tracks allocations to find leaks and hot spots in long-running processes.",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gomodel-a519b328a581",
+  "name": "GoModel",
+  "url": "https://github.com/ENTERPILOT/GoModel",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI, Ollama, vLLM and more. A LiteLLM alternative with observability, guardrails, streaming, cost tracking, intelligent routing, sticky sessions, failover, real-time logs and usage tracking. Prod ready.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zipkin-d8b3dd5b773c",
+  "name": "zipkin",
+  "url": "https://github.com/openzipkin/zipkin",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Zipkin is a distributed tracing system: collects and visualises request traces across services (OpenZipkin); OpenTelemetry is the newer instrumentation standard feeding it.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flogger-7f24faf9fc90",
+  "name": "flogger",
+  "url": "https://github.com/google/flogger",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "A Fluent Logging API for Java",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "java",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rustnet-5e706178885f",
+  "name": "rustnet",
+  "url": "https://github.com/domcyrus/rustnet",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

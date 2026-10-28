@@ -8,8 +8,8 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 |---|---|
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -20,7 +20,7 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 
@@ -60,7 +60,7 @@ A further 500-resource development discovery pass. Entries below were selected f
 
 | Resource | Useful for / constraints |
 |---|---|
-| [chroma](https://github.com/chroma-core/chroma) | Search infrastructure for AI |
+| [chroma](https://github.com/chroma-core/chroma) | Search infrastructure for AI: an open-source embedding database for retrieval (RAG) with a simple API; runs embedded for prototypes or as a server. |
 | [memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. |
 | [curvine](https://github.com/CurvineIO/curvine) | AI-Native & Cloud-Native FS: A high-performance file semantic layer for cloud object storage, integrated with high-speed cache. CNCF Sandbox Project. |
 | [go-zero](https://github.com/zeromicro/go-zero) | A cloud-native Go microservices framework with cli tool for productivity. |
@@ -68,12 +68,12 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [dragonfly](https://github.com/dragonflyoss/dragonfly) | Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch. |
 | [cli](https://github.com/create-go-app/cli) | ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command. |
 | [orleans](https://github.com/dotnet/orleans) | Cloud Native application framework for .NET |
-| [kamal](https://github.com/basecamp/kamal) | Deploy web apps anywhere. |
+| [kamal](https://github.com/basecamp/kamal) | Deploy web apps anywhere: zero-downtime Docker deploys to plain servers from Basecamp; an alternative to managed PaaS and full Kubernetes. |
 | [bosh](https://github.com/cloudfoundry/bosh) | Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services. |
 | [lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker |
 | [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. |
 | [docker-bench-security](https://github.com/docker/docker-bench-security) | The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. |
-| [falco](https://github.com/falcosecurity/falco) | Cloud Native Runtime Security |
+| [falco](https://github.com/falcosecurity/falco) | Cloud Native Runtime Security: detects unexpected behaviour in Linux hosts and containers via system-call rules (CNCF project); a detection layer, not prevention. |
 | [cri-o](https://github.com/cri-o/cri-o) | Open Container Initiative-based implementation of Kubernetes Container Runtime Interface |
 | [acme-companion](https://github.com/nginx-proxy/acme-companion) | Automated ACME SSL certificate generation for nginx-proxy |
 | [openwhisk](https://github.com/apache/openwhisk) | Apache OpenWhisk is an open source serverless cloud platform |

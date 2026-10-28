@@ -1,0 +1,49 @@
+name: Link check
+
+# Monthly reachability check of every catalog URL. A live link proves
+# reachability only. Dead or moved links are reported on a single standing
+# issue (exact title below); the issue is updated, never duplicated.
+on:
+  schedule:
+    - cron: "17 6 1 * *" # 06:17 UTC on the 1st of each month
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Run link check
+        id: check
+        run: |
+          set +e
+          python scripts/link_check.py --report link-check-report.md --json-out link-check-results.json
+          echo "exit_code=$?" >> "$GITHUB_OUTPUT"
+          cat link-check-report.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-report
+          path: |
+            link-check-report.md
+            link-check-results.json
+      - name: Open or update the standing link-rot issue
+        if: steps.check.outputs.exit_code == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_TITLE: "Link check: dead or moved links found"
+        run: |
+          existing=$(gh issue list --state open --json number,title \
+            --jq "[.[] | select(.title == \"$ISSUE_TITLE\") | .number] | first // empty")
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file link-check-report.md
+          else
+            gh issue create --title "$ISSUE_TITLE" --body-file link-check-report.md
+          fi

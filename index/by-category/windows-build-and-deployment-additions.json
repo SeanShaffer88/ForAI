@@ -1,0 +1,38 @@
+[
+ {
+  "resource_id": "res-microsoft-vswhere-64000728781c",
+  "name": "microsoft/vswhere",
+  "url": "https://github.com/microsoft/vswhere",
+  "category_id": "windows-build-and-deployment-additions",
+  "purpose": "Discover installed Visual Studio and Build Tools instances | Redistributable discovery CLI",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-winget-create-6759d88e57f4",
+  "name": "microsoft/winget-create",
+  "url": "https://github.com/microsoft/winget-create",
+  "category_id": "windows-build-and-deployment-additions",
+  "purpose": "Generate and update WinGet application manifests | Packaging CLI",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

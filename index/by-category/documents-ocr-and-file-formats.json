@@ -1,0 +1,507 @@
+[
+ {
+  "resource_id": "res-apache-tika-a35d9fd17abc",
+  "name": "Apache Tika",
+  "url": "https://tika.apache.org/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Extract file metadata and text; isolate untrusted parsers and verify format support.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tesseract-ocr-b41aa2fe12dd",
+  "name": "Tesseract OCR",
+  "url": "https://tesseract-ocr.github.io/tessdoc/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "OCR engine and language data; measure accuracy on representative scans.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pdfium-898573b6d46b",
+  "name": "PDFium",
+  "url": "https://pdfium.googlesource.com/pdfium/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "PDF rendering engine; evaluate build complexity, bindings and security updates.",
+  "resource_type": "reference",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mupdf-096e3d0d87a3",
+  "name": "MuPDF",
+  "url": "https://mupdf.readthedocs.io/en/latest/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "PDF rendering and document toolkit; evaluate AGPL/commercial licensing.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-pdfbox-4193b90be461",
+  "name": "Apache PDFBox",
+  "url": "https://pdfbox.apache.org/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Java PDF creation, extraction and manipulation; test layout and font behavior.",
+  "resource_type": "reference",
+  "topics": [
+   "java",
+   "testing"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-poi-33219fddfafc",
+  "name": "Apache POI",
+  "url": "https://poi.apache.org/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "JVM Office file processing; validate document-feature fidelity.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-open-xml-sdk-1280be315fd5",
+  "name": "Open XML SDK",
+  "url": "https://learn.microsoft.com/en-us/office/open-xml/open-xml-sdk",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Typed .NET Office document parts; does not provide Office layout rendering.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-closedxml-1d73e52a02bd",
+  "name": "ClosedXML",
+  "url": "https://docs.closedxml.io/en/latest/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": ".NET spreadsheet authoring; evaluate formula and workbook-feature support.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-python-docx-ea6008ae6606",
+  "name": "python-docx",
+  "url": "https://python-docx.readthedocs.io/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Python Word document creation and editing; rendering requires another engine.",
+  "resource_type": "reference",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pypdf-fc77bff4c762",
+  "name": "pypdf",
+  "url": "https://pypdf.readthedocs.io/en/stable/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Python PDF structure manipulation and extraction; not a PDF renderer.",
+  "resource_type": "reference",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pillow-5d85ad19f88b",
+  "name": "Pillow",
+  "url": "https://pillow.readthedocs.io/en/stable/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Python raster-image processing; check codecs and decompression limits.",
+  "resource_type": "reference",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-libvips-5ea83f68700a",
+  "name": "libvips",
+  "url": "https://www.libvips.org/",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Image-processing library for large images and pipelines; bindings require native runtime support.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-camelot-pdf-table-extraction-d7ba0a82bc44",
+  "name": "Camelot PDF table extraction",
+  "url": "https://github.com/camelot-dev/camelot",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "MIT Python table-extraction library and CLI. Current source documents text-table parsers and optional ML/OCR for scans; Python >=3.10, PDFium default backend. Unarchived, repository pushed 2026-10-14. Pin a released version; benchmark accuracy, Windows wheels and optional model/dependency licenses before packaging.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git",
+   "python",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-pandoc-b4c5f08d7f05",
+  "name": "Pandoc",
+  "url": "https://github.com/jgm/pandoc",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Convert documents among markup and publishing formats; complex layouts need output inspection.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-qpdf-02187d7d4382",
+  "name": "qpdf",
+  "url": "https://github.com/qpdf/qpdf",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Inspect and transform PDF structure; structural processing does not render or OCR pages.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pdfcpu-fe070490ce3e",
+  "name": "pdfcpu",
+  "url": "https://github.com/pdfcpu/pdfcpu",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Go-based PDF inspection and manipulation; validate output against representative files.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pdf-js-b6ebd8e71562",
+  "name": "PDF.js",
+  "url": "https://github.com/mozilla/pdf.js",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Render PDFs in web applications; keep the viewer patched and isolate untrusted documents.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mammoth-js-359ad62c496e",
+  "name": "Mammoth.js",
+  "url": "https://github.com/mwilliamson/mammoth.js",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Convert DOCX semantic content into HTML; sanitize output and expect layout differences.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sharp-6470e1008a27",
+  "name": "Sharp",
+  "url": "https://github.com/lovell/sharp",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Resize and transform images in Node.js; check native binary support and codec availability.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-imagemagick-070cde5abe67",
+  "name": "ImageMagick",
+  "url": "https://github.com/ImageMagick/ImageMagick",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Command-line and library image transformations; configure resource limits and security policy.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-exiftool-6354cf398a6c",
+  "name": "ExifTool",
+  "url": "https://github.com/exiftool/exiftool",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Inspect and edit file metadata; preserve originals and confirm format-specific write support.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gotenberg-c5e2200277c8",
+  "name": "Gotenberg",
+  "url": "https://github.com/gotenberg/gotenberg",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Containerized document-to-PDF conversion API; sandbox inputs and plan browser resources.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-unified-d29c886c4f06",
+  "name": "unified",
+  "url": "https://github.com/unifiedjs/unified",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Compose syntax-tree processing pipelines; select parsers and sanitizers for each content format.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-avro-9c57028ad3e1",
+  "name": "Apache Avro",
+  "url": "https://github.com/apache/avro",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Define and exchange schema-based data; plan reader-writer schema compatibility.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-messagepack-for-c-c-9e56368f2503",
+  "name": "MessagePack for C/C++",
+  "url": "https://github.com/msgpack/msgpack-c",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Encode compact binary data for native applications; define schema and cross-language conventions.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flatbuffers-62831b0e91ca",
+  "name": "FlatBuffers",
+  "url": "https://github.com/google/flatbuffers",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Generate efficient binary data access code; manage schema evolution and generated-code versions.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cap-n-proto-f8b659eff512",
+  "name": "Cap'n Proto",
+  "url": "https://github.com/capnproto/capnproto",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Structured serialization and RPC; the fetched README identifies a breaking v2 development branch. Use the stable branch or release for production evaluation.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-simdjson-8b611d10b9f0",
+  "name": "simdjson",
+  "url": "https://github.com/simdjson/simdjson",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Parse JSON efficiently in C++; check CPU dispatch and input lifetime requirements.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sonic-7c1a7d1d7fc0",
+  "name": "Sonic",
+  "url": "https://github.com/bytedance/sonic",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Encode and decode JSON in Go; verify architecture and Go-version support.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-yyjson-6990d8f503e4",
+  "name": "yyjson",
+  "url": "https://github.com/ibireme/yyjson",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Parse and write JSON in C; validate ownership and parser option choices.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-simdutf-1af21d49b2fd",
+  "name": "simdutf",
+  "url": "https://github.com/simdutf/simdutf",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Validate and convert Unicode text efficiently; distinguish encoding validity from text normalization.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fast-float-faf3336b2f2f",
+  "name": "fast_float",
+  "url": "https://github.com/fastfloat/fast_float",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Parse floating-point numbers in C++; test accepted formats and edge cases.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-re2-247f796c275c",
+  "name": "RE2",
+  "url": "https://github.com/google/re2",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Match regular expressions with bounded resource behavior; adapt patterns that use unsupported features.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

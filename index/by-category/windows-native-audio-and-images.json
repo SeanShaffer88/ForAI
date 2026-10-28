@@ -1,0 +1,58 @@
+[
+ {
+  "resource_id": "res-mackron-miniaudio-629e0eea4142",
+  "name": "mackron/miniaudio",
+  "url": "https://github.com/mackron/miniaudio",
+  "category_id": "windows-native-audio-and-images",
+  "purpose": "Capture play mix and process audio from C | Single-source audio library with Windows backends",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-portaudio-portaudio-0d30cae32bc6",
+  "name": "PortAudio/portaudio",
+  "url": "https://github.com/PortAudio/portaudio",
+  "category_id": "windows-native-audio-and-images",
+  "purpose": "Portable real-time audio input and output | Native C library; choose appropriate Windows host API and build options",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libjpeg-turbo-libjpeg-turbo-913686cad3ec",
+  "name": "libjpeg-turbo/libjpeg-turbo",
+  "url": "https://github.com/libjpeg-turbo/libjpeg-turbo",
+  "category_id": "windows-native-audio-and-images",
+  "purpose": "Encode and decode JPEG with SIMD acceleration | Native codec library including TurboJPEG API; DLL deployment available",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

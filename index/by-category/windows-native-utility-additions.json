@@ -1,0 +1,56 @@
+[
+ {
+  "resource_id": "res-leethomason-tinyxml2-b152e41973aa",
+  "name": "leethomason/tinyxml2",
+  "url": "https://github.com/leethomason/tinyxml2",
+  "category_id": "windows-native-utility-additions",
+  "purpose": "Small embeddable C++ XML parser | Native library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-nemtrif-utfcpp-bc56023f5510",
+  "name": "nemtrif/utfcpp",
+  "url": "https://github.com/nemtrif/utfcpp",
+  "category_id": "windows-native-utility-additions",
+  "purpose": "Portable UTF-8 validation iteration and conversion | C++ library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-randy408-libspng-b38852b47ed3",
+  "name": "randy408/libspng",
+  "url": "https://github.com/randy408/libspng",
+  "category_id": "windows-native-utility-additions",
+  "purpose": "PNG decoding and encoding library | Native library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

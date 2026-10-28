@@ -1,0 +1,130 @@
+[
+ {
+  "resource_id": "res-wixtoolset-wix-7a3d754e1098",
+  "name": "wixtoolset/wix",
+  "url": "https://github.com/wixtoolset/wix",
+  "category_id": "windows-deployment",
+  "purpose": "Windows Installer authoring | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-jrsoftware-issrc-22bdefa71152",
+  "name": "jrsoftware/issrc",
+  "url": "https://github.com/jrsoftware/issrc",
+  "category_id": "windows-deployment",
+  "purpose": "Inno Setup installer builder | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-msix-packaging-e669fa695643",
+  "name": "microsoft/msix-packaging",
+  "url": "https://github.com/microsoft/msix-packaging",
+  "category_id": "windows-deployment",
+  "purpose": "MSIX SDK | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-velopack-velopack-a75376f8a1c3",
+  "name": "velopack/velopack",
+  "url": "https://github.com/velopack/velopack",
+  "category_id": "windows-deployment",
+  "purpose": "Application packaging and updates | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-winsw-winsw-993f7922fd81",
+  "name": "winsw/winsw",
+  "url": "https://github.com/winsw/winsw",
+  "category_id": "windows-deployment",
+  "purpose": "Windows service executable wrapper | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-winget-cli-642b77645247",
+  "name": "microsoft/winget-cli",
+  "url": "https://github.com/microsoft/winget-cli",
+  "category_id": "windows-deployment",
+  "purpose": "Windows Package Manager client | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-winget-pkgs-fd8ec6d390a4",
+  "name": "microsoft/winget-pkgs",
+  "url": "https://github.com/microsoft/winget-pkgs",
+  "category_id": "windows-deployment",
+  "purpose": "WinGet package manifests | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

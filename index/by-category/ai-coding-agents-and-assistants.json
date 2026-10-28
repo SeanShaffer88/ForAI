@@ -1,0 +1,311 @@
+[
+ {
+  "resource_id": "res-aider-162cd229018e",
+  "name": "Aider",
+  "url": "https://aider.chat/docs/",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Terminal pair-programming with git integration and repo maps.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "git"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cline-06056a1759e6",
+  "name": "Cline",
+  "url": "https://github.com/cline/cline",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Autonomous coding agent for VS Code with MCP support.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-continue-e908a88a69c5",
+  "name": "Continue",
+  "url": "https://docs.continue.dev/",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Open-source AI code assistant for IDEs; bring-your-own-model, MCP support.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openhands-4946ad9d5cbc",
+  "name": "OpenHands",
+  "url": "https://github.com/OpenHands/OpenHands",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Open platform for autonomous software-development agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swe-agent-d4f9c9bc5ce3",
+  "name": "SWE-agent",
+  "url": "https://github.com/SWE-agent/SWE-agent",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Princeton's agent that fixes GitHub issues; SWE-bench reference implementation.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swe-bench-9856b43a0df8",
+  "name": "SWE-bench",
+  "url": "https://www.swebench.com/",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "The standard benchmark for issue-fixing agents; check which split (Lite/Verified) a claim uses.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-muse-documentation-bf34ed192d1c",
+  "name": "Muse documentation",
+  "url": "https://docs.github.com/en/copilot",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Copilot features, agent mode, code review, and administration.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-muse-documentation-6f5ba62de735",
+  "name": "Muse documentation",
+  "url": "https://code.claude.com/docs/en/overview",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Anthropic's terminal coding agent: hooks, subagents, MCP, settings.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gemini-cli-8720c1a0092d",
+  "name": "Gemini CLI",
+  "url": "https://github.com/google-gemini/gemini-cli",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Google's open-source terminal agent for Gemini, MCP-compatible.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opencode-d4450af0d9ca",
+  "name": "OpenCode",
+  "url": "https://opencode.ai/docs",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Open-source terminal coding agent, provider-agnostic.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-roo-code-043e08fde087",
+  "name": "Roo Code",
+  "url": "https://github.com/RooCodeInc/Roo-Code",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "VS Code agent (Cline fork) with modes and MCP marketplace.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-codex-cli-openai-e0e47a2efccf",
+  "name": "Codex CLI (OpenAI)",
+  "url": "https://github.com/openai/codex",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "OpenAI's open-source terminal coding agent (Rust) for the Codex models; sandboxed approvals model.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "rust"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-goose-block-44f75c4bf291",
+  "name": "Goose (Block)",
+  "url": "https://block.github.io/goose/",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Block's open-source, extensible AI agent (Rust) that installs, executes, and tests code; strong MCP support.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp",
+   "rust"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kilo-code-d34b76119001",
+  "name": "Kilo Code",
+  "url": "https://github.com/Kilo-Org/kilocode",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Popular open-source VS Code agent (Cline/Roo lineage) with modes, MCP marketplace, and multi-model support.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-devin-cognition-68244c9d4353",
+  "name": "Devin (Cognition)",
+  "url": "https://docs.devin.ai/",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Cognition's autonomous software-engineering agent product; docs cover sessions, knowledge, and API use.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kiro-aws-6b1debf6e2f3",
+  "name": "Kiro (AWS)",
+  "url": "https://kiro.dev/docs/",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "AWS's spec-driven agentic IDE: requirements/design/tasks before code, built for production workflows.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "cloud"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tabby-b07791a5a320",
+  "name": "Tabby",
+  "url": "https://tabby.tabbyml.com/docs/",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Self-hosted AI coding assistant (completion and chat) for teams that cannot send code to a cloud.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "cloud"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llm-cli-simon-willison-6d5b9a6fc60b",
+  "name": "LLM CLI (Simon Willison)",
+  "url": "https://llm.datasette.io/",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Command-line tool to run prompts against many models from the shell, with logging to SQLite and plugin-extensible providers.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "database",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

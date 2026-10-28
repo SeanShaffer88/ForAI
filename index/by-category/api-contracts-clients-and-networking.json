@@ -1,0 +1,1890 @@
+[
+ {
+  "resource_id": "res-openapi-16a8205e05a6",
+  "name": "OpenAPI",
+  "url": "https://spec.openapis.org/oas/latest.html",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Describe HTTP API contracts; generator support can lag specification versions.",
+  "resource_type": "standard",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-asyncapi-340df003fc10",
+  "name": "AsyncAPI",
+  "url": "https://www.asyncapi.com/docs",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Describe event-driven interfaces and message contracts.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-json-schema-86a2a3e5b422",
+  "name": "JSON Schema",
+  "url": "https://json-schema.org/learn",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Data validation contracts; pin the schema dialect.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grpc-57266d7f7c8e",
+  "name": "gRPC",
+  "url": "https://grpc.io/docs/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Typed RPC and streaming; assess browser proxy and language support.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-protocol-buffers-0ad1c4f42b2d",
+  "name": "Protocol Buffers",
+  "url": "https://protobuf.dev/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Schema-based serialization and code generation.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphql-b20023a8bae3",
+  "name": "GraphQL",
+  "url": "https://graphql.org/learn/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Typed query schemas and API execution concepts.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openapi-generator-ecf0ef0672fb",
+  "name": "OpenAPI Generator",
+  "url": "https://openapi-generator.tech/docs/usage/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Generate clients and server stubs; assess each language generator independently.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kiota-30ee9dba525c",
+  "name": "Kiota",
+  "url": "https://learn.microsoft.com/en-us/openapi/kiota/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Generate typed API clients from OpenAPI.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-buf-3bf61925a624",
+  "name": "Buf",
+  "url": "https://buf.build/docs/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Protobuf linting, breaking-change checks and code generation.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-connect-rpc-15e2d91657bb",
+  "name": "Connect RPC",
+  "url": "https://connectrpc.com/docs/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "RPC libraries and protocols with browser-oriented integration.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-curl-and-libcurl-3ff7c9a73c7a",
+  "name": "curl and libcurl",
+  "url": "https://curl.se/docs/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "HTTP and other protocol transfers from CLI or native code.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-httpx-02c64baa1258",
+  "name": "HTTPX",
+  "url": "https://www.python-httpx.org/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Python synchronous and asynchronous HTTP clients.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration",
+   "python"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-requests-54b218f3046e",
+  "name": "Requests",
+  "url": "https://requests.readthedocs.io/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration",
+   "python"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-websockets-e73a3e3bca33",
+  "name": "WebSockets",
+  "url": "https://websockets.readthedocs.io/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Python WebSocket client and server implementation.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration",
+   "python"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-webrtc-c73282ff7e93",
+  "name": "WebRTC",
+  "url": "https://webrtc.org/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Real-time browser and native audio, video and data.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-postman-bfd2292d6358",
+  "name": "Postman",
+  "url": "https://learning.postman.com/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "API exploration, collections and collaboration; hosted features may require plans.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bruno-492085ad4fe6",
+  "name": "Bruno",
+  "url": "https://docs.usebruno.com/",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "File-based API collections and local API workflows.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mitmproxy-affc1a1c3be3",
+  "name": "mitmproxy",
+  "url": "https://github.com/mitmproxy/mitmproxy",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Inspect and script HTTP traffic in authorized environments; manage interception certificates carefully.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grpcurl-972148ee8a82",
+  "name": "grpcurl",
+  "url": "https://github.com/fullstorydev/grpcurl",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Call gRPC endpoints from the command line; provide reflection or matching descriptors.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hurl-f97b12405223",
+  "name": "Hurl",
+  "url": "https://github.com/Orange-OpenSource/hurl",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Write text-based HTTP request and response checks; isolate credentials and mutable test data.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vegeta-16fa6dc9afb0",
+  "name": "Vegeta",
+  "url": "https://github.com/tsenart/vegeta",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Generate HTTP loads and analyze results; control rate and use authorized test targets.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-oha-4888b0331a3c",
+  "name": "oha",
+  "url": "https://github.com/hatoo/oha",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Benchmark HTTP services from the terminal; choose realistic concurrency and request patterns.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-httpie-cli-22324de34856",
+  "name": "HTTPie CLI",
+  "url": "https://github.com/httpie/cli",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Explore HTTP APIs from the terminal; protect authentication data and saved sessions. GitHub reports its last push as 2024-12-17; maintenance responsiveness was not established.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-socketcluster-b0db98e44853",
+  "name": "socketcluster",
+  "url": "https://github.com/SocketCluster/socketcluster",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Highly scalable realtime pub/sub and RPC framework",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-micro-d0d7068cb419",
+  "name": "micro",
+  "url": "https://github.com/vercel/micro",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Asynchronous HTTP microservices for Node.js: a tiny handler library from Vercel for single-purpose services; routing and middleware are bring-your-own.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-type-graphql-5dc0c580e048",
+  "name": "type-graphql",
+  "url": "https://github.com/MichalLytek/type-graphql",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Create GraphQL schema and resolvers with TypeScript, using classes and decorators!",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "typescript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-undici-5320201d83d6",
+  "name": "undici",
+  "url": "https://github.com/nodejs/undici",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "An HTTP/1.1 client, written from scratch for Node.js",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-textual-0be61c0af2ca",
+  "name": "textual",
+  "url": "https://github.com/Textualize/textual",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "python"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gymnasium-bf7fc5db6959",
+  "name": "Gymnasium",
+  "url": "https://github.com/Farama-Foundation/Gymnasium",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xberg-8e3016b10826",
+  "name": "xberg",
+  "url": "https://github.com/xberg-io/xberg",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fifteen bindings, with CLI, REST API, and MCP server.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "mcp",
+   "rust"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fluxdown-cbd05132b08f",
+  "name": "FluxDown",
+  "url": "https://github.com/zerx-lab/FluxDown",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "rust"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rama-d57cab6c0f2a",
+  "name": "rama",
+  "url": "https://github.com/plabayo/rama",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "modular service framework to move and transform network packets",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gin-80281fcc6b92",
+  "name": "gin",
+  "url": "https://github.com/gin-gonic/gin",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "architecture",
+   "web"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-kitex-240960fd3107",
+  "name": "kitex",
+  "url": "https://github.com/cloudwego/kitex",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Go RPC framework with high-performance and strong-extensibility for building micro-services.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sftpgo-66cde57fedb9",
+  "name": "sftpgo",
+  "url": "https://github.com/drakkan/sftpgo",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubo-7795851a52df",
+  "name": "kubo",
+  "url": "https://github.com/ipfs/kubo",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-keto-1ba4ea828d61",
+  "name": "keto",
+  "url": "https://github.com/ory/keto",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven \"Zanzibar\" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ziti-715b19eb4048",
+  "name": "ziti",
+  "url": "https://github.com/openziti/ziti",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nbio-ece0fd320cc7",
+  "name": "nbio",
+  "url": "https://github.com/lesismal/nbio",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-go-doudou-856729b90dc1",
+  "name": "go-doudou",
+  "url": "https://github.com/unionj-cloud/go-doudou",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.0 (for REST) spec and Protobuf v3 (for grpc) based lightweight microservice framework. It supports monolith service application as well.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-circuit-141ebdd11df5",
+  "name": "circuit",
+  "url": "https://github.com/gocircuit/circuit",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Circuit: Dynamic cloud orchestration http://gocircuit.org",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-go-guardian-d7330093702b",
+  "name": "go-guardian",
+  "url": "https://github.com/shaj13/go-guardian",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "go"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "go"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-webgo-30f7b9997e62",
+  "name": "webgo",
+  "url": "https://github.com/naughtygopher/webgo",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A microframework to build web apps; with handler chaining, middleware support, and most of all; standard library compliant HTTP handlers(i.e. http.HandlerFunc).",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jool-3e8d238efab6",
+  "name": "jOOL",
+  "url": "https://github.com/jOOQ/jOOL",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere. It adds tuple support, function support, and a lot of additional functionality around sequential Streams. The JDK 8's main efforts (default methods, lambdas, and the Stream API) were focused around maintaining backwards compatibility and implementing a functional API for parallelism.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "java"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jetty-project-4950f8aaebb0",
+  "name": "jetty.project",
+  "url": "https://github.com/jetty/jetty.project",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "containers"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-google-http-java-client-2fd3c9ebe18a",
+  "name": "google-http-java-client",
+  "url": "https://github.com/googleapis/google-http-java-client",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Google HTTP Client Library for Java",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "java"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fastendpoints-6e81d3eaf956",
+  "name": "FastEndpoints",
+  "url": "https://github.com/FastEndpoints/FastEndpoints",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A light-weight REST API development framework for ASP.NET 8 and newer.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grpcui-b853aec6bc2a",
+  "name": "grpcui",
+  "url": "https://github.com/fullstorydev/grpcui",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "An interactive web UI for gRPC, along the lines of postman",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-piranha-core-42e66bc2ba94",
+  "name": "piranha.core",
+  "url": "https://github.com/PiranhaCMS/piranha.core",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Piranha CMS is the friendly editor-focused CMS for .NET that can be used both as an integrated CMS or as a headless API.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-webapiclient-a5079bdf7796",
+  "name": "WebApiClient",
+  "url": "https://github.com/dotnetcore/WebApiClient",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A REST API library with better functionality, performance, and scalability than refit",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-brpc-2d6831f573f5",
+  "name": "brpc",
+  "url": "https://github.com/apache/brpc",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openimageio-6799d4be2151",
+  "name": "OpenImageIO",
+  "url": "https://github.com/AcademySoftwareFoundation/OpenImageIO",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cppserver-0c9ea6d2524f",
+  "name": "CppServer",
+  "url": "https://github.com/chronoxor/CppServer",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mobile-detect-e635a2e75448",
+  "name": "Mobile-Detect",
+  "url": "https://github.com/serbanghita/Mobile-Detect",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "mobile",
+   "php"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-client-e9a4526183af",
+  "name": "client",
+  "url": "https://github.com/openai-php/client",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "php"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-webpack-encore-5fe24daf5d08",
+  "name": "webpack-encore",
+  "url": "https://github.com/symfony/webpack-encore",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A simple but powerful API for processing & compiling assets built around Webpack",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-betterreflection-8528e69628d3",
+  "name": "BetterReflection",
+  "url": "https://github.com/Roave/BetterReflection",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": ":crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "php"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-faraday-22488adcd1f0",
+  "name": "faraday",
+  "url": "https://github.com/lostisland/faraday",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Simple, but flexible HTTP client library, with support for multiple backends.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flutter-permission-handler-f407e853b6ef",
+  "name": "flutter-permission-handler",
+  "url": "https://github.com/Baseflow/flutter-permission-handler",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "api-integration",
+   "mobile"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-netshoot-4124494afafe",
+  "name": "netshoot",
+  "url": "https://github.com/nicolaka/netshoot",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "a Docker + Kubernetes network trouble-shooting swiss-army container",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "containers"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flannel-3bb418913178",
+  "name": "flannel",
+  "url": "https://github.com/flannel-io/flannel",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "flannel is a network fabric for containers, designed for Kubernetes",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "containers"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aria2-370135caef77",
+  "name": "aria2",
+  "url": "https://github.com/aria2/aria2",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-homepage-07092ecd87c2",
+  "name": "homepage",
+  "url": "https://github.com/gethomepage/homepage",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "containers"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-iris-f25d2c7dbea4",
+  "name": "iris",
+  "url": "https://github.com/kataras/iris",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "web"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-scalar-e574bd02149d",
+  "name": "scalar",
+  "url": "https://github.com/scalar/scalar",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Scalar is an open-source API platform: 🌐 Modern REST API Client 📖 Beautiful API References ✨ 1st-Class OpenAPI/Swagger Support",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-connexion-c60d43b685bf",
+  "name": "connexion",
+  "url": "https://github.com/spec-first/connexion",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Connexion is a modern Python web framework that makes spec-first and api-first development easy.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "python",
+   "web"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-cowboy-fa3b82cfdbd2",
+  "name": "cowboy",
+  "url": "https://github.com/ninenines/cowboy",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Small, fast, modern HTTP server for Erlang/OTP.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tarpc-a22c30f962e4",
+  "name": "tarpc",
+  "url": "https://github.com/google/tarpc",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "An RPC framework for Rust with a focus on ease of use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "rust"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-preact-6539c3f2bff0",
+  "name": "preact",
+  "url": "https://github.com/preactjs/preact",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-react-admin-ff86cf4c29fe",
+  "name": "react-admin",
+  "url": "https://github.com/marmelab/react-admin",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "typescript",
+   "web"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-vue3-dnd-426eb4701387",
+  "name": "vue3-dnd",
+  "url": "https://github.com/hcg1023/vue3-dnd",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "React Dnd implementation in Vue Composition-api.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pocket-mocker-b71f972d9f89",
+  "name": "pocket-mocker",
+  "url": "https://github.com/tianchangNorth/pocket-mocker",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "In-page HTTP controller for frontend development. Intercept, modify, and simulate API responses directly in the browser.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "web"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-insomnia-cfd9064d0c54",
+  "name": "insomnia",
+  "url": "https://github.com/Kong/insomnia",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "git"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-json-server-215fcfa8f0d9",
+  "name": "json-server",
+  "url": "https://github.com/typicode/json-server",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-api-security-checklist-cf254b47f4d9",
+  "name": "API-Security-Checklist",
+  "url": "https://github.com/shieldfy/API-Security-Checklist",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jq-82ca499426eb",
+  "name": "jq",
+  "url": "https://github.com/jqlang/jq",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Command-line JSON processor",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swagger-codegen-f817e18442b5",
+  "name": "swagger-codegen",
+  "url": "https://github.com/swagger-api/swagger-codegen",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-api-guidelines-f59214d1ca18",
+  "name": "api-guidelines",
+  "url": "https://github.com/microsoft/api-guidelines",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Microsoft REST API Guidelines",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-resty-bcc4175233b9",
+  "name": "resty",
+  "url": "https://github.com/go-resty/resty",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Simple HTTP, REST, and SSE client library for Go",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-restsharp-d467de422ab6",
+  "name": "RestSharp",
+  "url": "https://github.com/restsharp/RestSharp",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Simple REST and HTTP API Client for .NET",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nango-443f9453f065",
+  "name": "nango",
+  "url": "https://github.com/NangoHQ/nango",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Connect your agents & product to 1,000 APIs.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rest-assured-349722d2fc49",
+  "name": "rest-assured",
+  "url": "https://github.com/rest-assured/rest-assured",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Java DSL for easy testing of REST services",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "java",
+   "testing"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tyk-d775f0490786",
+  "name": "tyk",
+  "url": "https://github.com/TykTechnologies/tyk",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-http-api-design-8d16bdc0f21d",
+  "name": "http-api-design",
+  "url": "https://github.com/interagent/http-api-design",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "HTTP API design guide extracted from work on the Heroku Platform API",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-httparty-efa5ec62d9e5",
+  "name": "httparty",
+  "url": "https://github.com/jnunemaker/httparty",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": ":tada: Makes http fun again!",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-crud-c061c4cc020a",
+  "name": "crud",
+  "url": "https://github.com/nestjsx/crud",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "NestJs CRUD for RESTful APIs",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rest-client-c5a5484587b2",
+  "name": "rest-client",
+  "url": "https://github.com/rest-client/rest-client",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "ruby"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-restangular-8d59f63ce583",
+  "name": "restangular",
+  "url": "https://github.com/mgonto/restangular",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "AngularJS service to handle Rest API Restful Resources properly and easily",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cortex-457ddfc4aeeb",
+  "name": "cortex",
+  "url": "https://github.com/cortex-docs/cortex",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "mcp"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-restful-api-guidelines-dbe04c6e2abb",
+  "name": "restful-api-guidelines",
+  "url": "https://github.com/zalando/restful-api-guidelines",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A model set of guidelines for RESTful APIs and Events, created by Zalando",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fosrestbundle-6a07d676a776",
+  "name": "FOSRestBundle",
+  "url": "https://github.com/FriendsOfSymfony/FOSRestBundle",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "This Bundle provides various tools to rapidly develop RESTful API's with Symfony",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nelmioapidocbundle-68bcf59663d2",
+  "name": "NelmioApiDocBundle",
+  "url": "https://github.com/nelmio/NelmioApiDocBundle",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Generates documentation for your REST API from attributes",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-api-umbrella-180fe82a9f60",
+  "name": "api-umbrella",
+  "url": "https://github.com/NatLabRockies/api-umbrella",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Open source API management platform",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fusio-3e386de17f35",
+  "name": "fusio",
+  "url": "https://github.com/apioo/fusio",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Self-Hosted API Management for Builders",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ng-admin-49c4504e2d71",
+  "name": "ng-admin",
+  "url": "https://github.com/marmelab/ng-admin",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Add an AngularJS admin GUI to any RESTful API",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-buzz-867b712f8f47",
+  "name": "Buzz",
+  "url": "https://github.com/kriswallsmith/Buzz",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "PHP's lightweight HTTP client",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "php"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stepci-1041120a50ea",
+  "name": "stepci",
+  "url": "https://github.com/stepci/stepci",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Automated API Testing and Quality Assurance",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-milkman-44904b421875",
+  "name": "milkman",
+  "url": "https://github.com/warmuuh/milkman",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "An Extensible Request/Response Workbench",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sandman-cf964aced621",
+  "name": "sandman",
+  "url": "https://github.com/jeffknupp/sandman",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Sandman \"makes things REST\".",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-excon-439176e44860",
+  "name": "excon",
+  "url": "https://github.com/excon/excon",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Usable, fast, simple HTTP 1.1 for Ruby",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "ruby"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-shadcn-admin-kit-e6833b6209f2",
+  "name": "shadcn-admin-kit",
+  "url": "https://github.com/marmelab/shadcn-admin-kit",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Component kit to build your Admin app with shadcn/ui",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-unirest-php-83fd7e930665",
+  "name": "unirest-php",
+  "url": "https://github.com/Kong/unirest-php",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Unirest in PHP: Simplified, lightweight HTTP client library.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "php"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jsend-7360c5197ef6",
+  "name": "jsend",
+  "url": "https://github.com/omniti-labs/jsend",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "JSend is a specification for a simple, no-frills, JSON based format for application-level communication.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-product-apim-96b58d5df04f",
+  "name": "product-apim",
+  "url": "https://github.com/wso2/product-apim",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Welcome to the WSO2 API Manager source code! For info on working with the WSO2 API Manager repository and contributing code, click the link below.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zato-b4e748251b36",
+  "name": "zato",
+  "url": "https://github.com/zatosource/zato",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "ESB, SOA, REST, APIs and Cloud Integrations in Python",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "python"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-negotiation-e802b5a76aae",
+  "name": "Negotiation",
+  "url": "https://github.com/willdurand/Negotiation",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Content Negotiation tools for PHP.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "php"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-restler-d283e0717a4c",
+  "name": "restler",
+  "url": "https://github.com/danwrong/restler",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "REST client library for node.js",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-unirest-nodejs-5d1c4d748904",
+  "name": "unirest-nodejs",
+  "url": "https://github.com/Kong/unirest-nodejs",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Unirest in Node.js: Simplified, lightweight HTTP client library.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rest-hapi-3c20b551c76c",
+  "name": "rest-hapi",
+  "url": "https://github.com/JKHeadley/rest-hapi",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "🚀 A RESTful API generator for Node.js",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ }
+]

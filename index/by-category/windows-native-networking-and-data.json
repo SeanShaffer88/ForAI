@@ -1,0 +1,130 @@
+[
+ {
+  "resource_id": "res-libevent-libevent-42357dc6371a",
+  "name": "libevent/libevent",
+  "url": "https://github.com/libevent/libevent",
+  "category_id": "windows-native-networking-and-data",
+  "purpose": "Asynchronous event notification and buffered network I/O | C library with Windows CMake build instructions",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-nanomsg-nng-dc284d9905a3",
+  "name": "nanomsg/nng",
+  "url": "https://github.com/nanomsg/nng",
+  "category_id": "windows-native-networking-and-data",
+  "purpose": "Brokerless messaging with request reply and other communication patterns | Native C library; NNG 2 introduces API changes from NNG 1",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-an-tao-trantor-6441f3dcfc03",
+  "name": "an-tao/trantor",
+  "url": "https://github.com/an-tao/trantor",
+  "category_id": "windows-native-networking-and-data",
+  "purpose": "Event-driven nonblocking TCP networking and thread pools | C++ library with Windows MSVC build support",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libssh2-libssh2-9e32d0a089eb",
+  "name": "libssh2/libssh2",
+  "url": "https://github.com/libssh2/libssh2",
+  "category_id": "windows-native-networking-and-data",
+  "purpose": "Embed SSH2 client functionality | Native C library; select and configure Windows crypto backend",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-zeux-pugixml-6cf5302595e9",
+  "name": "zeux/pugixml",
+  "url": "https://github.com/zeux/pugixml",
+  "category_id": "windows-native-networking-and-data",
+  "purpose": "Parse modify and query XML using XPath | Native C++ library; Unicode conversion support",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-weidai11-cryptopp-c8c5eece990f",
+  "name": "weidai11/cryptopp",
+  "url": "https://github.com/weidai11/cryptopp",
+  "category_id": "windows-native-networking-and-data",
+  "purpose": "Native cryptographic algorithms and supporting utilities | C++ library; inspect integration and algorithm choices for project needs",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-abdes-cryptopp-cmake-4a4296b761d1",
+  "name": "abdes/cryptopp-cmake",
+  "url": "https://github.com/abdes/cryptopp-cmake",
+  "category_id": "windows-native-networking-and-data",
+  "purpose": "Integrate Crypto++ using modern CMake targets | Build integration repository rather than the Crypto++ implementation",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

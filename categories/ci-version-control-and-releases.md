@@ -8,14 +8,14 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 |---|---|
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 
 Project additions checked 2026-10-22 (primary documentation only):

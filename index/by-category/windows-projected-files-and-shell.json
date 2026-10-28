@@ -1,0 +1,40 @@
+[
+ {
+  "resource_id": "res-microsoft-projfs-managed-api-7e813f845a2a",
+  "name": "microsoft/ProjFS-Managed-API",
+  "url": "https://github.com/microsoft/ProjFS-Managed-API",
+  "category_id": "windows-projected-files-and-shell",
+  "purpose": "Implement Windows projected-file providers in C# | Wrapper for ProjFS; Windows optional feature must be enabled; projects can project data on demand",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dwmkerr-sharpshell-5dc9b6dc9eaf",
+  "name": "dwmkerr/sharpshell",
+  "url": "https://github.com/dwmkerr/sharpshell",
+  "category_id": "windows-projected-files-and-shell",
+  "purpose": "Implement Explorer context menus previews thumbnails and other shell extensions in .NET Framework | Canonical SharpShell project; assess CLR hosting architecture registration and supported extension types",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

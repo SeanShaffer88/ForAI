@@ -1,0 +1,119 @@
+[
+ {
+  "resource_id": "res-ietf-rfc-editor-f2342a367ab4",
+  "name": "IETF RFC Editor",
+  "url": "https://www.rfc-editor.org/",
+  "category_id": "standards-and-discovery",
+  "purpose": "Canonical internet protocol specifications and errata.",
+  "resource_type": "standard",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-w3c-specifications-5c16200aeba4",
+  "name": "W3C specifications",
+  "url": "https://www.w3.org/TR/",
+  "category_id": "standards-and-discovery",
+  "purpose": "Web platform standards and maturity status.",
+  "resource_type": "standard",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-whatwg-49d41ab5b63d",
+  "name": "WHATWG",
+  "url": "https://spec.whatwg.org/",
+  "category_id": "standards-and-discovery",
+  "purpose": "Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cncf-landscape-5bd9f8cddce9",
+  "name": "CNCF Landscape",
+  "url": "https://landscape.cncf.io/",
+  "category_id": "standards-and-discovery",
+  "purpose": "Infrastructure discovery map; listing is not endorsement.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-projects-df1042811324",
+  "name": "Apache projects",
+  "url": "https://projects.apache.org/",
+  "category_id": "standards-and-discovery",
+  "purpose": "Discovery of Apache software and project status.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-lists-937ed33bbb1f",
+  "name": "Awesome lists",
+  "url": "https://github.com/sindresorhus/awesome",
+  "category_id": "standards-and-discovery",
+  "purpose": "Broad discovery index; independently verify each candidate upstream.",
+  "resource_type": "curated-list",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-machine-learning-with-ruby-fe6ab30243fd",
+  "name": "machine-learning-with-ruby",
+  "url": "https://github.com/arbox/machine-learning-with-ruby",
+  "category_id": "standards-and-discovery",
+  "purpose": "Curated list: Resources for machine learning in Ruby",
+  "resource_type": "curated-list",
+  "topics": [
+   "ai",
+   "ruby"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-julia-jl-3c8528dfe345",
+  "name": "Julia.jl",
+  "url": "https://github.com/svaksha/Julia.jl",
+  "category_id": "standards-and-discovery",
+  "purpose": "Curated decibans of Julia programming language.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

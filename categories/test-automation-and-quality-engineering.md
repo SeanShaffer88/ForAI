@@ -424,19 +424,19 @@ Additional entries from a focused discovery pass; see the [full expansion and ev
 | [vertx-web](https://github.com/vert-x3/vertx-web) | HTTP web applications for Vert.x |
 | [Pode](https://github.com/Badgerati/Pode) | Pode is a Cross-Platform PowerShell web framework for creating REST APIs, Web Sites, and TCP/SMTP servers |
 | [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. |
-| [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | 😱 Falsehoods Programmers Believe in |
-| [rrweb](https://github.com/rrweb-io/rrweb) | record and replay the web |
+| [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | Falsehoods programmers believe in: a curated list of wrong assumptions about names, time, addresses, and more — a design-review checklist for data modelling. |
+| [rrweb](https://github.com/rrweb-io/rrweb) | Record and replay the web: capture DOM events in the browser and replay sessions for debugging and support; mind the privacy of recorded user data. |
 | [keploy](https://github.com/keploy/keploy) | Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing. |
-| [zaproxy](https://github.com/zaproxy/zaproxy) | The ZAP by Checkmarx Core project |
+| [zaproxy](https://github.com/zaproxy/zaproxy) | OWASP ZAP (by Checkmarx): the free web-application security scanner and intercepting proxy; the open-source alternative to Burp Suite for DAST. |
 | [awesome-security](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. |
 | [Captura](https://github.com/MathewSachin/Captura) | Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes |
 | [foundry](https://github.com/foundry-rs/foundry) | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. |
 | [howtheytest](https://github.com/abhivaikar/howtheytest) | A collection of public resources about how software companies test their software |
 | [awesome-appsec](https://github.com/paragonie/awesome-appsec) | A curated list of resources for learning about application security |
-| [bats-core](https://github.com/bats-core/bats-core) | Bash Automated Testing System |
+| [bats-core](https://github.com/bats-core/bats-core) | Bash Automated Testing System: a TAP-compliant test framework for Bash scripts and command-line behaviour. |
 | [learn-to-program](https://github.com/karlhorky/learn-to-program) | Educational resources to learn to program (Foundation in Web Development) |
 | [awesome-quality-assurance-roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap) | :books: The starting point of your career as a Software Quality Assurance Engineer ; Quality Automation Engineer :books: |
-| [ferrum](https://github.com/rubycdp/ferrum) | Headless Chrome Ruby API |
+| [ferrum](https://github.com/rubycdp/ferrum) | Headless Chrome Ruby API: drive Chrome via the DevTools protocol from Ruby for scraping, screenshots, and browser tests. |
 | [testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code) | TestLink Open Source Test & Requirement Management System |
 | [tapflow](https://github.com/jo-duchan/tapflow) | Self-hosted iOS & Android simulator streaming for the whole team |
 | [Kiwi](https://github.com/kiwitcms/Kiwi) | open source test management system with over 2 million downloads! |
@@ -445,7 +445,7 @@ Additional entries from a focused discovery pass; see the [full expansion and ev
 | [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) | Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡ |
 | [sqa-wiki](https://github.com/ligurio/sqa-wiki) | My own notes (drafts mostly) about software quality |
 | [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk. |
-| [playwright-bdd](https://github.com/vitalets/playwright-bdd) | BDD testing with Playwright runner |
+| [playwright-bdd](https://github.com/vitalets/playwright-bdd) | BDD testing with the Playwright runner: write Gherkin features and run them as Playwright tests, combining cucumber-style specs with browser automation. |
 | [awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter) | A collection of resources covering different aspects of JMeter usage. |
 | [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) | :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources. |
 | [fakecloud](https://github.com/faiscadev/fakecloud) | Free, open-source AWS emulator. LocalStack alternative: 107 services, 7,657 operations, true 100% Smithy conformance (258,545/258,545 variants pass). No account, no auth token, no paid tier. |

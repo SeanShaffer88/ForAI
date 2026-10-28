@@ -1,0 +1,21 @@
+[
+ {
+  "resource_id": "res-cppcheck-opensource-cppcheck-d261a737390d",
+  "name": "cppcheck-opensource/cppcheck",
+  "url": "https://github.com/cppcheck-opensource/cppcheck",
+  "category_id": "windows-static-analysis-additions",
+  "purpose": "Analyze C and C++ code for defects | Current repository location redirects from danmar/cppcheck; Windows tooling available",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

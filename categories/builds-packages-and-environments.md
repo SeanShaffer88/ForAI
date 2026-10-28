@@ -7,13 +7,13 @@ Historical discovery notes dated 2026-10-21. Verify suitability before adoption.
 | Resource | Useful for / constraints |
 |---|---|
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -57,7 +57,7 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [xo](https://github.com/xojs/xo) | ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults |
 | [Nuitka](https://github.com/Nuitka/Nuitka) | Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. |
 | [turborepo](https://github.com/vercel/turborepo) | Build system optimized for JavaScript and TypeScript, written in Rust |
-| [golangci-lint](https://github.com/golangci/golangci-lint) | Fast linters runner for Go |
+| [golangci-lint](https://github.com/golangci/golangci-lint) | Fast linters runner for Go: runs dozens of linters in parallel with one config; the standard Go lint gate in CI. |
 | [peachpie](https://github.com/peachpiecompiler/peachpie) | PeachPie - the PHP compiler and runtime for .NET and .NET Core |
 | [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) | A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability. |
 | [hadolint](https://github.com/hadolint/hadolint) | Dockerfile linter, validate inline bash, written in Haskell |

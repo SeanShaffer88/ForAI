@@ -1,0 +1,56 @@
+[
+ {
+  "resource_id": "res-krzmbrzl-namedpipe-bb825d270393",
+  "name": "Krzmbrzl/NamedPipe",
+  "url": "https://github.com/Krzmbrzl/NamedPipe",
+  "category_id": "windows-named-pipes-and-function-interception",
+  "purpose": "Small Windows and POSIX named-pipe abstraction with CMake integration | Not archived; GitHub last push 2023-06-27; BSD-3-Clause; WR-008 compares portable semantics and forks before revival",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-end2endzone-protobuf-pbop-plugin-2e992e544e98",
+  "name": "end2endzone/protobuf-pbop-plugin",
+  "url": "https://github.com/end2endzone/protobuf-pbop-plugin",
+  "category_id": "windows-named-pipes-and-function-interception",
+  "purpose": "Generate protobuf client and server interfaces over Windows named pipes | Not archived; GitHub last push 2020-07-25; MIT; WR-009 covers current protoc compatibility; historical README transport claims need re-evaluation",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-martona-mhook-fd2942c52177",
+  "name": "martona/mhook",
+  "url": "https://github.com/martona/mhook",
+  "category_id": "windows-named-pipes-and-function-interception",
+  "purpose": "Windows function interception library with a small integration surface | Not archived; GitHub last push 2021-04-28; verify full license and decoder terms; WR-010 conditional on a demonstrated advantage over alternatives",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

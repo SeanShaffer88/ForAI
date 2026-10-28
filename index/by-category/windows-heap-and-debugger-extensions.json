@@ -1,0 +1,93 @@
+[
+ {
+  "resource_id": "res-rudjigames-mtuner-3547d7217e5d",
+  "name": "RudjiGames/MTuner",
+  "url": "https://github.com/RudjiGames/MTuner",
+  "category_id": "windows-heap-and-debugger-extensions",
+  "purpose": "Capture allocation histories and analyze C++ memory usage and leaks | Memory profiler; current location redirects from milostosic/MTuner",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-goldshtn-windbg-extensions-c8a9256aedcb",
+  "name": "goldshtn/windbg-extensions",
+  "url": "https://github.com/goldshtn/windbg-extensions",
+  "category_id": "windows-heap-and-debugger-extensions",
+  "purpose": "Trace paired resource acquisition and release in WinDbg | Extension DLL source; historical breakpoint examples require architecture-specific adaptation",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-chrisnas-debuggingextensions-da47826453b3",
+  "name": "chrisnas/DebuggingExtensions",
+  "url": "https://github.com/chrisnas/DebuggingExtensions",
+  "category_id": "windows-heap-and-debugger-extensions",
+  "purpose": "Analyze .NET dumps threads tasks and parallel call stacks | Standalone tools and WinDbg extensions; check CLR and debugger compatibility",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-kinddragon-vld-bf71147fd5f4",
+  "name": "KindDragon/vld",
+  "url": "https://github.com/KindDragon/vld",
+  "category_id": "windows-heap-and-debugger-extensions",
+  "purpose": "Visual Leak Detector for legacy Visual C++ applications | INACTIVE per README; legacy reference only; not a default for current MSVC",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-kubo-funchook-04b80ea013ac",
+  "name": "kubo/funchook",
+  "url": "https://github.com/kubo/funchook",
+  "category_id": "windows-heap-and-debugger-extensions",
+  "purpose": "Function-call interception library with Windows support | ARCHIVED and unmaintained per README; legacy instrumentation reference only",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

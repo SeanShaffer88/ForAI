@@ -1,0 +1,224 @@
+[
+ {
+  "resource_id": "res-lucasg-dependencies-f3070cdf4c86",
+  "name": "lucasg/Dependencies",
+  "url": "https://github.com/lucasg/Dependencies",
+  "category_id": "windows-diagnostics",
+  "purpose": "EXE and DLL dependency inspection | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-x64dbg-x64dbg-14b7b03c5bc0",
+  "name": "x64dbg/x64dbg",
+  "url": "https://github.com/x64dbg/x64dbg",
+  "category_id": "windows-diagnostics",
+  "purpose": "Native x86 and x64 debugger | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-winsiderss-systeminformer-251e42e19c3f",
+  "name": "winsiderss/systeminformer",
+  "url": "https://github.com/winsiderss/systeminformer",
+  "category_id": "windows-diagnostics",
+  "purpose": "Processes handles modules and services | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-perfview-2b4b8c94ee2e",
+  "name": "microsoft/perfview",
+  "url": "https://github.com/microsoft/perfview",
+  "category_id": "windows-diagnostics",
+  "purpose": "CPU memory and ETW analysis | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dotnet-diagnostics-eebc9419e755",
+  "name": "dotnet/diagnostics",
+  "url": "https://github.com/dotnet/diagnostics",
+  "category_id": "windows-diagnostics",
+  "purpose": ".NET dumps traces and counters | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-icsharpcode-ilspy-1b3b81b37997",
+  "name": "icsharpcode/ILSpy",
+  "url": "https://github.com/icsharpcode/ILSpy",
+  "category_id": "windows-diagnostics",
+  "purpose": ".NET assembly browser and decompiler | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-windbg-samples-065d81cff37d",
+  "name": "microsoft/WinDbg-Samples",
+  "url": "https://github.com/microsoft/WinDbg-Samples",
+  "category_id": "windows-diagnostics",
+  "purpose": "WinDbg scripts extensions and API examples | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-krabsetw-b6049204c6d8",
+  "name": "microsoft/krabsetw",
+  "url": "https://github.com/microsoft/krabsetw",
+  "category_id": "windows-diagnostics",
+  "purpose": "C++ and .NET ETW consumption wrappers | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-lief-project-lief-1b75cae0e69a",
+  "name": "lief-project/LIEF",
+  "url": "https://github.com/lief-project/LIEF",
+  "category_id": "windows-diagnostics",
+  "purpose": "Executable parsing and modification including PE | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-erocarrera-pefile-7129223dc93e",
+  "name": "erocarrera/pefile",
+  "url": "https://github.com/erocarrera/pefile",
+  "category_id": "windows-diagnostics",
+  "purpose": "Python PE inspection | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-detours-c6d5575e5c7a",
+  "name": "microsoft/Detours",
+  "url": "https://github.com/microsoft/Detours",
+  "category_id": "windows-diagnostics",
+  "purpose": "Windows API instrumentation | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-tsudakageyu-minhook-6f94eeb16466",
+  "name": "TsudaKageyu/minhook",
+  "url": "https://github.com/TsudaKageyu/minhook",
+  "category_id": "windows-diagnostics",
+  "purpose": "Lightweight Windows API hooking | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

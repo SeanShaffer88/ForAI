@@ -1,0 +1,58 @@
+[
+ {
+  "resource_id": "res-chuyu-team-yy-thunks-a440199b469a",
+  "name": "Chuyu-Team/YY-Thunks",
+  "url": "https://github.com/Chuyu-Team/YY-Thunks",
+  "category_id": "windows-crt-and-compatibility",
+  "purpose": "Compatibility thunks for APIs absent on older Windows versions | Native compatibility library; validate each target OS and API fallback",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-chuyu-team-vc-ltl5-2dea5b488e89",
+  "name": "Chuyu-Team/VC-LTL5",
+  "url": "https://github.com/Chuyu-Team/VC-LTL5",
+  "category_id": "windows-crt-and-compatibility",
+  "purpose": "CRT linking support aimed at reducing binary size and runtime dependencies | Specialized CRT strategy using system msvcrt or ucrtbase; check compiler ABI and deployment constraints",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-fancycode-memorymodule-8a37f170548c",
+  "name": "fancycode/MemoryModule",
+  "url": "https://github.com/fancycode/MemoryModule",
+  "category_id": "windows-crt-and-compatibility",
+  "purpose": "Load supported DLL images from an in-process memory buffer | Specialized loader library; normal LoadLibrary behavior and compatibility are not guaranteed",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

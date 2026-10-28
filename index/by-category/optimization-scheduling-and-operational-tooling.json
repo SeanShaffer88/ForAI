@@ -1,0 +1,155 @@
+[
+ {
+  "resource_id": "res-or-tools-a5e779d38ecd",
+  "name": "OR-Tools",
+  "url": "https://developers.google.com/optimization",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Constraint programming, routing and optimization; solver choice affects deployment.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-z3-f396b7b09bf7",
+  "name": "Z3",
+  "url": "https://github.com/Z3Prover/z3",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "SMT solving for constraints and program analysis; model correctness remains application-specific.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-networkx-e84bce24433d",
+  "name": "NetworkX",
+  "url": "https://networkx.org/documentation/stable/",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Python graph algorithms; assess memory use on large graphs.",
+  "resource_type": "documentation",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apscheduler-6dee00f37d11",
+  "name": "APScheduler",
+  "url": "https://apscheduler.readthedocs.io/",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Python scheduling; select version and coordinate persistence across workers.",
+  "resource_type": "reference",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-quartz-net-ef0b102b6def",
+  "name": "Quartz.NET",
+  "url": "https://www.quartz-scheduler.net/documentation/",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": ".NET scheduling with persistence and clustering options; configure misfires and time zones.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fluent-bit-7f3752980cd0",
+  "name": "Fluent Bit",
+  "url": "https://docs.fluentbit.io/manual",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Telemetry collection and forwarding; check buffering, loss and plugin support.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vector-572babab7cde",
+  "name": "Vector",
+  "url": "https://vector.dev/docs/",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Telemetry processing pipelines; configure delivery, buffering and sensitive-data handling.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-toxiproxy-c7ef9e05f758",
+  "name": "Toxiproxy",
+  "url": "https://github.com/Shopify/toxiproxy",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Inject network failures into integration tests; route test traffic explicitly.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mockserver-bc6659fcb2fa",
+  "name": "MockServer",
+  "url": "https://www.mock-server.com/",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "HTTP mocking and verification; isolate expectations between concurrent tests.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-schemathesis-1ab467733f70",
+  "name": "Schemathesis",
+  "url": "https://schemathesis.readthedocs.io/",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Property-based API testing from schemas; run against authorized test environments.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

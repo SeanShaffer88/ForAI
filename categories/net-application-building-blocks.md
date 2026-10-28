@@ -40,7 +40,7 @@ A further 500-resource development discovery pass. Entries below were selected f
 | Resource | Useful for / constraints |
 |---|---|
 | [Lean](https://github.com/QuantConnect/Lean) | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
-| [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET |
+| [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET (Rx.NET): compose asynchronous, event-based programs with LINQ-style operators; a learning curve, best for genuinely event-heavy code. |
 | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | A simple, cross platform, modulith ecommerce system built on .NET |
 | [FusionCache](https://github.com/ZiggyCreatures/FusionCache) | FusionCache is an easy to use, fast and robust hybrid cache with advanced resiliency features. |
 | [AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) | AspectCore is an AOP-based cross platform framework for .NET Standard. |

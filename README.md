@@ -4,7 +4,7 @@
 
 A curated library of 2,202 development resources (repositories, SDKs, APIs, libraries, tools) organized into 97 categories, built so an AI assistant can find the right resource for a project without reading the whole library. **AI assistants: start with [AI_INDEX.md](AI_INDEX.md)** — one page that maps your task to the one or two category files worth opening.
 
-A project-aware resource library for developers and their AI assistants, curated by Sean Shaffer. Find useful repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources for the work you are actually doing.
+A resource library for developers and their AI assistants, curated by Sean Shaffer. 2,202 repositories, SDKs, APIs, libraries, diagnostics, build tools, and deployment resources across AI, Windows, web, mobile, games, and DevOps — organized for AI reference with llms.txt, a compact JSON catalog, per-category shards, and local search, so an assistant can find the right resource for the work you are actually doing.
 
 **2202 catalog entries · 2198 distinct URLs · 97 purpose-based categories.** Includes 459 general resources, 232 Windows repositories, 301 AI resources, 200 development resources added 2026-10-23, two 500-resource development expansions added 2026-10-27, and 10 user-requested design-reference links. Entries overlap; distinct URLs do not necessarily mean distinct projects.
 

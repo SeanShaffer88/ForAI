@@ -120,13 +120,13 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -149,31 +149,31 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -181,7 +181,7 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -193,32 +193,32 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -229,45 +229,45 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -283,14 +283,14 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -299,10 +299,10 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -314,7 +314,7 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -322,28 +322,28 @@ HTTP status in the CSV is discovery evidence, not an endorsement. Official docs 
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -385,13 +385,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -414,31 +414,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -446,7 +446,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -458,32 +458,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -494,45 +494,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -548,14 +548,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -564,10 +564,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -579,7 +579,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -587,28 +587,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -643,13 +643,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -672,31 +672,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -704,7 +704,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -716,32 +716,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -752,45 +752,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -806,14 +806,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -822,10 +822,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -837,7 +837,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -845,28 +845,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -901,13 +901,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -930,31 +930,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -962,7 +962,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -974,32 +974,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -1010,45 +1010,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -1064,14 +1064,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -1080,10 +1080,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -1095,7 +1095,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -1103,28 +1103,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -1159,13 +1159,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -1188,31 +1188,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -1220,7 +1220,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -1232,32 +1232,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -1268,45 +1268,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -1322,14 +1322,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -1338,10 +1338,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -1353,7 +1353,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -1361,28 +1361,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -1417,13 +1417,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -1446,31 +1446,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -1478,7 +1478,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -1490,32 +1490,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -1526,45 +1526,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -1580,14 +1580,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -1596,10 +1596,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -1611,7 +1611,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -1619,28 +1619,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -1675,13 +1675,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -1704,31 +1704,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -1736,7 +1736,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -1748,32 +1748,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -1784,45 +1784,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -1838,14 +1838,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -1854,10 +1854,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -1869,7 +1869,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -1877,28 +1877,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -1933,13 +1933,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -1962,31 +1962,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -1994,7 +1994,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -2006,32 +2006,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -2042,45 +2042,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -2096,14 +2096,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -2112,10 +2112,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -2127,7 +2127,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -2135,28 +2135,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -2191,13 +2191,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -2220,31 +2220,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -2252,7 +2252,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -2264,32 +2264,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -2300,45 +2300,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -2354,14 +2354,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -2370,10 +2370,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -2385,7 +2385,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -2393,28 +2393,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -2449,13 +2449,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -2478,31 +2478,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -2510,7 +2510,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -2522,32 +2522,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -2558,45 +2558,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -2612,14 +2612,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -2628,10 +2628,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -2643,7 +2643,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -2651,28 +2651,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -2707,13 +2707,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -2736,31 +2736,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -2768,7 +2768,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -2780,32 +2780,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -2816,45 +2816,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -2870,14 +2870,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -2886,10 +2886,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -2901,7 +2901,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -2909,28 +2909,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -2965,13 +2965,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -2994,31 +2994,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -3026,7 +3026,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -3038,32 +3038,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -3074,45 +3074,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -3128,14 +3128,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -3144,10 +3144,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -3159,7 +3159,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -3167,28 +3167,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -3223,13 +3223,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -3252,31 +3252,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -3284,7 +3284,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -3296,32 +3296,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -3332,45 +3332,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -3386,14 +3386,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -3402,10 +3402,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -3417,7 +3417,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -3425,28 +3425,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -3490,13 +3490,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -3519,31 +3519,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -3551,7 +3551,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -3563,32 +3563,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -3599,45 +3599,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -3653,14 +3653,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -3669,10 +3669,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -3684,7 +3684,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -3692,28 +3692,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -3748,13 +3748,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -3777,31 +3777,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -3809,7 +3809,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -3821,32 +3821,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -3857,45 +3857,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -3911,14 +3911,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -3927,10 +3927,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -3942,7 +3942,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -3950,28 +3950,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -4006,13 +4006,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -4035,31 +4035,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -4067,7 +4067,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -4079,32 +4079,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -4115,45 +4115,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -4169,14 +4169,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -4185,10 +4185,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -4200,7 +4200,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -4208,28 +4208,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -4264,13 +4264,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -4293,31 +4293,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -4325,7 +4325,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -4337,32 +4337,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -4373,45 +4373,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -4427,14 +4427,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -4443,10 +4443,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -4458,7 +4458,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -4466,28 +4466,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -4522,13 +4522,13 @@ Project additions checked 2026-10-21:
 | [Zig](https://ziglang.org/documentation/) | Native language and toolchain candidate; verify compiler-version compatibility. |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) | Browser HTML, CSS, JavaScript and Web API reference. |
 | [uv](https://docs.astral.sh/uv/) | Python environment, package, tool and project management. |
-| [Ruff](https://docs.astral.sh/ruff/) | Python linting and formatting. |
+| [Ruff](https://docs.astral.sh/ruff/) | Extremely fast Python linter and formatter written in Rust; replaces Flake8/Black/isort in one tool — check rule coverage against your existing lint setup. |
 | [PyPA Packaging Guide](https://packaging.python.org/) | Python distribution, build metadata and publishing. |
 | [npm](https://docs.npmjs.com/) | JavaScript packages, registry and lockfile workflows. |
 | [pnpm](https://pnpm.io/) | JavaScript workspace and package management. |
-| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore. |
+| [NuGet](https://learn.microsoft.com/en-us/nuget/) | .NET dependency packaging and restore: the standard package manager and feed format for .NET libraries; private feeds need their own hosting or Azure Artifacts/GitHub Packages. |
 | [CMake](https://cmake.org/documentation/) | Generate native build systems and manage target configuration. |
-| [Ninja](https://ninja-build.org/manual.html) | Execute generated native build graphs. |
+| [Ninja](https://ninja-build.org/manual.html) | Executes generated native build graphs: a tiny, very fast build executor meant to be driven by a generator such as CMake or Meson, not hand-written. |
 | [vcpkg](https://learn.microsoft.com/en-us/vcpkg/) | C and C++ dependency management; select triplet and linkage. |
 | [Conan](https://docs.conan.io/2/) | C and C++ packages, profiles and binary dependency management. |
 | [LLVM](https://llvm.org/docs/) | Compiler infrastructure, optimization and binary tooling. |
@@ -4551,31 +4551,31 @@ Project additions checked 2026-10-21:
 | [Connect RPC](https://connectrpc.com/docs/) | RPC libraries and protocols with browser-oriented integration. |
 | [curl and libcurl](https://curl.se/docs/) | HTTP and other protocol transfers from CLI or native code. |
 | [HTTPX](https://www.python-httpx.org/) | Python synchronous and asynchronous HTTP clients. |
-| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP integration. |
+| [Requests](https://requests.readthedocs.io/) | Python synchronous HTTP client with a simple, human-friendly API; blocking by design — use an async client such as httpx for high-concurrency work. |
 | [WebSockets](https://websockets.readthedocs.io/) | Python WebSocket client and server implementation. |
 | [WebRTC](https://webrtc.org/) | Real-time browser and native audio, video and data. |
 | [Postman](https://learning.postman.com/) | API exploration, collections and collaboration; hosted features may require plans. |
 | [Bruno](https://docs.usebruno.com/) | File-based API collections and local API workflows. |
-| [React](https://react.dev/learn) | Component-based web interfaces. |
+| [React](https://react.dev/learn) | Component-based web interfaces with a declarative rendering model and the largest UI ecosystem; routing, data fetching, and server rendering come from a framework such as Next.js, not React itself. |
 | [Next.js](https://nextjs.org/docs) | React application framework with rendering and server features. |
-| [Vue](https://vuejs.org/guide/) | Reactive component framework. |
-| [Nuxt](https://nuxt.com/docs) | Vue application framework. |
+| [Vue](https://vuejs.org/guide/) | Reactive component framework for web interfaces: approachable templates, single-file components, and incremental adoption from a widget to a full app (see Nuxt). |
+| [Nuxt](https://nuxt.com/docs) | Vue application framework adding routing, server rendering, and data fetching on top of Vue; best when you want Vue with full-stack conventions out of the box. |
 | [Svelte and SvelteKit](https://svelte.dev/docs) | Compiled components and application framework. |
 | [Angular](https://angular.dev/overview) | Web application framework with integrated tooling. |
 | [Astro](https://docs.astro.build/) | Content sites and selective client interactivity. |
 | [Vite](https://vite.dev/guide/) | Frontend development server and production build tooling. |
-| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling. |
+| [Tailwind CSS](https://tailwindcss.com/docs) | Utility-based CSS styling: compose designs from small utility classes in markup; fast to build with, but class-heavy HTML and a design system still need to come from you. |
 | [Storybook](https://storybook.js.org/docs) | Component development, documentation and UI verification. |
 | [Zod](https://zod.dev/) | TypeScript-oriented runtime schema validation. |
 | [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview) | Client data fetching, caching and synchronization. |
 | [FastAPI](https://fastapi.tiangolo.com/) | Python API framework with type-based validation. |
 | [Django](https://docs.djangoproject.com/) | Python web framework with ORM, authentication and administration. |
 | [Flask](https://flask.palletsprojects.com/) | Lightweight Python web application framework. |
-| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework. |
-| [Laravel](https://laravel.com/docs) | PHP web application framework. |
-| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web applications and conventions. |
+| [Spring Boot](https://docs.spring.io/spring-boot/) | JVM application and service framework (Java/Kotlin) with convention-over-configuration, embedded servers, and a huge ecosystem; heavyweight for small utilities. |
+| [Laravel](https://laravel.com/docs) | PHP web application framework with routing, ORM (Eloquent), queues, and Blade templates; a full-stack choice for PHP teams, not a micro-framework. |
+| [Ruby on Rails](https://guides.rubyonrails.org/) | Ruby web application framework built on strong conventions (MVC, Active Record); fastest when your app fits its conventions, fighting them is costly. |
 | [Qt](https://doc.qt.io/) | C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct. |
-| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI. |
+| [Avalonia](https://docs.avaloniaui.net/) | Cross-platform .NET desktop UI framework (Windows, macOS, Linux) with XAML and a WPF-like model; the main WPF alternative when Linux/macOS support matters. |
 | [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/) | Cross-platform .NET applications; check target-specific toolchains. |
 | [Electron](https://www.electronjs.org/docs/latest/) | Desktop apps using Chromium and Node.js; isolate privileged host APIs. |
 | [Tauri](https://v2.tauri.app/) | Desktop and mobile application host with web UI; check native prerequisites. |
@@ -4583,7 +4583,7 @@ Project additions checked 2026-10-21:
 | [React Native](https://reactnative.dev/docs/getting-started) | Native mobile UI with React and platform modules. |
 | [Android SDK](https://developer.android.com/develop) | Android APIs, Jetpack, tooling and device behavior. |
 | [Apple Developer](https://developer.apple.com/documentation/) | Apple platform SDKs and frameworks; shipping requires platform toolchain checks. |
-| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across targets. |
+| [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/get-started.html) | Shared Kotlin code across Android, iOS, desktop, and web targets; share logic first — shared UI (Compose Multiplatform) is the younger, riskier layer. |
 | [Zephyr](https://docs.zephyrproject.org/latest/) | Embedded RTOS and device tooling; select release and supported board. |
 | [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/) | Espressif device SDK; select the exact chip and SDK release. |
 | [FreeRTOS](https://www.freertos.org/Documentation/00-Overview) | Embedded real-time kernel and supporting libraries. |
@@ -4595,32 +4595,32 @@ Project additions checked 2026-10-21:
 | [MongoDB](https://www.mongodb.com/docs/) | Document database and driver documentation. |
 | [Redis](https://redis.io/docs/latest/) | In-memory data structures; evaluate release-specific licensing and persistence. |
 | [Valkey](https://valkey.io/) | In-memory key-value service candidate and Redis-ecosystem compatibility reference. |
-| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM. |
+| [SQLAlchemy](https://docs.sqlalchemy.org/) | Python SQL expression layer and ORM: full control over SQL with a mature ecosystem; Alembic is its standard migration companion. |
 | [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) | .NET ORM, migrations and provider behaviors. |
 | [Prisma](https://www.prisma.io/docs) | Typed data access and database migration workflows. |
 | [Drizzle](https://orm.drizzle.team/docs/overview) | TypeScript SQL-oriented ORM and migrations. |
 | [Flyway](https://documentation.red-gate.com/fd) | Versioned database migrations; check edition-specific features. |
-| [Alembic](https://alembic.sqlalchemy.org/) | SQLAlchemy-oriented schema migrations. |
+| [Alembic](https://alembic.sqlalchemy.org/) | Schema migrations for SQLAlchemy: autogenerates migration drafts from model changes — always review generated migrations before applying them to real data. |
 | [Apache Arrow](https://arrow.apache.org/docs/) | Columnar interchange and cross-language data tooling. |
 | [Polars](https://docs.pola.rs/) | Dataframes and analytical transformations. |
-| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing. |
-| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database. |
-| [OpenSearch](https://docs.opensearch.org/) | Search, indexing and analytics. |
-| [Meilisearch](https://www.meilisearch.com/docs) | Application search APIs and indexing. |
+| [pandas](https://pandas.pydata.org/docs/) | Python tabular data processing: DataFrames for cleaning, joining, and analysing data in memory; very large data calls for Polars, DuckDB, or a database instead. |
+| [ClickHouse](https://clickhouse.com/docs) | Columnar analytical database for very fast aggregation queries over large event/analytics data; not a general-purpose transactional (OLTP) database. |
+| [OpenSearch](https://docs.opensearch.org/) | Search, indexing, and analytics engine (the Apache-licensed fork of Elasticsearch 7.10); plan cluster sizing and memory before adopting for log or product search. |
+| [Meilisearch](https://www.meilisearch.com/docs) | Application search API with typo-tolerant, fast indexing aimed at user-facing search boxes; simpler than Elasticsearch/OpenSearch, with fewer analytics features. |
 | [Qdrant](https://qdrant.tech/documentation/) | Vector similarity search service and clients. |
 | [pgvector](https://github.com/pgvector/pgvector) | PostgreSQL vector storage and similarity indexing. |
 | [NATS](https://docs.nats.io/) | Messaging and JetStream persistence; choose delivery semantics. |
 | [Apache Kafka](https://kafka.apache.org/documentation/) | Distributed event streaming and clients. |
 | [RabbitMQ](https://www.rabbitmq.com/docs) | Message broker, routing and delivery acknowledgments. |
 | [Temporal](https://docs.temporal.io/) | Durable workflows; handle replay determinism, retries and external side effects. |
-| [Celery](https://docs.celeryq.dev/) | Python task queues and workers. |
-| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing. |
-| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET. |
+| [Celery](https://docs.celeryq.dev/) | Python task queues and workers for background jobs and scheduled tasks; needs a broker such as Redis or RabbitMQ and separate monitoring (e.g. Flower). |
+| [BullMQ](https://docs.bullmq.io/) | Redis-backed Node.js job processing with retries, scheduling, and rate limiting; requires a running Redis instance. |
+| [Hangfire](https://docs.hangfire.io/) | Persistent background work for .NET: runs jobs inside your app or a service with a dashboard; needs a SQL Server, Redis, or similar job store. |
 | [Dapr](https://docs.dapr.io/) | Distributed application APIs and components; adds runtime infrastructure. |
 | [AWS SDKs](https://aws.amazon.com/developer/tools/) | Official cloud SDKs and tooling; use workload-appropriate credentials. |
 | [Azure SDKs](https://azure.github.io/azure-sdk/) | Official Azure client libraries and design guidance. |
-| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs. |
-| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs. |
+| [Google Cloud client libraries](https://docs.cloud.google.com/apis/docs/cloud-client-libraries) | Language clients for Google Cloud APIs, one library per service; prefer these official clients over hand-rolled REST calls, and mind per-service versioning. |
+| [Cloudflare API](https://developers.cloudflare.com/api/) | Cloudflare service management APIs (DNS, Workers, rules, zones) for automation; token-scoped — grant least-privilege permissions per zone or account. |
 | [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge application runtime and deployment tooling. |
 | [Docker](https://docs.docker.com/) | Container builds and execution; check Desktop licensing where relevant. |
 | [Podman](https://docs.podman.io/) | Container management; Windows development uses additional VM integration. |
@@ -4631,45 +4631,45 @@ Project additions checked 2026-10-21:
 | [Pulumi](https://www.pulumi.com/docs/) | Infrastructure definitions using programming languages. |
 | [Ansible](https://docs.ansible.com/) | Configuration automation and remote orchestration. HTTP access limited during verification; recheck directly. |
 | [Render](https://render.com/docs) | Managed application hosting and deployment configuration. |
-| [Vercel](https://vercel.com/docs) | Web application hosting and deployment. |
+| [Vercel](https://vercel.com/docs) | Web application hosting and deployment optimised for Next.js and frontend frameworks, with preview deployments per commit; serverless limits and pricing shape backend choices. |
 | [Supabase](https://supabase.com/docs) | Managed Postgres, auth, storage and realtime; evaluate RLS per application. |
 | [Firebase](https://firebase.google.com/docs) | Application backend SDKs and managed services. |
 | [Git](https://git-scm.com/doc) | Version control and repository operations. |
 | [GitHub Actions](https://docs.github.com/en/actions) | Repository CI and automation; constrain workflow token permissions. |
-| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners. |
+| [GitLab CI](https://docs.gitlab.com/ci/) | Pipeline configuration and runners built into GitLab (.gitlab-ci.yml); self-managed runners are an option when GitHub/GitLab hosted runners do not fit. |
 | [Renovate](https://docs.renovatebot.com/) | Automated dependency updates with configurable policies. |
 | [Dependabot](https://docs.github.com/en/code-security/dependabot) | GitHub dependency alerts and update workflows. |
 | [Changesets](https://github.com/changesets/changesets) | Multi-package versioning and changelogs. |
 | [semantic-release](https://semantic-release.gitbook.io/semantic-release/) | Automated release versioning and publishing. |
 | [WiX Toolset](https://docs.firegiant.com/wix/) | Windows Installer packaging; review toolchain and commercial-service terms. |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | Windows installer authoring and distribution. |
-| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment. |
+| [MSIX](https://learn.microsoft.com/en-us/windows/msix/) | Windows package format and deployment: Microsoft's modern installer with clean uninstall and containerised file/registry views; some legacy installer behaviours are not supported. |
 | [Velopack](https://docs.velopack.io/) | Application packaging and updates; verify target support. |
 | [Playwright](https://playwright.dev/docs/intro) | Browser end-to-end testing; install matching browser binaries. |
-| [pytest](https://docs.pytest.org/) | Python unit and integration tests. |
+| [pytest](https://docs.pytest.org/) | Python unit and integration test framework with fixtures and a huge plugin ecosystem; the default choice for new Python test suites. |
 | [Hypothesis](https://hypothesis.readthedocs.io/) | Property-based tests and shrinking for Python. |
-| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner. |
+| [Vitest](https://vitest.dev/guide/) | JavaScript and TypeScript test runner built on Vite: Jest-compatible APIs with much faster watch mode; natural fit for Vite projects. |
 | [Testing Library](https://testing-library.com/docs/) | UI tests using observable user-facing behavior. |
-| [JUnit](https://junit.org/) | JVM testing framework. |
-| [xUnit.net](https://xunit.net/) | .NET testing framework. |
-| [GoogleTest](https://google.github.io/googletest/) | C++ unit tests and mocking. |
-| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework. |
+| [JUnit](https://junit.org/) | JVM testing framework (JUnit 5) for Java and Kotlin unit tests; the standard runner other JVM test tools build on. |
+| [xUnit.net](https://xunit.net/) | .NET testing framework, the common default for new C# test projects alongside NUnit and MSTest. |
+| [GoogleTest](https://google.github.io/googletest/) | C++ unit test framework with GoogleMock for mocking; the standard choice for CMake-based C++ projects. |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test and benchmark framework: header-friendly, natural test syntax, and built-in micro-benchmarks; also cross-listed under Windows testing. |
 | [Testcontainers](https://docs.docker.com/testcontainers/) | Run real service dependencies in tests; needs a compatible container runtime. |
 | [Pact](https://docs.pact.io/) | Consumer/provider contracts for HTTP and messages. |
 | [WireMock](https://wiremock.org/docs/) | HTTP service stubs and integration simulations. |
 | [k6](https://grafana.com/docs/k6/latest/) | Load and performance tests with explicit thresholds. |
-| [Locust](https://docs.locust.io/) | Python-programmed load testing. |
+| [Locust](https://docs.locust.io/) | Python-programmed load testing: define user behaviour in Python code and scale out across workers; good when scenarios are more than plain HTTP request lists. |
 | [BenchmarkDotNet](https://benchmarkdotnet.org/) | .NET microbenchmarking with controlled execution. |
 | [Google Benchmark](https://github.com/google/benchmark) | C++ microbenchmarks; representative workload selection remains essential. |
 | [LLVM sanitizers](https://clang.llvm.org/docs/AddressSanitizer.html) | Native memory-error detection; support depends on platform and compiler. |
-| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing. |
+| [libFuzzer](https://llvm.org/docs/LibFuzzer.html) | Coverage-guided native fuzzing engine built into LLVM/Clang for C/C++ targets; usually paired with sanitizers and a corpus — see also AFL++ for standalone fuzzing. |
 | [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) | Implementation guidance for authentication, validation and other security controls. |
 | [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) | Application security verification requirements. |
-| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference. |
+| [OWASP API Security](https://owasp.org/projects/api-security-project) | API threat and review reference: the OWASP API Security Top 10 and guidance; a checklist for design reviews, not a scanner. |
 | [OAuth security BCP](https://www.rfc-editor.org/rfc/rfc9700.html) | OAuth security guidance; read alongside applicable protocol specifications. |
 | [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) | Identity layer and interoperable authentication. |
 | [WebAuthn](https://www.w3.org/TR/webauthn-3/) | Public-key authentication and passkey protocol reference; check implementation support. |
-| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation. |
+| [Keycloak](https://www.keycloak.org/documentation) | Self-hosted identity and federation server (OIDC, SAML, social login) from Red Hat; powerful, but you own its hosting, upgrades, and database. |
 | [OpenFGA](https://openfga.dev/docs) | Relationship-based authorization modeling and SDKs. |
 | [Open Policy Agent](https://www.openpolicyagent.org/docs) | Policy evaluation and authorization building block. |
 | [OSV-Scanner](https://github.com/google/osv-scanner) | Dependency vulnerability discovery using OSV data. |
@@ -4685,14 +4685,14 @@ Project additions checked 2026-10-21:
 | [OpenTelemetry](https://opentelemetry.io/docs/) | Vendor-neutral traces, metrics and logs with SDKs and collectors. |
 | [Prometheus](https://prometheus.io/docs/introduction/overview/) | Metrics collection, querying and alerting. |
 | [Grafana](https://grafana.com/docs/grafana/latest/) | Operational dashboards and visualization. |
-| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying. |
+| [Loki](https://grafana.com/docs/loki/latest/) | Log aggregation and querying from Grafana Labs: indexes log labels rather than full text, so it is cheaper than Elasticsearch for logs but weaker at full-text search. |
 | [Jaeger](https://www.jaegertracing.io/docs/) | Distributed trace storage and inspection. |
 | [Sentry](https://docs.sentry.io/) | Error reporting and application performance tooling. |
-| [Serilog](https://serilog.net/) | Structured logging for .NET. |
-| [structlog](https://www.structlog.org/) | Structured Python logging. |
-| [Pino](https://getpino.io/) | Structured JavaScript logging. |
+| [Serilog](https://serilog.net/) | Structured logging for .NET with sinks to files, consoles, and log services; the de facto standard .NET logging library. |
+| [structlog](https://www.structlog.org/) | Structured Python logging that produces machine-readable (JSON) log events; pairs with standard-library logging or as a standalone pipeline. |
+| [Pino](https://getpino.io/) | Structured JavaScript/Node.js logging built for speed, emitting JSON in production; transports run out-of-process to keep the event loop free. |
 | [Tracy](https://github.com/wolfpld/tracy) | Native and real-time application profiling. |
-| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging. |
+| [RenderDoc](https://renderdoc.org/) | Graphics frame capture and debugging for Vulkan, D3D, and OpenGL: inspect draw calls, resources, and pipeline state frame by frame; not a profiler for CPU code. |
 | [Wireshark](https://www.wireshark.org/docs/) | Network protocol inspection and troubleshooting. |
 | [GitHub REST API](https://docs.github.com/en/rest) | Repository, issue, pull-request and automation integration. |
 | [GitHub Octokit](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api) | Official GitHub SDK entry point; select supported language and authentication. |
@@ -4701,10 +4701,10 @@ Project additions checked 2026-10-21:
 | [Stripe](https://docs.stripe.com/sdks) | Payments SDKs; align API version, webhook validation and idempotency. |
 | [Twilio](https://www.twilio.com/docs/libraries) | Messaging, voice and communications SDKs. |
 | [SendGrid](https://www.twilio.com/docs/sendgrid) | Transactional email APIs and deliverability integration. |
-| [Resend](https://resend.com/docs) | Email API and SDK documentation. |
+| [Resend](https://resend.com/docs) | Email API and SDK documentation for transactional email, with React Email templates; a hosted service, so deliverability and pricing are theirs, not self-hosted. |
 | [Slack API](https://api.slack.com/) | Workplace integration, events and bot interfaces. |
-| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces. |
-| [Notion](https://developers.notion.com/) | Workspace content integration. |
+| [Discord](https://discord.com/developers/docs/intro) | Bot and application interfaces for Discord: gateway events, slash commands, and REST APIs; bots must respect rate limits and the developer terms. |
+| [Notion](https://developers.notion.com/) | Workspace content integration via the Notion API: read and write pages and databases; API block/property limits shape what sync tools can do. |
 | [Shopify](https://shopify.dev/docs) | Commerce applications, APIs and extensions. |
 | [Mapbox](https://docs.mapbox.com/) | Maps, geocoding and navigation SDKs; review usage and data terms. |
 | [Google Maps Platform](https://developers.google.com/maps/documentation) | Mapping, routing and places APIs; billing and retention rules vary. |
@@ -4716,7 +4716,7 @@ Project additions checked 2026-10-21:
 | [PyTorch](https://docs.pytorch.org/docs/stable/index.html) | Tensor operations, training and inference. |
 | [ONNX Runtime](https://onnxruntime.ai/docs/) | Portable inference runtime; choose execution provider and architecture. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | Local model inference; model licenses and hardware requirements are separate. |
-| [Ollama](https://docs.ollama.com/) | Local model runtime and API. |
+| [Ollama](https://docs.ollama.com/) | Local model runtime and API: one-command download and serving of open LLMs (llama.cpp-based) on your own machine; models run locally, quality depends on the model and hardware. |
 | [vLLM](https://docs.vllm.ai/) | Model serving and batching; verify supported hardware and OS. |
 | [MLflow](https://mlflow.org/docs/latest/) | Experiment tracking, model lifecycle and evaluation. |
 | [Model Context Protocol](https://modelcontextprotocol.io/docs) | Tool and context integration protocol; authentication and trust need explicit design. |
@@ -4724,28 +4724,28 @@ Project additions checked 2026-10-21:
 | [WebGPU](https://www.w3.org/TR/webgpu/) | Browser graphics and compute API specification. |
 | [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) | Windows graphics and multimedia platform APIs. |
 | [SDL](https://wiki.libsdl.org/) | Cross-platform windows, input, audio and multimedia support. |
-| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference. |
+| [Godot](https://docs.godotengine.org/en/stable/) | Game engine and scripting reference: free, open-source 2D/3D engine with GDScript, C#, and C++; this project uses Godot 4 for its Android games. |
 | [Unity](https://docs.unity3d.com/) | Game engine and deployment reference; review licensing. |
 | [Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine) | Game and real-time engine documentation; review project-specific terms. |
 | [OpenXR](https://www.khronos.org/openxr/) | Portable XR interface standard and SDK ecosystem. |
 | [FFmpeg](https://ffmpeg.org/documentation.html) | Audio/video processing; build configuration changes licensing and codecs. |
 | [GStreamer](https://gstreamer.freedesktop.org/documentation/) | Streaming media pipelines and plugin framework. |
-| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing. |
+| [OpenCV](https://docs.opencv.org/) | Computer vision and image processing library (C++, Python, and more): the default toolbox for detection, tracking, and image pipelines — large, so link only the modules you need. |
 | [NumPy](https://numpy.org/doc/) | Numerical arrays and native extension interfaces. |
 | [SciPy](https://docs.scipy.org/doc/scipy/) | Scientific algorithms, optimization and signal processing. |
 | [GDAL](https://gdal.org/) | Geospatial data formats and transformation. |
 | [PROJ](https://proj.org/) | Coordinate reference systems and transformations. |
 | [WCAG](https://www.w3.org/TR/WCAG22/) | Web accessibility criteria; combine automation with manual assessment. |
-| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine. |
+| [axe-core](https://github.com/dequelabs/axe-core) | Automated accessibility rule engine used by most web accessibility testers; catches roughly the machine-checkable half of WCAG issues — manual testing still required. |
 | [ICU](https://unicode-org.github.io/icu/) | Unicode, locale-sensitive formatting and collation. |
 | [i18next](https://www.i18next.com/) | Application translation and locale resource management. |
 | [Docusaurus](https://docusaurus.io/docs) | Documentation websites and versioned content. |
-| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites. |
+| [MkDocs](https://www.mkdocs.org/) | Markdown documentation sites with fast builds and the Material theme; a good default for project docs that live in the repo. |
 | [Sphinx](https://www.sphinx-doc.org/) | Technical documentation, cross-references and API reference tooling. |
 | [Mermaid](https://mermaid.js.org/) | Text-based diagrams embedded in documentation. |
 | [IETF RFC Editor](https://www.rfc-editor.org/) | Canonical internet protocol specifications and errata. |
 | [W3C specifications](https://www.w3.org/TR/) | Web platform standards and maturity status. |
-| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards. |
+| [WHATWG](https://spec.whatwg.org/) | Living browser platform standards (HTML, DOM, Fetch, and more) maintained by browser vendors; the normative reference when MDN summaries are not enough. |
 | [CNCF Landscape](https://landscape.cncf.io/) | Infrastructure discovery map; listing is not endorsement. |
 | [Apache projects](https://projects.apache.org/) | Discovery of Apache software and project status. |
 | [Awesome lists](https://github.com/sindresorhus/awesome) | Broad discovery index; independently verify each candidate upstream. |
@@ -4805,7 +4805,7 @@ Project additions checked 2026-10-21:
 | [pgx](https://github.com/jackc/pgx) | Go PostgreSQL driver and toolkit; check pooling and cancellation behavior. |
 | [sqlc](https://docs.sqlc.dev/en/stable/) | Generate typed data access from SQL; database and language support differ. |
 | [goose](https://pressly.github.io/goose/) | SQL and Go database migrations; validate locking and rollback strategy. |
-| [Cobra](https://cobra.dev/) | Go CLI commands, flags and completion. |
+| [Cobra](https://cobra.dev/) | Go CLI library for commands, flags, and shell completion (used by kubectl and Hugo); pair with Viper for configuration files and environment variables. |
 | [Bubble Tea](https://github.com/charmbracelet/bubbletea) | Go terminal application framework; test Windows terminals and redirected I/O. |
 
 ### WebAssembly and plugin runtimes
@@ -4967,7 +4967,7 @@ Primary documentation/README excerpts and selected upstream repository metadata 
 |---|---|---|
 | Android APK development and analysis | [APK Analyzer](https://developer.android.com/studio/debug/apk-analyzer) | Inspect manifest, DEX, resources and package size in Android Studio. |
 | Android APK development and analysis | [apkanalyzer](https://developer.android.com/tools/apkanalyzer) | Scriptable package, manifest, DEX and resource inspection. |
-| Android APK development and analysis | [Android CLI](https://developer.android.com/tools/android-cli) | Current command-line Android project and SDK workflows; recheck availability before replacing existing tooling. |
+| Android APK development and analysis | [Android CLI](https://developer.android.com/studio/intro) | Current command-line Android project and SDK workflows; recheck availability before replacing existing tooling. |
 | Android APK development and analysis | [sdkmanager](https://developer.android.com/tools/sdkmanager) | SDK package management reference; fetched page marks it deprecated in favor of Android CLI, while existing SDK installations still use it. |
 | Android APK development and analysis | [Android command-line builds](https://developer.android.com/build/building-cmdline) | Gradle-wrapper builds of APKs and app bundles from source. |
 | Android APK development and analysis | [Android Gradle Plugin](https://developer.android.com/build/releases/about-agp) | Build-system compatibility and release guidance; pin compatible AGP, Gradle and JDK versions. |
@@ -5019,7 +5019,7 @@ Primary documentation/README excerpts and selected upstream repository metadata 
 | Android APK development and analysis | [React Native Android releases](https://reactnative.dev/docs/signed-apk-android) | Understand JS/assets, native packaging and signing of React Native Android builds. |
 | Android APK development and analysis | [Godot Android export](https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html) | Godot Android toolchain, templates, package data and signing requirements. |
 | Android APK development and analysis | [Perfetto](https://perfetto.dev/docs/) | System/app tracing for startup, scheduling and performance investigation. |
-| Android APK development and analysis | [Android Monkey](https://developer.android.com/studio/test/monkey) | Device UI event stress testing; bound runs and inspect results rather than treating no crash as correctness. |
+| Android APK development and analysis | [Android Monkey](https://developer.android.com/studio/test/other-testing-tools/monkey) | Device UI event stress testing; bound runs and inspect results rather than treating no crash as correctness. |
 
 ## Project follow-up — 2026-10-22: DiffImg Windows build milestone
 

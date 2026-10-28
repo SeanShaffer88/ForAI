@@ -1,0 +1,57 @@
+[
+ {
+  "resource_id": "res-microsoft-win2d-6c85058695d6",
+  "name": "microsoft/Win2D",
+  "url": "https://github.com/microsoft/Win2D",
+  "category_id": "windows-graphics-additions",
+  "purpose": "GPU-accelerated 2D drawing with Direct2D and XAML integration | Check control support for chosen WinUI version",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-directxmesh-d8f21ab5c921",
+  "name": "microsoft/DirectXMesh",
+  "url": "https://github.com/microsoft/DirectXMesh",
+  "category_id": "windows-graphics-additions",
+  "purpose": "Geometry processing normals adjacency and meshlets | Native library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-uvatlas-5e44ad60dcec",
+  "name": "microsoft/UVAtlas",
+  "url": "https://github.com/microsoft/UVAtlas",
+  "category_id": "windows-graphics-additions",
+  "purpose": "Create and pack mesh texture atlases | Native library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

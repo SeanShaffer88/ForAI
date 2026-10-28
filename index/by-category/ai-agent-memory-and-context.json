@@ -1,0 +1,98 @@
+[
+ {
+  "resource_id": "res-mem0-3467dac8ec32",
+  "name": "Mem0",
+  "url": "https://docs.mem0.ai/",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "Long-term memory layer for agents: extraction, storage, and retrieval of user/agent memories; self-host or use the hosted platform.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-letta-6332051cc406",
+  "name": "Letta",
+  "url": "https://docs.letta.com/",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "Stateful-agent platform (the MemGPT lineage): agents with self-editing long-term memory and persistence.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zep-c1cbee16c203",
+  "name": "Zep",
+  "url": "https://help.getzep.com/",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "Long-term memory for AI agents built on a temporal knowledge graph (Graphiti); session/context assembly for production apps.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cognee-688c070b8b1b",
+  "name": "Cognee",
+  "url": "https://github.com/topoteretes/cognee",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "Open-source memory layer that builds a knowledge graph from documents and conversations for agent recall (ECL pipeline).",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphiti-zep-c6c73aadb2ed",
+  "name": "Graphiti (Zep)",
+  "url": "https://github.com/getzep/graphiti",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "Temporal knowledge-graph engine for agent memory — the open core under Zep; tracks facts as they change over time.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langmem-langchain-4478a46dab1b",
+  "name": "LangMem (LangChain)",
+  "url": "https://github.com/langchain-ai/langmem",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "LangChain's memory toolkit: extract, store, and retrieve long-term memories for LangGraph agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

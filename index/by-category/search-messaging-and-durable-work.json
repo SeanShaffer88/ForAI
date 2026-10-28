@@ -1,0 +1,374 @@
+[
+ {
+  "resource_id": "res-opensearch-d5a553979354",
+  "name": "OpenSearch",
+  "url": "https://docs.opensearch.org/",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Search, indexing and analytics.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-meilisearch-ff026dd890b5",
+  "name": "Meilisearch",
+  "url": "https://www.meilisearch.com/docs",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Application search APIs and indexing.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-qdrant-17aa37413510",
+  "name": "Qdrant",
+  "url": "https://qdrant.tech/documentation/",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Vector similarity search service and clients.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pgvector-4a65d34a1b01",
+  "name": "pgvector",
+  "url": "https://github.com/pgvector/pgvector",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "PostgreSQL vector storage and similarity indexing.",
+  "resource_type": "repository",
+  "topics": [
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nats-c23d11b5d3e8",
+  "name": "NATS",
+  "url": "https://docs.nats.io/",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Messaging and JetStream persistence; choose delivery semantics.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-kafka-e3fab052e337",
+  "name": "Apache Kafka",
+  "url": "https://kafka.apache.org/documentation/",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Distributed event streaming and clients.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rabbitmq-7308a1a4ae78",
+  "name": "RabbitMQ",
+  "url": "https://www.rabbitmq.com/docs",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Message broker, routing and delivery acknowledgments.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-temporal-ceebc475a393",
+  "name": "Temporal",
+  "url": "https://docs.temporal.io/",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Durable workflows; handle replay determinism, retries and external side effects.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-celery-04ad244cb8e4",
+  "name": "Celery",
+  "url": "https://docs.celeryq.dev/",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Python task queues and workers.",
+  "resource_type": "documentation",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bullmq-037b31f35596",
+  "name": "BullMQ",
+  "url": "https://docs.bullmq.io/",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Redis-backed Node.js job processing.",
+  "resource_type": "documentation",
+  "topics": [
+   "database",
+   "javascript"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hangfire-0e01c23a08c6",
+  "name": "Hangfire",
+  "url": "https://docs.hangfire.io/",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Persistent background work for .NET.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dapr-10d18a418a9a",
+  "name": "Dapr",
+  "url": "https://docs.dapr.io/",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Distributed application APIs and components; adds runtime infrastructure.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-prefect-318a19ca7d75",
+  "name": "Prefect",
+  "url": "https://github.com/PrefectHQ/prefect",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Orchestrate Python workflows with retries and scheduling; distinguish local operation from hosted services.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dagster-0e4d5fd9f06c",
+  "name": "Dagster",
+  "url": "https://github.com/dagster-io/dagster",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Model and operate data pipelines as assets; plan metadata storage and deployment.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-airflow-52b63ee8019b",
+  "name": "Apache Airflow",
+  "url": "https://github.com/apache/airflow",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Schedule dependency-based workflows; Windows use is through WSL2 or Linux containers per upstream. Design idempotent tasks and operate the scheduler.",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-kestra-65c72fd64abd",
+  "name": "Kestra",
+  "url": "https://github.com/kestra-io/kestra",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Define event-driven workflows with declarative configuration; review plugin and edition requirements.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-windmill-2fd57c020045",
+  "name": "Windmill",
+  "url": "https://github.com/windmill-labs/windmill",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Turn scripts into jobs and workflows; licensing mixes AGPL, Apache and proprietary components, and distributed Community Edition binaries have additional terms.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hatchet-b604771080e6",
+  "name": "Hatchet",
+  "url": "https://github.com/hatchet-dev/hatchet",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Run background tasks with durable orchestration; verify worker behavior and failure recovery.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-inngest-37f56f35d6f8",
+  "name": "Inngest",
+  "url": "https://github.com/inngest/inngest",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Event-driven durable functions; the server license includes SSPL-1.0 and an Apache future-license notice. Review server, SDK and hosted-service terms separately.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-trigger-dev-61ea8e9d10c6",
+  "name": "Trigger.dev",
+  "url": "https://github.com/triggerdotdev/trigger.dev",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Run background tasks from application code; evaluate worker deployment and resource limits.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-argo-workflows-20f2a7cc9125",
+  "name": "Argo Workflows",
+  "url": "https://github.com/argoproj/argo-workflows",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Execute container workflows on Kubernetes; define artifact storage and service-account permissions.",
+  "resource_type": "repository",
+  "topics": [
+   "containers"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-luigi-0a0302e414a6",
+  "name": "Luigi",
+  "url": "https://github.com/spotify/luigi",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Build dependency-based batch pipelines in Python; design task completeness and idempotency.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gulp-f65bb3ee0943",
+  "name": "gulp",
+  "url": "https://github.com/gulpjs/gulp",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "A toolkit to automate & enhance your workflow",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-enqueue-dev-11523b262d7b",
+  "name": "enqueue-dev",
+  "url": "https://github.com/php-enqueue/enqueue-dev",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "php"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ }
+]

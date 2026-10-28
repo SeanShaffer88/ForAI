@@ -1,0 +1,404 @@
+[
+ {
+  "resource_id": "res-polly-963fc3866ea5",
+  "name": "Polly",
+  "url": "https://www.pollydocs.org/",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Resilience pipelines for timeouts, retries and circuit breaking; avoid retrying unsafe operations.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-refit-56f34cc30ac8",
+  "name": "Refit",
+  "url": "https://github.com/reactiveui/refit",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Typed interface-based .NET HTTP clients; verify serializer and AOT support.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dapper-06b3c05a30e0",
+  "name": "Dapper",
+  "url": "https://github.com/DapperLib/Dapper",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Lightweight .NET SQL mapping; application owns SQL and schema evolution.",
+  "resource_type": "repository",
+  "topics": [
+   "database"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fluentvalidation-f0852d286fe4",
+  "name": "FluentValidation",
+  "url": "https://docs.fluentvalidation.net/en/latest/",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Typed .NET validation rules; confirm framework and async integration support.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-communitytoolkit-mvvm-0ebca1c985e9",
+  "name": "CommunityToolkit MVVM",
+  "url": "https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Observable models, commands and source generators for .NET UI architectures.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-noda-time-3f2963e956cc",
+  "name": "Noda Time",
+  "url": "https://nodatime.org/",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Explicit .NET date/time types; distinguish instants, time zones and local times.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-humanizer-3e499e910f3f",
+  "name": "Humanizer",
+  "url": "https://github.com/Humanizr/Humanizer",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Human-readable text, quantities and relative times; check culture behavior.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-csvhelper-ed2b9f7837f9",
+  "name": "CsvHelper",
+  "url": "https://joshclose.github.io/CsvHelper/",
+  "category_id": "net-application-building-blocks",
+  "purpose": ".NET CSV parsing and writing; configure dialects and malformed-data handling.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-system-io-pipelines-bb1d7b12a2fc",
+  "name": "System.IO.Pipelines",
+  "url": "https://learn.microsoft.com/en-us/dotnet/standard/io/pipelines",
+  "category_id": "net-application-building-blocks",
+  "purpose": "High-performance .NET streaming buffers; manage ownership and backpressure.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spectre-console-412e630f192f",
+  "name": "Spectre.Console",
+  "url": "https://github.com/spectreconsole/spectre.console",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Build rich .NET terminal interfaces; provide plain output modes for redirected streams.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cliwrap-e0fc39c7f06c",
+  "name": "CliWrap",
+  "url": "https://github.com/Tyrrrz/CliWrap",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Launch and pipe child processes from .NET; the README states additional political terms of use alongside the MIT license. Review terms and cancellation behavior.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-verify-31b9888b5b2a",
+  "name": "Verify",
+  "url": "https://github.com/VerifyTests/Verify",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Snapshot testing for .NET; upstream describes a maintenance-fee policy for official binaries released after September 1, 2026, separate from MIT source licensing.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bogus-6a7b2082dafb",
+  "name": "Bogus",
+  "url": "https://github.com/bchavez/Bogus",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Generate synthetic .NET test data; seed generation and avoid treating fake data as anonymization.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-autofixture-50a64395ab06",
+  "name": "AutoFixture",
+  "url": "https://github.com/AutoFixture/AutoFixture",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Create .NET test objects automatically; customize meaningful domain constraints.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nsubstitute-d700b7bbdb9c",
+  "name": "NSubstitute",
+  "url": "https://github.com/nsubstitute/NSubstitute",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Create .NET test substitutes; keep assertions focused on observable behavior.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-shouldly-8530dec679a5",
+  "name": "Shouldly",
+  "url": "https://github.com/shouldly/shouldly",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Readable .NET assertions and failure messages; confirm supported test runtimes.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-recyclablememorystream-6d4889e49997",
+  "name": "RecyclableMemoryStream",
+  "url": "https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Pool .NET stream buffers to reduce allocation pressure; dispose streams and set memory limits.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sprache-1971248eab2b",
+  "name": "Sprache",
+  "url": "https://github.com/sprache/Sprache",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Compose small parsers in C#; assess grammar complexity and error-reporting requirements. GitHub reports its last push as 2024-04-18; maintenance responsiveness was not established.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-superpower-f6c924fe497a",
+  "name": "Superpower",
+  "url": "https://github.com/datalust/superpower",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Build C# parsers with tokenization and diagnostics; design token and grammar rules explicitly.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lean-69e9b692a169",
+  "name": "Lean",
+  "url": "https://github.com/QuantConnect/Lean",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reactive-3be27aa6b1d3",
+  "name": "reactive",
+  "url": "https://github.com/dotnet/reactive",
+  "category_id": "net-application-building-blocks",
+  "purpose": "The Reactive Extensions for .NET",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-simplcommerce-c5b547a44783",
+  "name": "SimplCommerce",
+  "url": "https://github.com/simplcommerce/SimplCommerce",
+  "category_id": "net-application-building-blocks",
+  "purpose": "A simple, cross platform, modulith ecommerce system built on .NET",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fusioncache-2d236702be82",
+  "name": "FusionCache",
+  "url": "https://github.com/ZiggyCreatures/FusionCache",
+  "category_id": "net-application-building-blocks",
+  "purpose": "FusionCache is an easy to use, fast and robust hybrid cache with advanced resiliency features.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aspectcore-framework-8ee6033338b1",
+  "name": "AspectCore-Framework",
+  "url": "https://github.com/dotnetcore/AspectCore-Framework",
+  "category_id": "net-application-building-blocks",
+  "purpose": "AspectCore is an AOP-based cross platform framework for .NET Standard.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-papercut-smtp-1c89db1b5d24",
+  "name": "Papercut-SMTP",
+  "url": "https://github.com/ChangemakerStudios/Papercut-SMTP",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Papercut SMTP -- The Simple Desktop Email Server",
+  "resource_type": "repository",
+  "topics": [
+   "desktop"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-serenity-4741dc04e6fc",
+  "name": "Serenity",
+  "url": "https://github.com/serenity-is/Serenity",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Business Apps Made Simple with Asp.Net Core MVC / TypeScript",
+  "resource_type": "repository",
+  "topics": [
+   "typescript"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sharpcompress-e9140cd56462",
+  "name": "sharpcompress",
+  "url": "https://github.com/adamhathcock/sharpcompress",
+  "category_id": "net-application-building-blocks",
+  "purpose": "SharpCompress is a fully managed C# library to deal with many compression types and formats.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "resource_id": "res-dotnet-pinvoke-97af3e9ee458",
+  "name": "dotnet/pinvoke",
+  "url": "https://github.com/dotnet/pinvoke",
+  "category_id": "windows-legacy-references",
+  "purpose": "Historical hand-maintained Windows P/Invoke declarations | Unmaintained; project recommends CsWin32",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-alphaleonis-alphafs-10b29e7631ad",
+  "name": "alphaleonis/AlphaFS",
+  "url": "https://github.com/alphaleonis/AlphaFS",
+  "category_id": "windows-legacy-references",
+  "purpose": "Additional Windows filesystem operations for older .NET apps | Unmaintained; reference and legacy maintenance only",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

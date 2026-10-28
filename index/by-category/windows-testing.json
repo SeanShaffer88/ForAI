@@ -1,0 +1,145 @@
+[
+ {
+  "resource_id": "res-google-googletest-f01bb817898a",
+  "name": "google/googletest",
+  "url": "https://github.com/google/googletest",
+  "category_id": "windows-testing",
+  "purpose": "C++ testing and mocking | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-catchorg-catch2-bdfe462f61fe",
+  "name": "catchorg/Catch2",
+  "url": "https://github.com/catchorg/Catch2",
+  "category_id": "windows-testing",
+  "purpose": "C++ test framework | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-google-benchmark-1850fbfca992",
+  "name": "google/benchmark",
+  "url": "https://github.com/google/benchmark",
+  "category_id": "windows-testing",
+  "purpose": "C++ microbenchmarking | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-flaui-flaui-8fa3929a9f25",
+  "name": "FlaUI/FlaUI",
+  "url": "https://github.com/FlaUI/FlaUI",
+  "category_id": "windows-testing",
+  "purpose": ".NET Windows UI automation | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-pywinauto-pywinauto-8b867e76bfb1",
+  "name": "pywinauto/pywinauto",
+  "url": "https://github.com/pywinauto/pywinauto",
+  "category_id": "windows-testing",
+  "purpose": "Python Windows UI automation | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-nunit-nunit-40dfaa1cdcce",
+  "name": "nunit/nunit",
+  "url": "https://github.com/nunit/nunit",
+  "category_id": "windows-testing",
+  "purpose": ".NET test framework | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-xunit-xunit-2dcabf349ea4",
+  "name": "xunit/xunit",
+  "url": "https://github.com/xunit/xunit",
+  "category_id": "windows-testing",
+  "purpose": ".NET test framework | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

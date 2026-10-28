@@ -1,0 +1,77 @@
+[
+ {
+  "resource_id": "res-winsiderss-phnt-81f17b65d386",
+  "name": "winsiderss/phnt",
+  "url": "https://github.com/winsiderss/phnt",
+  "category_id": "windows-native-system-apis",
+  "purpose": "Native Windows API headers used by System Informer | Headers; includes internal and reconstructed declarations; not a replacement for supported SDK contracts",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-chuyu-team-mint-3d00aaf83f1a",
+  "name": "Chuyu-Team/MINT",
+  "url": "https://github.com/Chuyu-Team/MINT",
+  "category_id": "windows-native-system-apis",
+  "purpose": "User-mode internal API declarations for ntdll samlib and winsta | Headers based on PHNT; internal API behavior can vary by Windows build",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-knsoft-knsoft-ndk-28b43df12d35",
+  "name": "KNSoft/KNSoft.NDK",
+  "url": "https://github.com/KNSoft/KNSoft.NDK",
+  "category_id": "windows-native-system-apis",
+  "purpose": "Windows NT declarations and supplemental DLL import libraries | Headers and import libraries; includes undocumented APIs",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-zodiacon-winsys-603df405c9b9",
+  "name": "zodiacon/WinSys",
+  "url": "https://github.com/zodiacon/WinSys",
+  "category_id": "windows-native-system-apis",
+  "purpose": "Reusable C++ wrappers for low-level Windows development | System library extracted from SystemExplorer; assess API surface and build requirements",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

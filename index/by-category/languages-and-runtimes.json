@@ -1,0 +1,1411 @@
+[
+ {
+  "resource_id": "res-python-b97ef10f5cf6",
+  "name": "Python",
+  "url": "https://docs.python.org/3/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Language, standard library, packaging interfaces and embedding.",
+  "resource_type": "documentation",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-typescript-3bb55149df17",
+  "name": "TypeScript",
+  "url": "https://www.typescriptlang.org/docs/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Static checking for JavaScript; match compiler and library types.",
+  "resource_type": "documentation",
+  "topics": [
+   "build-tools",
+   "javascript",
+   "typescript"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-node-js-52ccc5efefd2",
+  "name": "Node.js",
+  "url": "https://nodejs.org/api/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Server JavaScript APIs and runtime behavior.",
+  "resource_type": "reference",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rust-and-cargo-1a7c1f8235a6",
+  "name": "Rust and Cargo",
+  "url": "https://doc.rust-lang.org/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Systems programming, ownership and package/build tooling.",
+  "resource_type": "documentation",
+  "topics": [
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-go-8fbef05aee52",
+  "name": "Go",
+  "url": "https://go.dev/doc/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Services, concurrency and standard tooling.",
+  "resource_type": "documentation",
+  "topics": [
+   "go"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "go"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-java-92ce7376a530",
+  "name": "Java",
+  "url": "https://dev.java/learn/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "JVM language and platform development resources.",
+  "resource_type": "documentation",
+  "topics": [
+   "java"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kotlin-722f2663642e",
+  "name": "Kotlin",
+  "url": "https://kotlinlang.org/docs/home.html",
+  "category_id": "languages-and-runtimes",
+  "purpose": "JVM and multiplatform language development.",
+  "resource_type": "documentation",
+  "topics": [
+   "kotlin"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "kotlin"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swift-43734e5f32fd",
+  "name": "Swift",
+  "url": "https://www.swift.org/documentation/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Language and toolchain reference; target platform capabilities differ.",
+  "resource_type": "documentation",
+  "topics": [
+   "swift"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "swift"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-php-fbc93ecf3c74",
+  "name": "PHP",
+  "url": "https://www.php.net/docs.php",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Web backend language and runtime reference.",
+  "resource_type": "reference",
+  "topics": [
+   "php"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ruby-4c333a65e565",
+  "name": "Ruby",
+  "url": "https://www.ruby-lang.org/en/documentation/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Language and standard runtime reference.",
+  "resource_type": "documentation",
+  "topics": [
+   "ruby"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dart-5d5b5fc1712c",
+  "name": "Dart",
+  "url": "https://dart.dev/guides",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Language and tooling used with Flutter and standalone apps.",
+  "resource_type": "reference",
+  "topics": [
+   "mobile"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-zig-9c65bc6740f6",
+  "name": "Zig",
+  "url": "https://ziglang.org/documentation/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Native language and toolchain candidate; verify compiler-version compatibility.",
+  "resource_type": "documentation",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mdn-web-docs-1919757e72bd",
+  "name": "MDN Web Docs",
+  "url": "https://developer.mozilla.org/en-US/docs/Web",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Browser HTML, CSS, JavaScript and Web API reference.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rust-8ffaac93b03e",
+  "name": "Rust",
+  "url": "https://www.rust-lang.org/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Language home; install via rustup, edition and release info.",
+  "resource_type": "reference",
+  "topics": [
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-the-rust-book-0b6cdf3e79d9",
+  "name": "The Rust Book",
+  "url": "https://doc.rust-lang.org/book/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Canonical language tutorial; ownership, traits, error handling.",
+  "resource_type": "documentation",
+  "topics": [
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-crates-io-4e0ae36de988",
+  "name": "crates.io",
+  "url": "https://crates.io/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Rust package registry; check downloads, docs link, and maintenance before recommending a crate.",
+  "resource_type": "reference",
+  "topics": [
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-docs-rs-75823bd8e47e",
+  "name": "docs.rs",
+  "url": "https://docs.rs/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Rendered docs for nearly every crate and version.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cargo-book-43906524b348",
+  "name": "Cargo Book",
+  "url": "https://doc.rust-lang.org/cargo/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Workspaces, features, profiles, publishing.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-python-d7a18bdd0e8a",
+  "name": "Python",
+  "url": "https://www.python.org/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Downloads, PEP index, release schedule.",
+  "resource_type": "reference",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pypi-5861926d79f7",
+  "name": "PyPI",
+  "url": "https://pypi.org/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Python package index; check version, requires-python, and project links.",
+  "resource_type": "reference",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-node-js-07828bdca123",
+  "name": "Node.js",
+  "url": "https://nodejs.org/en/docs",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Runtime APIs, LTS schedule, globals.",
+  "resource_type": "documentation",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-npm-ffd0a61e76c1",
+  "name": "npm",
+  "url": "https://www.npmjs.com/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "JavaScript package registry; verify package identity carefully — similar names are a supply-chain risk.",
+  "resource_type": "reference",
+  "topics": [
+   "javascript",
+   "security"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-deno-3e7f90fe3621",
+  "name": "Deno",
+  "url": "https://docs.deno.com/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Secure JS/TS runtime, standard library, JSR registry.",
+  "resource_type": "documentation",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bun-1ec0297f4d36",
+  "name": "Bun",
+  "url": "https://bun.sh/docs",
+  "category_id": "languages-and-runtimes",
+  "purpose": "JS runtime, bundler, test runner, package manager.",
+  "resource_type": "documentation",
+  "topics": [
+   "build-tools",
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nuget-gallery-b1f0183bc88c",
+  "name": "NuGet Gallery",
+  "url": "https://www.nuget.org/",
+  "category_id": "languages-and-runtimes",
+  "purpose": ".NET package registry; check target frameworks and license per package.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pkg-go-dev-4660840b9527",
+  "name": "pkg.go.dev",
+  "url": "https://pkg.go.dev/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Discover and read docs for Go packages and the standard library.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-c-reference-cppreference-7fb6dda16f9b",
+  "name": "C++ reference (cppreference)",
+  "url": "https://en.cppreference.com/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "De-facto C/C++ standard library and language reference.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vcpkg-74c0bbcafa81",
+  "name": "vcpkg",
+  "url": "https://vcpkg.io/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Microsoft C/C++ package manager; port list is searchable online.",
+  "resource_type": "reference",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-conan-58d7743af207",
+  "name": "Conan",
+  "url": "https://conan.io/center",
+  "category_id": "languages-and-runtimes",
+  "purpose": "C/C++ package manager and Conan Center index.",
+  "resource_type": "reference",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-java-5e15b74f3bf0",
+  "name": "Java",
+  "url": "https://dev.java/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "JDK tutorials, API docs, release information.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration",
+   "java"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-maven-central-74267986fba7",
+  "name": "Maven Central",
+  "url": "https://central.sonatype.com/",
+  "category_id": "languages-and-runtimes",
+  "purpose": "JVM artifact registry; verify group/artifact coordinates.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-playframework-464eb80f8429",
+  "name": "playframework",
+  "url": "https://github.com/playframework/playframework",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+  "resource_type": "repository",
+  "topics": [
+   "java",
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-agentscope-java-225ddeb9f477",
+  "name": "agentscope-java",
+  "url": "https://github.com/agentscope-ai/agentscope-java",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Build distributed, production-grade, long-running agents.",
+  "resource_type": "repository",
+  "topics": [
+   "java"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spotless-8a9f7af4527f",
+  "name": "spotless",
+  "url": "https://github.com/diffplug/spotless",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Keep your code spotless",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-intellij-community-81fd72a9a040",
+  "name": "intellij-community",
+  "url": "https://github.com/JetBrains/intellij-community",
+  "category_id": "languages-and-runtimes",
+  "purpose": "IntelliJ IDEA & IntelliJ Platform",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-classgraph-ecf452009a4b",
+  "name": "classgraph",
+  "url": "https://github.com/classgraph/classgraph",
+  "category_id": "languages-and-runtimes",
+  "purpose": "An uber-fast parallelized Java classpath scanner and module scanner.",
+  "resource_type": "repository",
+  "topics": [
+   "java"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bc-java-82defe20f7ca",
+  "name": "bc-java",
+  "url": "https://github.com/bcgit/bc-java",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Bouncy Castle Java Distribution (Mirror)",
+  "resource_type": "repository",
+  "topics": [
+   "java"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jmh-150107d94973",
+  "name": "jmh",
+  "url": "https://github.com/openjdk/jmh",
+  "category_id": "languages-and-runtimes",
+  "purpose": "https://openjdk.org/projects/code-tools/jmh",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jbang-a2de6e348861",
+  "name": "jbang",
+  "url": "https://github.com/jbangdev/jbang",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.",
+  "resource_type": "repository",
+  "topics": [
+   "java"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-smile-5f3542607c28",
+  "name": "smile",
+  "url": "https://github.com/haifengl/smile",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Statistical Machine Intelligence & Learning Engine",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tribuo-7f8b8a31acac",
+  "name": "tribuo",
+  "url": "https://github.com/oracle/tribuo",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Tribuo - A Java machine learning library",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "java"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pebble-d9e6f11b082e",
+  "name": "pebble",
+  "url": "https://github.com/PebbleTemplates/pebble",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Java Template Engine",
+  "resource_type": "repository",
+  "topics": [
+   "java"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-javapackager-f053c68b2143",
+  "name": "JavaPackager",
+  "url": "https://github.com/javapackager/JavaPackager",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Gradle/Maven plugin to package Java applications as native Windows, MacOS, or Linux executables and create installers for them.",
+  "resource_type": "repository",
+  "topics": [
+   "java",
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-jspecify-d2312bbc1482",
+  "name": "jspecify",
+  "url": "https://github.com/jspecify/jspecify",
+  "category_id": "languages-and-runtimes",
+  "purpose": "An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-seastar-e5fbc444bb50",
+  "name": "seastar",
+  "url": "https://github.com/scylladb/seastar",
+  "category_id": "languages-and-runtimes",
+  "purpose": "High performance server-side application framework",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-magic-enum-11443dfa89d8",
+  "name": "magic_enum",
+  "url": "https://github.com/Neargye/magic_enum",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-userver-5aa34044d934",
+  "name": "userver",
+  "url": "https://github.com/userver-framework/userver",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Production-ready C++ Asynchronous Framework with rich functionality",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flashlight-35ae5deeae7d",
+  "name": "flashlight",
+  "url": "https://github.com/flashlight/flashlight",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A C++ standalone library for machine learning",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-velox-e6d044fa041e",
+  "name": "velox",
+  "url": "https://github.com/facebookincubator/velox",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A composable and fully extensible C++ execution engine library for data management systems.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xtensor-d799692e26fe",
+  "name": "xtensor",
+  "url": "https://github.com/xtensor-stack/xtensor",
+  "category_id": "languages-and-runtimes",
+  "purpose": "C++ tensors with broadcasting and lazy computing",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lammps-5de68e8cf590",
+  "name": "lammps",
+  "url": "https://github.com/lammps/lammps",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Public development project of the LAMMPS MD software package",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-miniz-9bf1a22fad7a",
+  "name": "miniz",
+  "url": "https://github.com/richgel999/miniz",
+  "category_id": "languages-and-runtimes",
+  "purpose": "miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-asyncplusplus-2381908a78b0",
+  "name": "asyncplusplus",
+  "url": "https://github.com/Amanieu/asyncplusplus",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Async++ concurrency framework for C++11",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-treefrog-framework-591e911dd937",
+  "name": "treefrog-framework",
+  "url": "https://github.com/treefrogframework/treefrog-framework",
+  "category_id": "languages-and-runtimes",
+  "purpose": "TreeFrog Framework : High-speed C++ MVC Framework for Web Application",
+  "resource_type": "repository",
+  "topics": [
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-swift-corelibs-libdispatch-58cb2e0df093",
+  "name": "swift-corelibs-libdispatch",
+  "url": "https://github.com/swiftlang/swift-corelibs-libdispatch",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware",
+  "resource_type": "repository",
+  "topics": [
+   "swift"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "swift"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-simbody-56ad4a92ed1d",
+  "name": "simbody",
+  "url": "https://github.com/simbody/simbody",
+  "category_id": "languages-and-runtimes",
+  "purpose": "High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opensiv3d-d35e94b84d97",
+  "name": "OpenSiv3D",
+  "url": "https://github.com/Siv3D/OpenSiv3D",
+  "category_id": "languages-and-runtimes",
+  "purpose": "C++20 framework for creative coding 🎮🎨🎹 / Cross-platform support (Windows, macOS, Linux, and the Web)",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-nameof-0a54689cde31",
+  "name": "nameof",
+  "url": "https://github.com/Neargye/nameof",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-iceoryx-e40a7222d10f",
+  "name": "iceoryx",
+  "url": "https://github.com/eclipse-iceoryx/iceoryx",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Eclipse iceoryx™ - true zero-copy inter-process-communication",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cpr-2bca8136728a",
+  "name": "cpr",
+  "url": "https://github.com/libcpr/cpr",
+  "category_id": "languages-and-runtimes",
+  "purpose": "C++ Requests: Curl for People, a spiritual port of Python Requests.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wav2letter-1aa7c248c51d",
+  "name": "wav2letter",
+  "url": "https://github.com/flashlight/wav2letter",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Facebook AI Research's Automatic Speech Recognition Toolkit",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swig-6f88997661cb",
+  "name": "swig",
+  "url": "https://github.com/swig/swig",
+  "category_id": "languages-and-runtimes",
+  "purpose": "SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hyperscan-0021b660dcd9",
+  "name": "hyperscan",
+  "url": "https://github.com/intel/hyperscan",
+  "category_id": "languages-and-runtimes",
+  "purpose": "High-performance regular expression matching library",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-icey-637c414edafc",
+  "name": "icey",
+  "url": "https://github.com/nilstate/icey",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Real-time media stack and lightweight libwebrtc alternative, built in C++20",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swoole-src-7819f44af868",
+  "name": "swoole-src",
+  "url": "https://github.com/swoole/swoole-src",
+  "category_id": "languages-and-runtimes",
+  "purpose": "🚀 Coroutine-based concurrency library for PHP",
+  "resource_type": "repository",
+  "topics": [
+   "php"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-phpspreadsheet-20e02735a980",
+  "name": "PhpSpreadsheet",
+  "url": "https://github.com/PHPOffice/PhpSpreadsheet",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A pure PHP library for reading and writing spreadsheet files",
+  "resource_type": "repository",
+  "topics": [
+   "php"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-roadrunner-d3a751fc1b53",
+  "name": "roadrunner",
+  "url": "https://github.com/roadrunner-server/roadrunner",
+  "category_id": "languages-and-runtimes",
+  "purpose": "🤯 High-performance PHP application server, process manager written in Go and powered with plugins",
+  "resource_type": "repository",
+  "topics": [
+   "php"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-securityadvisories-0816a00e0b1a",
+  "name": "SecurityAdvisories",
+  "url": "https://github.com/Roave/SecurityAdvisories",
+  "category_id": "languages-and-runtimes",
+  "purpose": ":closed_lock_with_key: Security advisories as a simple composer exclusion list, updated daily",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llphant-2ecd14bf684a",
+  "name": "LLPhant",
+  "url": "https://github.com/LLPhant/LLPhant",
+  "category_id": "languages-and-runtimes",
+  "purpose": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "php"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-deptrac-61bc48296809",
+  "name": "deptrac",
+  "url": "https://github.com/deptrac/deptrac",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Keep your architecture clean.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-math-c14031d4a9d9",
+  "name": "math",
+  "url": "https://github.com/brick/math",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Arbitrary-precision arithmetic library for PHP",
+  "resource_type": "repository",
+  "topics": [
+   "php"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-puppet-5b975c2b3fe9",
+  "name": "puppet",
+  "url": "https://github.com/puppetlabs/puppet",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Server automation framework and application",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-searchkick-c1789a8ccd20",
+  "name": "searchkick",
+  "url": "https://github.com/ankane/searchkick",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Intelligent search made easy",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-parallel-bed901780355",
+  "name": "parallel",
+  "url": "https://github.com/grosser/parallel",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Ruby: parallel processing made simple and fast",
+  "resource_type": "repository",
+  "topics": [
+   "ruby"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flipper-69d26b19a186",
+  "name": "flipper",
+  "url": "https://github.com/flippercloud/flipper",
+  "category_id": "languages-and-runtimes",
+  "purpose": "🐬 Beautiful, performant feature flags for Ruby.",
+  "resource_type": "repository",
+  "topics": [
+   "ruby"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gon-a084f47b6452",
+  "name": "gon",
+  "url": "https://github.com/gazay/gon",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Your Rails variables in your JS",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rpush-30b02347ad95",
+  "name": "rpush",
+  "url": "https://github.com/rpush/rpush",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The push notification service for Ruby.",
+  "resource_type": "repository",
+  "topics": [
+   "ruby"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reform-94f6e997a570",
+  "name": "reform",
+  "url": "https://github.com/trailblazer/reform",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Form objects decoupled from models.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-refile-639cd07a7afc",
+  "name": "refile",
+  "url": "https://github.com/refile/refile",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Ruby file uploads, take 3",
+  "resource_type": "repository",
+  "topics": [
+   "ruby"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reactivecocoa-49d2871c83c1",
+  "name": "ReactiveCocoa",
+  "url": "https://github.com/ReactiveCocoa/ReactiveCocoa",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-material-869f03c39c43",
+  "name": "Material",
+  "url": "https://github.com/CosmicMind/Material",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A UI/UX framework for creating beautiful applications.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-phonenumberkit-656c0430248f",
+  "name": "PhoneNumberKit",
+  "url": "https://github.com/marmelroy/PhoneNumberKit",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.",
+  "resource_type": "repository",
+  "topics": [
+   "swift"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "swift"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-iqkeyboardmanager-df47478ea480",
+  "name": "IQKeyboardManager",
+  "url": "https://github.com/hackiftekhar/IQKeyboardManager",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fspagerview-5be881c15150",
+  "name": "FSPagerView",
+  "url": "https://github.com/WenchaoD/FSPagerView",
+  "category_id": "languages-and-runtimes",
+  "purpose": "FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ibanimatable-1e3c2c782980",
+  "name": "IBAnimatable",
+  "url": "https://github.com/IBAnimatable/IBAnimatable",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kmnavigationbartransition-4f4f81a5fde2",
+  "name": "KMNavigationBarTransition",
+  "url": "https://github.com/MoZhouqi/KMNavigationBarTransition",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

@@ -1,0 +1,21 @@
+[
+ {
+  "resource_id": "res-amerkoleci-vortice-windows-8e49e6ba0909",
+  "name": "amerkoleci/Vortice.Windows",
+  "url": "https://github.com/amerkoleci/Vortice.Windows",
+  "category_id": "windows-graphics-binding-options",
+  "purpose": "Modern .NET bindings for Direct3D Direct2D audio input and related Windows APIs | Compare supported target frameworks and API coverage before reviving SharpDX",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

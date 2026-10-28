@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "description": "Rollup of the catalog categories into broad domains for AI navigation. Pick a domain, then open only that domain's category shards in index/by-category/. Derived from resources.json by scripts/generate_ai_views.py; adds grouping only.",
+  "groups": {
+    "ai": {
+      "category_ids": [
+        "ai-agent-frameworks-and-orchestration",
+        "ai-agent-memory-and-context",
+        "ai-agent-protocols-and-interoperability",
+        "ai-coding-agents-and-assistants",
+        "ai-data-and-annotation",
+        "ai-evaluation-observability-and-guardrails",
+        "ai-learning-and-references",
+        "ai-machine-learning-and-local-inference",
+        "ai-mcp-servers-and-tool-use",
+        "ai-models-and-api-providers",
+        "ai-prompt-and-context-engineering",
+        "ai-retrieval-and-vector-search",
+        "ai-speech-voice-and-realtime"
+      ],
+      "category_count": 13,
+      "resource_count": 343
+    },
+    "cloud-infra-devops": {
+      "category_ids": [
+        "builds-packages-and-environments",
+        "ci-version-control-and-releases",
+        "cloud-infrastructure-and-deployment",
+        "infrastructure-as-code-and-cloud-native-operations"
+      ],
+      "category_count": 4,
+      "resource_count": 211
+    },
+    "data": {
+      "category_ids": [
+        "data-science-and-engineering-tools",
+        "databases-data-access-and-analytics",
+        "public-data-research-and-location-apis",
+        "search-messaging-and-durable-work"
+      ],
+      "category_count": 4,
+      "resource_count": 141
+    },
+    "design-ux": {
+      "category_ids": [
+        "accessibility-internationalization-and-documentation",
+        "design-systems-and-design-engineering",
+        "software-architecture-and-api-design-patterns",
+        "ui-design-inspiration-and-reference"
+      ],
+      "category_count": 4,
+      "resource_count": 125
+    },
+    "desktop-mobile": {
+      "category_ids": [
+        "android-apk-development-and-analysis",
+        "desktop-mobile-and-device-sdks",
+        "platform-sdks-and-windows"
+      ],
+      "category_count": 3,
+      "resource_count": 121
+    },
+    "languages-runtimes": {
+      "category_ids": [
+        "language-tooling-and-repository-automation",
+        "languages-and-runtimes",
+        "niche-language-ecosystems",
+        "python-rust-and-go-building-blocks",
+        "webassembly-and-plugin-runtimes"
+      ],
+      "category_count": 5,
+      "resource_count": 328
+    },
+    "media-games-docs": {
+      "category_ids": [
+        "collaboration-local-state-and-rich-text",
+        "documents-ocr-and-file-formats",
+        "game-creation-assets-and-automation",
+        "graphics-multimedia-scientific-and-geospatial",
+        "world-of-warcraft-addon-development"
+      ],
+      "category_count": 5,
+      "resource_count": 125
+    },
+    "operations-tools": {
+      "category_ids": [
+        "backup-storage-transfer-and-resilience",
+        "feature-flags-configuration-and-secrets",
+        "observability-debugging-and-operations",
+        "optimization-scheduling-and-operational-tooling",
+        "standards-and-discovery"
+      ],
+      "category_count": 5,
+      "resource_count": 79
+    },
+    "security": {
+      "category_ids": [
+        "security-identity-and-supply-chain",
+        "security-testing-defense-and-supply-chain-assurance"
+      ],
+      "category_count": 2,
+      "resource_count": 143
+    },
+    "testing-quality": {
+      "category_ids": [
+        "test-automation-and-quality-engineering",
+        "testing-verification-and-performance"
+      ],
+      "category_count": 2,
+      "resource_count": 109
+    },
+    "web-api-architecture": {
+      "category_ids": [
+        "api-contracts-clients-and-networking",
+        "integration-apis-and-business-sdks",
+        "net-application-building-blocks",
+        "web-interfaces-and-application-frameworks"
+      ],
+      "category_count": 4,
+      "resource_count": 245
+    },
+    "windows": {
+      "category_ids": [
+        "windows-binary-and-build-analysis",
+        "windows-binary-tooling-additions",
+        "windows-build-and-deployment-additions",
+        "windows-build-tools",
+        "windows-crash-reporting-and-stacks",
+        "windows-crt-and-compatibility",
+        "windows-deployment",
+        "windows-desktop-ui",
+        "windows-devices-and-filesystems",
+        "windows-diagnostics",
+        "windows-diagnostics-additions",
+        "windows-drivers",
+        "windows-embeddable-runtimes",
+        "windows-embedded-runtime-revival",
+        "windows-embedded-runtimes-and-ui",
+        "windows-graphics",
+        "windows-graphics-additions",
+        "windows-graphics-binding-options",
+        "windows-heap-and-debugger-extensions",
+        "windows-jit-code-generation",
+        "windows-legacy-references",
+        "windows-named-pipes-and-function-interception",
+        "windows-native-audio-and-images",
+        "windows-native-crash-and-heap-diagnostics",
+        "windows-native-integration",
+        "windows-native-libraries",
+        "windows-native-networking-and-data",
+        "windows-native-platform-integration",
+        "windows-native-system-apis",
+        "windows-native-utility-additions",
+        "windows-net-application-helpers",
+        "windows-networking-and-virtual-devices",
+        "windows-offline-windows-formats",
+        "windows-pdb-and-pe-tooling",
+        "windows-processes-and-console",
+        "windows-projected-files-and-shell",
+        "windows-reference-additions",
+        "windows-resources",
+        "windows-revival-candidates-and-useful-starting-points",
+        "windows-runtimes",
+        "windows-shared-memory-and-pipes",
+        "windows-small-native-utility-additions",
+        "windows-static-analysis-additions",
+        "windows-testing",
+        "windows-windows-apis",
+        "windows-windows-inspection-and-com"
+      ],
+      "category_count": 46,
+      "resource_count": 232
+    }
+  }
+}

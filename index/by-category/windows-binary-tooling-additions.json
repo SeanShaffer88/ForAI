@@ -1,0 +1,95 @@
+[
+ {
+  "resource_id": "res-capstone-engine-capstone-cd3df2f6ed71",
+  "name": "capstone-engine/capstone",
+  "url": "https://github.com/capstone-engine/capstone",
+  "category_id": "windows-binary-tooling-additions",
+  "purpose": "Multi-architecture instruction disassembly | Native library",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-zyantific-zydis-29b1c71b8462",
+  "name": "zyantific/zydis",
+  "url": "https://github.com/zyantific/zydis",
+  "category_id": "windows-binary-tooling-additions",
+  "purpose": "Fast x86 and x64 disassembly and instruction encoding | Native library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-rizinorg-cutter-b3c7846360cb",
+  "name": "rizinorg/cutter",
+  "url": "https://github.com/rizinorg/cutter",
+  "category_id": "windows-binary-tooling-additions",
+  "purpose": "Graphical binary analysis and reverse engineering | Desktop tool",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-easyhook-easyhook-4fb24333b52c",
+  "name": "EasyHook/EasyHook",
+  "url": "https://github.com/EasyHook/EasyHook",
+  "category_id": "windows-binary-tooling-additions",
+  "purpose": "Bridge managed and unmanaged API interception | Check supported .NET and OS versions",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-stevemk14ebr-polyhook-2-0-af9516cc4269",
+  "name": "stevemk14ebr/PolyHook_2_0",
+  "url": "https://github.com/stevemk14ebr/PolyHook_2_0",
+  "category_id": "windows-binary-tooling-additions",
+  "purpose": "C++ x86 and x64 function interception | Native instrumentation library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

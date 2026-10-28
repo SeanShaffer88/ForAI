@@ -1,0 +1,74 @@
+[
+ {
+  "resource_id": "res-agent2agent-a2a-protocol-cdaf278a493f",
+  "name": "Agent2Agent (A2A) Protocol",
+  "url": "https://a2a-protocol.org/latest/",
+  "category_id": "ai-agent-protocols-and-interoperability",
+  "purpose": "Linux Foundation protocol for agent-to-agent discovery, task delegation, and interoperability — the complement to MCP's tool access. Check version compatibility between implementations.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "linux",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-a2a-protocol-github-49881f45b655",
+  "name": "A2A protocol (GitHub)",
+  "url": "https://github.com/a2aproject/A2A",
+  "category_id": "ai-agent-protocols-and-interoperability",
+  "purpose": "Specification source, samples, and SDK links for Agent2Agent.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ag-ui-protocol-90c3731084a7",
+  "name": "AG-UI Protocol",
+  "url": "https://docs.ag-ui.com/",
+  "category_id": "ai-agent-protocols-and-interoperability",
+  "purpose": "Event-based protocol connecting agent backends to user interfaces (streaming state, tool calls, human input).",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-copilotkit-ac79ebb82dee",
+  "name": "CopilotKit",
+  "url": "https://docs.copilotkit.ai/",
+  "category_id": "ai-agent-protocols-and-interoperability",
+  "purpose": "React framework for agent-native UIs; creators/stewards of AG-UI. Use when the frontend must render agent state, not just chat text.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "web"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "resource_id": "res-wasm-micro-runtime-wasm-micro-runtime-d233915fc8cd",
+  "name": "wasm-micro-runtime/wasm-micro-runtime",
+  "url": "https://github.com/wasm-micro-runtime/wasm-micro-runtime",
+  "category_id": "windows-embeddable-runtimes",
+  "purpose": "Embed WebAssembly interpreter and AOT execution in native programs | WAMR current location; Windows MSVC and MinGW documentation exists; modes and WASI support differ by configuration",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-wasm3-wasm3-239c8659a626",
+  "name": "wasm3/wasm3",
+  "url": "https://github.com/wasm3/wasm3",
+  "category_id": "windows-embeddable-runtimes",
+  "purpose": "Compact WebAssembly interpreter for native applications | Minimal-maintenance phase per README; check required Wasm and WASI features",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-svaarala-duktape-4ade40cc6e31",
+  "name": "svaarala/duktape",
+  "url": "https://github.com/svaarala/duktape",
+  "category_id": "windows-embeddable-runtimes",
+  "purpose": "Compact JavaScript interpreter embeddable in C and C++ | Master tracks incompatible 3.x changes; README points 2.x users to v2-maintenance",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-wren-lang-wren-e9190d2a714c",
+  "name": "wren-lang/wren",
+  "url": "https://github.com/wren-lang/wren",
+  "category_id": "windows-embeddable-runtimes",
+  "purpose": "Small class-based scripting VM for embedding | C runtime; check host integration and Windows build tooling",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-albertodemichelis-squirrel-ab098d3767a4",
+  "name": "albertodemichelis/squirrel",
+  "url": "https://github.com/albertodemichelis/squirrel",
+  "category_id": "windows-embeddable-runtimes",
+  "purpose": "Embeddable scripting language with native integration | Official Squirrel repository; README documents Windows x86 and amd64",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-chaiscript-chaiscript-f4d71ea72dd1",
+  "name": "ChaiScript/ChaiScript",
+  "url": "https://github.com/ChaiScript/ChaiScript",
+  "category_id": "windows-embeddable-runtimes",
+  "purpose": "Header-based scripting integration designed for C++ | C++ embedded language; evaluate compile time and supported toolchains",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

@@ -6,7 +6,7 @@
 
 ## Start here
 
-For a task, follow `AGENTS.md`: identify the relevant topic, consult only its category/catalog pages, then verify important claims at primary sources. Treat entries as discovery pointers, not endorsements or current audits.
+Fastest path: read `AI_INDEX.md` (one page), pick a domain in `index/category-groups.json`, then open only that category's shard in `index/by-category/<category_id>.json` or its page in `categories/`. Full instructions are in `AGENTS.md`. Verify important claims at primary sources. Treat entries as discovery pointers, not endorsements or current audits. Never use `archive/legacy-template/` — it holds placeholder entries for resources that do not exist.
 
 
 ## Machine-readable full catalog
@@ -15,6 +15,7 @@ For a task, follow `AGENTS.md`: identify the relevant topic, consult only its ca
 - [CSV export](resources.csv): spreadsheet-friendly export generated from the canonical JSON.
 - [Resource schema](index/resource-schema.json) and [facet taxonomy](index/taxonomy.json): record and discovery vocabulary.
 - [Local search](scripts/search.py): ranked, standard-library search with exact facet filters.
+- [Compact catalog](index/resources.compact.json): the full catalog, shortlisting fields only, ~38% of the canonical file's size. Per-category shards live in `index/by-category/`.
 
 ## Categories
 

@@ -1,0 +1,1160 @@
+[
+ {
+  "resource_id": "res-model-context-protocol-a382f7792587",
+  "name": "Model Context Protocol",
+  "url": "https://modelcontextprotocol.io/",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Protocol spec, concepts (tools/resources/prompts), transports, and security guidance. Read this first.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "mcp",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-specification-github-2bc23218c9d9",
+  "name": "MCP specification (GitHub)",
+  "url": "https://github.com/modelcontextprotocol/modelcontextprotocol",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Spec source, schemas, and proposals.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-official-mcp-servers-e0435ec1e8b4",
+  "name": "Official MCP servers",
+  "url": "https://github.com/modelcontextprotocol/servers",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Reference servers: filesystem, fetch, git, memory, sequential-thinking, time, everything (test server), plus archived servers list.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git",
+   "mcp",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-registry-6e4bd87fd9cd",
+  "name": "MCP Registry",
+  "url": "https://registry.modelcontextprotocol.io/",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official community registry for discovering public MCP servers.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-registry-github-640e8b637206",
+  "name": "MCP Registry (GitHub)",
+  "url": "https://github.com/modelcontextprotocol/registry",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Registry API and publishing process.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-python-sdk-9fd0cc88a451",
+  "name": "MCP Python SDK",
+  "url": "https://github.com/modelcontextprotocol/python-sdk",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official Python SDK (FastMCP-style server/client) for building MCP servers.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-typescript-sdk-c435fb33ef54",
+  "name": "MCP TypeScript SDK",
+  "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official TypeScript SDK for servers and clients.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-c-sdk-6a3ebd86cfbb",
+  "name": "MCP C# SDK",
+  "url": "https://github.com/modelcontextprotocol/csharp-sdk",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official .NET SDK, maintained with Microsoft.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-rust-sdk-b3683d26faa2",
+  "name": "MCP Rust SDK",
+  "url": "https://github.com/modelcontextprotocol/rust-sdk",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official Rust SDK (rmcp).",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp",
+   "rust"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-go-sdk-da10a4647ce0",
+  "name": "MCP Go SDK",
+  "url": "https://github.com/modelcontextprotocol/go-sdk",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official Go SDK, maintained with Google.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-java-sdk-0c97b476d9b9",
+  "name": "MCP Java SDK",
+  "url": "https://github.com/modelcontextprotocol/java-sdk",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official Java SDK, built on Spring AI infrastructure.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "java",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-github-mcp-server-cf5e2c4d4a7b",
+  "name": "GitHub MCP Server",
+  "url": "https://github.com/github/github-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "GitHub's official MCP server: repos, issues, PRs, Actions. Prefer this over scraping GitHub.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-playwright-mcp-6ef5ac7e9f2e",
+  "name": "Playwright MCP",
+  "url": "https://github.com/microsoft/playwright-mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Microsoft's MCP server for browser automation via Playwright accessibility snapshots.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "ai",
+   "browser-automation",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chrome-devtools-mcp-c95ce42ee8c3",
+  "name": "Chrome DevTools MCP",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official Chrome DevTools MCP server for debugging, traces, and network inspection.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aws-mcp-servers-awslabs-e3cbf0814151",
+  "name": "AWS MCP servers (awslabs)",
+  "url": "https://github.com/awslabs/mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "AWS's suite of MCP servers for AWS services, docs, and architecture guidance.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "architecture",
+   "cloud",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cloudflare-mcp-servers-f70a3ffdef84",
+  "name": "Cloudflare MCP servers",
+  "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Cloudflare's remote MCP servers for Workers, DNS, observability, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stripe-agent-toolkit-58dba48fe275",
+  "name": "Stripe Agent Toolkit",
+  "url": "https://github.com/stripe/ai",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Stripe's official tools for agents, including MCP integration for payments APIs.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-mcp-servers-109ec2d260f8",
+  "name": "Awesome MCP Servers",
+  "url": "https://github.com/punkpeye/awesome-mcp-servers",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Large community list of MCP servers by category; a discovery aid — verify each server before use.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-so-aa0245534e0a",
+  "name": "MCP.so",
+  "url": "https://mcp.so/",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Community directory of MCP servers and clients with categories.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-glama-mcp-directory-608177a22cc7",
+  "name": "Glama MCP directory",
+  "url": "https://glama.ai/mcp/servers",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Searchable MCP server directory with listings and metadata.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-smithery-2d5cc13e1606",
+  "name": "Smithery",
+  "url": "https://smithery.ai/",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Hosted MCP server discovery and connection service.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pulsemcp-ffb0895b5e20",
+  "name": "PulseMCP",
+  "url": "https://www.pulsemcp.com/",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "MCP server directory and weekly newsletter tracking the ecosystem.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-clients-list-5df9e7b69bbd",
+  "name": "MCP clients list",
+  "url": "https://modelcontextprotocol.io/clients",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Which clients support which MCP features. The standalone clients page now redirects into the versioned MCP documentation; client feature support is maintained there.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-inspector-f7a113e044da",
+  "name": "MCP Inspector",
+  "url": "https://github.com/modelcontextprotocol/inspector",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official visual testing/debugging tool for MCP servers: inspect tools, resources, prompts, and notifications during development.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fastmcp-e4344f280da6",
+  "name": "FastMCP",
+  "url": "https://gofastmcp.com/",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "High-level Python framework for building MCP servers and clients; much of the ecosystem is built on it. Mind the version — FastMCP 1.x was merged into the official Python SDK lineage.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-docker-mcp-toolkit-and-catalog-bfafca220738",
+  "name": "Docker MCP Toolkit and Catalog",
+  "url": "https://docs.docker.com/ai/mcp-catalog-and-toolkit/",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Docker's curated MCP catalog and toolkit: run MCP servers as containers with isolation and secret handling.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "containers",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubernetes-mcp-server-176f7a303e4b",
+  "name": "Kubernetes MCP Server",
+  "url": "https://github.com/containers/kubernetes-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "MCP server for Kubernetes and OpenShift operations via native API calls.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "containers",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-mcp-server-hashicorp-e3e7963f8edd",
+  "name": "Terraform MCP Server (HashiCorp)",
+  "url": "https://github.com/hashicorp/terraform-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "HashiCorp's MCP server for Terraform Registry modules, providers, and workspace operations.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "infrastructure-as-code",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mongodb-mcp-server-2f39d48bb68b",
+  "name": "MongoDB MCP Server",
+  "url": "https://github.com/mongodb-js/mongodb-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "MongoDB's official MCP server for database exploration and operations (read-only modes available).",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "database",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-supabase-mcp-server-88673921a344",
+  "name": "Supabase MCP Server",
+  "url": "https://github.com/supabase/mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Supabase's official MCP server: manage tables, run SQL, and deploy functions from an agent. Use read-only mode for safety.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "database",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-neon-mcp-server-6f3d78e963f3",
+  "name": "Neon MCP Server",
+  "url": "https://github.com/neondatabase/mcp-server-neon",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Neon's MCP server for managing serverless Postgres projects, branches, and queries.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud",
+   "database",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-redis-mcp-server-f9e9ddb364d3",
+  "name": "Redis MCP Server",
+  "url": "https://github.com/redis/mcp-redis",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Redis's official MCP server for natural-language operations against Redis data.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "database",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sentry-mcp-server-fad7a13a259a",
+  "name": "Sentry MCP Server",
+  "url": "https://github.com/getsentry/toolkit",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Sentry's official MCP server (now developed in Sentry's toolkit monorepo): query issues, errors, and performance data from coding agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-linear-mcp-server-68609248f9c0",
+  "name": "Linear MCP Server",
+  "url": "https://linear.app/docs/mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Linear's official remote MCP server for issues and project data in agents.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-figma-mcp-server-dev-mode-b30c8dc2f4a1",
+  "name": "Figma MCP Server (Dev Mode)",
+  "url": "https://developers.figma.com/docs/figma-mcp-server/",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Figma's official MCP server: bring design context (and code generation hints) into coding agents.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-toolhive-stacklok-7f9182055d9b",
+  "name": "ToolHive (Stacklok)",
+  "url": "https://docs.stacklok.com/toolhive/",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Run and manage MCP servers in containers with a registry, proxy, and access controls.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-contextforge-mcp-gateway-ibm-3a2e4104ca7e",
+  "name": "ContextForge MCP Gateway (IBM)",
+  "url": "https://github.com/IBM/mcp-context-forge",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "IBM's open-source MCP gateway and registry: federation, auth, and tool virtualization for teams.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langchain-mcp-adapters-82b89cd96665",
+  "name": "LangChain MCP Adapters",
+  "url": "https://github.com/langchain-ai/langchain-mcp-adapters",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Adapters that turn MCP tools into LangChain/LangGraph tools; the standard bridge between the two ecosystems.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-use-b38000416dd6",
+  "name": "mcp-use",
+  "url": "https://github.com/mcp-use/mcp-use",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Framework to build full MCP agents (client + server) in Python/TypeScript, with a hosted inspector.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp",
+   "python",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ui-tars-desktop-267334515193",
+  "name": "UI-TARS-desktop",
+  "url": "https://github.com/bytedance/UI-TARS-desktop",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "desktop",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mobilebuildmcp-33bfc6d5d491",
+  "name": "MobileBuildMCP",
+  "url": "https://github.com/getsentry/MobileBuildMCP",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-toolhive-d77c1ad2bfb8",
+  "name": "toolhive",
+  "url": "https://github.com/stacklok/toolhive",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-slack-mcp-server-e876b23edd40",
+  "name": "slack-mcp-server",
+  "url": "https://github.com/korotovsky/slack-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ms-365-mcp-server-a89de42935b3",
+  "name": "ms-365-mcp-server",
+  "url": "https://github.com/Softeria/ms-365-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "A Model Context Protocol (MCP) server for interacting with Microsoft 365 and Microsoft Office services through the Graph API",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-octocode-388f5e417000",
+  "name": "octocode",
+  "url": "https://github.com/bgauryy/octocode",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-k8m-e0ca9ba64458",
+  "name": "k8m",
+  "url": "https://github.com/weibaohui/k8m",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "containers",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-android-mcp-server-211755df1964",
+  "name": "android-mcp-server",
+  "url": "https://github.com/minhalvp/android-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "An MCP server that provides control over Android devices via adb",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "android",
+   "mcp",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-meta-ads-mcp-355301c5a3ad",
+  "name": "meta-ads-mcp",
+  "url": "https://github.com/pipeboard-co/meta-ads-mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Meta Ads (Facebook/Instagram) MCP server for Claude, ChatGPT, Perplexity & Cursor — the Meta node of Pipeboard’s 5-platform family (+ Google, TikTok, Snap, Reddit). Hosted remote MCP, badged Meta Business Partner, free plan — no self-hosting required.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-qgis-mcp-41e2d1b8a13d",
+  "name": "qgis_mcp",
+  "url": "https://github.com/jjsantos01/qgis_mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Model Context Protocol (MCP) that allows LLMs to use QGIS Desktop",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "desktop",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-shinkai-local-ai-agents-49aff08b99b7",
+  "name": "shinkai-local-ai-agents",
+  "url": "https://github.com/dcSpark/shinkai-local-ai-agents",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Shinkai is a two click install App that allows you to create Local AI agents in 5 minutes or less using a simple UI. Supports: MCPs, Remote and Local AI, Crypto and Payments.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vibe-check-mcp-server-c523a29e939c",
+  "name": "vibe-check-mcp-server",
+  "url": "https://github.com/PV-Bhat/vibe-check-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Vibe Check is a tool that provides mentor-like feedback to AI Agents, preventing tunnel-vision, over-engineering and reasoning lock-in for complex and long-horizon agent workflows. KISS your over-eager AI Agents goodbye! Effective for: Coding, Ambiguous Tasks, High-Risk tasks",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-plane-mcp-server-48458042179a",
+  "name": "plane-mcp-server",
+  "url": "https://github.com/makeplane/plane-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Plane's Official Model Context Protocol Server 🔌 ⌨️ 🔥",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-consult7-f24567e453c7",
+  "name": "consult7",
+  "url": "https://github.com/szeider/consult7",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "MCP server to consult a language model with large context size",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gk-cli-87b2d0c967b9",
+  "name": "gk-cli",
+  "url": "https://github.com/gitkraken/gk-cli",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "GitKraken CLI Releases and Documentation",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mux-ts-3b7ed0416707",
+  "name": "mux-ts",
+  "url": "https://github.com/muxinc/mux-ts",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official Mux API wrapper for Node projects, supporting both Mux Data and Mux Video.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-scrapeless-mcp-server-1c0fcea4cd76",
+  "name": "scrapeless-mcp-server",
+  "url": "https://github.com/scrapeless-ai/scrapeless-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Scrapeless Mcp Server",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-read-website-fast-da62437a5abe",
+  "name": "mcp-read-website-fast",
+  "url": "https://github.com/just-every/mcp-read-website-fast",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Quickly reads webpages and converts to markdown for fast, token efficient web scraping",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp",
+   "web"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-armor-crypto-mcp-74c080a28cb8",
+  "name": "armor-crypto-mcp",
+  "url": "https://github.com/armorwallet/armor-crypto-mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "The MCP server for interacting with Blockchain, Swaps, Strategic Planning and more.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bloodhound-mcp-ai-3dde6096b3f0",
+  "name": "BloodHound-MCP-AI",
+  "url": "https://github.com/MorDavid/BloodHound-MCP-AI",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-magg-d0d98d7c4153",
+  "name": "magg",
+  "url": "https://github.com/sitbon/magg",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Magg: The MCP Aggregator",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fhir-mcp-server-35d8b86ccdef",
+  "name": "fhir-mcp-server",
+  "url": "https://github.com/wso2/fhir-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "FHIR MCP Server – helping you expose any FHIR Server or API as a MCP Server.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-filescopemcp-9799565ae4c8",
+  "name": "FileScopeMCP",
+  "url": "https://github.com/admica/FileScopeMCP",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages such as Python, C, C++, Rust, Zig, Lua.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reloaderoo-059db223a1b1",
+  "name": "reloaderoo",
+  "url": "https://github.com/cameroncooke/reloaderoo",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Powerful MCP debugging proxy and CLI inspection tool.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-trino-4ed8e895c681",
+  "name": "mcp-trino",
+  "url": "https://github.com/tuannvm/mcp-trino",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "A high-performance Model Context Protocol (MCP) server for Trino implemented in Go.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

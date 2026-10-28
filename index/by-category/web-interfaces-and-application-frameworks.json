@@ -1,0 +1,1469 @@
+[
+ {
+  "resource_id": "res-react-6a26fc9428fe",
+  "name": "React",
+  "url": "https://react.dev/learn",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Component-based web interfaces.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-next-js-233e2619ee06",
+  "name": "Next.js",
+  "url": "https://nextjs.org/docs",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "React application framework with rendering and server features.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vue-58fdc0bcb427",
+  "name": "Vue",
+  "url": "https://vuejs.org/guide/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Reactive component framework.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nuxt-7bfe016c36a0",
+  "name": "Nuxt",
+  "url": "https://nuxt.com/docs",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Vue application framework.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-svelte-and-sveltekit-80a6de787642",
+  "name": "Svelte and SvelteKit",
+  "url": "https://svelte.dev/docs",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Compiled components and application framework.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-angular-2e840c652619",
+  "name": "Angular",
+  "url": "https://angular.dev/overview",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Web application framework with integrated tooling.",
+  "resource_type": "reference",
+  "topics": [
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-astro-a2f01d81db82",
+  "name": "Astro",
+  "url": "https://docs.astro.build/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Content sites and selective client interactivity.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vite-a64d218d0f0d",
+  "name": "Vite",
+  "url": "https://vite.dev/guide/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Frontend development server and production build tooling.",
+  "resource_type": "reference",
+  "topics": [
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-tailwind-css-ed3973f9b469",
+  "name": "Tailwind CSS",
+  "url": "https://tailwindcss.com/docs",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Utility-based CSS styling.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-storybook-daf56717de87",
+  "name": "Storybook",
+  "url": "https://storybook.js.org/docs",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Component development, documentation and UI verification.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zod-c99b0348c1e6",
+  "name": "Zod",
+  "url": "https://zod.dev/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "TypeScript-oriented runtime schema validation.",
+  "resource_type": "reference",
+  "topics": [
+   "typescript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tanstack-query-f712f730ebef",
+  "name": "TanStack Query",
+  "url": "https://tanstack.com/query/latest/docs/framework/react/overview",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Client data fetching, caching and synchronization.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fastapi-9d40ead33948",
+  "name": "FastAPI",
+  "url": "https://fastapi.tiangolo.com/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Python API framework with type-based validation.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration",
+   "python"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-django-d35c01bf34c9",
+  "name": "Django",
+  "url": "https://docs.djangoproject.com/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Python web framework with ORM, authentication and administration.",
+  "resource_type": "documentation",
+  "topics": [
+   "database",
+   "python",
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-flask-6b84779d5d72",
+  "name": "Flask",
+  "url": "https://flask.palletsprojects.com/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Lightweight Python web application framework.",
+  "resource_type": "reference",
+  "topics": [
+   "python",
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-spring-boot-6cc0091ca642",
+  "name": "Spring Boot",
+  "url": "https://docs.spring.io/spring-boot/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "JVM application and service framework.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-laravel-76bf43e237fa",
+  "name": "Laravel",
+  "url": "https://laravel.com/docs",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "PHP web application framework.",
+  "resource_type": "documentation",
+  "topics": [
+   "php",
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-ruby-on-rails-0bf40bf06edc",
+  "name": "Ruby on Rails",
+  "url": "https://guides.rubyonrails.org/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Ruby web applications and conventions.",
+  "resource_type": "reference",
+  "topics": [
+   "ruby"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gradio-f5b5b4894e7e",
+  "name": "Gradio",
+  "url": "https://www.gradio.app/docs",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Python library for ML demo interfaces in a few lines; the UI under a large share of HF Spaces.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "python"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-streamlit-6791bf88b32e",
+  "name": "Streamlit",
+  "url": "https://docs.streamlit.io/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Turn Python scripts into data/LLM apps quickly; a common first UI for internal AI tools.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "llm",
+   "python"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-htmx-8e866a9e6786",
+  "name": "htmx",
+  "url": "https://github.com/bigskysoftware/htmx",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "HTML attributes for server-driven interactions; design accessible fallback behavior and server endpoints.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-alpine-js-9ff9290c8af7",
+  "name": "Alpine.js",
+  "url": "https://github.com/alpinejs/alpine",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Small reactive behaviors embedded in HTML; review content-security-policy requirements.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lit-d0af6a4bf2ba",
+  "name": "Lit",
+  "url": "https://github.com/lit/lit",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Build reusable web components; plan custom-element registration and browser support.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-solid-f1fcdb8d5e6e",
+  "name": "Solid",
+  "url": "https://github.com/solidjs/solid",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Fine-grained reactive web interfaces; assess framework-specific state and rendering patterns.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-qwik-2e5e138b3187",
+  "name": "Qwik",
+  "url": "https://github.com/QwikDev/qwik",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Resumable web applications; the default branch identifies Qwik v2 as beta, with v1 on a separate branch. Select versioned docs and adapters.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hono-e5f3dfe25c2b",
+  "name": "Hono",
+  "url": "https://github.com/honojs/hono",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Web-standard TypeScript HTTP routing across runtimes; verify the chosen runtime adapter.",
+  "resource_type": "repository",
+  "topics": [
+   "typescript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fastify-9a1c8779697e",
+  "name": "Fastify",
+  "url": "https://github.com/fastify/fastify",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Plugin-oriented Node.js HTTP services; the default branch documents v6, while v5 has a separate branch. Match plugins to the selected release.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nestjs-907e2bce16ec",
+  "name": "NestJS",
+  "url": "https://github.com/nestjs/nest",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Structured TypeScript server applications; assess dependency injection and framework overhead.",
+  "resource_type": "repository",
+  "topics": [
+   "typescript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-radix-primitives-17acd2f4a8ae",
+  "name": "Radix Primitives",
+  "url": "https://github.com/radix-ui/primitives",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Unstyled React UI building blocks; validate accessibility in the finished composition.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-floating-ui-863b62e8e1de",
+  "name": "Floating UI",
+  "url": "https://github.com/floating-ui/floating-ui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Position tooltips, popovers and floating interfaces; keyboard and focus behavior still need design.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-express-f0cd56ad7328",
+  "name": "express",
+  "url": "https://github.com/expressjs/express",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Fast, unopinionated, minimalist web framework for node.",
+  "resource_type": "repository",
+  "topics": [
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-nodemon-392c42a64610",
+  "name": "nodemon",
+  "url": "https://github.com/remy/nodemon",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Monitor for any changes in your node.js application and automatically restart the server - perfect for development",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-koa-c8edc816a897",
+  "name": "koa",
+  "url": "https://github.com/koajs/koa",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Expressive middleware for node.js using ES2017 async functions",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cheerio-6e187a404cdf",
+  "name": "cheerio",
+  "url": "https://github.com/cheeriojs/cheerio",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ramda-cbe51ef51970",
+  "name": "ramda",
+  "url": "https://github.com/ramda/ramda",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": ":ram: Practical functional Javascript",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-strapi-704457daa0fc",
+  "name": "strapi",
+  "url": "https://github.com/strapi/strapi",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "typescript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lodash-cc92f5710424",
+  "name": "lodash",
+  "url": "https://github.com/lodash/lodash",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ajv-3a00a610acbc",
+  "name": "ajv",
+  "url": "https://github.com/ajv-validator/ajv",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-robotjs-5fa48a4cefb2",
+  "name": "robotjs",
+  "url": "https://github.com/octalmage/robotjs",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Node.js Desktop Automation.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-meteor-2f91f1c611e5",
+  "name": "meteor",
+  "url": "https://github.com/meteor/meteor",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Meteor, the JavaScript App Platform",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-neon-a31fbf19e2d8",
+  "name": "neon",
+  "url": "https://github.com/neon-bindings/neon",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Rust bindings for writing safe and fast native Node.js modules.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "rust"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-brunch-e24c7169807f",
+  "name": "brunch",
+  "url": "https://github.com/brunch/brunch",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "🍴 Web applications made easy. Since 2011.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pug-f76c599667b3",
+  "name": "pug",
+  "url": "https://github.com/pugjs/pug",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Pug – robust, elegant, feature rich template engine for Node.js",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-plottable-13bdb640708d",
+  "name": "plottable",
+  "url": "https://github.com/palantir/plottable",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": ":bar_chart: A library of modular chart components built on D3",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tide-2fe44ea1feee",
+  "name": "tide",
+  "url": "https://github.com/ananthakumaran/tide",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Tide - TypeScript Interactive Development Environment for Emacs",
+  "resource_type": "repository",
+  "topics": [
+   "typescript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-material-ui-9e7676f2f260",
+  "name": "material-ui",
+  "url": "https://github.com/mui/material-ui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ant-design-4591afaa368c",
+  "name": "ant-design",
+  "url": "https://github.com/ant-design/ant-design",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "An enterprise-class UI design language and React UI library",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-daisyui-5936421fe544",
+  "name": "daisyui",
+  "url": "https://github.com/saadeghi/daisyui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chakra-ui-5a778545a08f",
+  "name": "chakra-ui",
+  "url": "https://github.com/chakra-ui/chakra-ui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-materialize-bef6e74c10f0",
+  "name": "materialize",
+  "url": "https://github.com/Dogfalo/materialize",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Materialize, a CSS Framework based on Material Design",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-react-spectrum-d67308f91786",
+  "name": "react-spectrum",
+  "url": "https://github.com/adobe/react-spectrum",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mantine-57a55e21a383",
+  "name": "mantine",
+  "url": "https://github.com/mantinedev/mantine",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A fully featured React components library",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-heroui-677bd79b404a",
+  "name": "heroui",
+  "url": "https://github.com/heroui-inc/heroui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-astryx-05416c495467",
+  "name": "astryx",
+  "url": "https://github.com/facebook/astryx",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "An open source design system that's fully customizable and agent ready",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-evergreen-3abe842f3387",
+  "name": "evergreen",
+  "url": "https://github.com/segmentio/evergreen",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "🌲 Evergreen React UI Framework by Segment",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-blueprint-00b14fe04ad1",
+  "name": "blueprint",
+  "url": "https://github.com/palantir/blueprint",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A React-based UI toolkit for the web",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-carbon-4ff29f275e1b",
+  "name": "carbon",
+  "url": "https://github.com/carbon-design-system/carbon",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A design system built by IBM",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flowbite-426af06aac8f",
+  "name": "flowbite",
+  "url": "https://github.com/themesberg/flowbite",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Open-source UI component library and front-end development framework based on Tailwind CSS",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems",
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-grommet-1b06c14c8270",
+  "name": "grommet",
+  "url": "https://github.com/grommet/grommet",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-yeti-a3a41475dccf",
+  "name": "yeti",
+  "url": "https://github.com/foundation/yeti",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A CSS-first, native, zero-build layout and styling framework for web designers.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-base-ui-e53ffcb12f39",
+  "name": "base-ui",
+  "url": "https://github.com/mui/base-ui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kumo-f0ef7282f9aa",
+  "name": "kumo",
+  "url": "https://github.com/cloudflare/kumo",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Cloudflare's component library for building modern web applications.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openui5-c21a5360d9dd",
+  "name": "openui5",
+  "url": "https://github.com/UI5/openui5",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mdb-ui-kit-1c3874e0c9eb",
+  "name": "mdb-ui-kit",
+  "url": "https://github.com/mdbootstrap/mdb-ui-kit",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Bootstrap 5 & Material Design UI KIT",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-components-3bc52ea2159a",
+  "name": "components",
+  "url": "https://github.com/cloudscape-design/components",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "React components for Cloudscape Design System",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fluentui-f8761fa38a22",
+  "name": "fluentui",
+  "url": "https://github.com/microsoft/fluentui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gestalt-b89a5def1a92",
+  "name": "gestalt",
+  "url": "https://github.com/pinterest/gestalt",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A set of React UI components that supports Pinterest’s design language",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ring-ui-6bcd05beacd8",
+  "name": "ring-ui",
+  "url": "https://github.com/JetBrains/ring-ui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A collection of JetBrains Web UI components",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-semi-design-42f129a5b4bd",
+  "name": "semi-design",
+  "url": "https://github.com/DouyinFE/semi-design",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design to Code in one click",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-eui-0b3b0cbf01e7",
+  "name": "eui",
+  "url": "https://github.com/elastic/eui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Elastic UI Framework 🙌",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ui-300c6187eaf1",
+  "name": "ui",
+  "url": "https://github.com/shadcn-ui/ui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gatsby-3b1063dcbc33",
+  "name": "gatsby",
+  "url": "https://github.com/gatsbyjs/gatsby",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "React-based framework with performance, scalability, and security built in.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-refine-b07ec4d364ad",
+  "name": "refine",
+  "url": "https://github.com/refinedev/refine",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-remix-0c6b6d96b79e",
+  "name": "remix",
+  "url": "https://github.com/remix-run/remix",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "The fully-stacked web framework",
+  "resource_type": "repository",
+  "topics": [
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-redux-fbe4b6f7eea1",
+  "name": "redux",
+  "url": "https://github.com/reduxjs/redux",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A JS library for predictable global state management",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-react-select-656dc8f39c62",
+  "name": "react-select",
+  "url": "https://github.com/JedWatson/react-select",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "The Select Component for React.js",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-react-email-8c86c5224bb1",
+  "name": "react-email",
+  "url": "https://github.com/resend/react-email",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "💌 Build and send emails using React",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-relay-330dc96c23c9",
+  "name": "relay",
+  "url": "https://github.com/facebook/relay",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Relay is a JavaScript framework for building data-driven React applications.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-motion-87ad2c1a303f",
+  "name": "motion",
+  "url": "https://github.com/motiondivision/motion",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A modern animation library for React and JavaScript",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swr-40fca1a5e25a",
+  "name": "swr",
+  "url": "https://github.com/vercel/swr",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "React Hooks for Data Fetching",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-react-jsonschema-form-61e0e8a9fadb",
+  "name": "react-jsonschema-form",
+  "url": "https://github.com/rjsf-team/react-jsonschema-form",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A React component for building Web forms from JSON Schema.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-react-spring-714ee7fe3619",
+  "name": "react-spring",
+  "url": "https://github.com/pmndrs/react-spring",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "✌️ A spring physics based React animation library",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-headlessui-81bd3fe4f0f0",
+  "name": "headlessui",
+  "url": "https://github.com/tailwindlabs/headlessui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-table-d5e354d882ab",
+  "name": "table",
+  "url": "https://github.com/TanStack/table",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reka-ui-c10442c49275",
+  "name": "reka-ui",
+  "url": "https://github.com/unovue/reka-ui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-formkit-777864039434",
+  "name": "formkit",
+  "url": "https://github.com/formkit/formkit",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "The form framework for coding agents",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-effector-6117139e808c",
+  "name": "effector",
+  "url": "https://github.com/effector/effector",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Business logic with ease ☄️",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-advanced-chat-components-93186a0224fe",
+  "name": "advanced-chat-components",
+  "url": "https://github.com/advanced-chat/advanced-chat-components",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Framework-neutral chat web component and typed Vue 3 component library",
+  "resource_type": "repository",
+  "topics": [
+   "design-systems"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vue-simple-calendar-8ddff8aef54e",
+  "name": "vue-simple-calendar",
+  "url": "https://github.com/richardtallent/vue-simple-calendar",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Simple Vue component to show a month-grid calendar with events",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-phantom-ui-f56a650810b5",
+  "name": "phantom-ui",
+  "url": "https://github.com/Aejkatappaja/phantom-ui",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Structure-aware skeleton loader. One Web Component, every framework.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ai-gist-41478c782429",
+  "name": "AI-Gist",
+  "url": "https://github.com/yarin-zhang/AI-Gist",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vue3-easy-data-table-18768b86316c",
+  "name": "vue3-easy-data-table",
+  "url": "https://github.com/HC200ok/vue3-easy-data-table",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "A customizable and easy-to-use data table component made with Vue.js 3.x",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vue-request-86a3dc9b37b6",
+  "name": "vue-request",
+  "url": "https://github.com/AttoJS/vue-request",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "⚡️ This is a library that can easily help you manage request states, supporting common features such as SWR, polling, error retry, caching, and pagination, etc. ⚡️ 这是一个能够轻松帮助你管理请求状态的库，支持 SWR、轮询、错误重试、缓存、分页等常用功能。",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

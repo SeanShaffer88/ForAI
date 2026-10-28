@@ -1,0 +1,1471 @@
+[
+ {
+  "resource_id": "res-owasp-cheat-sheets-91a6bf5c8940",
+  "name": "OWASP Cheat Sheets",
+  "url": "https://cheatsheetseries.owasp.org/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Implementation guidance for authentication, validation and other security controls.",
+  "resource_type": "reference",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-owasp-asvs-2b5f11d16f89",
+  "name": "OWASP ASVS",
+  "url": "https://owasp.org/www-project-application-security-verification-standard/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Application security verification requirements.",
+  "resource_type": "reference",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-owasp-api-security-81348d3faa86",
+  "name": "OWASP API Security",
+  "url": "https://owasp.org/projects/api-security-project",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "API threat and review reference.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-oauth-security-bcp-184a2c3e860f",
+  "name": "OAuth security BCP",
+  "url": "https://www.rfc-editor.org/rfc/rfc9700.html",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "OAuth security guidance; read alongside applicable protocol specifications.",
+  "resource_type": "reference",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openid-connect-6b5c4dd1d187",
+  "name": "OpenID Connect",
+  "url": "https://openid.net/specs/openid-connect-core-1_0.html",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Identity layer and interoperable authentication.",
+  "resource_type": "reference",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-webauthn-9c713467e667",
+  "name": "WebAuthn",
+  "url": "https://www.w3.org/TR/webauthn-3/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Public-key authentication and passkey protocol reference; check implementation support.",
+  "resource_type": "reference",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-keycloak-f8f6a36e6d33",
+  "name": "Keycloak",
+  "url": "https://www.keycloak.org/documentation",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Self-hosted identity and federation.",
+  "resource_type": "documentation",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openfga-fda2acf521c6",
+  "name": "OpenFGA",
+  "url": "https://openfga.dev/docs",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Relationship-based authorization modeling and SDKs.",
+  "resource_type": "documentation",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-open-policy-agent-2bd93b36716f",
+  "name": "Open Policy Agent",
+  "url": "https://www.openpolicyagent.org/docs",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Policy evaluation and authorization building block.",
+  "resource_type": "documentation",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-osv-scanner-f502c32898fa",
+  "name": "OSV-Scanner",
+  "url": "https://github.com/google/osv-scanner",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Dependency vulnerability discovery using OSV data.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-trivy-69d1eeb81edc",
+  "name": "Trivy",
+  "url": "https://trivy.dev/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Container, dependency and configuration scanning.",
+  "resource_type": "reference",
+  "topics": [
+   "containers",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-semgrep-7f769d9c8460",
+  "name": "Semgrep",
+  "url": "https://semgrep.dev/docs/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Static code analysis and custom rules; edition features differ.",
+  "resource_type": "documentation",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gitleaks-4037cae9bddc",
+  "name": "Gitleaks",
+  "url": "https://github.com/gitleaks/gitleaks",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Detect committed secrets; rotate exposed credentials separately.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sigstore-246ea5782d7f",
+  "name": "Sigstore",
+  "url": "https://docs.sigstore.dev/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Artifact signing, verification and transparency tooling.",
+  "resource_type": "documentation",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-slsa-b3b52dc623c1",
+  "name": "SLSA",
+  "url": "https://slsa.dev/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Supply-chain provenance and assurance framework.",
+  "resource_type": "reference",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cyclonedx-601eb09ebdd8",
+  "name": "CycloneDX",
+  "url": "https://cyclonedx.org/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Software bill of materials formats and ecosystem.",
+  "resource_type": "reference",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spdx-22a545f62d21",
+  "name": "SPDX",
+  "url": "https://spdx.dev/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Software inventory and license metadata standards.",
+  "resource_type": "reference",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openssf-scorecard-65f96c7eda7c",
+  "name": "OpenSSF Scorecard",
+  "url": "https://scorecard.dev/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Repository security-practice signals; not a security guarantee.",
+  "resource_type": "reference",
+  "topics": [
+   "git",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-libsodium-ec7490a87658",
+  "name": "libsodium",
+  "url": "https://doc.libsodium.org/",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "High-level cryptographic library; use supported primitives and key handling.",
+  "resource_type": "documentation",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-syft-d479f687e998",
+  "name": "Syft",
+  "url": "https://github.com/anchore/syft",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Generate software bills of materials from images and filesystems; inspect package coverage.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grype-fb597cf6a79d",
+  "name": "Grype",
+  "url": "https://github.com/anchore/grype",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Match discovered packages against vulnerability data; triage findings and refresh the database.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-checkov-e9c3afecd607",
+  "name": "Checkov",
+  "url": "https://github.com/bridgecrewio/checkov",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Static policy checks for infrastructure definitions; tune policies for the target environment.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zizmor-3c60c7134aec",
+  "name": "zizmor",
+  "url": "https://github.com/zizmorcore/zizmor",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Audit GitHub Actions workflow security; inspect findings in the context of repository permissions.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-actionlint-b9d87c488cf2",
+  "name": "actionlint",
+  "url": "https://github.com/rhysd/actionlint",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Check GitHub Actions workflow syntax and expressions; external action behavior still needs review.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-in-toto-74b5eb1b463b",
+  "name": "in-toto",
+  "url": "https://github.com/in-toto/in-toto",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Record and verify software supply-chain steps; define trusted identities and verification policy.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-guac-45c364f8c89c",
+  "name": "GUAC",
+  "url": "https://github.com/guacsec/guac",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Connect software supply-chain metadata into a graph; ingestion quality affects conclusions.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-trufflehog-35d3e0ed663e",
+  "name": "TruffleHog",
+  "url": "https://github.com/trufflesecurity/trufflehog",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Detect exposed secrets in authorized sources; verification may contact external services.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dependency-track-8e641e098d4c",
+  "name": "Dependency-Track",
+  "url": "https://github.com/DependencyTrack/dependency-track",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Track component risk from SBOMs; the README places v4 in maintenance mode with December 2026 end-of-life. Review v5 migration and versioned docs.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kyverno-d41f7592d462",
+  "name": "Kyverno",
+  "url": "https://github.com/kyverno/kyverno",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Kubernetes admission and policy automation; test enforcement and failure behavior before rollout.",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-step-cli-0c3bb7d62f83",
+  "name": "step CLI",
+  "url": "https://github.com/smallstep/cli",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Inspect certificates and work with PKI workflows; configure trust roots and key storage deliberately.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-oauth2-proxy-72c8f73461d2",
+  "name": "OAuth2 Proxy",
+  "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Add identity-provider authentication in front of web services; validate proxy trust and cookie settings.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ory-kratos-97dd88f698e6",
+  "name": "Ory Kratos",
+  "url": "https://github.com/ory/kratos",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Operate application identity and user-management flows; deployment still needs secure session configuration.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-casbin-f8883a94e0df",
+  "name": "Casbin",
+  "url": "https://github.com/apache/casbin",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Embed authorization policy evaluation; model tenant boundaries and test permission rules.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-payloadsallthethings-0599105ba162",
+  "name": "PayloadsAllTheThings",
+  "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "web"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-maigret-221d5a93df52",
+  "name": "maigret",
+  "url": "https://github.com/soxoj/maigret",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fingerprintjs-f38cc58d767d",
+  "name": "fingerprintjs",
+  "url": "https://github.com/fingerprintjs/fingerprintjs",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "The most advanced free and open-source browser fingerprinting library",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rustscan-761e263dd6cb",
+  "name": "RustScan",
+  "url": "https://github.com/bee-san/RustScan",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "🤖 The Modern Port Scanner 🤖",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-android-security-awesome-4db9b88f6049",
+  "name": "android-security-awesome",
+  "url": "https://github.com/ashishb/android-security-awesome",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "A collection of android security related resources",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-mastg-daf986a7b0c1",
+  "name": "mastg",
+  "url": "https://github.com/OWASP/mastg",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
+  "resource_type": "repository",
+  "topics": [
+   "mobile",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-crowdsec-9b1e12e786db",
+  "name": "crowdsec",
+  "url": "https://github.com/crowdsecurity/crowdsec",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "linux",
+   "security",
+   "windows"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-arkime-6601e743fdda",
+  "name": "arkime",
+  "url": "https://github.com/arkime/arkime",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Arkime is an open source, large scale, full packet capturing, indexing, and database system.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bunkerweb-11937b3e511c",
+  "name": "bunkerweb",
+  "url": "https://github.com/bunkerity/bunkerweb",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "🛡️ Open-source and cloud-native Web Application Firewall (WAF)",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "security",
+   "web"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-firezone-d95b09bff9f1",
+  "name": "firezone",
+  "url": "https://github.com/firezone/firezone",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Blazing-fast remote access",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sublist3r-d10249f51362",
+  "name": "Sublist3r",
+  "url": "https://github.com/aboul3la/Sublist3r",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Fast subdomains enumeration tool for penetration testers",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tfsec-cbb41834f4d6",
+  "name": "tfsec",
+  "url": "https://github.com/aquasecurity/tfsec",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Tfsec is now part of Trivy",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-secretscanner-6656e9590c1f",
+  "name": "SecretScanner",
+  "url": "https://github.com/deepfence/SecretScanner",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": ":unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-axiom-4b420dfea815",
+  "name": "axiom",
+  "url": "https://github.com/pry0cc/axiom",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-recon-ng-1072efe0344a",
+  "name": "recon-ng",
+  "url": "https://github.com/lanmaster53/recon-ng",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-monkey-e8b65cda6e68",
+  "name": "monkey",
+  "url": "https://github.com/guardicore/monkey",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Infection Monkey - An open-source adversary emulation platform",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-frida-7ffa88cca7b2",
+  "name": "frida",
+  "url": "https://github.com/frida/frida",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Main repo for hosting release binaries",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kics-6c9a1a8348d0",
+  "name": "kics",
+  "url": "https://github.com/Checkmarx/kics",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-threatmapper-8952f007d428",
+  "name": "ThreatMapper",
+  "url": "https://github.com/deepfence/ThreatMapper",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Open Source Cloud Native Application Protection Platform (CNAPP)",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grr-7bdb34fd694e",
+  "name": "grr",
+  "url": "https://github.com/google/grr",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "GRR Rapid Response: remote live forensics for incident response",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-boofuzz-e8ba98380764",
+  "name": "boofuzz",
+  "url": "https://github.com/jtpereyda/boofuzz",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "A fork and successor of the Sulley Fuzzing Framework",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-is-website-vulnerable-acd96f3e97cd",
+  "name": "is-website-vulnerable",
+  "url": "https://github.com/lirantal/is-website-vulnerable",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "finds publicly known security vulnerabilities in a website's frontend JavaScript libraries",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "security",
+   "web"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-network-segmentation-cheat-sheet-c5efe64d90e4",
+  "name": "Network-segmentation-cheat-sheet",
+  "url": "https://github.com/sergiomarotco/Network-segmentation-cheat-sheet",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Best practices for segmentation of the corporate network of any company",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openappsec-9df85a530660",
+  "name": "openappsec",
+  "url": "https://github.com/openappsec/openappsec",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "security",
+   "web"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-teller-2e99c2901adf",
+  "name": "teller",
+  "url": "https://github.com/tellerops/teller",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Cloud native secrets management for developers - never leave your command line for secrets.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-matano-b4b62dda1dfb",
+  "name": "matano",
+  "url": "https://github.com/matanolabs/matano",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "data-science",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openrasp-75ca4fc3eb50",
+  "name": "openrasp",
+  "url": "https://github.com/baidu/openrasp",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "🔥Open source RASP solution",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-intelmq-2e25769660d6",
+  "name": "intelmq",
+  "url": "https://github.com/certtools/intelmq",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ptf-a26b7174e304",
+  "name": "ptf",
+  "url": "https://github.com/trustedsec/ptf",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dshell-e5314c9b700d",
+  "name": "Dshell",
+  "url": "https://github.com/USArmyResearchLab/Dshell",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Dshell is a network forensic analysis framework.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nuclei-b9a5af8bc8b9",
+  "name": "nuclei",
+  "url": "https://github.com/projectdiscovery/nuclei",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ctf-tools-419bb93ff9cc",
+  "name": "ctf-tools",
+  "url": "https://github.com/zardus/ctf-tools",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Some setup scripts for security research tools.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tsunami-security-scanner-f1943ea29198",
+  "name": "tsunami-security-scanner",
+  "url": "https://github.com/google/tsunami-security-scanner",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-binwalk-102cae771e7b",
+  "name": "binwalk",
+  "url": "https://github.com/ReFirmLabs/binwalk",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Firmware Analysis Tool",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gobuster-34ad05b43a6a",
+  "name": "gobuster",
+  "url": "https://github.com/OJ/gobuster",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Directory/File, DNS and VHost busting tool written in Go",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-testssl-sh-a6b5e17aaab2",
+  "name": "testssl.sh",
+  "url": "https://github.com/testssl/testssl.sh",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Testing TLS/SSL encryption anywhere on any port",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ssh-audit-11eac95754f9",
+  "name": "ssh-audit",
+  "url": "https://github.com/jtesta/ssh-audit",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-raccoon-8a4610e8f19e",
+  "name": "Raccoon",
+  "url": "https://github.com/evyatarmeged/Raccoon",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "A high performance offensive security tool for reconnaissance and vulnerability scanning",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rsactftool-0e4efa9ff280",
+  "name": "RsaCtfTool",
+  "url": "https://github.com/RsaCtfTool/RsaCtfTool",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-routersploit-ceb2e1b8c5a5",
+  "name": "routersploit",
+  "url": "https://github.com/threat9/routersploit",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Exploitation Framework for Embedded Devices",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-winpwn-97d0637ed009",
+  "name": "WinPwn",
+  "url": "https://github.com/S3cur3Th1sSh1t/WinPwn",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Automation for internal Windows Penetrationtest / AD-Security",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "windows"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-android-44faa9564622",
+  "name": "android",
+  "url": "https://github.com/cSploit/android",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "cSploit - The most complete and advanced IT security professional toolkit on Android.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-public-pentesting-reports-8fdf04ad23ca",
+  "name": "public-pentesting-reports",
+  "url": "https://github.com/juliocesarfort/public-pentesting-reports",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "A list of public penetration test reports published by several consulting firms and academic security groups.",
+  "resource_type": "repository",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-amass-b0b34b6d7642",
+  "name": "amass",
+  "url": "https://github.com/owasp-amass/amass",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "In-depth attack surface mapping and asset discovery",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cloudfail-904675a907da",
+  "name": "CloudFail",
+  "url": "https://github.com/m0rtem/CloudFail",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sslyze-5859ad94d3d1",
+  "name": "sslyze",
+  "url": "https://github.com/nabla-c0d3/sslyze",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Fast and powerful SSL/TLS scanning library.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-github-dorks-fd96032ea057",
+  "name": "github-dorks",
+  "url": "https://github.com/techgaun/github-dorks",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Find leaked secrets via github search",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-autosploit-94e9a5e5d297",
+  "name": "AutoSploit",
+  "url": "https://github.com/NullArray/AutoSploit",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Automated Mass Exploiter",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pret-9277f5d718e6",
+  "name": "PRET",
+  "url": "https://github.com/RUB-NDS/PRET",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nikto-a217817b6658",
+  "name": "nikto",
+  "url": "https://github.com/sullo/nikto",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Nikto web server scanner",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-inveigh-ada5b1688130",
+  "name": "Inveigh",
+  "url": "https://github.com/Kevin-Robertson/Inveigh",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": ".NET IPv4/IPv6 machine-in-the-middle tool for penetration testers",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mailsniper-c73951b01842",
+  "name": "MailSniper",
+  "url": "https://github.com/dafthack/MailSniper",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-avet-65d25bf7deb0",
+  "name": "avet",
+  "url": "https://github.com/govolution/avet",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "AntiVirus Evasion Tool",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-commix-8358fabf9810",
+  "name": "commix",
+  "url": "https://github.com/commixproject/commix",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Automated Αll-in-One OS command injection exploitation tool.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-plasma-27f451a74af4",
+  "name": "plasma",
+  "url": "https://github.com/plasma-disassembler/plasma",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.",
+  "resource_type": "repository",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

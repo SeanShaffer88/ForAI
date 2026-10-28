@@ -1,0 +1,195 @@
+[
+ {
+  "resource_id": "res-microsoft-microsoft-ui-xaml-b489dfb0edde",
+  "name": "microsoft/microsoft-ui-xaml",
+  "url": "https://github.com/microsoft/microsoft-ui-xaml",
+  "category_id": "windows-desktop-ui",
+  "purpose": "WinUI controls and framework | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dotnet-wpf-c0fc81b210cc",
+  "name": "dotnet/wpf",
+  "url": "https://github.com/dotnet/wpf",
+  "category_id": "windows-desktop-ui",
+  "purpose": "WPF desktop UI framework | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dotnet-winforms-556603de8edc",
+  "name": "dotnet/winforms",
+  "url": "https://github.com/dotnet/winforms",
+  "category_id": "windows-desktop-ui",
+  "purpose": "Windows Forms desktop UI framework | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-avaloniaui-avalonia-cbb64f5a9783",
+  "name": "AvaloniaUI/Avalonia",
+  "url": "https://github.com/AvaloniaUI/Avalonia",
+  "category_id": "windows-desktop-ui",
+  "purpose": "Cross-platform .NET desktop UI | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-wxwidgets-wxwidgets-e92a6f231926",
+  "name": "wxWidgets/wxWidgets",
+  "url": "https://github.com/wxWidgets/wxWidgets",
+  "category_id": "windows-desktop-ui",
+  "purpose": "C++ GUI with native controls | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-ocornut-imgui-521b3c2efaa7",
+  "name": "ocornut/imgui",
+  "url": "https://github.com/ocornut/imgui",
+  "category_id": "windows-desktop-ui",
+  "purpose": "Immediate-mode developer interfaces | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-electron-electron-7741bc22fa76",
+  "name": "electron/electron",
+  "url": "https://github.com/electron/electron",
+  "category_id": "windows-desktop-ui",
+  "purpose": "Chromium and Node desktop framework | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-tauri-apps-tauri-921f1414210e",
+  "name": "tauri-apps/tauri",
+  "url": "https://github.com/tauri-apps/tauri",
+  "category_id": "windows-desktop-ui",
+  "purpose": "Rust and web desktop framework | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "rust",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-communitytoolkit-windows-ccb833b1a059",
+  "name": "CommunityToolkit/Windows",
+  "url": "https://github.com/CommunityToolkit/Windows",
+  "category_id": "windows-desktop-ui",
+  "purpose": "Windows controls and helpers | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-lepoco-wpfui-dca4974bf03c",
+  "name": "lepoco/wpfui",
+  "url": "https://github.com/lepoco/wpfui",
+  "category_id": "windows-desktop-ui",
+  "purpose": "Fluent-style WPF controls | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

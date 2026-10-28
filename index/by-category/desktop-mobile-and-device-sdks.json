@@ -1,0 +1,1030 @@
+[
+ {
+  "resource_id": "res-qt-b3d50ae376a6",
+  "name": "Qt",
+  "url": "https://doc.qt.io/",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "C++ GUI and platform framework; evaluate module licensing and distribution. Qt 6.12.0 MSVC2022 x64 shared SDK tested with DiffImg; open-source LGPLv3/GPL module terms and commercial LTS patch availability are distinct.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-avalonia-8661a3b1a2a1",
+  "name": "Avalonia",
+  "url": "https://docs.avaloniaui.net/",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Cross-platform .NET desktop UI.",
+  "resource_type": "documentation",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-net-maui-a1bd96039857",
+  "name": ".NET MAUI",
+  "url": "https://learn.microsoft.com/en-us/dotnet/maui/",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Cross-platform .NET applications; check target-specific toolchains.",
+  "resource_type": "documentation",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-electron-ee9a1fe056a0",
+  "name": "Electron",
+  "url": "https://www.electronjs.org/docs/latest/",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Desktop apps using Chromium and Node.js; isolate privileged host APIs.",
+  "resource_type": "documentation",
+  "topics": [
+   "desktop",
+   "javascript",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-tauri-dd387ecd6a24",
+  "name": "Tauri",
+  "url": "https://v2.tauri.app/",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Desktop and mobile application host with web UI; check native prerequisites.",
+  "resource_type": "reference",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-flutter-e45d6b65dbfb",
+  "name": "Flutter",
+  "url": "https://docs.flutter.dev/",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Dart UI framework and platform integration.",
+  "resource_type": "documentation",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-react-native-4a91e9edfad8",
+  "name": "React Native",
+  "url": "https://reactnative.dev/docs/getting-started",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Native mobile UI with React and platform modules.",
+  "resource_type": "documentation",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-android-sdk-37d27871cadc",
+  "name": "Android SDK",
+  "url": "https://developer.android.com/develop",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Android APIs, Jetpack, tooling and device behavior.",
+  "resource_type": "documentation",
+  "topics": [
+   "android",
+   "api-integration",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-apple-developer-ca39e60977a7",
+  "name": "Apple Developer",
+  "url": "https://developer.apple.com/documentation/",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Apple platform SDKs and frameworks; shipping requires platform toolchain checks.",
+  "resource_type": "documentation",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-kotlin-multiplatform-90e6461014f8",
+  "name": "Kotlin Multiplatform",
+  "url": "https://kotlinlang.org/docs/multiplatform/get-started.html",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Shared Kotlin code across targets.",
+  "resource_type": "documentation",
+  "topics": [
+   "desktop",
+   "kotlin",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "kotlin"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-zephyr-8a4d0ab90551",
+  "name": "Zephyr",
+  "url": "https://docs.zephyrproject.org/latest/",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Embedded RTOS and device tooling; select release and supported board.",
+  "resource_type": "documentation",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-esp-idf-60d90926412d",
+  "name": "ESP-IDF",
+  "url": "https://docs.espressif.com/projects/esp-idf/en/stable/esp32/",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Espressif device SDK; select the exact chip and SDK release.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-freertos-52400b4e6903",
+  "name": "FreeRTOS",
+  "url": "https://www.freertos.org/Documentation/00-Overview",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Embedded real-time kernel and supporting libraries.",
+  "resource_type": "documentation",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-ros-2-273abb5c46dc",
+  "name": "ROS 2",
+  "url": "https://docs.ros.org/",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Robotics middleware, packages and distribution documentation.",
+  "resource_type": "documentation",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-kivy-270309e5fcdb",
+  "name": "kivy",
+  "url": "https://github.com/kivy/kivy",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "linux",
+   "mobile",
+   "python",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "android",
+   "linux",
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-magisk-2d1000037c72",
+  "name": "Magisk",
+  "url": "https://github.com/topjohnwu/Magisk",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "The Magic Mask for Android",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-pake-e5a136ab9c79",
+  "name": "Pake",
+  "url": "https://github.com/tw93/Pake",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "linux",
+   "mobile",
+   "web",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "mobile",
+   "web",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-openbitfun-554386bbf822",
+  "name": "OpenBitFun",
+  "url": "https://github.com/GCWing/OpenBitFun",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile",
+   "rust"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-juce-20e0a842a6d3",
+  "name": "JUCE",
+  "url": "https://github.com/juce-framework/JUCE",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-horizoncalendar-41fc36f74204",
+  "name": "HorizonCalendar",
+  "url": "https://github.com/airbnb/HorizonCalendar",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-valet-7e97240987b4",
+  "name": "Valet",
+  "url": "https://github.com/square/Valet",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Valet lets you securely store data in the iOS, tvOS, watchOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-pinlayout-b7ef3caa93ba",
+  "name": "PinLayout",
+  "url": "https://github.com/layoutBox/PinLayout",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS/CALayer]",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile",
+   "swift"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "swift"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-motionbook-f18c78ef506c",
+  "name": "MotionBook",
+  "url": "https://github.com/younatics/MotionBook",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "📖 103 open-source iOS motion, transition and UI libraries, catalogued for people and agents (catalog.json + llms.txt); 59 run live in the MotionBook app",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-swift-markdown-engine-f15c245e1ef4",
+  "name": "swift-markdown-engine",
+  "url": "https://github.com/nodes-app/swift-markdown-engine",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A native AppKit Markdown editor for macOS, built on TextKit 2 and bridged to SwiftUI.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile",
+   "swift"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "swift"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-appflowy-67933eb00e4c",
+  "name": "AppFlowy",
+  "url": "https://github.com/AppFlowy-IO/AppFlowy",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-bloc-80db414195bd",
+  "name": "bloc",
+  "url": "https://github.com/felangel/bloc",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A predictable state management library that helps implement the BLoC design pattern",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-flutter-architecture-samples-7dfe370d5617",
+  "name": "flutter_architecture_samples",
+  "url": "https://github.com/brianegan/flutter_architecture_samples",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "TodoMVC for Flutter",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-samples-5e2ce2f8dd38",
+  "name": "samples",
+  "url": "https://github.com/flutter/samples",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A collection of Flutter examples and demos",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-flutter-roadmap-238df39868f9",
+  "name": "flutter_roadmap",
+  "url": "https://github.com/olexale/flutter_roadmap",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Highly Subjective Roadmap to Flutter Development",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-flutter-go-227f5047d138",
+  "name": "flutter-go",
+  "url": "https://github.com/alibaba/flutter-go",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-drift-324806790d58",
+  "name": "drift",
+  "url": "https://github.com/simolus3/drift",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-flutter-form-builder-62119e0dbfc9",
+  "name": "flutter_form_builder",
+  "url": "https://github.com/flutter-form-builder-ecosystem/flutter_form_builder",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Simple form maker for Flutter Framework",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-authpass-bf238ba0ea85",
+  "name": "authpass",
+  "url": "https://github.com/authpass/authpass",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-dynamic-widget-da3878eaee22",
+  "name": "dynamic_widget",
+  "url": "https://github.com/dengyin2000/dynamic_widget",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-mobx-dart-cc8867a3c28e",
+  "name": "mobx.dart",
+  "url": "https://github.com/mobxjs/mobx.dart",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-nativescript-0eb79713371a",
+  "name": "NativeScript",
+  "url": "https://github.com/NativeScript/NativeScript",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "java",
+   "kotlin",
+   "mobile",
+   "swift",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "java",
+   "kotlin",
+   "swift",
+   "typescript"
+  ],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-react-hook-form-ea7edbdf3198",
+  "name": "react-hook-form",
+  "url": "https://github.com/react-hook-form/react-hook-form",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "📋 React Hooks for form state management and validation (Web + React Native)",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-swiper-a5f0679ee644",
+  "name": "swiper",
+  "url": "https://github.com/nolimits4web/swiper",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Most modern mobile touch slider with hardware accelerated transitions",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-framework7-40bf48df55c3",
+  "name": "framework7",
+  "url": "https://github.com/framework7io/framework7",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Full featured HTML framework for building iOS & Android apps",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-react-native-maps-d5ac4ba1efdf",
+  "name": "react-native-maps",
+  "url": "https://github.com/react-native-maps/react-native-maps",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "React Native Mapview component for iOS + Android",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-onsenui-a544e5b5b4ca",
+  "name": "OnsenUI",
+  "url": "https://github.com/OnsenUI/OnsenUI",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "desktop",
+   "javascript",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-marktext-3f2a96055e78",
+  "name": "marktext",
+  "url": "https://github.com/marktext/marktext",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "linux",
+   "mobile",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-electron-react-boilerplate-298f87d2d731",
+  "name": "electron-react-boilerplate",
+  "url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A Foundation for Scalable Cross-Platform Apps",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-mailspring-2a679c771248",
+  "name": "Mailspring",
+  "url": "https://github.com/Foundry376/Mailspring",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": ":love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "linux",
+   "mobile",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-signal-desktop-a9940f0460f6",
+  "name": "Signal-Desktop",
+  "url": "https://github.com/signalapp/Signal-Desktop",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A private messenger for Windows, macOS, and Linux.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "linux",
+   "mobile",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-reactotron-62dbb1bc9e06",
+  "name": "reactotron",
+  "url": "https://github.com/infinitered/reactotron",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "linux",
+   "mobile",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-electron-vite-ca82f26f7cac",
+  "name": "electron-vite",
+  "url": "https://github.com/alex8088/electron-vite",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-webtorrent-desktop-dc1eae018c35",
+  "name": "webtorrent-desktop",
+  "url": "https://github.com/webtorrent/webtorrent-desktop",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "❤️ Streaming torrent app for Mac, Windows, and Linux",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "linux",
+   "mobile",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-min-f43368165cda",
+  "name": "min",
+  "url": "https://github.com/minbrowser/min",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A fast, minimal browser that protects your privacy",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-menubar-e3b431913c2e",
+  "name": "menubar",
+  "url": "https://github.com/max-mapper/menubar",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "➖ high level way to create menubar desktop applications with electron",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ }
+]

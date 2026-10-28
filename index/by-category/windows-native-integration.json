@@ -1,0 +1,189 @@
+[
+ {
+  "resource_id": "res-rodrigocfd-winlamb-f133e273b84b",
+  "name": "rodrigocfd/winlamb",
+  "url": "https://github.com/rodrigocfd/winlamb",
+  "category_id": "windows-native-integration",
+  "purpose": "Thin Win32 C++ wrapper with lambda message handlers | Library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-giovannidicanio-winreg-84d9a0560d73",
+  "name": "GiovanniDicanio/WinReg",
+  "url": "https://github.com/GiovanniDicanio/WinReg",
+  "category_id": "windows-native-integration",
+  "purpose": "Higher-level C++ Windows Registry access | Library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-vbaderks-msf-f1099e04c142",
+  "name": "vbaderks/msf",
+  "url": "https://github.com/vbaderks/msf",
+  "category_id": "windows-native-integration",
+  "purpose": "ATL-based C++ framework for Explorer shell extensions | Library; LGPL terms",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-end2endzone-shellanything-1137837383be",
+  "name": "end2endzone/ShellAnything",
+  "url": "https://github.com/end2endzone/ShellAnything",
+  "category_id": "windows-native-integration",
+  "purpose": "Configurable dynamic Explorer context menus | Tool and integration reference",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-win32-wtl-wtl-bed9720b4181",
+  "name": "Win32-WTL/WTL",
+  "url": "https://github.com/Win32-WTL/WTL",
+  "category_id": "windows-native-integration",
+  "purpose": "Windows Template Library for ATL-based desktop interfaces | GitHub mirror; upstream is SourceForge",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dahall-taskscheduler-841ff76e77d2",
+  "name": "dahall/TaskScheduler",
+  "url": "https://github.com/dahall/TaskScheduler",
+  "category_id": "windows-native-integration",
+  "purpose": ".NET wrapper and editor controls for Windows Task Scheduler | Library",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-mhammond-pywin32-cdacd2a4ae0e",
+  "name": "mhammond/pywin32",
+  "url": "https://github.com/mhammond/pywin32",
+  "category_id": "windows-native-integration",
+  "purpose": "Python access to Win32 COM services and Windows APIs | Python extension modules",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-pythonnet-pythonnet-05925e21d1b8",
+  "name": "pythonnet/pythonnet",
+  "url": "https://github.com/pythonnet/pythonnet",
+  "category_id": "windows-native-integration",
+  "purpose": "Interoperability between Python and .NET | Runtime bridge",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dotnet-clangsharp-e02151663d50",
+  "name": "dotnet/ClangSharp",
+  "url": "https://github.com/dotnet/ClangSharp",
+  "category_id": "windows-native-integration",
+  "purpose": "Clang .NET bindings and native P/Invoke generation | Native binding tooling; redirected from microsoft/ClangSharp",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-aaronrobinsonmsft-dnne-c7c8be2d3c98",
+  "name": "AaronRobinsonMSFT/DNNE",
+  "url": "https://github.com/AaronRobinsonMSFT/DNNE",
+  "category_id": "windows-native-integration",
+  "purpose": "Expose native entry points from .NET assemblies | Prototype; assess against current NativeAOT needs",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

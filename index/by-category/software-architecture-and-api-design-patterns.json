@@ -1,0 +1,750 @@
+[
+ {
+  "resource_id": "res-apollo-d9f44145a2f6",
+  "name": "apollo",
+  "url": "https://github.com/apolloconfig/apollo",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-skywalking-0d474be2831a",
+  "name": "skywalking",
+  "url": "https://github.com/apache/skywalking",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "APM, Application Performance Monitoring System",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "observability"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cat-61da1a6a9726",
+  "name": "cat",
+  "url": "https://github.com/dianping/cat",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "java",
+   "javascript",
+   "python"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "java",
+   "javascript",
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pinpoint-10e5dd0c9640",
+  "name": "pinpoint",
+  "url": "https://github.com/pinpoint-apm/pinpoint",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "APM, (Application Performance Management) tool for large-scale distributed systems.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cas-23b8832eaafd",
+  "name": "cas",
+  "url": "https://github.com/apereo/cas",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Apereo CAS - Identity & Single Sign On for all earthlings and beyond.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-springcloudlearning-04c3090567f3",
+  "name": "SpringCloudLearning",
+  "url": "https://github.com/forezp/SpringCloudLearning",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "《史上最简单的Spring Cloud教程源码》",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-squid-06fcdef6d4f3",
+  "name": "squid",
+  "url": "https://github.com/squid-cache/squid",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Squid Web Proxy Cache - Source Code",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tair-76615e62f05d",
+  "name": "tair",
+  "url": "https://github.com/alibaba/tair",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "A distributed key-value storage system developed by Alibaba Group",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nuster-8eca27044fe2",
+  "name": "nuster",
+  "url": "https://github.com/jiangwenyuan/nuster",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-design-pattern-0eceb66d6374",
+  "name": "design-pattern",
+  "url": "https://github.com/ToryZhou/design-pattern",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "More than 23 GoF design pattern",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-scalability-4034d78712c0",
+  "name": "awesome-scalability",
+  "url": "https://github.com/binhnguyennus/awesome-scalability",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+  "resource_type": "curated-list",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-etcd-bde1b8d659be",
+  "name": "etcd",
+  "url": "https://github.com/etcd-io/etcd",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dubbo-d193399960ed",
+  "name": "dubbo",
+  "url": "https://github.com/apache/dubbo",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "java"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-trpc-570983a82b4a",
+  "name": "trpc",
+  "url": "https://github.com/trpc/trpc",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "end-to-end-testing"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fiber-b2cb7c57816b",
+  "name": "fiber",
+  "url": "https://github.com/gofiber/fiber",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "⚡️ Express inspired web framework written in Go",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-nacos-d7ca5bf6dddb",
+  "name": "nacos",
+  "url": "https://github.com/alibaba/nacos",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-design",
+   "api-integration",
+   "architecture",
+   "cloud"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-influxdb-a2db61d24c35",
+  "name": "influxdb",
+  "url": "https://github.com/influxdata/influxdb",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Scalable datastore for metrics, events, and real-time analytics",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "data-science",
+   "observability"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-envoy-410b84dd0a3c",
+  "name": "envoy",
+  "url": "https://github.com/envoyproxy/envoy",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Cloud-native high-performance edge/middle/service proxy",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "cloud"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pingora-9058c513e612",
+  "name": "pingora",
+  "url": "https://github.com/cloudflare/pingora",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "A library for building fast, reliable and evolvable network services.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rocketmq-b0d5ad93a4bc",
+  "name": "rocketmq",
+  "url": "https://github.com/apache/rocketmq",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "cloud"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gofr-c3443076e90e",
+  "name": "gofr",
+  "url": "https://github.com/gofr-dev/gofr",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "go",
+   "observability"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "go"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-uwebsockets-a9e946c12f21",
+  "name": "uWebSockets",
+  "url": "https://github.com/uNetworking/uWebSockets",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Simple, secure & standards compliant web server for the most demanding of applications",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "security"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aiohttp-64ef28878962",
+  "name": "aiohttp",
+  "url": "https://github.com/aio-libs/aiohttp",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Asynchronous HTTP client/server framework for asyncio and Python",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "python"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-disruptor-d85f99fd81ce",
+  "name": "disruptor",
+  "url": "https://github.com/LMAX-Exchange/disruptor",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "High Performance Inter-Thread Messaging Library",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-workflow-e090bc590600",
+  "name": "workflow",
+  "url": "https://github.com/sogou/workflow",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "C++ Parallel Computing and Asynchronous Networking Framework",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zuul-4a07d9dc1b55",
+  "name": "zuul",
+  "url": "https://github.com/Netflix/zuul",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "observability",
+   "security"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-citus-ab1266cd66a0",
+  "name": "citus",
+  "url": "https://github.com/citusdata/citus",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Distributed PostgreSQL as an extension",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "database"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-eureka-c09909717bf0",
+  "name": "eureka",
+  "url": "https://github.com/Netflix/eureka",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "AWS Service registry for resilient mid-tier load balancing and failover.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "cloud"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-resilience4j-fb1a896c6134",
+  "name": "resilience4j",
+  "url": "https://github.com/resilience4j/resilience4j",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Resilience4j is a fault tolerance library designed for Java8 and functional programming",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grape-3c02cd79942d",
+  "name": "grape",
+  "url": "https://github.com/ruby-grape/grape",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "An opinionated framework for creating REST-like APIs in Ruby.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "ruby"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-postgrest-9cbd731f25f8",
+  "name": "postgrest",
+  "url": "https://github.com/PostgREST/postgrest",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "REST API for any Postgres database",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "database"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-node-restify-34a20bb59696",
+  "name": "node-restify",
+  "url": "https://github.com/restify/node-restify",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "The future of Node.js REST development",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "javascript"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-falcon-d2e64c32d02a",
+  "name": "falcon",
+  "url": "https://github.com/falconry/falcon",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "The no-magic web API and microservices framework for Python developers, with a focus on reliability and performance at scale.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "python"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-api-platform-ed786e07a262",
+  "name": "api-platform",
+  "url": "https://github.com/api-platform/api-platform",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-go-restful-340a852a5b27",
+  "name": "go-restful",
+  "url": "https://github.com/emicklei/go-restful",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "package for building REST-style Web Services using Go",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-express-gateway-1d024f0214a8",
+  "name": "express-gateway",
+  "url": "https://github.com/ExpressGateway/express-gateway",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "A microservices API Gateway built on top of Express.js",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-go-json-rest-00a19b014852",
+  "name": "go-json-rest",
+  "url": "https://github.com/ant0ine/go-json-rest",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "A quick and easy way to setup a RESTful JSON API",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vertx-web-c91f251986b1",
+  "name": "vertx-web",
+  "url": "https://github.com/vert-x3/vertx-web",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "HTTP web applications for Vert.x",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pode-620083b32227",
+  "name": "Pode",
+  "url": "https://github.com/Badgerati/Pode",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Pode is a Cross-Platform PowerShell web framework for creating REST APIs, Web Sites, and TCP/SMTP servers",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "web"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ }
+]

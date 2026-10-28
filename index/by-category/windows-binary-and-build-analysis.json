@@ -1,0 +1,115 @@
+[
+ {
+  "resource_id": "res-microsoft-sizebench-3021891e154a",
+  "name": "microsoft/SizeBench",
+  "url": "https://github.com/microsoft/SizeBench",
+  "category_id": "windows-binary-and-build-analysis",
+  "purpose": "Analyze and compare code and data size in Windows PE binaries | Tool using binary and PDB pairs; useful for EXE DLL and SYS size regressions",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-binskim-1dafe07681f1",
+  "name": "microsoft/binskim",
+  "url": "https://github.com/microsoft/binskim",
+  "category_id": "windows-binary-and-build-analysis",
+  "purpose": "Check compiler linker and security-relevant binary characteristics | Binary analyzer with SARIF output; rules and supported formats depend on version",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "security",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-vcperf-dd313c0013c8",
+  "name": "microsoft/vcperf",
+  "url": "https://github.com/microsoft/vcperf",
+  "category_id": "windows-binary-and-build-analysis",
+  "purpose": "Capture MSVC compiler and linker performance traces | C++ Build Insights tool; integrates with Windows Performance Analyzer",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-cpp-build-insights-samples-613816fbad5a",
+  "name": "microsoft/cpp-build-insights-samples",
+  "url": "https://github.com/microsoft/cpp-build-insights-samples",
+  "category_id": "windows-binary-and-build-analysis",
+  "purpose": "Examples of finding compilation and code-generation bottlenecks | SDK sample resource rather than a standalone runtime",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-clrmd-7efc3b1d7984",
+  "name": "microsoft/clrmd",
+  "url": "https://github.com/microsoft/clrmd",
+  "category_id": "windows-binary-and-build-analysis",
+  "purpose": "Inspect .NET processes and memory dumps programmatically | Microsoft.Diagnostics.Runtime.dll; validate supported CLR and library major version",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-rainers-cv2pdb-588c77e7e5c8",
+  "name": "rainers/cv2pdb",
+  "url": "https://github.com/rainers/cv2pdb",
+  "category_id": "windows-binary-and-build-analysis",
+  "purpose": "Convert supported CodeView or DWARF debug information to PDB | Specialized converter; validate compiler output and debug-record coverage",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

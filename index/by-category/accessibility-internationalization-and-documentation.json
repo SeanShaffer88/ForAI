@@ -1,0 +1,357 @@
+[
+ {
+  "resource_id": "res-wcag-d49b1d61038f",
+  "name": "WCAG",
+  "url": "https://www.w3.org/TR/WCAG22/",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Web accessibility criteria; combine automation with manual assessment.",
+  "resource_type": "documentation",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-axe-core-0ced77d806a5",
+  "name": "axe-core",
+  "url": "https://github.com/dequelabs/axe-core",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Automated accessibility rule engine.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-icu-761a4b5ef0d4",
+  "name": "ICU",
+  "url": "https://unicode-org.github.io/icu/",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Unicode, locale-sensitive formatting and collation.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-i18next-ac92289ba2b4",
+  "name": "i18next",
+  "url": "https://www.i18next.com/",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Application translation and locale resource management.",
+  "resource_type": "documentation",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-docusaurus-bd3e884ed97c",
+  "name": "Docusaurus",
+  "url": "https://docusaurus.io/docs",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Documentation websites and versioned content.",
+  "resource_type": "documentation",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mkdocs-75beaf878865",
+  "name": "MkDocs",
+  "url": "https://www.mkdocs.org/",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Markdown documentation sites.",
+  "resource_type": "documentation",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sphinx-9a704b7be823",
+  "name": "Sphinx",
+  "url": "https://www.sphinx-doc.org/",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Technical documentation, cross-references and API reference tooling.",
+  "resource_type": "documentation",
+  "topics": [
+   "accessibility",
+   "api-integration"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mermaid-0cb6551da79e",
+  "name": "Mermaid",
+  "url": "https://mermaid.js.org/",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Text-based diagrams embedded in documentation.",
+  "resource_type": "documentation",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pa11y-d1d23b57aaa5",
+  "name": "Pa11y",
+  "url": "https://github.com/pa11y/pa11y",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Automate web accessibility checks; supplement machine findings with manual interaction testing.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "testing"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-accessibility-insights-for-web-815cbaf5cb30",
+  "name": "Accessibility Insights for Web",
+  "url": "https://github.com/microsoft/accessibility-insights-web",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Browser-based accessibility assessment tools; manual checks remain part of the workflow.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lighthouse-801c1b2f6e34",
+  "name": "Lighthouse",
+  "url": "https://github.com/GoogleChrome/lighthouse",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Audit web performance and quality; control test conditions and inspect individual findings.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "testing"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-formatjs-25e2f86dccc9",
+  "name": "FormatJS",
+  "url": "https://github.com/formatjs/formatjs",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Internationalize JavaScript messages; the inspected intl package license is MIT. Confirm licenses for the exact packages and maintain locale extraction.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "javascript"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fluent-js-c23cdf060afe",
+  "name": "Fluent.js",
+  "url": "https://github.com/projectfluent/fluent.js",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "JavaScript implementation of Fluent localization; review message fallback and translator workflows.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "javascript"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lingui-b75c1fa9a9a0",
+  "name": "Lingui",
+  "url": "https://github.com/lingui/js-lingui",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Application message extraction and translation tooling; integrate locale loading and build steps.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-typedoc-dc92a8869e72",
+  "name": "TypeDoc",
+  "url": "https://github.com/TypeStrong/typedoc",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Generate API documentation from TypeScript; configure public API boundaries.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "api-integration",
+   "typescript"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vitepress-9417496dd4af",
+  "name": "VitePress",
+  "url": "https://github.com/vuejs/vitepress",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Build documentation sites with Vite and Vue; check hosting paths and search integration.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-starlight-4c7b73f39e5f",
+  "name": "Starlight",
+  "url": "https://github.com/withastro/starlight",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Astro documentation framework; customize navigation and verify accessibility after changes.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vale-af11310d44c8",
+  "name": "Vale",
+  "url": "https://github.com/vale-cli/vale",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Lint prose against configurable style rules; curate rules to avoid noisy feedback.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-scramble-73611fceb48e",
+  "name": "scramble",
+  "url": "https://github.com/dedoc/scramble",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Modern Laravel OpenAPI (Swagger) documentation generator. No PHPDoc annotations required.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "api-design"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swiftuicharts-b6af94b73620",
+  "name": "SwiftUICharts",
+  "url": "https://github.com/willdale/SwiftUICharts",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility features built in.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "mobile"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-redoc-f1a86c217d49",
+  "name": "redoc",
+  "url": "https://github.com/Redocly/redoc",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "📘 OpenAPI/Swagger-generated API Reference Documentation",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

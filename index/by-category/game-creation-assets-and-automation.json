@@ -1,0 +1,594 @@
+[
+ {
+  "resource_id": "res-claude-code-game-studios-bf44ea84b12f",
+  "name": "Claude Code Game Studios",
+  "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Claude-oriented game-production template. Borrow concise art direction, asset provenance, and observed-playtest gates; adapt to the consuming agent and avoid installing its full hierarchy into an existing project.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-unrealclaude-fc2ee81b5fc2",
+  "name": "UnrealClaude",
+  "url": "https://github.com/Natfii/UnrealClaude",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Claude Code/editor and MCP integration for Unreal Engine 5.7. Relevant to Unreal projects; requires the engine and compatible editor plugin, not an upgrade path for a small WebView game.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-godot-mcp-85931a44cb1b",
+  "name": "Godot MCP",
+  "url": "https://github.com/Coding-Solo/godot-mcp",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Launch and inspect Godot projects through MCP. Candidate for a deliberate Godot port; existing three.js projects do not gain Godot features by adding this server.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ace-step-1-5-c10855cc59b5",
+  "name": "ACE-Step 1.5",
+  "url": "https://github.com/ace-step/ACE-Step-1.5",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Local music authoring model for exporting game soundtrack files. Generate on the development machine and ship audio, not the model. Select model/backend by available GPU memory.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-blender-lab-mcp-21c422b04327",
+  "name": "Blender Lab MCP",
+  "url": "https://projects.blender.org/lab/blender_mcp",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Official Blender Lab bridge for scene inspection and Python automation. Small first-party candidate for modeling, material work, and export; requires Blender 5.1+, add-on, server and MCP client.",
+  "resource_type": "reference",
+  "topics": [
+   "game-development",
+   "mcp",
+   "python"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-for-blender-0bbb95518037",
+  "name": "MCP for Blender",
+  "url": "https://github.com/ahujasid/mcp-for-blender",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Third-party Blender authoring/MCP bridge with render inspection and optional asset/model services. More features than the minimal Blender Lab bridge; audit external-service and telemetry options.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gltf-transform-8123d5fdd7a0",
+  "name": "glTF Transform",
+  "url": "https://github.com/donmccurdy/glTF-Transform",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Script GLB/glTF inspection, deduplication, resizing and optimization in a repeatable asset build pipeline. Fits three.js and engines that import glTF.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-meshoptimizer-gltfpack-8c5ddf5807c9",
+  "name": "meshoptimizer / gltfpack",
+  "url": "https://github.com/zeux/meshoptimizer",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Reduce mesh size and rendering cost; gltfpack optimizes glTF assets. Suitable after visual baseline checks, especially repeated props and LODs.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ktx-software-d0f7eea0ef46",
+  "name": "KTX Software",
+  "url": "https://github.com/KhronosGroup/KTX-Software",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "KTX2 texture authoring/transcoding tools for mobile GPU texture budgets. Consider only after profiling; compressed download size differs from decoded GPU memory.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "mobile",
+   "observability"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-gltf-validator-ff4687c19705",
+  "name": "glTF Validator",
+  "url": "https://github.com/KhronosGroup/glTF-Validator",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Validate binary and JSON glTF, buffer access, references and specification conformance before integrating assets.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-blender-gltf-importer-exporter-1f8c733b37d3",
+  "name": "Blender glTF importer/exporter",
+  "url": "https://github.com/KhronosGroup/glTF-Blender-IO",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Official Khronos Blender glTF pipeline for baking/exporting engine-portable geometry, materials and animation.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mobile-mcp-006ae7131066",
+  "name": "Mobile MCP",
+  "url": "https://github.com/mobile-next/mobile-mcp",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Local Android/iOS device and emulator control through accessibility snapshots or screenshot coordinates. Useful for native startup, save and lifecycle QA.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "android",
+   "game-development",
+   "mcp",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-maestro-1fc345f8974b",
+  "name": "Maestro",
+  "url": "https://github.com/mobile-dev-inc/Maestro",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Repeatable Android UI flows for installation, menus, permissions and lifecycle smoke tests; complements renderer-level and manual gameplay checks.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "game-development",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-jsfxr-ffadc5a7ccfb",
+  "name": "jsfxr",
+  "url": "https://github.com/chr15m/jsfxr",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Author small synthesized feedback sounds and export WAV files for offline games. Good for rewards/tool/UI cues, less suited to realistic wind or character foley.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-audacity-mcp-067bfb162dd3",
+  "name": "Audacity MCP",
+  "url": "https://github.com/xDarkzx/Audacity-MCP",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Automate audio cleanup, editing and export through a local Audacity scripting bridge. Candidate for finishing recorded ambience or generated music.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kenney-train-kit-1cbc1927a51e",
+  "name": "Kenney Train Kit",
+  "url": "https://kenney.nl/assets/train-kit",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Coherent train, carriage and rail models for a stylized railway game. Select a small subset, recolor and add original settlement details.",
+  "resource_type": "reference",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kenney-nature-kit-b8af60fd2727",
+  "name": "Kenney Nature Kit",
+  "url": "https://kenney.nl/assets/nature-kit",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Low-poly pines, rocks, logs, bridges and camp props suitable for a consistent mobile environment. Snow treatment and game-specific silhouettes still need an art pass.",
+  "resource_type": "reference",
+  "topics": [
+   "game-development",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-quaternius-ultimate-nature-pack-81c199260748",
+  "name": "Quaternius Ultimate Nature Pack",
+  "url": "https://quaternius.com/packs/ultimatenature.html",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Alternative low-poly nature collection including pine/snowy variants; useful when it provides better silhouettes than the primary chosen kit.",
+  "resource_type": "reference",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-poly-haven-797f16756ad0",
+  "name": "Poly Haven",
+  "url": "https://polyhaven.com/",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Source HDRIs, textures and models for authored materials and lighting references. Downsample and stylize selected assets for mobile rather than importing high-resolution packs wholesale.",
+  "resource_type": "reference",
+  "topics": [
+   "game-development",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-ambientcg-e0ea5adf81f9",
+  "name": "ambientCG",
+  "url": "https://ambientcg.com/",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Source CC0 snow, wood, rock and other surfaces for a constrained material palette. Bake/resize only selected maps and budget decoded GPU memory.",
+  "resource_type": "reference",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kenney-food-kit-0846e8b7c8b5",
+  "name": "Kenney Food Kit",
+  "url": "https://kenney.nl/assets/food-kit",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Small stylized food, cookware and table props for offline games. Select only needed GLBs and their palette texture; keep edible props out of automatic snow shaders.",
+  "resource_type": "reference",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bevy-d1e241a7fd01",
+  "name": "Bevy",
+  "url": "https://github.com/bevyengine/bevy",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Build games with Rust and an entity-component-system architecture; track API migration requirements.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "architecture",
+   "game-development",
+   "rust"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-defold-277baed76656",
+  "name": "Defold",
+  "url": "https://github.com/defold/defold",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Develop and export games with Lua scripting; review the custom license and target-platform requirements.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-phaser-5ad407eee785",
+  "name": "Phaser",
+  "url": "https://github.com/phaserjs/phaser",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Create browser games with JavaScript or TypeScript; test rendering and input on target devices.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "javascript",
+   "testing",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pixijs-d21a9e5193e4",
+  "name": "PixiJS",
+  "url": "https://github.com/pixijs/pixijs",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Render interactive 2D graphics in browsers; choose compatible rendering backends and asset pipelines.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-babylon-js-5d0f6caefa58",
+  "name": "Babylon.js",
+  "url": "https://github.com/BabylonJS/Babylon.js",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Build browser 3D scenes and applications; measure GPU capabilities and asset loading.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rapier-7ac2bbd7fe7d",
+  "name": "Rapier",
+  "url": "https://github.com/dimforge/rapier",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Integrate Rust-based 2D or 3D rigid-body physics; validate bindings and simulation settings.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "rust"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jolt-physics-5d836ec758f4",
+  "name": "Jolt Physics",
+  "url": "https://github.com/jrouwe/JoltPhysics",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "C++ rigid-body simulation for games; verify compiler, CPU features and integration model.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-box2d-b082be500f49",
+  "name": "Box2D",
+  "url": "https://github.com/erincatto/box2d",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Simulate 2D rigid bodies; review current API generation and numerical assumptions.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-raylib-73b66b158f70",
+  "name": "raylib",
+  "url": "https://github.com/raysan5/raylib",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Build graphics and games with a compact C API; confirm backend and platform build dependencies.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flecs-4beab56c7431",
+  "name": "Flecs",
+  "url": "https://github.com/SanderMertens/flecs",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Add an entity-component system to C or C++ applications; plan data ownership and scheduling.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ezengine-cd343b649c1d",
+  "name": "ezEngine",
+  "url": "https://github.com/ezEngine/ezEngine",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "An open source C++ game engine.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ncine-0b07a8624f90",
+  "name": "nCine",
+  "url": "https://github.com/nCine/nCine",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "A cross-platform 2D game engine",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-game-datasets-75468ce8b7f9",
+  "name": "game-datasets",
+  "url": "https://github.com/leomaurodesenv/game-datasets",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
+  "resource_type": "curated-list",
+  "topics": [
+   "ai",
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

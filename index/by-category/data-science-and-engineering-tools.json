@@ -1,0 +1,794 @@
+[
+ {
+  "resource_id": "res-pythondatasciencehandbook-debef19e3ba1",
+  "name": "PythonDataScienceHandbook",
+  "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Python Data Science Handbook: full text in Jupyter Notebooks",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mindshub-e9718a93a8ec",
+  "name": "mindshub",
+  "url": "https://github.com/mindsdb/mindshub",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "The unified workspace where open-source models get things done for you.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-data-science-for-beginners-66853e878aa0",
+  "name": "Data-Science-For-Beginners",
+  "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "10 Weeks, 20 Lessons, Data Science for All!",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ai-expert-roadmap-bf4444a44998",
+  "name": "AI-Expert-Roadmap",
+  "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-shap-27fce19498dd",
+  "name": "shap",
+  "url": "https://github.com/shap/shap",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "A game theoretic approach to explain the output of any machine learning model.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science",
+   "game-development"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-funasr-a60dcb089f9d",
+  "name": "FunASR",
+  "url": "https://github.com/modelscope/FunASR",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "mcp"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dvc-e4f8034c572e",
+  "name": "dvc",
+  "url": "https://github.com/treeverse/dvc",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "🦉 Data Versioning and ML Experiments",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-train-llm-from-scratch-a426e20edb6d",
+  "name": "train-llm-from-scratch",
+  "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "A straightforward method for training your LLM, from downloading data to generating text.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "llm"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wandb-4027c668a7f3",
+  "name": "wandb",
+  "url": "https://github.com/wandb/wandb",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-data-science-d93c33670640",
+  "name": "data-science",
+  "url": "https://github.com/ossu/data-science",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "📊 Path to a free self-taught education in Data Science!",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-autogluon-8283fd4fc836",
+  "name": "autogluon",
+  "url": "https://github.com/autogluon/autogluon",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Fast and Accurate ML in 3 Lines of Code",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tidytuesday-8240db4b111a",
+  "name": "tidytuesday",
+  "url": "https://github.com/rfordatascience/tidytuesday",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Official repo for the #tidytuesday project",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flyte-56e7dfc92520",
+  "name": "flyte",
+  "url": "https://github.com/flyteorg/flyte",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "containers",
+   "data-science",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-feast-0d033ac11837",
+  "name": "feast",
+  "url": "https://github.com/feast-dev/feast",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "The Open Source Feature Store for AI/ML",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-clearml-e521ed7ac8ca",
+  "name": "clearml",
+  "url": "https://github.com/clearml/clearml",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xonsh-3b844303383a",
+  "name": "xonsh",
+  "url": "https://github.com/xonsh/xonsh",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kedro-8bfe60a862fc",
+  "name": "kedro",
+  "url": "https://github.com/kedro-org/kedro",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-deepanalyze-9bca93bce507",
+  "name": "DeepAnalyze",
+  "url": "https://github.com/ruc-datalab/DeepAnalyze",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "llm"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aws-sdk-pandas-b5a9076b9423",
+  "name": "aws-sdk-pandas",
+  "url": "https://github.com/aws/aws-sdk-pandas",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ijulia-jl-b301c5f19d7b",
+  "name": "IJulia.jl",
+  "url": "https://github.com/JuliaLang/IJulia.jl",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Julia kernel for Jupyter",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pandasgui-f5525440fbd6",
+  "name": "PandasGUI",
+  "url": "https://github.com/adamerose/PandasGUI",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "A GUI for Pandas DataFrames",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-towhee-d86c7290181c",
+  "name": "towhee",
+  "url": "https://github.com/towhee-io/towhee",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zasper-b45d855c75fb",
+  "name": "zasper",
+  "url": "https://github.com/zasper-io/zasper",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "High Performace IDE for Jupyter Notebooks",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-envd-9293224f28cf",
+  "name": "envd",
+  "url": "https://github.com/tensorchord/envd",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "🏕️ Reproducible development environment for humans and agents",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-data-analysis-01e8e898fd1b",
+  "name": "awesome-data-analysis",
+  "url": "https://github.com/PavelGrigoryevDS/awesome-data-analysis",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "🚀 500+ curated resources for Data Analysis & Data Science: Python, SQL, Statistics, ML, AI, Visualization, Cheatsheets, Roadmaps, Interview Prep. For beginners and experts.",
+  "resource_type": "curated-list",
+  "topics": [
+   "ai",
+   "data-science",
+   "database",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-detectron2-847f49fc6f82",
+  "name": "detectron2",
+  "url": "https://github.com/facebookresearch/detectron2",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-deepface-501fb78fb4c0",
+  "name": "deepface",
+  "url": "https://github.com/serengil/deepface",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-recommenders-c7c6ca92c78b",
+  "name": "recommenders",
+  "url": "https://github.com/recommenders-team/recommenders",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Best Practices on Recommendation Systems",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lightgbm-3f06084d5037",
+  "name": "LightGBM",
+  "url": "https://github.com/lightgbm-org/LightGBM",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-segmentation-models-pytorch-0ec24b3dca90",
+  "name": "segmentation_models.pytorch",
+  "url": "https://github.com/qubvel-org/segmentation_models.pytorch",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-machinelearning-d97b6158ae62",
+  "name": "machinelearning",
+  "url": "https://github.com/dotnet/machinelearning",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-deeplake-b669a296693c",
+  "name": "deeplake",
+  "url": "https://github.com/activeloopai/deeplake",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud",
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tpot-caa1889fb6b6",
+  "name": "tpot",
+  "url": "https://github.com/EpistasisLab/tpot",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pyod-9d52d86cb5de",
+  "name": "pyod",
+  "url": "https://github.com/yzhao062/pyod",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "A Python library for anomaly detection across tabular, time series, graph, text, image, and audio data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science",
+   "python",
+   "testing"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-featuretools-bf90a2f84204",
+  "name": "featuretools",
+  "url": "https://github.com/alteryx/featuretools",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "An open source python library for automated feature engineering",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-weaviate-b759638621c9",
+  "name": "weaviate",
+  "url": "https://github.com/weaviate/weaviate",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-praisonai-7eaee4530dc4",
+  "name": "PraisonAI",
+  "url": "https://github.com/MervinPraison/PraisonAI",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-catboost-53fc8986b0d9",
+  "name": "catboost",
+  "url": "https://github.com/catboost/catboost",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science",
+   "java",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "java",
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-interpret-d139d699ed77",
+  "name": "interpret",
+  "url": "https://github.com/interpretml/interpret",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Fit interpretable models. Explain blackbox machine learning.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-compreface-c917f10f7909",
+  "name": "CompreFace",
+  "url": "https://github.com/exadel-inc/CompreFace",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Leading free and open-source face recognition system",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stdlib-6dd521e75322",
+  "name": "stdlib",
+  "url": "https://github.com/stdlib-js/stdlib",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "✨ The fundamental numerical library for JavaScript and TypeScript. ✨ ⭐️ Star to support our work!",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "javascript",
+   "typescript"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-djl-ae14e056f1e6",
+  "name": "djl",
+  "url": "https://github.com/deepjavalibrary/djl",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "An Engine-Agnostic Deep Learning Framework in Java",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "java"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-leaf-45e72b8a4010",
+  "name": "leaf",
+  "url": "https://github.com/autumnai/leaf",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cml-7b049883f6f5",
+  "name": "cml",
+  "url": "https://github.com/iterative/cml",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "♾️ CML - Continuous Machine Learning ; CI/CD for ML",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spark-nlp-7c8e123065f1",
+  "name": "spark-nlp",
+  "url": "https://github.com/JohnSnowLabs/spark-nlp",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "State of the Art Natural Language Processing",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

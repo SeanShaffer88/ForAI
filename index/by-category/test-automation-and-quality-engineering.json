@@ -1,0 +1,1148 @@
+[
+ {
+  "resource_id": "res-big-list-of-naughty-strings-afcb96eb87b7",
+  "name": "big-list-of-naughty-strings",
+  "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-falsehood-c573f157a7e5",
+  "name": "awesome-falsehood",
+  "url": "https://github.com/kdeldycke/awesome-falsehood",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "😱 Falsehoods Programmers Believe in",
+  "resource_type": "curated-list",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rrweb-ce285945b60a",
+  "name": "rrweb",
+  "url": "https://github.com/rrweb-io/rrweb",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "record and replay the web",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-keploy-6729cfa77dd6",
+  "name": "keploy",
+  "url": "https://github.com/keploy/keploy",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "end-to-end-testing",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zaproxy-b8af7acb81b7",
+  "name": "zaproxy",
+  "url": "https://github.com/zaproxy/zaproxy",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "The ZAP by Checkmarx Core project",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-security-10a84b72823b",
+  "name": "awesome-security",
+  "url": "https://github.com/sbilly/awesome-security",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+  "resource_type": "curated-list",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-captura-06d7ac18536f",
+  "name": "Captura",
+  "url": "https://github.com/MathewSachin/Captura",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-foundry-752cb8982486",
+  "name": "foundry",
+  "url": "https://github.com/foundry-rs/foundry",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "rust",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-howtheytest-73f1cfd1d5d6",
+  "name": "howtheytest",
+  "url": "https://github.com/abhivaikar/howtheytest",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A collection of public resources about how software companies test their software",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-appsec-d25d59bac102",
+  "name": "awesome-appsec",
+  "url": "https://github.com/paragonie/awesome-appsec",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A curated list of resources for learning about application security",
+  "resource_type": "curated-list",
+  "topics": [
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bats-core-6acc74a1bbd9",
+  "name": "bats-core",
+  "url": "https://github.com/bats-core/bats-core",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Bash Automated Testing System",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-learn-to-program-793ff32528c1",
+  "name": "learn-to-program",
+  "url": "https://github.com/karlhorky/learn-to-program",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Educational resources to learn to program (Foundation in Web Development)",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-quality-assurance-roadmap-3438c0975b92",
+  "name": "awesome-quality-assurance-roadmap",
+  "url": "https://github.com/fityanos/awesome-quality-assurance-roadmap",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": ":books: The starting point of your career as a Software Quality Assurance Engineer ; Quality Automation Engineer :books:",
+  "resource_type": "curated-list",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ferrum-3570de76d25d",
+  "name": "ferrum",
+  "url": "https://github.com/rubycdp/ferrum",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Headless Chrome Ruby API",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "ruby",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-testlink-code-67ce57eeb2c7",
+  "name": "testlink-code",
+  "url": "https://github.com/TestLinkOpenSourceTRMS/testlink-code",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "TestLink Open Source Test & Requirement Management System",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tapflow-53fb2a510425",
+  "name": "tapflow",
+  "url": "https://github.com/jo-duchan/tapflow",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Self-hosted iOS & Android simulator streaming for the whole team",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-kiwi-d70b4633ade7",
+  "name": "Kiwi",
+  "url": "https://github.com/kiwitcms/Kiwi",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "open source test management system with over 2 million downloads!",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-synth-202c2cba2256",
+  "name": "synth",
+  "url": "https://github.com/shuttle-hq/synth",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "The Declarative Data Generator",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-selenium-6c32823d2c72",
+  "name": "awesome-selenium",
+  "url": "https://github.com/christian-bromann/awesome-selenium",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A curated list of delightful Selenium resources.",
+  "resource_type": "curated-list",
+  "topics": [
+   "browser-automation",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-testzeus-hercules-f1f76612b37c",
+  "name": "testzeus-hercules",
+  "url": "https://github.com/test-zeus-ai/testzeus-hercules",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "api-integration",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqa-wiki-4a6883e6dd50",
+  "name": "sqa-wiki",
+  "url": "https://github.com/ligurio/sqa-wiki",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "My own notes (drafts mostly) about software quality",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dark-moon-099f682fea9d",
+  "name": "Dark-Moon",
+  "url": "https://github.com/ASCIT31/Dark-Moon",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "cloud",
+   "containers",
+   "llm",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-playwright-bdd-b4cf8376209e",
+  "name": "playwright-bdd",
+  "url": "https://github.com/vitalets/playwright-bdd",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "BDD testing with Playwright runner",
+  "resource_type": "repository",
+  "topics": [
+   "browser-automation",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-jmeter-a900e724905a",
+  "name": "awesome-jmeter",
+  "url": "https://github.com/aliesbelik/awesome-jmeter",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A collection of resources covering different aspects of JMeter usage.",
+  "resource_type": "curated-list",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-unicode-cf2f33608a9f",
+  "name": "Awesome-Unicode",
+  "url": "https://github.com/jagracey/Awesome-Unicode",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": ":joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.",
+  "resource_type": "curated-list",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fakecloud-a2f0b004af63",
+  "name": "fakecloud",
+  "url": "https://github.com/faiscadev/fakecloud",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Free, open-source AWS emulator. LocalStack alternative: 107 services, 7,657 operations, true 100% Smithy conformance (258,545/258,545 variants pass). No account, no auth token, no paid tier.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-trytouca-5902cb0a3578",
+  "name": "trytouca",
+  "url": "https://github.com/trytouca/trytouca",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Continuous Regression Testing for Engineering Teams",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-agent-qa-fb9652a2d1bb",
+  "name": "agent-qa",
+  "url": "https://github.com/vostride/agent-qa",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+  "resource_type": "repository",
+  "topics": [
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-deepfakehttp-ed683106ff47",
+  "name": "DeepfakeHTTP",
+  "url": "https://github.com/xnbox/DeepfakeHTTP",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flutter-skill-c81c67fbef0d",
+  "name": "flutter-skill",
+  "url": "https://github.com/ai-dashboad/flutter-skill",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "AI-powered E2E testing for 10 platforms. 253 MCP tools. Zero config. Works with Claude, Cursor, Windsurf, Copilot. Test Flutter, React Native, iOS, Android, Web, Electron, Tauri, KMP, .NET MAUI — all from natural language.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "android",
+   "desktop",
+   "end-to-end-testing",
+   "mcp",
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-orcareplay-7ff773cb4b87",
+  "name": "OrcaReplay",
+  "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jumpstarter-b422386f5625",
+  "name": "jumpstarter",
+  "url": "https://github.com/jumpstarter-dev/jumpstarter",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-recheck-web-4d9661e9908e",
+  "name": "recheck-web",
+  "url": "https://github.com/retest/recheck-web",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "recheck for web apps – change comparison tool with local Golden Masters, Git-like ignore syntax and \"Unbreakable Selenium\" tests.",
+  "resource_type": "repository",
+  "topics": [
+   "browser-automation",
+   "git",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mockd-519dc3dc1e41",
+  "name": "mockd",
+  "url": "https://github.com/getmockd/mockd",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "High-performance, multi-protocol mock server. HTTP, WebSocket, gRPC, MQTT, SSE, GraphQL, SOAP in one binary.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dbmask-ca5017b83138",
+  "name": "dbmask",
+  "url": "https://github.com/sealandseacat/dbmask",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Discover, mask, and verify sensitive data in SQL databases — an auditable scan → mask → validate workflow for safe database copies.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-device-hub-pro-af735f94d389",
+  "name": "device-hub-pro",
+  "url": "https://github.com/gitemre/device-hub-pro",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Android and iOS devices, side by side on your Mac. Mirror, control, change settings and capture — free and open source.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-awesome-ai-testing-61c3acade22b",
+  "name": "awesome-ai-testing",
+  "url": "https://github.com/tugkanboz/awesome-ai-testing",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.",
+  "resource_type": "curated-list",
+  "topics": [
+   "ai",
+   "llm",
+   "mcp",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-testing-blogs-07508a21f8fc",
+  "name": "awesome-testing-blogs",
+  "url": "https://github.com/ChristoWolf/awesome-testing-blogs",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "An awesome, curated list of various software testing related blogs and similar resources.",
+  "resource_type": "curated-list",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-assay-86bf8145f861",
+  "name": "assay",
+  "url": "https://github.com/awss1i/assay",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "An agent-native QA CLI for web pages. Deterministic, no tests to write, no LLM.",
+  "resource_type": "repository",
+  "topics": [
+   "llm",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-test-each-4f707708b83e",
+  "name": "test-each",
+  "url": "https://github.com/ehmicky/test-each",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "🤖 Repeat tests. Repeat tests. Repeat tests.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-locust-k8s-operator-cf79d7907de8",
+  "name": "locust-k8s-operator",
+  "url": "https://github.com/AbdelrhmanHamouda/locust-k8s-operator",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Locust Kubernetes operator: run distributed Locust load tests on Kubernetes with a LocustTest CRD. Helm chart, OpenTelemetry, OpenShift support.",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-datamimic-1c681363f0ce",
+  "name": "datamimic",
+  "url": "https://github.com/rapiddweller/datamimic",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Model-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pipelines, and MCP/IDE integration to orchestrate realistic datasets for finance, healthcare, and other regulated environments.",
+  "resource_type": "dataset",
+  "topics": [
+   "data-science",
+   "mcp",
+   "python",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sherlo-31413cf35f3d",
+  "name": "sherlo",
+  "url": "https://github.com/sherlo-io/sherlo",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Visual testing for React Native. Catch visual regressions on iOS and Android simulators in the cloud, before they ship.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "cloud",
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-nika-06ad833fef4e",
+  "name": "nika",
+  "url": "https://github.com/supernovae-st/nika",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Intent as Code: say what you want done, keep it as a file. Checked before it runs, run with the model you choose, proven afterwards. Rust engine, CLI/TUI and TypeScript SDK. AGPL-3.0 🦋",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "rust",
+   "testing",
+   "typescript"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "rust",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-orcapromptvault-776a135ee56c",
+  "name": "OrcaPromptVault",
+  "url": "https://github.com/Continuum-AI-Corp/OrcaPromptVault",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "The open archive of how AI agents actually work. A versioned, verifiable archive of system prompts, developer instructions, tool schemas and agent harnesses powering today's AI products. Captured with OrcaReplay.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-oh-my-android-93db4de973f3",
+  "name": "oh-my-android",
+  "url": "https://github.com/ateymoori/oh-my-android",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Free ADB GUI and Android Emulator control panel for macOS. One click for dark mode, font scale, RTL and pseudo-locales, TalkBack, layout bounds, network speed and GPS: no adb commands. Layout Inspector in dp for any app (Compose and Views) with Figma overlay and TalkBack-order audit. Plus an MCP server for AI agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "android",
+   "mcp",
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-optics-framework-7c15f6a15353",
+  "name": "optics-framework",
+  "url": "https://github.com/mozarkai/optics-framework",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Open-source test automation for Android, iOS, web, smart TV (Android TV, Tizen, webOS) and Bluetooth (BLE) devices. Write tests as CSV/YAML, record them live, or let an AI agent build them over MCP. Self-healing locators: XPath, text, OCR, image.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "android",
+   "mcp",
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-voicetest-31e1e7783fb1",
+  "name": "voicetest",
+  "url": "https://github.com/voicetestdev/voicetest",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Test harness for voice agents. Import from Retell, VAPI, Bland, LiveKit. Run autonomous simulations. Evaluate with LLM judges.",
+  "resource_type": "repository",
+  "topics": [
+   "llm",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-performance-engineering-abc79d764a5b",
+  "name": "awesome-performance-engineering",
+  "url": "https://github.com/be-next/awesome-performance-engineering",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A curated, opinionated collection of tools and resources dedicated to Performance Engineering, covering both Observability and Performance Testing.",
+  "resource_type": "curated-list",
+  "topics": [
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opentester-135b89b602bb",
+  "name": "OpenTester",
+  "url": "https://github.com/kznr02/OpenTester",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "AI-Drived end-to-end test platform",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "end-to-end-testing",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-solidping-17045bd43d13",
+  "name": "solidping",
+  "url": "https://github.com/fclairamb/solidping",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Distributed, self-hostable uptime monitoring: 40 check types, multi-region workers, private agents, status pages, incidents and on-call escalation — in a single Go binary.",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-goodlooks-5000449da3f4",
+  "name": "goodlooks",
+  "url": "https://github.com/testdriverai/goodlooks",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Visually Validate Playwright Tests Without Flaky Selectors",
+  "resource_type": "repository",
+  "topics": [
+   "browser-automation",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-cucumber-b43c30700d1d",
+  "name": "Awesome-Cucumber",
+  "url": "https://github.com/virajkulkarni14/Awesome-Cucumber",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A collection of awesome Cucumber and Gherkin-related resources",
+  "resource_type": "curated-list",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-load-testing-hub-panel-e59680fb4ebd",
+  "name": "load-testing-hub-panel",
+  "url": "https://github.com/Nikita-Filonov/load-testing-hub-panel",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Ultimate web UI for visualizing load test results",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swagger-coverage-tool-19d54a3da8a6",
+  "name": "swagger-coverage-tool",
+  "url": "https://github.com/Nikita-Filonov/swagger-coverage-tool",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spectest-cf9a2360e456",
+  "name": "spectest",
+  "url": "https://github.com/justiceo/spectest",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Declarative API testing",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-postman2pytest-2851c026d0dd",
+  "name": "postman2pytest",
+  "url": "https://github.com/golikovichev/postman2pytest",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Convert Postman Collection v2.1 JSON into executable pytest test suites",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ai-natural-language-tests-39eff3e92ab2",
+  "name": "ai-natural-language-tests",
+  "url": "https://github.com/aiqualitylab/ai-natural-language-tests",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Enterprise-grade platform to generate and execute Cypress, Playwright, WebdriverIO, and Appium end-to-end tests from natural language requirements. (Appium is experimental and requires external mobile infrastructure.)",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "browser-automation",
+   "end-to-end-testing",
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-visual-testing-357e6d45d0ec",
+  "name": "visual-testing",
+  "url": "https://github.com/webdriverio/visual-testing",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Image comparison / visual regression testing for WebdriverIO",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wdi5-06e85701bbfc",
+  "name": "wdi5",
+  "url": "https://github.com/ui5-community/wdi5",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "official UI5 end-to-end test framework for UI5 web-apps. wdi5 = Webdriver.IO + UI5 Test API",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "browser-automation",
+   "end-to-end-testing",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wdio-intercept-service-a9aa5bdc0fe0",
+  "name": "wdio-intercept-service",
+  "url": "https://github.com/webdriverio-community/wdio-intercept-service",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "🕸 Capture and assert HTTP ajax calls in webdriver.io",
+  "resource_type": "repository",
+  "topics": [
+   "browser-automation",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wdio-aws-device-farm-service-9442cf373107",
+  "name": "wdio-aws-device-farm-service",
+  "url": "https://github.com/awslabs/wdio-aws-device-farm-service",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "AWS Device Farm service for WebdriverIO",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wdio-wait-for-d09dea9e02c9",
+  "name": "wdio-wait-for",
+  "url": "https://github.com/webdriverio/wdio-wait-for",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "a lightweight library of useful expected conditions for the WebdriverIO framework.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wdio-cucumberjs-json-reporter-aad299f0ef20",
+  "name": "wdio-cucumberjs-json-reporter",
+  "url": "https://github.com/webdriverio-community/wdio-cucumberjs-json-reporter",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A WDIO reporter that creates CucumberJS JSON files for WebdriverIO",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wdio-reportportal-reporter-9937908bef9f",
+  "name": "wdio-reportportal-reporter",
+  "url": "https://github.com/BorisOsipov/wdio-reportportal-reporter",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A WebdriverIO plugin. Report results to Report Portal.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

@@ -1,0 +1,1580 @@
+[
+ {
+  "resource_id": "res-terragrunt-eedfd2fcd5ce",
+  "name": "terragrunt",
+  "url": "https://github.com/gruntwork-io/terragrunt",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terratest-c0f4bf5c3bc7",
+  "name": "terratest",
+  "url": "https://github.com/gruntwork-io/terratest",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tflint-15948686981f",
+  "name": "tflint",
+  "url": "https://github.com/terraform-linters/tflint",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A Pluggable Terraform Linter",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pre-commit-terraform-80f3cbd57cce",
+  "name": "pre-commit-terraform",
+  "url": "https://github.com/antonbabenko/pre-commit-terraform",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "pre-commit git hooks to take care of Terraform configurations 🇺🇦",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "git",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terramate-7e966196de32",
+  "name": "terramate",
+  "url": "https://github.com/terramate-io/terramate",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Open-source Infrastructure as Code (IaC) orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and more. Integrates with Terraform, OpenTofu, Terragrunt, Kubernetes, GitHub Actions, GitLab CI/CD, BitBucket Pipelines, and any other CI/CD platform.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-former2-c3dacfab0d5d",
+  "name": "former2",
+  "url": "https://github.com/iann0036/former2",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terracognita-e4428084d1a0",
+  "name": "terracognita",
+  "url": "https://github.com/cycloidio/terracognita",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-inframap-5060a61c8bc1",
+  "name": "inframap",
+  "url": "https://github.com/cycloidio/inframap",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cf-terraforming-12aace2205e1",
+  "name": "cf-terraforming",
+  "url": "https://github.com/cloudflare/cf-terraforming",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A command line utility to facilitate terraforming your existing Cloudflare resources.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-skill-6a007719db20",
+  "name": "terraform-skill",
+  "url": "https://github.com/antonbabenko/terraform-skill",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud",
+   "infrastructure-as-code",
+   "testing"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terravision-1289b7997525",
+  "name": "terravision",
+  "url": "https://github.com/patrickchugh/terravision",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "architecture",
+   "cloud",
+   "infrastructure-as-code",
+   "mcp"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-landscape-0686486c090c",
+  "name": "terraform-landscape",
+  "url": "https://github.com/coinbase/terraform-landscape",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Improve Terraform's plan output to be easier to read and understand",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-aws-secure-baseline-906c9ebebb3a",
+  "name": "terraform-aws-secure-baseline",
+  "url": "https://github.com/nozaq/terraform-aws-secure-baseline",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-atmos-314766cdaf76",
+  "name": "atmos",
+  "url": "https://github.com/cloudposse/atmos",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terratag-34f3f11c30a7",
+  "name": "terratag",
+  "url": "https://github.com/env0/terratag",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-aws-lambda-fec8aafc5cc3",
+  "name": "terraform-aws-lambda",
+  "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-google-project-factory-0e045bc068fc",
+  "name": "terraform-google-project-factory",
+  "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pike-f06d10415227",
+  "name": "pike",
+  "url": "https://github.com/JamesWoolfenden/pike",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Pike is a tool for determining the permissions or policy required for IAC code",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-yor-95bb3f009bb4",
+  "name": "yor",
+  "url": "https://github.com/bridgecrewio/yor",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-iam-policy-json-to-terraform-c4afc2740170",
+  "name": "iam-policy-json-to-terraform",
+  "url": "https://github.com/flosell/iam-policy-json-to-terraform",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aws2tf-499c0b885a92",
+  "name": "aws2tf",
+  "url": "https://github.com/aws-samples/aws2tf",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gaia-4710c1e43edd",
+  "name": "gaia",
+  "url": "https://github.com/gaia-app/gaia",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-airiam-924e54d982b1",
+  "name": "AirIAM",
+  "url": "https://github.com/bridgecrewio/AirIAM",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Least privilege AWS IAM Terraformer",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lambda-the-terraform-way-68ee20dc228f",
+  "name": "lambda-the-terraform-way",
+  "url": "https://github.com/nsriram/lambda-the-terraform-way",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "AWS Lambda using Terraform., an Introductory Cookbook",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-otf-7898dadaf3dd",
+  "name": "otf",
+  "url": "https://github.com/leg100/otf",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "An open source alternative to terraform enterprise.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-kubestack-fbec7d28dc12",
+  "name": "terraform-kubestack",
+  "url": "https://github.com/kbst/terraform-kubestack",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-aws-atlantis-8410bedd8310",
+  "name": "terraform-aws-atlantis",
+  "url": "https://github.com/terraform-aws-modules/terraform-aws-atlantis",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform module to deploy Atlantis on AWS Fargate 🇺🇦",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terralist-0af4176fcadc",
+  "name": "terralist",
+  "url": "https://github.com/terralist/terralist",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform Private Registry for modules and providers manageable from a REST API",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-cost-estimation-1958ce0be9a7",
+  "name": "terraform-cost-estimation",
+  "url": "https://github.com/antonbabenko/terraform-cost-estimation",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version)",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-aws-notify-slack-196b7a8833f6",
+  "name": "terraform-aws-notify-slack",
+  "url": "https://github.com/terraform-aws-modules/terraform-aws-notify-slack",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform module to create AWS resources for sending notifications to Slack 🇺🇦",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lynx-54bd12343b65",
+  "name": "Lynx",
+  "url": "https://github.com/Clivern/Lynx",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-iam-policy-validator-d866e2d95c5b",
+  "name": "terraform-iam-policy-validator",
+  "url": "https://github.com/awslabs/terraform-iam-policy-validator",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A command line tool that validates AWS IAM Policies in a Terraform template against AWS IAM best practices",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-aws-autoscaling-257018e51c52",
+  "name": "terraform-aws-autoscaling",
+  "url": "https://github.com/terraform-aws-modules/terraform-aws-autoscaling",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform module to create AWS Auto Scaling resources 🇺🇦",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-graph-beautifier-94972fd67de4",
+  "name": "terraform-graph-beautifier",
+  "url": "https://github.com/pcasteran/terraform-graph-beautifier",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform graph beautifier",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tfmcp-fd6584e93490",
+  "name": "tfmcp",
+  "url": "https://github.com/nwiizo/tfmcp",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "🌍 Terraform Model Context Protocol (MCP) Tool - An experimental CLI tool that enables AI assistants to manage and operate Terraform environments. Supports reading Terraform configurations, analyzing plans, applying configurations, and managing state with Claude Desktop integration. ⚡️",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud",
+   "desktop",
+   "infrastructure-as-code",
+   "mcp"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-boring-registry-b09d93cdb757",
+  "name": "boring-registry",
+  "url": "https://github.com/boring-registry/boring-registry",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A Simple Terraform Provider and Module Registry",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tfvar-a9c3be8fe93a",
+  "name": "tfvar",
+  "url": "https://github.com/shihanng/tfvar",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform's variable definitions template generator.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cloud-concierge-85776275b755",
+  "name": "cloud-concierge",
+  "url": "https://github.com/dragondrop-cloud/cloud-concierge",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "\"Terraform best practices as a Pull Request.\" Codify resources outside of Terraform control, detect drift, estimate cloud costs, identify security risks, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-generator-tf-module-cbb5aa44e414",
+  "name": "generator-tf-module",
+  "url": "https://github.com/sudokar/generator-tf-module",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Project scaffolding for Terraform",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terrahelp-32fcec92c7f0",
+  "name": "terrahelp",
+  "url": "https://github.com/opencredo/terrahelp",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stack-lifecycle-deployment-397d8fb27bf9",
+  "name": "Stack-Lifecycle-Deployment",
+  "url": "https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "OpenSource self-service infrastructure solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud! It is a terraform UI with rest api for terraform and OpenTofu automation",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-modules-tf-lambda-64a9606940eb",
+  "name": "modules.tf-lambda",
+  "url": "https://github.com/antonbabenko/modules.tf-lambda",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Infrastructure as code generator - from visual diagrams created with Cloudcraft.co to Terraform",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-redc-a1e3a78dd1b5",
+  "name": "redc",
+  "url": "https://github.com/wgpsec/redc",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Next-generation IaC tools ; 下一代基础设施管理工具",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vscode-terraform-live-graph-c4a1d2f90cb3",
+  "name": "vscode-terraform-live-graph",
+  "url": "https://github.com/adamiBs/vscode-terraform-live-graph",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "The Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-provider-terracurl-a79c3209a745",
+  "name": "terraform-provider-terracurl",
+  "url": "https://github.com/devops-rob/terraform-provider-terracurl",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A flexible Terraform provider for making API calls",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-plan-parser-3cb87b41f3fc",
+  "name": "terraform-plan-parser",
+  "url": "https://github.com/lifeomic/terraform-plan-parser",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Command line utility and JavaScript API for parsing stdout from \"terraform plan\" and converting it to JSON.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "infrastructure-as-code",
+   "javascript"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tf-profile-642b2783f920",
+  "name": "tf-profile",
+  "url": "https://github.com/datarootsio/tf-profile",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "CLI tool to profile Terraform runs, written in Go",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terrahub-7c35b662e332",
+  "name": "terrahub",
+  "url": "https://github.com/tfxor/terrahub",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform Automation and Orchestration Tool (Open Source)",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubernetes-the-hard-way-632249eadcf7",
+  "name": "kubernetes-the-hard-way",
+  "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Bootstrap Kubernetes the hard way. No scripts.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-algo-8b54da91438e",
+  "name": "algo",
+  "url": "https://github.com/trailofbits/algo",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Set up a personal VPN in the cloud",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-redash-52f341196e0e",
+  "name": "redash",
+  "url": "https://github.com/getredash/redash",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aws-cdk-32951f99264f",
+  "name": "aws-cdk",
+  "url": "https://github.com/aws/aws-cdk",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-s3fs-fuse-fc8192900d70",
+  "name": "s3fs-fuse",
+  "url": "https://github.com/s3fs-fuse/s3fs-fuse",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "FUSE-based file system backed by Amazon S3",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openebs-f6c3215a3f38",
+  "name": "openebs",
+  "url": "https://github.com/openebs/openebs",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-moto-02e8274b0598",
+  "name": "moto",
+  "url": "https://github.com/getmoto/moto",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A library that allows you to easily mock out tests based on AWS infrastructure.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zappa-0f4e0bdc61ed",
+  "name": "Zappa",
+  "url": "https://github.com/Miserlou/Zappa",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Serverless Python",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aws-vault-0b2619078dd6",
+  "name": "aws-vault",
+  "url": "https://github.com/99designs/aws-vault",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A vault for securely storing and accessing AWS credentials in development environments",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-snowplow-6f2303061d0e",
+  "name": "snowplow",
+  "url": "https://github.com/snowplow/snowplow",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "The leader in Customer Data Infrastructure",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aws-sam-cli-b498e22b0642",
+  "name": "aws-sam-cli",
+  "url": "https://github.com/aws/aws-sam-cli",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "testing"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cloud-custodian-545725cf222d",
+  "name": "cloud-custodian",
+  "url": "https://github.com/cloud-custodian/cloud-custodian",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-claudia-9a62d3fd91da",
+  "name": "claudia",
+  "url": "https://github.com/claudiajs/claudia",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Deploy Node.js projects to AWS Lambda and API Gateway easily",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "infrastructure-as-code",
+   "javascript"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aws-lambda-go-1eedc7463169",
+  "name": "aws-lambda-go",
+  "url": "https://github.com/aws/aws-lambda-go",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Libraries, samples and tools to help Go developers develop AWS Lambda functions.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-s5cmd-79a9438b213d",
+  "name": "s5cmd",
+  "url": "https://github.com/peak/s5cmd",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Parallel S3 and local filesystem execution tool.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ribbon-fbe138029013",
+  "name": "ribbon",
+  "url": "https://github.com/Netflix/ribbon",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awslogs-e474ef5b1d1d",
+  "name": "awslogs",
+  "url": "https://github.com/jorgebastida/awslogs",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "AWS CloudWatch logs for Humans™",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bless-b4aa419d9bb8",
+  "name": "bless",
+  "url": "https://github.com/Netflix/bless",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "git",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cli53-b0a222284af0",
+  "name": "cli53",
+  "url": "https://github.com/barnybug/cli53",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Command line tool for Amazon Route 53",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-shoryuken-bab214ff02c5",
+  "name": "shoryuken",
+  "url": "https://github.com/ruby-shoryuken/shoryuken",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A super efficient Amazon SQS thread based message processor for Ruby.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "ruby"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-post-mortems-80b95c55abb1",
+  "name": "post-mortems",
+  "url": "https://github.com/danluu/post-mortems",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A collection of postmortems. Sorry for the delay in merging PRs!",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-ci-bd74bac9a351",
+  "name": "awesome-ci",
+  "url": "https://github.com/ligurio/awesome-ci",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "The list of continuous integration services and tools",
+  "resource_type": "curated-list",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-sre-tools-4fc988c6fe53",
+  "name": "awesome-sre-tools",
+  "url": "https://github.com/SquadcastHub/awesome-sre-tools",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A curated list of Site Reliability and Production Engineering Tools",
+  "resource_type": "curated-list",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-postmortem-templates-92ed9998d446",
+  "name": "postmortem-templates",
+  "url": "https://github.com/dastergon/postmortem-templates",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A collection of postmortem templates",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-run-book-template-ffc3089575eb",
+  "name": "run-book-template",
+  "url": "https://github.com/SkeltonThatcher/run-book-template",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Run Book / Operations Manual template for modern software systems",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-oncall-handbook-f7231484db9a",
+  "name": "oncall-handbook",
+  "url": "https://github.com/alicegoldfuss/oncall-handbook",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Tips and tricks for getting through on-call",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sre-cheat-sheet-2f983b244714",
+  "name": "SRE-cheat-sheet",
+  "url": "https://github.com/shibumi/SRE-cheat-sheet",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A vocabulary collection for SREs",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-2018-london-db892942380b",
+  "name": "2018-London",
+  "url": "https://github.com/devopsenterprise/2018-London",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "DevOps Enterprise Summit, London, June 25-26, 2018",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-incident-lifecycle-model-947f86c99c4d",
+  "name": "incident-lifecycle-model",
+  "url": "https://github.com/preed/incident-lifecycle-model",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A lifecycle model for describing incident management",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-coolify-c9e2317e6c2b",
+  "name": "coolify",
+  "url": "https://github.com/coollabsio/coolify",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-headscale-31cb1d9a55a5",
+  "name": "headscale",
+  "url": "https://github.com/juanfont/headscale",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "An open source, self-hosted implementation of the Tailscale control server",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-netbox-98e94f01c16f",
+  "name": "netbox",
+  "url": "https://github.com/netbox-community/netbox",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nebula-4c6b9325463e",
+  "name": "nebula",
+  "url": "https://github.com/slackhq/nebula",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-telegraf-3c126f805eac",
+  "name": "telegraf",
+  "url": "https://github.com/influxdata/telegraf",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-statsd-424d40e8b27a",
+  "name": "statsd",
+  "url": "https://github.com/statsd/statsd",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Daemon for easy but powerful stats aggregation",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gluetun-f2e743067300",
+  "name": "gluetun",
+  "url": "https://github.com/passteque/gluetun",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-salt-c0ed23aa5e57",
+  "name": "salt",
+  "url": "https://github.com/saltstack/salt",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Software to automate the management and configuration of infrastructure and applications at scale.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fabric-797f5b3cd22c",
+  "name": "fabric",
+  "url": "https://github.com/fabric/fabric",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Simple, Pythonic remote execution and deployment.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zitadel-dffe08e173f2",
+  "name": "zitadel",
+  "url": "https://github.com/zitadel/zitadel",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "ZITADEL - Identity infrastructure, simplified for you.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-docker-k8s-lab-d1246632d335",
+  "name": "docker-k8s-lab",
+  "url": "https://github.com/xiaopeng163/docker-k8s-lab",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "docker and kubernetes lab",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubernetes-katas-9206fe6eaba1",
+  "name": "kubernetes-katas",
+  "url": "https://github.com/eficode-academy/kubernetes-katas",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Deliberate exercises for Kubernetes",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-meteorhacks-github-io-c822880da32d",
+  "name": "meteorhacks.github.io",
+  "url": "https://github.com/meteorhacks/meteorhacks.github.io",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "MeteorHacks Website",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "web"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ }
+]

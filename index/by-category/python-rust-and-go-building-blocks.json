@@ -1,0 +1,1884 @@
+[
+ {
+  "resource_id": "res-pydantic-34084d7465b8",
+  "name": "Pydantic",
+  "url": "https://docs.pydantic.dev/latest/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Python data validation and serialization; distinguish coercion from strict validation.",
+  "resource_type": "documentation",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-msgspec-3d3f199c038c",
+  "name": "msgspec",
+  "url": "https://msgspec.dev/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Typed Python serialization and validation; check format and schema support.",
+  "resource_type": "reference",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-anyio-daeb4fb9db27",
+  "name": "AnyIO",
+  "url": "https://anyio.readthedocs.io/en/stable/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Structured async concurrency across supported Python backends.",
+  "resource_type": "reference",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tenacity-bb8aca28204c",
+  "name": "Tenacity",
+  "url": "https://tenacity.readthedocs.io/en/latest/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Configurable Python retries; set time bounds and operation-specific retry conditions.",
+  "resource_type": "reference",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-typer-791153d79346",
+  "name": "Typer",
+  "url": "https://typer.tiangolo.com/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Python command-line interfaces using type annotations.",
+  "resource_type": "reference",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rich-d1f21b5ccd25",
+  "name": "Rich",
+  "url": "https://rich.readthedocs.io/en/stable/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Python terminal formatting and progress displays; test noninteractive output.",
+  "resource_type": "reference",
+  "topics": [
+   "python",
+   "rust",
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-orjson-40665ec6c55e",
+  "name": "orjson",
+  "url": "https://github.com/ijl/orjson",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Python JSON serialization; verify wheel availability and serialization semantics.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tokio-f32a16219df3",
+  "name": "Tokio",
+  "url": "https://tokio.rs/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Rust async runtime; blocking work and cancellation need explicit handling.",
+  "resource_type": "reference",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-axum-7f5723d99bd6",
+  "name": "Axum",
+  "url": "https://docs.rs/axum/latest/axum/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Rust HTTP routing and middleware using the Tokio/Tower ecosystem.",
+  "resource_type": "documentation",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-serde-f62a3692b50b",
+  "name": "Serde",
+  "url": "https://serde.rs/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Rust serialization framework; choose a format crate and compatibility policy.",
+  "resource_type": "reference",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rayon-6e02b801ceef",
+  "name": "Rayon",
+  "url": "https://docs.rs/rayon/latest/rayon/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Rust data parallelism; benchmark contention and task sizes.",
+  "resource_type": "documentation",
+  "topics": [
+   "python",
+   "rust",
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-clap-0b014dc64cc0",
+  "name": "Clap",
+  "url": "https://docs.rs/clap/latest/clap/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Rust command-line argument parsing and help generation.",
+  "resource_type": "documentation",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reqwest-1fd64ecc99b4",
+  "name": "reqwest",
+  "url": "https://docs.rs/reqwest/latest/reqwest/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Rust HTTP clients; select TLS backend, timeouts and feature flags.",
+  "resource_type": "documentation",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tracing-890be6ec3b04",
+  "name": "tracing",
+  "url": "https://docs.rs/tracing/latest/tracing/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Structured Rust diagnostics and spans; select subscribers/exporters.",
+  "resource_type": "documentation",
+  "topics": [
+   "observability",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pgx-4c322f201047",
+  "name": "pgx",
+  "url": "https://github.com/jackc/pgx",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Go PostgreSQL driver and toolkit; check pooling and cancellation behavior.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqlc-24fb6c69a98e",
+  "name": "sqlc",
+  "url": "https://docs.sqlc.dev/en/stable/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Generate typed data access from SQL; database and language support differ.",
+  "resource_type": "documentation",
+  "topics": [
+   "database",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-goose-bb3e0db400ed",
+  "name": "goose",
+  "url": "https://pressly.github.io/goose/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "SQL and Go database migrations; validate locking and rollback strategy.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cobra-1b8ff7154f51",
+  "name": "Cobra",
+  "url": "https://cobra.dev/",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Go CLI commands, flags and completion.",
+  "resource_type": "reference",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bubble-tea-bfb674559df2",
+  "name": "Bubble Tea",
+  "url": "https://github.com/charmbracelet/bubbletea",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Go terminal application framework; test Windows terminals and redirected I/O.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust",
+   "testing",
+   "windows"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-attrs-6d7b38a0b137",
+  "name": "attrs",
+  "url": "https://github.com/python-attrs/attrs",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Define Python data classes with validation and conversion; distinguish runtime validation from typing.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cattrs-edbc15deb95c",
+  "name": "cattrs",
+  "url": "https://github.com/python-attrs/cattrs",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Convert Python objects to and from structured data; configure hooks for domain types.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pendulum-b80bd5461af8",
+  "name": "Pendulum",
+  "url": "https://github.com/python-pendulum/pendulum",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Work with Python dates, durations and time zones; test daylight-saving transitions.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust",
+   "testing"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-python-dateutil-601cd6ab2267",
+  "name": "python-dateutil",
+  "url": "https://github.com/dateutil/dateutil",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Extend Python date parsing and recurrence handling; avoid ambiguous input formats.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-python-dotenv-913a3846f194",
+  "name": "python-dotenv",
+  "url": "https://github.com/theskumar/python-dotenv",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Load development environment settings from files; keep secrets out of version control.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-platformdirs-42ae9208f7db",
+  "name": "platformdirs",
+  "url": "https://github.com/tox-dev/platformdirs",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Resolve platform-appropriate application directories; validate packaging and service-account behavior.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-watchfiles-f5bb519f302b",
+  "name": "watchfiles",
+  "url": "https://github.com/samuelcolvin/watchfiles",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Watch filesystem changes from Python using a Rust backend; control scope and debounce behavior.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-diskcache-da62e1584d7e",
+  "name": "DiskCache",
+  "url": "https://github.com/grantjenks/python-diskcache",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Use disk-backed Python caching; define eviction, contention and cache invalidation behavior. GitHub reports its last push as 2024-08-10; maintenance responsiveness was not established.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-joblib-918e98b06d12",
+  "name": "joblib",
+  "url": "https://github.com/joblib/joblib",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Cache computations and parallelize Python work; never load serialized objects from untrusted sources.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-loguru-2de98b73909b",
+  "name": "Loguru",
+  "url": "https://github.com/Delgan/loguru",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Configure Python application logging; review sensitive-data filtering and multiprocess behavior.",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-anyhow-27c60381c03c",
+  "name": "anyhow",
+  "url": "https://github.com/dtolnay/anyhow",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Propagate contextual errors in Rust applications; retain typed errors where callers need recovery.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-thiserror-92b15532eab5",
+  "name": "thiserror",
+  "url": "https://github.com/dtolnay/thiserror",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Derive structured Rust error implementations; design stable public error contracts.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bytes-67a43d0305dc",
+  "name": "bytes",
+  "url": "https://github.com/tokio-rs/bytes",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Manage byte buffers for Rust networking; understand ownership and shared-buffer retention.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dashmap-27dc30cdb121",
+  "name": "DashMap",
+  "url": "https://github.com/xacrimon/dashmap",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Concurrent Rust maps with familiar operations; avoid holding guards across conflicting accesses.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqlx-16b420ba22e2",
+  "name": "SQLx",
+  "url": "https://github.com/transact-rs/sqlx",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Async Rust database access with checked-query tooling; match database features and runtime integration.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-seaorm-ffbe8324ff5b",
+  "name": "SeaORM",
+  "url": "https://github.com/SeaQL/sea-orm",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Async Rust relational data access; inspect generated queries and migration strategy.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chi-c3eec1610f8b",
+  "name": "chi",
+  "url": "https://github.com/go-chi/chi",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Compose Go HTTP routing and middleware; preserve request context and timeout handling.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-echo-7d7220c7c886",
+  "name": "Echo",
+  "url": "https://github.com/labstack/echo",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Build Go HTTP applications with routing and middleware; review middleware order and trusted proxies.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zerolog-9426ea39184c",
+  "name": "zerolog",
+  "url": "https://github.com/rs/zerolog",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Structured Go logging with low-allocation APIs; design log schema and sensitive-data handling.",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zap-aa826c36c1b1",
+  "name": "Zap",
+  "url": "https://github.com/uber-go/zap",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Structured Go logging with typed fields; manage sampling and shutdown flushing.",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-scrapling-c545d0f21d16",
+  "name": "Scrapling",
+  "url": "https://github.com/D4Vinci/Scrapling",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-whisper-0ad8702f26f9",
+  "name": "whisper",
+  "url": "https://github.com/openai/whisper",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Robust Speech Recognition via Large-Scale Weak Supervision",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-astrbot-3c62024362f3",
+  "name": "AstrBot",
+  "url": "https://github.com/AstrBotDevs/AstrBot",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-scientific-agent-skills-0070c952498e",
+  "name": "scientific-agent-skills",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-scikit-learn-832925cc4694",
+  "name": "scikit-learn",
+  "url": "https://github.com/scikit-learn/scikit-learn",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "scikit-learn: machine learning in Python",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-keras-905e5c25fd77",
+  "name": "keras",
+  "url": "https://github.com/keras-team/keras",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Deep Learning for humans",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-agents-c7130d3c8405",
+  "name": "agents",
+  "url": "https://github.com/wshobson/agents",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jax-6f716a46e873",
+  "name": "jax",
+  "url": "https://github.com/jax-ml/jax",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-timesfm-280926f77bde",
+  "name": "timesfm",
+  "url": "https://github.com/google-research/timesfm",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spacy-2b2680a6dabd",
+  "name": "spaCy",
+  "url": "https://github.com/explosion/spaCy",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pytorch-lightning-a503b9f51568",
+  "name": "pytorch-lightning",
+  "url": "https://github.com/Lightning-AI/pytorch-lightning",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-optuna-a9445f77ad3e",
+  "name": "optuna",
+  "url": "https://github.com/optuna/optuna",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "A hyperparameter optimization framework",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reflex-0e6794bd0abc",
+  "name": "reflex",
+  "url": "https://github.com/reflex-dev/reflex",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "🕸️ Web apps in pure Python 🐍",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stagehand-deb67754008d",
+  "name": "stagehand",
+  "url": "https://github.com/browserbase/stagehand",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-starlette-87c24c863a83",
+  "name": "starlette",
+  "url": "https://github.com/Kludex/starlette",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "The little ASGI framework that shines. 🌟",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dash-9e3c8e48a8a4",
+  "name": "dash",
+  "url": "https://github.com/plotly/dash",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Data Apps & Dashboards for Python. No JavaScript Required.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "javascript",
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-akshare-8e696678a33a",
+  "name": "akshare",
+  "url": "https://github.com/akfamily/akshare",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-adk-python-166a49169c4d",
+  "name": "adk-python",
+  "url": "https://github.com/google/adk-python",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-prophet-921461632cff",
+  "name": "prophet",
+  "url": "https://github.com/facebook/prophet",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sktime-a84e644b9480",
+  "name": "sktime",
+  "url": "https://github.com/sktime/sktime",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "A unified framework for machine learning with time series",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-trl-5ea2ff75062c",
+  "name": "trl",
+  "url": "https://github.com/huggingface/trl",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Train transformer language models with reinforcement learning.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bottle-c3ad964044cc",
+  "name": "bottle",
+  "url": "https://github.com/bottlepy/bottle",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "bottle.py is a fast and simple micro-framework for python web-applications.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pipx-34e48a18a879",
+  "name": "pipx",
+  "url": "https://github.com/pypa/pipx",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Install and Run Python Applications in Isolated Environments",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fiftyone-e2b6b41556b2",
+  "name": "fiftyone",
+  "url": "https://github.com/voxel51/fiftyone",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Refine high-quality datasets and visual AI models",
+  "resource_type": "dataset",
+  "topics": [
+   "ai",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openhuman-ddb7cbceea27",
+  "name": "openhuman",
+  "url": "https://github.com/tinyhumansai/openhuman",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-azul-6fb7b72c732d",
+  "name": "azul",
+  "url": "https://github.com/fschutt/azul",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Desktop GUI Framework",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rerun-df4712341d64",
+  "name": "rerun",
+  "url": "https://github.com/rerun-io/rerun",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Visualize, query, and stream to train on multimodal robotics data.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kata-containers-e8a957b8fa59",
+  "name": "kata-containers",
+  "url": "https://github.com/kata-containers/kata-containers",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust",
+   "security"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fff-59f574fad68c",
+  "name": "fff",
+  "url": "https://github.com/dmtrKovalenko/fff",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "javascript",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "javascript",
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sui-60239335825a",
+  "name": "sui",
+  "url": "https://github.com/MystenLabs/sui",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-koharu-e477f93cc64b",
+  "name": "koharu",
+  "url": "https://github.com/koharu-rs/koharu",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "ML-powered manga translator, written in Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-iii-ab859464fe3c",
+  "name": "iii",
+  "url": "https://github.com/iii-hq/iii",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sail-fd212221e98a",
+  "name": "sail",
+  "url": "https://github.com/lakehq/sail",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rustviz-a95befcecba6",
+  "name": "rustviz",
+  "url": "https://github.com/rustviz/rustviz",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Interactively Visualizing Ownership and Borrowing for Rust",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-markdown-oxide-5ce3f7282de1",
+  "name": "markdown-oxide",
+  "url": "https://github.com/Feel-ix-343/markdown-oxide",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "PKM Markdown Language Server",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-creusot-116e9d57a8a7",
+  "name": "creusot",
+  "url": "https://github.com/creusot-rs/creusot",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Creusot helps you prove your Rust code is correct.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pegainfer-1788640cca05",
+  "name": "pegainfer",
+  "url": "https://github.com/pegainfer-project/pegainfer",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Pure Rust + CUDA LLM inference engine — no PyTorch, OpenAI-compatible, serves Qwen3 to Kimi-K2",
+  "resource_type": "repository",
+  "topics": [
+   "llm",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-satteri-5ad156e51ca3",
+  "name": "satteri",
+  "url": "https://github.com/bruits/satteri",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "High-performance Markdown and MDX processing for the JavaScript ecosystem",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "javascript",
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hydra-f119f19565f1",
+  "name": "hydra",
+  "url": "https://github.com/ja7ad/hydra",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "A fast, resilient, multi-source file retriever and download engine",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-uefi-rs-a78c5b852224",
+  "name": "uefi-rs",
+  "url": "https://github.com/rust-osdev/uefi-rs",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-project-layout-220fd6360251",
+  "name": "project-layout",
+  "url": "https://github.com/golang-standards/project-layout",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Standard Go Project Layout",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-watermill-1f8c9580cbdb",
+  "name": "watermill",
+  "url": "https://github.com/ThreeDotsLabs/watermill",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Building event-driven applications the easy way in Go.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dasel-c53f97ad33ef",
+  "name": "dasel",
+  "url": "https://github.com/TomWright/dasel",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tendermint-e637a3cb1ffa",
+  "name": "tendermint",
+  "url": "https://github.com/tendermint/tendermint",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "⟁ Tendermint Core (BFT Consensus) in Go",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tau-2c39ce6f9ffa",
+  "name": "tau",
+  "url": "https://github.com/taubyte/tau",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Fullstack Workspace for Humans & Machines",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ozzo-validation-5396347f69d2",
+  "name": "ozzo-validation",
+  "url": "https://github.com/go-ozzo/ozzo-validation",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.",
+  "resource_type": "repository",
+  "topics": [
+   "go",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "go",
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nutsdb-b5270c537452",
+  "name": "nutsdb",
+  "url": "https://github.com/nutsdb/nutsdb",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gleam-0a8c99d6eb99",
+  "name": "gleam",
+  "url": "https://github.com/chrislusf/gleam",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dicedb-384f04744606",
+  "name": "dicedb",
+  "url": "https://github.com/dicedb/dicedb",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-easeprobe-82529cba75ef",
+  "name": "easeprobe",
+  "url": "https://github.com/megaease/easeprobe",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "A simple, standalone, and lightweight tool that can do health/status checking, written in Go.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tfgo-80f241eb46e1",
+  "name": "tfgo",
+  "url": "https://github.com/galeone/tfgo",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Tensorflow + Go, the gopher way",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flamingo-4f2074cfa0e0",
+  "name": "flamingo",
+  "url": "https://github.com/i-love-flamingo/flamingo",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-omniparser-9eb30aeb60e8",
+  "name": "omniparser",
+  "url": "https://github.com/jf-tech/omniparser",
+  "category_id": "python-rust-and-go-building-blocks",
+  "purpose": "omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.",
+  "resource_type": "repository",
+  "topics": [
+   "go",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "go",
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ }
+]

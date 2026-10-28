@@ -1,0 +1,496 @@
+[
+ {
+  "resource_id": "res-pinecone-documentation-2f94ec7235c5",
+  "name": "Pinecone documentation",
+  "url": "https://docs.pinecone.io/",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Managed vector database; indexes, namespaces, metadata filtering.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "database"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-weaviate-documentation-a005e4a643ce",
+  "name": "Weaviate documentation",
+  "url": "https://docs.weaviate.io/",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Open-source vector database with hybrid search and built-in vectorizers.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "database"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-milvus-documentation-b16ed5db7aa7",
+  "name": "Milvus documentation",
+  "url": "https://milvus.io/docs",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Large-scale open-source vector database from Zilliz.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "database"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chroma-documentation-44b0be34b646",
+  "name": "Chroma documentation",
+  "url": "https://docs.trychroma.com/",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Lightweight embedding database popular for local RAG prototypes.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "database"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-faiss-b61025b41f3c",
+  "name": "FAISS",
+  "url": "https://github.com/facebookresearch/faiss",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Meta's library for efficient similarity search and clustering of dense vectors.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lancedb-19e3d688fb04",
+  "name": "LanceDB",
+  "url": "https://lancedb.github.io/lancedb/",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Embedded vector database on the Lance columnar format.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "database"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqlite-vec-5224f8eabbfc",
+  "name": "sqlite-vec",
+  "url": "https://github.com/asg017/sqlite-vec",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Vector search extension for SQLite — good for local/offline apps.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "database"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elasticsearch-documentation-a07467957819",
+  "name": "Elasticsearch documentation",
+  "url": "https://www.elastic.co/docs/reference/elasticsearch",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Full-text + vector (kNN) search; BM25 still matters for hybrid retrieval.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openai-embeddings-guide-46a0f93e1664",
+  "name": "OpenAI embeddings guide",
+  "url": "https://developers.openai.com/api/docs/guides/embeddings",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "How embeddings work and which model dimensions to expect.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sentence-transformers-documentation-c64bfb9037af",
+  "name": "Sentence Transformers documentation",
+  "url": "https://www.sbert.net/",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Open embedding models, training, and semantic search recipes.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-unstructured-b6817cb9fec5",
+  "name": "Unstructured",
+  "url": "https://docs.unstructured.io/",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Parsing PDFs/Office/HTML into clean elements for ingestion pipelines.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-markitdown-microsoft-5a30cef9a039",
+  "name": "MarkItDown (Microsoft)",
+  "url": "https://github.com/microsoft/markitdown",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Convert Office/PDF/etc. to Markdown for LLM ingestion.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-docling-ibm-ea328bc07faf",
+  "name": "Docling (IBM)",
+  "url": "https://github.com/docling-project/docling",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Document parsing to Markdown/JSON with layout and OCR support.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tavily-516812fe45b4",
+  "name": "Tavily",
+  "url": "https://docs.tavily.com/",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Search and extraction API built for LLM agents: search, extract, crawl, and research endpoints with LLM-ready output.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-exa-c9a56696027a",
+  "name": "Exa",
+  "url": "https://exa.ai/docs",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Neural/keyword web search API designed for AI applications, with contents retrieval and research modes.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jina-reader-b2d34d88287e",
+  "name": "Jina Reader",
+  "url": "https://jina.ai/reader",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Fetch a URL as clean LLM-friendly Markdown via r.jina.ai; simple ingestion building block. Hosted service terms apply.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-crawl4ai-f283ef496203",
+  "name": "Crawl4AI",
+  "url": "https://github.com/unclecode/crawl4ai",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Open-source LLM-friendly web crawler: structured extraction and Markdown generation for RAG/agent pipelines.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-marker-datalab-976418014bb1",
+  "name": "Marker (Datalab)",
+  "url": "https://github.com/datalab-to/marker",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Convert PDFs and documents to Markdown/JSON quickly, with OCR and layout support; check model licenses for the Surya components.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphrag-microsoft-b8386fa85150",
+  "name": "GraphRAG (Microsoft)",
+  "url": "https://microsoft.github.io/graphrag/",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Microsoft's graph-based RAG: build a knowledge graph from a corpus for global, theme-level questions naive RAG misses.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lightrag-40fce88efcb5",
+  "name": "LightRAG",
+  "url": "https://github.com/HKUDS/LightRAG",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Lightweight graph-enhanced RAG framework (HKUDS) with incremental updates; simpler than full GraphRAG.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ragflow-73da4b093f20",
+  "name": "RAGFlow",
+  "url": "https://github.com/infiniflow/ragflow",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Open-source RAG engine with deep document understanding, chunking visualizations, and agent/canvas features.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-onyx-formerly-danswer-06ef4dbab61e",
+  "name": "Onyx (formerly Danswer)",
+  "url": "https://docs.onyx.app/",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Open-source enterprise search and AI chat over company knowledge (connectors, permissions-aware).",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chonkie-8708aa48c6c3",
+  "name": "Chonkie",
+  "url": "https://github.com/feyninc/chonkie",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Fast, feathery text chunking library for RAG: many chunking strategies with a small footprint.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ragatouille-57a491c5c5e1",
+  "name": "RAGatouille",
+  "url": "https://github.com/AnswerDotAI/RAGatouille",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Easy ColBERT late-interaction retrieval for RAG — strong quality per index size.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-turbopuffer-326c156bf05b",
+  "name": "Turbopuffer",
+  "url": "https://turbopuffer.com/docs",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Serverless vector + full-text search built on object storage; cheap at large scale.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "cloud"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apify-119e7ffc6b10",
+  "name": "Apify",
+  "url": "https://docs.apify.com/",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Web scraping and automation platform (Actors) increasingly used as agent tooling and a data source for RAG.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-paddleocr-c0f45ea68ae5",
+  "name": "PaddleOCR",
+  "url": "https://github.com/PaddlePaddle/PaddleOCR",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Baidu's multilingual OCR toolkit; a standard choice for document ingestion pipelines.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-surya-486b35f75e33",
+  "name": "Surya",
+  "url": "https://github.com/datalab-to/surya",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "OCR, layout analysis, and table recognition in 90+ languages; the engine under Marker.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langchain-chatchat-4c7cce5ec5f3",
+  "name": "Langchain-Chatchat",
+  "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-serviette-1c9356d00de8",
+  "name": "serviette",
+  "url": "https://github.com/pathwaycom/serviette",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

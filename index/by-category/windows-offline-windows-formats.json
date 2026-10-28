@@ -1,0 +1,57 @@
+[
+ {
+  "resource_id": "res-libyal-libregf-8e4725a54d47",
+  "name": "libyal/libregf",
+  "url": "https://github.com/libyal/libregf",
+  "category_id": "windows-offline-windows-formats",
+  "purpose": "Read offline Windows Registry hive files in REGF format | Native library and tools; project reports alpha status; check license thread safety and Windows build instructions",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libyal-libevtx-11527c769bfc",
+  "name": "libyal/libevtx",
+  "url": "https://github.com/libyal/libevtx",
+  "category_id": "windows-offline-windows-formats",
+  "purpose": "Read Windows EVTX event-log files without relying on a live log service | Native library and tools; README reports alpha status and planned multithreading",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libyal-libesedb-94d8b12d4703",
+  "name": "libyal/libesedb",
+  "url": "https://github.com/libyal/libesedb",
+  "category_id": "windows-offline-windows-formats",
+  "purpose": "Read Extensible Storage Engine EDB database files | Native library and tools; useful for offline analysis; verify supported ESE versions and Windows build requirements",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

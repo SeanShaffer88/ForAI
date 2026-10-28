@@ -1,0 +1,1073 @@
+[
+ {
+  "resource_id": "res-postgresql-3b192b69dd83",
+  "name": "PostgreSQL",
+  "url": "https://www.postgresql.org/docs/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Relational database, SQL, indexing and operational reference.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqlite-6df6d4c90ef2",
+  "name": "SQLite",
+  "url": "https://www.sqlite.org/docs.html",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Embedded relational storage; consider concurrency and backup strategy.",
+  "resource_type": "reference",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-duckdb-bfa1c993a00c",
+  "name": "DuckDB",
+  "url": "https://duckdb.org/docs/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Embedded analytical SQL and local data processing.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mysql-0ae32831970f",
+  "name": "MySQL",
+  "url": "https://dev.mysql.com/doc/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Relational database reference and connectors.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mongodb-0e3330257897",
+  "name": "MongoDB",
+  "url": "https://www.mongodb.com/docs/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Document database and driver documentation.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-redis-edc3afda96d5",
+  "name": "Redis",
+  "url": "https://redis.io/docs/latest/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "In-memory data structures; evaluate release-specific licensing and persistence.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-valkey-ded2b2bbfb12",
+  "name": "Valkey",
+  "url": "https://valkey.io/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "In-memory key-value service candidate and Redis-ecosystem compatibility reference.",
+  "resource_type": "reference",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqlalchemy-092900c0b0e0",
+  "name": "SQLAlchemy",
+  "url": "https://docs.sqlalchemy.org/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Python SQL expression layer and ORM.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "database",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-entity-framework-core-ea32b810b2eb",
+  "name": "Entity Framework Core",
+  "url": "https://learn.microsoft.com/en-us/ef/core/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": ".NET ORM, migrations and provider behaviors.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-prisma-df6e9f60edac",
+  "name": "Prisma",
+  "url": "https://www.prisma.io/docs",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Typed data access and database migration workflows.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-drizzle-171e1ceedcdd",
+  "name": "Drizzle",
+  "url": "https://orm.drizzle.team/docs/overview",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "TypeScript SQL-oriented ORM and migrations.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "database",
+   "typescript"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flyway-f3527ef80d12",
+  "name": "Flyway",
+  "url": "https://documentation.red-gate.com/fd",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Versioned database migrations; check edition-specific features.",
+  "resource_type": "reference",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-alembic-1db5590445ba",
+  "name": "Alembic",
+  "url": "https://alembic.sqlalchemy.org/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "SQLAlchemy-oriented schema migrations.",
+  "resource_type": "reference",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-arrow-ac8738852587",
+  "name": "Apache Arrow",
+  "url": "https://arrow.apache.org/docs/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Columnar interchange and cross-language data tooling.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-polars-6ee73eef0c64",
+  "name": "Polars",
+  "url": "https://docs.pola.rs/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Dataframes and analytical transformations.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pandas-99a85778550a",
+  "name": "pandas",
+  "url": "https://pandas.pydata.org/docs/",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Python tabular data processing.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-clickhouse-a144c756e1ce",
+  "name": "ClickHouse",
+  "url": "https://clickhouse.com/docs",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Columnar analytical database.",
+  "resource_type": "documentation",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ibis-2edfa45ab5b4",
+  "name": "Ibis",
+  "url": "https://github.com/ibis-project/ibis",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Portable Python expressions over analytic backends; check backend-specific operation support.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-datafusion-6dffd76e84f8",
+  "name": "Apache DataFusion",
+  "url": "https://github.com/apache/datafusion",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Embed a Rust query engine using Arrow; assess query coverage and memory management.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "rust"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dask-8b45b07889ad",
+  "name": "Dask",
+  "url": "https://github.com/dask/dask",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Parallel Python arrays and dataframes; account for scheduler overhead and partition sizing.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dlt-1a832de441b1",
+  "name": "dlt",
+  "url": "https://github.com/dlt-hub/dlt",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Python data ingestion with schema handling; inspect destination behavior and credential scopes.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-great-expectations-2d47af05fd74",
+  "name": "Great Expectations",
+  "url": "https://github.com/fivetran/great_expectations",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Define data expectations and validation reports; distinguish core tooling from hosted services.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pandera-808602a7422e",
+  "name": "Pandera",
+  "url": "https://github.com/unionai-oss/pandera",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Validate dataframe schemas and properties; check the selected dataframe backend.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dbt-c4abb13740d2",
+  "name": "dbt",
+  "url": "https://github.com/dbt-labs/dbt",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Version and test SQL transformations; the renamed repository has Rust-based v2 on main and Python v1 on 1.latest. Check migration and adapter support.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "git",
+   "python",
+   "rust",
+   "testing"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqlfluff-06df35638ed4",
+  "name": "SQLFluff",
+  "url": "https://github.com/sqlfluff/sqlfluff",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Lint and format SQL; configure the correct dialect and templating engine.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-flink-0b0dd7cb9588",
+  "name": "Apache Flink",
+  "url": "https://github.com/apache/flink",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Stateful stream and batch processing; plan checkpointing, state recovery and cluster operations.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-beam-6f901bc5869b",
+  "name": "Apache Beam",
+  "url": "https://github.com/apache/beam",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Portable data pipelines; runner capabilities and deployment requirements differ.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mikro-orm-164e89d05a9e",
+  "name": "mikro-orm",
+  "url": "https://github.com/mikro-orm/mikro-orm",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "javascript",
+   "typescript"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphify-8ba1011b31da",
+  "name": "graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zvec-2b92b39d76ce",
+  "name": "zvec",
+  "url": "https://github.com/alibaba/zvec",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "A lightweight, lightning-fast, in-process vector database",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-marimo-7b7b543fe486",
+  "name": "marimo",
+  "url": "https://github.com/marimo-team/marimo",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science",
+   "database",
+   "git",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqlmodel-94a65ab75b80",
+  "name": "sqlmodel",
+  "url": "https://github.com/fastapi/sqlmodel",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hydradb-45b9ae67dfdb",
+  "name": "hydradb",
+  "url": "https://github.com/hydra-db/hydradb",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "HydraDB - fast graph database on object storage",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-better-fullstack-13d9e1eb01f0",
+  "name": "Better-Fullstack",
+  "url": "https://github.com/Marve10s/Better-Fullstack",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations, all wired together.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science",
+   "database",
+   "java",
+   "python",
+   "rust",
+   "typescript",
+   "web"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "java",
+   "python",
+   "rust",
+   "typescript"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-acra-499fa51dffab",
+  "name": "acra",
+  "url": "https://github.com/cossacklabs/acra",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (\"transparent\") encryption. SQL, NoSQL.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "security"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-go-sqlite3-475b1fe55ded",
+  "name": "go-sqlite3",
+  "url": "https://github.com/ncruces/go-sqlite3",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Go bindings to SQLite using wasm2go",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-requery-e933acae2440",
+  "name": "requery",
+  "url": "https://github.com/requery/requery",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "requery - modern SQL based query & persistence for Java / Kotlin / Android",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "data-science",
+   "database",
+   "java",
+   "kotlin",
+   "mobile"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "java",
+   "kotlin"
+  ],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-arcadedb-431ca43d7b25",
+  "name": "arcadedb",
+  "url": "https://github.com/ArcadeData/arcadedb",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-anotherredisdesktopmanager-53fb31b8d6ea",
+  "name": "AnotherRedisDesktopManager",
+  "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "desktop",
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-sqlsugar-9cd80b584e6e",
+  "name": "SqlSugar",
+  "url": "https://github.com/DotNetNext/SqlSugar",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": ".Net aot ORM SqlServer ORM Mongodb ORM MySql 瀚高 Postgresql ORM DB2 Hana 高斯 Duckdb C# VB.NET Sqlite ORM Oracle ORM Mysql Orm 虚谷数据库 达梦 ORM 人大金仓 ORM 神通ORM C# ORM , C# ORM .NET ORM NET9 ORM .NET8 ORM ClickHouse ORM QuestDb ,TDengine ORM,OceanBase ORM,GaussDB ORM,Tidb ORM Object/Relational Mapping",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dbup-70d95642e055",
+  "name": "DbUp",
+  "url": "https://github.com/DbUp/DbUp",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-infinity-a5724273cdd0",
+  "name": "infinity",
+  "url": "https://github.com/infiniflow/infinity",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science",
+   "database",
+   "llm"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kvrocks-bad7b68ffd96",
+  "name": "kvrocks",
+  "url": "https://github.com/apache/kvrocks",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-codechecker-6a80bbd16cd1",
+  "name": "codechecker",
+  "url": "https://github.com/Ericsson/codechecker",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "CodeChecker is an analyzer tooling, defect database and viewer extension for static and dynamic analyzer tools.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-trilogy-82a1f8e20262",
+  "name": "trilogy",
+  "url": "https://github.com/trilogy-libraries/trilogy",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-her-ef144f97c1c6",
+  "name": "her",
+  "url": "https://github.com/remi/her",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "data-science",
+   "database",
+   "ruby"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-redis-objects-f4a7e34c3efb",
+  "name": "redis-objects",
+  "url": "https://github.com/nateware/redis-objects",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Map Redis types directly to Ruby objects",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "ruby"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-objectbox-dart-eb8aab595f75",
+  "name": "objectbox-dart",
+  "url": "https://github.com/objectbox/objectbox-dart",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Flutter database for super-fast Dart object persistence",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "mobile"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-laradock-368f8aab873b",
+  "name": "laradock",
+  "url": "https://github.com/laradock/laradock",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "data-science",
+   "database",
+   "php"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-usql-fbeba6fef5af",
+  "name": "usql",
+  "url": "https://github.com/xo/usql",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Universal command-line interface for SQL databases",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-calibre-web-10a597547b7a",
+  "name": "calibre-web",
+  "url": "https://github.com/janeczku/calibre-web",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": ":books: Web app for browsing, reading and downloading eBooks stored in a Calibre database",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-manticoresearch-33ee60e623b6",
+  "name": "manticoresearch",
+  "url": "https://github.com/manticoresoftware/manticoresearch",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-warpgate-d149835a334a",
+  "name": "warpgate",
+  "url": "https://github.com/warp-tech/warpgate",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wanderer-e08019072450",
+  "name": "wanderer",
+  "url": "https://github.com/open-wanderer/wanderer",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "wanderer is a self-hosted trail database. Save your adventures!",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-redisson-d7957175a59f",
+  "name": "redisson",
+  "url": "https://github.com/redisson/redisson",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "data-science",
+   "database",
+   "java"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-timescaledb-5ad91012251d",
+  "name": "timescaledb",
+  "url": "https://github.com/timescale/timescaledb",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-medis-a28a60a0dba2",
+  "name": "medis",
+  "url": "https://github.com/luin/medis",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-beekeeper-studio-3e3fadecaf48",
+  "name": "beekeeper-studio",
+  "url": "https://github.com/beekeeper-studio/beekeeper-studio",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ }
+]

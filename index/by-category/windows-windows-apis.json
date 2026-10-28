@@ -1,0 +1,151 @@
+[
+ {
+  "resource_id": "res-microsoft-windowsappsdk-5d93c1b19a78",
+  "name": "microsoft/WindowsAppSDK",
+  "url": "https://github.com/microsoft/WindowsAppSDK",
+  "category_id": "windows-windows-apis",
+  "purpose": "Modern Windows desktop APIs and lifecycle | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-wil-243e2a4102dd",
+  "name": "microsoft/wil",
+  "url": "https://github.com/microsoft/wil",
+  "category_id": "windows-windows-apis",
+  "purpose": "C++ resource management and Win32 helpers | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-cppwinrt-e56415e510d4",
+  "name": "microsoft/cppwinrt",
+  "url": "https://github.com/microsoft/cppwinrt",
+  "category_id": "windows-windows-apis",
+  "purpose": "C++ Windows Runtime bindings | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-windows-rs-46da12b6020e",
+  "name": "microsoft/windows-rs",
+  "url": "https://github.com/microsoft/windows-rs",
+  "category_id": "windows-windows-apis",
+  "purpose": "Rust bindings for Windows APIs | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "rust",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-cswin32-cd73f4865845",
+  "name": "microsoft/CsWin32",
+  "url": "https://github.com/microsoft/CsWin32",
+  "category_id": "windows-windows-apis",
+  "purpose": "C# Win32 P/Invoke source generator | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-win32metadata-aa050a4aa7c3",
+  "name": "microsoft/win32metadata",
+  "url": "https://github.com/microsoft/win32metadata",
+  "category_id": "windows-windows-apis",
+  "purpose": "Win32 API metadata and generation tooling | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dahall-vanara-301ffc355b59",
+  "name": "dahall/Vanara",
+  "url": "https://github.com/dahall/Vanara",
+  "category_id": "windows-windows-apis",
+  "purpose": ".NET wrappers for Windows APIs | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-stl-83839ff910ce",
+  "name": "microsoft/STL",
+  "url": "https://github.com/microsoft/STL",
+  "category_id": "windows-windows-apis",
+  "purpose": "MSVC C++ Standard Library source | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

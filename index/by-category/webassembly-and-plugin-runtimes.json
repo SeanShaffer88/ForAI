@@ -1,0 +1,86 @@
+[
+ {
+  "resource_id": "res-wasmtime-4ff98a71fe20",
+  "name": "Wasmtime",
+  "url": "https://docs.wasmtime.dev/",
+  "category_id": "webassembly-and-plugin-runtimes",
+  "purpose": "Embed WebAssembly/WASI execution; expose only needed host capabilities.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wasmer-c658efb0b169",
+  "name": "Wasmer",
+  "url": "https://docs.wasmer.io/",
+  "category_id": "webassembly-and-plugin-runtimes",
+  "purpose": "WebAssembly runtime and embedding ecosystem; verify bindings and target support.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wasi-7bfefdd16baa",
+  "name": "WASI",
+  "url": "https://wasi.dev/",
+  "category_id": "webassembly-and-plugin-runtimes",
+  "purpose": "System-interface specifications for WebAssembly; preview versions are not interchangeable.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-webassembly-component-model-e533658ff596",
+  "name": "WebAssembly Component Model",
+  "url": "https://component-model.bytecodealliance.org/",
+  "category_id": "webassembly-and-plugin-runtimes",
+  "purpose": "Cross-language component interfaces and WIT; check runtime/toolchain interoperability.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-extism-45630e5b888e",
+  "name": "Extism",
+  "url": "https://extism.org/docs/concepts/host-sdk/",
+  "category_id": "webassembly-and-plugin-runtimes",
+  "purpose": "WebAssembly plugin SDKs and host integration; define permissions and plugin ABI.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wamr-976df506f606",
+  "name": "WAMR",
+  "url": "https://github.com/wasm-micro-runtime/wasm-micro-runtime",
+  "category_id": "webassembly-and-plugin-runtimes",
+  "purpose": "WebAssembly runtime for constrained and embedded hosts; upstream moved from bytecodealliance to wasm-micro-runtime. Check engines and architectures.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

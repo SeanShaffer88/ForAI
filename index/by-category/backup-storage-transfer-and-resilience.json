@@ -1,0 +1,277 @@
+[
+ {
+  "resource_id": "res-restic-0ccf8ad26d73",
+  "name": "restic",
+  "url": "https://restic.readthedocs.io/en/stable/",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Encrypted versioned backups; test restores and protect repository credentials.",
+  "resource_type": "reference",
+  "topics": [
+   "git",
+   "testing"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rclone-56c8e002ef40",
+  "name": "rclone",
+  "url": "https://rclone.org/docs/",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Transfer and synchronize data across storage providers; distinguish sync from versioned backup.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kopia-ef0d07d44521",
+  "name": "Kopia",
+  "url": "https://kopia.io/docs/",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Snapshot backup and encryption; validate retention and restore behavior.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-litestream-1a46d821236e",
+  "name": "Litestream",
+  "url": "https://litestream.io/",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Continuous SQLite replication for recovery; not multi-writer database replication.",
+  "resource_type": "reference",
+  "topics": [
+   "database"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqlite-online-backup-api-aae456cd90be",
+  "name": "SQLite Online Backup API",
+  "url": "https://www.sqlite.org/backup.html",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Consistent SQLite backup mechanism for application integration.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration",
+   "database"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-iceberg-ee76d80eb692",
+  "name": "Apache Iceberg",
+  "url": "https://iceberg.apache.org/docs/latest/",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Analytical table format with schema/snapshot evolution; needs compatible engines and catalog.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-delta-lake-55d9f965b705",
+  "name": "Delta Lake",
+  "url": "https://docs.delta.io/",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Transactional analytical tables; check reader/writer protocol compatibility.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apache-parquet-a88b4507f080",
+  "name": "Apache Parquet",
+  "url": "https://parquet.apache.org/docs/",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Columnar file format and interoperability reference; check logical types and codecs.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-seaweedfs-4837ced4dd25",
+  "name": "SeaweedFS",
+  "url": "https://github.com/seaweedfs/seaweedfs",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Operate distributed file and object storage; test replication, consistency and recovery needs.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-juicefs-96bcb23477c3",
+  "name": "JuiceFS",
+  "url": "https://github.com/juicedata/juicefs",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Provide a filesystem backed by object storage; plan metadata services and cache behavior.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rook-0f2c507a9cd8",
+  "name": "Rook",
+  "url": "https://github.com/rook/rook",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Operate storage systems through Kubernetes operators; understand the underlying storage engine.",
+  "resource_type": "repository",
+  "topics": [
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-longhorn-1655de1c36ec",
+  "name": "Longhorn",
+  "url": "https://github.com/longhorn/longhorn",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Provide replicated Kubernetes block storage; validate disk, network and recovery requirements.",
+  "resource_type": "repository",
+  "topics": [
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-velero-3f6070a75500",
+  "name": "Velero",
+  "url": "https://github.com/velero-io/velero",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Back up and restore Kubernetes resources and volumes; test application-consistent recovery.",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "testing"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-borgbackup-245a31206836",
+  "name": "BorgBackup",
+  "url": "https://github.com/borgbackup/borg",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Deduplicated encrypted backups; the default-branch README warns that Borg2 is unstable beta and unsuitable for production backups. Select stable versioned releases and test restores.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-borgmatic-3be39a548a8c",
+  "name": "borgmatic",
+  "url": "https://projects.torsion.org/borgmatic-collective/borgmatic",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Configure and automate Borg backups; use the primary Forgejo source. GitHub is an upstream-declared read-only mirror; review hooks and database consistency.",
+  "resource_type": "reference",
+  "topics": [
+   "database"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-duplicati-036a2df499cd",
+  "name": "Duplicati",
+  "url": "https://github.com/duplicati/duplicati",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Encrypted remote backups; core source is MIT with proprietary-directory exceptions. Review bundled components and test restoration and retention.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-syncthing-4cc24ad773f3",
+  "name": "Syncthing",
+  "url": "https://github.com/syncthing/syncthing",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Synchronize files between devices; synchronization needs a separate deletion and backup policy.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bup-23554707678d",
+  "name": "bup",
+  "url": "https://github.com/bup/bup",
+  "category_id": "backup-storage-transfer-and-resilience",
+  "purpose": "Store incremental backups using content-addressed structures; verify platform and restore tooling.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

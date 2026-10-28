@@ -1,0 +1,38 @@
+[
+ {
+  "resource_id": "res-rprichard-winpty-26887eec27e3",
+  "name": "rprichard/winpty",
+  "url": "https://github.com/rprichard/winpty",
+  "category_id": "windows-processes-and-console",
+  "purpose": "Bridge Windows console programs to Unix-style pseudo terminals | Native library plus agent executable; legacy console approach; compare ConPTY on current Windows",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-daandemeyer-reproc-f1bce03df22a",
+  "name": "daandemeyer/reproc",
+  "url": "https://github.com/daandemeyer/reproc",
+  "category_id": "windows-processes-and-console",
+  "purpose": "Start stop and communicate with child processes from C and C++ | C99 library plus C++11 wrapper; cross-platform process and redirected I/O support",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

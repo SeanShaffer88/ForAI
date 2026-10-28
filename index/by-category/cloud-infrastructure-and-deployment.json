@@ -1,0 +1,1231 @@
+[
+ {
+  "resource_id": "res-aws-sdks-aaf023c4e077",
+  "name": "AWS SDKs",
+  "url": "https://aws.amazon.com/developer/tools/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Official cloud SDKs and tooling; use workload-appropriate credentials.",
+  "resource_type": "reference",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-azure-sdks-70aa858246cf",
+  "name": "Azure SDKs",
+  "url": "https://azure.github.io/azure-sdk/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Official Azure client libraries and design guidance.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-google-cloud-client-libraries-a72c63177309",
+  "name": "Google Cloud client libraries",
+  "url": "https://docs.cloud.google.com/apis/docs/cloud-client-libraries",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Language clients for Google Cloud APIs.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cloudflare-api-9a0be7336abe",
+  "name": "Cloudflare API",
+  "url": "https://developers.cloudflare.com/api/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Cloudflare service management APIs.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration",
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cloudflare-workers-56a7c6965138",
+  "name": "Cloudflare Workers",
+  "url": "https://developers.cloudflare.com/workers/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Edge application runtime and deployment tooling.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-docker-1db5a1a2bca7",
+  "name": "Docker",
+  "url": "https://docs.docker.com/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Container builds and execution; check Desktop licensing where relevant.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud",
+   "containers",
+   "desktop"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-podman-3ac894016537",
+  "name": "Podman",
+  "url": "https://docs.podman.io/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Container management; Windows development uses additional VM integration.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud",
+   "containers",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-kubernetes-c7456a593751",
+  "name": "Kubernetes",
+  "url": "https://kubernetes.io/docs/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Container orchestration and operational APIs.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-helm-39830da4475b",
+  "name": "Helm",
+  "url": "https://helm.sh/docs/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Kubernetes packaging and release configuration.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opentofu-68c494e119a1",
+  "name": "OpenTofu",
+  "url": "https://opentofu.org/docs/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Declarative infrastructure provisioning.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-029be41d8f76",
+  "name": "Terraform",
+  "url": "https://developer.hashicorp.com/terraform/docs",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Infrastructure provisioning and provider ecosystem; review licensing.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pulumi-1b3553e6c7f0",
+  "name": "Pulumi",
+  "url": "https://www.pulumi.com/docs/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Infrastructure definitions using programming languages.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ansible-267024c3f967",
+  "name": "Ansible",
+  "url": "https://docs.ansible.com/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Configuration automation and remote orchestration.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-render-dd076a631685",
+  "name": "Render",
+  "url": "https://render.com/docs",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Managed application hosting and deployment configuration.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vercel-0add7380ce38",
+  "name": "Vercel",
+  "url": "https://vercel.com/docs",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Web application hosting and deployment.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud",
+   "web"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-supabase-fbcc3d6e83bc",
+  "name": "Supabase",
+  "url": "https://supabase.com/docs",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Managed Postgres, auth, storage and realtime; evaluate RLS per application.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud",
+   "database"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-firebase-d767db370031",
+  "name": "Firebase",
+  "url": "https://firebase.google.com/docs",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Application backend SDKs and managed services.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubernetes-documentation-5c78107acfac",
+  "name": "Kubernetes documentation",
+  "url": "https://kubernetes.io/docs/home/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Concepts, kubectl reference, API reference.",
+  "resource_type": "documentation",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-modal-2fbbf45dbe62",
+  "name": "Modal",
+  "url": "https://modal.com/docs",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Serverless GPU compute in Python: deploy model inference, batch jobs, and sandboxes without managing servers.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud",
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-runpod-a9391b793071",
+  "name": "RunPod",
+  "url": "https://docs.runpod.io/",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "GPU cloud (Pods and Serverless endpoints) commonly used for model hosting and fine-tuning runs.",
+  "resource_type": "documentation",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-argo-cd-2d3f1d623efc",
+  "name": "Argo CD",
+  "url": "https://github.com/argoproj/argo-cd",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Reconcile Kubernetes applications from Git; protect repository credentials and synchronization policy.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flux-2a4534653a4f",
+  "name": "Flux",
+  "url": "https://github.com/fluxcd/flux2",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "GitOps controllers for Kubernetes; plan bootstrap, secret handling and reconciliation ownership.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kustomize-3a783ee77b9d",
+  "name": "Kustomize",
+  "url": "https://github.com/kubernetes-sigs/kustomize",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Compose Kubernetes configuration overlays; review generated manifests before applying them.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-talos-linux-74cd45f89110",
+  "name": "Talos Linux",
+  "url": "https://github.com/siderolabs/talos",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "API-managed operating system for Kubernetes nodes; validate hardware and recovery procedures.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "containers",
+   "linux"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-cilium-a35b0ad88134",
+  "name": "Cilium",
+  "url": "https://github.com/cilium/cilium",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Linux eBPF networking and policy for clusters; verify kernel and datapath requirements.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "linux"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-linkerd-de468d17dbba",
+  "name": "Linkerd",
+  "url": "https://github.com/linkerd/linkerd2",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Kubernetes service mesh capabilities; distinguish project code from supported binary distributions.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cert-manager-07bb82899a79",
+  "name": "cert-manager",
+  "url": "https://github.com/cert-manager/cert-manager",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Automate Kubernetes certificate issuance and renewal; configure issuer access and renewal monitoring.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-crossplane-ef13435a9db2",
+  "name": "Crossplane",
+  "url": "https://github.com/crossplane/crossplane",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Manage infrastructure through Kubernetes APIs; review provider permissions and lifecycle policies.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-keda-a5c6b217cdb7",
+  "name": "KEDA",
+  "url": "https://github.com/kedacore/keda",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Scale Kubernetes workloads from event metrics; validate scaler authentication and queue semantics.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-caddy-52dc476980fa",
+  "name": "Caddy",
+  "url": "https://github.com/caddyserver/caddy",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "HTTP serving and reverse proxying with certificate automation; review module trust and configuration.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chroma-fd1d5bd2b459",
+  "name": "chroma",
+  "url": "https://github.com/chroma-core/chroma",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Search infrastructure for AI",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-memvid-6016c5f0b221",
+  "name": "memvid",
+  "url": "https://github.com/memvid/memvid",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-curvine-7bc4d1901f02",
+  "name": "curvine",
+  "url": "https://github.com/CurvineIO/curvine",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "AI-Native & Cloud-Native FS: A high-performance file semantic layer for cloud object storage, integrated with high-speed cache. CNCF Sandbox Project.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-go-zero-bed0c04ca761",
+  "name": "go-zero",
+  "url": "https://github.com/zeromicro/go-zero",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "A cloud-native Go microservices framework with cli tool for productivity.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-podinfo-8387c7c0aa1d",
+  "name": "podinfo",
+  "url": "https://github.com/stefanprodan/podinfo",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Go microservice template for Kubernetes",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dragonfly-26eabe301c68",
+  "name": "dragonfly",
+  "url": "https://github.com/dragonflyoss/dragonfly",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cli-3b139630c295",
+  "name": "cli",
+  "url": "https://github.com/create-go-app/cli",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running only one CLI command.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code",
+   "javascript",
+   "typescript",
+   "web"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-orleans-d92984bfedce",
+  "name": "orleans",
+  "url": "https://github.com/dotnet/orleans",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Cloud Native application framework for .NET",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kamal-1cdc60d111ad",
+  "name": "kamal",
+  "url": "https://github.com/basecamp/kamal",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Deploy web apps anywhere.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bosh-079a85f8edf8",
+  "name": "bosh",
+  "url": "https://github.com/cloudfoundry/bosh",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lazydocker-d997b66577fa",
+  "name": "lazydocker",
+  "url": "https://github.com/jesseduffield/lazydocker",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "The lazier way to manage everything docker",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-harbor-46e9e35b3fad",
+  "name": "harbor",
+  "url": "https://github.com/goharbor/harbor",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-docker-bench-security-b2d6917195bf",
+  "name": "docker-bench-security",
+  "url": "https://github.com/docker/docker-bench-security",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-falco-23ccf988885f",
+  "name": "falco",
+  "url": "https://github.com/falcosecurity/falco",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Cloud Native Runtime Security",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cri-o-4801963be29c",
+  "name": "cri-o",
+  "url": "https://github.com/cri-o/cri-o",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-acme-companion-703fb15a99c9",
+  "name": "acme-companion",
+  "url": "https://github.com/nginx-proxy/acme-companion",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Automated ACME SSL certificate generation for nginx-proxy",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openwhisk-63639650c595",
+  "name": "openwhisk",
+  "url": "https://github.com/apache/openwhisk",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Apache OpenWhisk is an open source serverless cloud platform",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kraken-818161bd033d",
+  "name": "kraken",
+  "url": "https://github.com/uber/kraken",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "P2P Docker registry capable of distributing TBs of data in seconds",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-docker-curriculum-9bccc10f6fb8",
+  "name": "docker-curriculum",
+  "url": "https://github.com/prakhar1989/docker-curriculum",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": ":dolphin: A comprehensive tutorial on getting started with Docker!",
+  "resource_type": "course",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-img-663c0a6f9be3",
+  "name": "img",
+  "url": "https://github.com/genuinetools/img",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nomad-7862fb890b82",
+  "name": "nomad",
+  "url": "https://github.com/hashicorp/nomad",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gosu-692e53b446d0",
+  "name": "gosu",
+  "url": "https://github.com/tianon/gosu",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Simple Go-based setuid+setgid+setgroups+exec",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-werf-6490bda7bd36",
+  "name": "werf",
+  "url": "https://github.com/werf/werf",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-preevy-17a9ed3a5a5a",
+  "name": "preevy",
+  "url": "https://github.com/livecycle/preevy",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Quickly deploy preview environments to the cloud!",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ofelia-69accb693b17",
+  "name": "ofelia",
+  "url": "https://github.com/mcuadros/ofelia",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "A docker job scheduler (aka. crontab for docker)",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vaultwarden-b1e978ca7dc3",
+  "name": "vaultwarden",
+  "url": "https://github.com/dani-garcia/vaultwarden",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "rust"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-copyparty-cdb3e20cc2ab",
+  "name": "copyparty",
+  "url": "https://github.com/9001/copyparty",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-glance-6f6e6063fab5",
+  "name": "glance",
+  "url": "https://github.com/glanceapp/glance",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "A self-hosted dashboard that puts all your feeds in one place",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stirling-pdf-196f09c2f840",
+  "name": "Stirling-PDF",
+  "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apprise-baea5c2f8fe8",
+  "name": "apprise",
+  "url": "https://github.com/caronc/apprise",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Apprise - Push Notifications that work with just about every platform!",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-seerr-91a6e8a6843d",
+  "name": "seerr",
+  "url": "https://github.com/seerr-team/seerr",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-homer-e625890f705e",
+  "name": "homer",
+  "url": "https://github.com/bastienwirtz/homer",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "A very simple static homepage for your server.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-2fauth-dbd41a764b17",
+  "name": "2FAuth",
+  "url": "https://github.com/Bubka/2FAuth",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-librephotos-1c9218a23163",
+  "name": "librephotos",
+  "url": "https://github.com/LibrePhotos/librephotos",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "A self-hosted open source photo management service.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sanic-a1922f26eb1d",
+  "name": "sanic",
+  "url": "https://github.com/sanic-org/sanic",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Accelerate your web app development Build fast. Run fast.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-serverless-bcc11928a487",
+  "name": "serverless",
+  "url": "https://github.com/serverless/serverless",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hyperf-3c7d605523c4",
+  "name": "hyperf",
+  "url": "https://github.com/hyperf/hyperf",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dex-19102d9ab594",
+  "name": "dex",
+  "url": "https://github.com/dexidp/dex",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nameko-297ed4ad0ce2",
+  "name": "nameko",
+  "url": "https://github.com/nameko/nameko",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Python framework for building microservices",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "cloud",
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swoft-89042662f1a1",
+  "name": "swoft",
+  "url": "https://github.com/swoft-cloud/swoft",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "🚀 PHP Microservice Full Coroutine Framework",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "php"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spin-8efca4df7a77",
+  "name": "spin",
+  "url": "https://github.com/spinframework/spin",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-favbox-676419fccd74",
+  "name": "favbox",
+  "url": "https://github.com/dd3v/favbox",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "🔖 FavBox is a local-first experimental browser extension that enhances and simplifies bookmark management without cloud storage or third-party services.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

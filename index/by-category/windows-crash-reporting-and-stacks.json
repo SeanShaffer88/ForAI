@@ -1,0 +1,93 @@
+[
+ {
+  "resource_id": "res-jochenkalmbach-stackwalker-77e8b7c0b8da",
+  "name": "JochenKalmbach/StackWalker",
+  "url": "https://github.com/JochenKalmbach/StackWalker",
+  "category_id": "windows-crash-reporting-and-stacks",
+  "purpose": "Walk and symbolize Windows thread call stacks | C++ library; symbol quality depends on matching binaries and PDBs",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-septag-stackwalkerc-79234a443d94",
+  "name": "septag/stackwalkerc",
+  "url": "https://github.com/septag/stackwalkerc",
+  "category_id": "windows-crash-reporting-and-stacks",
+  "purpose": "Single-header C stack walking through DbgHelp.dll | C or C++ embeddable source; supports module and symbol reporting",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-jeremy-rifkin-cpptrace-45a1080a2ac9",
+  "name": "jeremy-rifkin/cpptrace",
+  "url": "https://github.com/jeremy-rifkin/cpptrace",
+  "category_id": "windows-crash-reporting-and-stacks",
+  "purpose": "Portable stack traces and exception tracing for C++ | C++11 library with Windows and MinGW support; check chosen symbol backend",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-bombela-backward-cpp-01a8bc88054a",
+  "name": "bombela/backward-cpp",
+  "url": "https://github.com/bombela/backward-cpp",
+  "category_id": "windows-crash-reporting-and-stacks",
+  "purpose": "Format C++ stack traces and available source context | Header-oriented library; platform backends differ",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-backtrace-labs-crashpad-242b97a88edc",
+  "name": "backtrace-labs/crashpad",
+  "url": "https://github.com/backtrace-labs/crashpad",
+  "category_id": "windows-crash-reporting-and-stacks",
+  "purpose": "Crash capture with CMake integration and attachment improvements | Vendor fork of Crashpad; compare fork maintenance and upstream before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

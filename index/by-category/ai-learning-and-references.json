@@ -1,0 +1,400 @@
+[
+ {
+  "resource_id": "res-karpathy-be4d0df3d1e4",
+  "name": "Karpathy",
+  "url": "https://github.com/karpathy/nanoGPT",
+  "category_id": "ai-learning-and-references",
+  "purpose": "nanoGPT: the simplest readable GPT training implementation; pair with the YouTube series of the same name.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-karpathy-7971b1f56b49",
+  "name": "Karpathy",
+  "url": "https://github.com/karpathy/llm.c",
+  "category_id": "ai-learning-and-references",
+  "purpose": "GPT training in plain C/CUDA — what frameworks abstract away, made visible.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugging-face-llm-course-d79da902e0c6",
+  "name": "Hugging Face LLM Course",
+  "url": "https://huggingface.co/learn/llm-course",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Free course: Transformers, fine-tuning, datasets, sharing models.",
+  "resource_type": "dataset",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-microsoft-2f8fc925246c",
+  "name": "Microsoft",
+  "url": "https://github.com/microsoft/AI-For-Beginners",
+  "category_id": "ai-learning-and-references",
+  "purpose": "12-week curriculum: neural networks, CV, NLP, ethics.",
+  "resource_type": "course",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-microsoft-3d5ae88d25a9",
+  "name": "Microsoft",
+  "url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "category_id": "ai-learning-and-references",
+  "purpose": "21-lesson course on building GenAI apps (Python/TypeScript/.NET tracks).",
+  "resource_type": "course",
+  "topics": [
+   "ai",
+   "python",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-microsoft-e2f9791ad215",
+  "name": "Microsoft",
+  "url": "https://github.com/microsoft/ML-For-Beginners",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Classical ML curriculum with projects.",
+  "resource_type": "course",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llm-course-mlabonne-013416d8c071",
+  "name": "LLM Course (mlabonne)",
+  "url": "https://github.com/mlabonne/llm-course",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Roadmap with notebooks: LLM fundamentals, scientist, and engineer tracks.",
+  "resource_type": "course",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-the-illustrated-transformer-9361ecfc6c8c",
+  "name": "The Illustrated Transformer",
+  "url": "https://jalammar.github.io/illustrated-transformer/",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Jay Alammar's visual walkthrough of the Transformer architecture.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "architecture"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fast-ai-e443f3ee1480",
+  "name": "Fast.ai",
+  "url": "https://course.fast.ai/",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Top-down deep learning course (free).",
+  "resource_type": "course",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-deeplearning-ai-short-courses-cf576ac5e600",
+  "name": "DeepLearning.AI short courses",
+  "url": "https://www.deeplearning.ai/courses",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Short practitioner courses on RAG, agents, fine-tuning, and evals.",
+  "resource_type": "course",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-llm-56df6f321fa1",
+  "name": "Awesome LLM",
+  "url": "https://github.com/Hannibal046/Awesome-LLM",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Papers, training frameworks, tools, and courses around LLMs.",
+  "resource_type": "course",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-generative-ai-a5ae3fc497e5",
+  "name": "Awesome Generative AI",
+  "url": "https://github.com/steven2358/awesome-generative-ai",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Broad GenAI tools and services index.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-production-llm-cb317419fcd4",
+  "name": "Awesome Production LLM",
+  "url": "https://github.com/jihoo-kim/awesome-production-llm",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Production LLM stack components and case studies.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-applied-ml-eugeneyan-039bfb13f403",
+  "name": "Applied ML (eugeneyan)",
+  "url": "https://github.com/eugeneyan/applied-ml",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Papers and blog posts on production ML systems from real companies.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-ai-agents-7dd473d6c207",
+  "name": "Awesome AI Agents",
+  "url": "https://github.com/e2b-dev/awesome-ai-agents",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Agent frameworks and applications index.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openai-cookbook-44b98ada5c69",
+  "name": "OpenAI Cookbook",
+  "url": "https://github.com/openai/openai-cookbook",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Example notebooks for the OpenAI API: embeddings, RAG, agents, evals — copy-adapt patterns, verify model names/pricing in current docs.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-anthropic-cookbooks-3185a2f82957",
+  "name": "Anthropic Cookbooks",
+  "url": "https://github.com/anthropics/claude-cookbooks",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Worked Claude examples: tool use, RAG, agents, vision, and evaluation patterns.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-google-gemini-cookbook-eedf73bfa499",
+  "name": "Google Gemini Cookbook",
+  "url": "https://github.com/google-gemini/cookbook",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Gemini API examples and quickstarts from Google, including multimodal and agent patterns.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugging-face-agents-course-1b3e59439259",
+  "name": "Hugging Face Agents Course",
+  "url": "https://huggingface.co/learn/agents-course",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Free course on building agents (smolagents, LangGraph, LlamaIndex) with a certification track.",
+  "resource_type": "course",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-anthropic-courses-00b6684d8ae2",
+  "name": "Anthropic Courses",
+  "url": "https://github.com/anthropics/courses",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Anthropic's own courses: API fundamentals, prompt engineering, and tool use, as notebooks.",
+  "resource_type": "course",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llms-from-scratch-raschka-b69b6e9d2f84",
+  "name": "LLMs from Scratch (Raschka)",
+  "url": "https://github.com/rasbt/LLMs-from-scratch",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Build a GPT-style LLM step by step in PyTorch — the companion repo to the book, excellent for fundamentals.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lil-log-lilian-weng-9977cc5abf92",
+  "name": "Lil'Log (Lilian Weng)",
+  "url": "https://lilianweng.github.io/",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Long-form, carefully-cited explainers on agents, reward hacking, diffusion, and alignment from OpenAI's Lilian Weng.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stanford-cs336-language-modeling-from-scra-d6d4d1118b7e",
+  "name": "Stanford CS336: Language Modeling from Scratch",
+  "url": "https://cs336.stanford.edu/",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Stanford's build-everything course: tokenizers, Transformers, training, data, and evaluation from first principles.",
+  "resource_type": "course",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-attention-is-all-you-need-paper-066137e1946f",
+  "name": "Attention Is All You Need (paper)",
+  "url": "https://arxiv.org/abs/1706.03762",
+  "category_id": "ai-learning-and-references",
+  "purpose": "The 2017 Transformer paper. Read it before citing it; most 'Transformer facts' trace back here.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

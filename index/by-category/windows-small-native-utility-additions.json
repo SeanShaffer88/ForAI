@@ -1,0 +1,39 @@
+[
+ {
+  "resource_id": "res-vimpunk-mio-a40f4422aa66",
+  "name": "vimpunk/mio",
+  "url": "https://github.com/vimpunk/mio",
+  "category_id": "windows-small-native-utility-additions",
+  "purpose": "Memory-map files through a C++11 header-only API | Canonical location redirected from mandreyel/mio; supports existing handles and non-page-aligned logical offsets",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-marzer-tomlplusplus-0f3115005f7d",
+  "name": "marzer/tomlplusplus",
+  "url": "https://github.com/marzer/tomlplusplus",
+  "category_id": "windows-small-native-utility-additions",
+  "purpose": "Parse and serialize TOML configuration in C++17 | Header-oriented library with MSVC support; suitable for native tool configuration",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

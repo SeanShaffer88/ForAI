@@ -1,0 +1,556 @@
+[
+ {
+  "resource_id": "res-vulkan-e6c8ec4a00ca",
+  "name": "Vulkan",
+  "url": "https://docs.vulkan.org/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Cross-platform graphics and compute APIs; confirm driver and feature support.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-webgpu-cbe9811c66b7",
+  "name": "WebGPU",
+  "url": "https://www.w3.org/TR/webgpu/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Browser graphics and compute API specification.",
+  "resource_type": "standard",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-directx-31b9229a6d3c",
+  "name": "DirectX",
+  "url": "https://learn.microsoft.com/en-us/windows/win32/directx",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Windows graphics and multimedia platform APIs.",
+  "resource_type": "documentation",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-sdl-6a3919ef546e",
+  "name": "SDL",
+  "url": "https://wiki.libsdl.org/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Cross-platform windows, input, audio and multimedia support.",
+  "resource_type": "reference",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-godot-65b5f96f67e9",
+  "name": "Godot",
+  "url": "https://docs.godotengine.org/en/stable/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Game engine and scripting reference.",
+  "resource_type": "documentation",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-unity-a86ab37fb76e",
+  "name": "Unity",
+  "url": "https://docs.unity3d.com/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Game engine and deployment reference; review licensing.",
+  "resource_type": "documentation",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-unreal-engine-9f8bb78c1906",
+  "name": "Unreal Engine",
+  "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Game and real-time engine documentation; review project-specific terms.",
+  "resource_type": "documentation",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openxr-47bfd743160f",
+  "name": "OpenXR",
+  "url": "https://www.khronos.org/openxr/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Portable XR interface standard and SDK ecosystem.",
+  "resource_type": "standard",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ffmpeg-bcf5c54baf28",
+  "name": "FFmpeg",
+  "url": "https://ffmpeg.org/documentation.html",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Audio/video processing; build configuration changes licensing and codecs.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gstreamer-4771acfe6979",
+  "name": "GStreamer",
+  "url": "https://gstreamer.freedesktop.org/documentation/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Streaming media pipelines and plugin framework.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opencv-c169dcfad840",
+  "name": "OpenCV",
+  "url": "https://docs.opencv.org/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Computer vision and image processing.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-numpy-b796d8df0c9a",
+  "name": "NumPy",
+  "url": "https://numpy.org/doc/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Numerical arrays and native extension interfaces.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-scipy-d56443cbce90",
+  "name": "SciPy",
+  "url": "https://docs.scipy.org/doc/scipy/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Scientific algorithms, optimization and signal processing.",
+  "resource_type": "documentation",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gdal-ca1b4656df89",
+  "name": "GDAL",
+  "url": "https://gdal.org/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Geospatial data formats and transformation.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-proj-a8bd723481de",
+  "name": "PROJ",
+  "url": "https://proj.org/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Coordinate reference systems and transformations.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-qwt-ceb142b38fc2",
+  "name": "Qwt",
+  "url": "https://qwt.sourceforge.io/",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Qt technical plotting widgets. Qwt License 1.0 (LGPL2.1 with exceptions); retain notices and evaluate Qt/runtime licenses. Pinned 6.3.0 built with Qt 6.12/MSVC x64 for DiffImg after the Qt5 baseline. Rebuilds pass, but MSVC anonymous-namespace RTTI makes DLL bytes vary with build path.",
+  "resource_type": "reference",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-three-js-5c0d1859bb1d",
+  "name": "three.js",
+  "url": "https://github.com/mrdoob/three.js",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "MIT JavaScript 3D renderer; bundle modules locally for offline WebGL2 games. Native Android wrappers still require current WebView and device-specific GPU, lifecycle and touch testing.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "javascript",
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-maplibre-gl-js-097b61a48612",
+  "name": "MapLibre GL JS",
+  "url": "https://github.com/maplibre/maplibre-gl-js",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Render vector maps in browsers; obtain tiles and data under suitable terms.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-maplibre-native-c361e30c39d4",
+  "name": "MapLibre Native",
+  "url": "https://github.com/maplibre/maplibre-native",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Embed map rendering in native applications; verify platform bindings and tile licensing.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openlayers-f6b93a5c11d3",
+  "name": "OpenLayers",
+  "url": "https://github.com/openlayers/openlayers",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Build browser mapping applications with multiple data sources; manage projections and attribution.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-leaflet-b8f53c9bd9d6",
+  "name": "Leaflet",
+  "url": "https://github.com/Leaflet/Leaflet",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Create interactive browser maps; evaluate plugins, tile providers and accessibility.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-deck-gl-5a1a7697a6a3",
+  "name": "deck.gl",
+  "url": "https://github.com/visgl/deck.gl",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Render large geospatial datasets with GPU layers; budget browser memory and GPU capabilities.",
+  "resource_type": "dataset",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cesiumjs-512dd3ac7815",
+  "name": "CesiumJS",
+  "url": "https://github.com/CesiumGS/cesium",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Visualize globes and 3D geospatial scenes; distinguish engine licensing from hosted content services.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-titiler-0ccaa4434d9c",
+  "name": "TiTiler",
+  "url": "https://github.com/developmentseed/titiler",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Serve raster tiles through Python web APIs; control remote-data access and caching.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-shapely-1e161fa84099",
+  "name": "Shapely",
+  "url": "https://github.com/shapely/shapely",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Analyze planar geometries in Python; understand coordinate-system and GEOS requirements.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-geopandas-dba5f26e4eb0",
+  "name": "GeoPandas",
+  "url": "https://github.com/geopandas/geopandas",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Work with geospatial dataframes; choose coordinate reference systems and compatible native dependencies.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rasterio-c8242bc77f3a",
+  "name": "Rasterio",
+  "url": "https://github.com/rasterio/rasterio",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Read and write geospatial rasters in Python; inspect GDAL drivers and binary compatibility. Repository license text uses BSD-style redistribution terms.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "python"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-transformers-a5b70fe07444",
+  "name": "transformers",
+  "url": "https://github.com/huggingface/transformers",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-effectcraft-5fb26674937c",
+  "name": "effectcraft",
+  "url": "https://github.com/storytold/effectcraft",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
+  "resource_type": "repository",
+  "topics": [
+   "rust"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-thorvg-194e66e6cdd8",
+  "name": "thorvg",
+  "url": "https://github.com/thorvg/thorvg",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "A production-ready C++ vector graphics engine supporting SVG and Lottie formats, featuring advanced rendering backends such as WebGPU for high-performance graphics.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-simd-f2f7f015b9bb",
+  "name": "Simd",
+  "url": "https://github.com/ermig1979/Simd",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX for x86/x64, NEON, SVE for ARM, HVX for Hexagon",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-libsndfile-b5bd6f7c8d77",
+  "name": "libsndfile",
+  "url": "https://github.com/libsndfile/libsndfile",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "A C library for reading and writing sound files containing sampled audio data.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rom-eae90947fe16",
+  "name": "rom",
+  "url": "https://github.com/hanakai-rb/rom",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Data mapping and persistence toolkit for Ruby",
+  "resource_type": "repository",
+  "topics": [
+   "ruby"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fluidaudio-2376b76d499a",
+  "name": "FluidAudio",
+  "url": "https://github.com/FluidInference/FluidAudio",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
+  "resource_type": "repository",
+  "topics": [
+   "swift"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "swift"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-metube-3522f931fb57",
+  "name": "metube",
+  "url": "https://github.com/alexta69/metube",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

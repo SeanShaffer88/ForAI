@@ -1,0 +1,58 @@
+[
+ {
+  "resource_id": "res-basil00-windivert-f018d56e3a65",
+  "name": "basil00/WinDivert",
+  "url": "https://github.com/basil00/WinDivert",
+  "category_id": "windows-networking-and-virtual-devices",
+  "purpose": "Capture filter modify and reinject packets from user-mode code | WinDivert.dll plus kernel driver; assess redistribution driver signing and platform support",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-wireguard-wintun-578aa1c002b7",
+  "name": "WireGuard/wintun",
+  "url": "https://github.com/WireGuard/wintun",
+  "category_id": "windows-networking-and-virtual-devices",
+  "purpose": "Expose a layer-3 virtual network adapter through wintun.dll | GitHub mirror; official upstream git.zx2c4.com/wintun; obtain architecture-matched supported binaries",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-winfsp-winspd-74e7f8e32558",
+  "name": "winfsp/winspd",
+  "url": "https://github.com/winfsp/winspd",
+  "category_id": "windows-networking-and-virtual-devices",
+  "purpose": "Implement user-mode storage devices that appear as SCSI disks | Storage proxy framework distinct from file-level WinFsp; assess driver deployment and license",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

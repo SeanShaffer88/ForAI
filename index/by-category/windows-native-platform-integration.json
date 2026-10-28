@@ -1,0 +1,57 @@
+[
+ {
+  "resource_id": "res-mohabouje-wintoast-f33c2e649187",
+  "name": "mohabouje/WinToast",
+  "url": "https://github.com/mohabouje/WinToast",
+  "category_id": "windows-native-platform-integration",
+  "purpose": "Display Windows toast notifications from C++ | Native library; app identity and notification setup affect integration",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-vslavik-winsparkle-f351880ba9e3",
+  "name": "vslavik/winsparkle",
+  "url": "https://github.com/vslavik/winsparkle",
+  "category_id": "windows-native-platform-integration",
+  "purpose": "Provide automatic update UI and appcast processing | Native C API and WinSparkle.dll; check signed-update configuration",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-btzy-nativefiledialog-extended-15fca155c8d9",
+  "name": "btzy/nativefiledialog-extended",
+  "url": "https://github.com/btzy/nativefiledialog-extended",
+  "category_id": "windows-native-platform-integration",
+  "purpose": "Open native file folder and save dialogs through C or C++ | Small static library using Windows native dialogs; MSVC MinGW and Clang supported",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

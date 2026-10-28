@@ -1,0 +1,237 @@
+[
+ {
+  "resource_id": "res-anthropic-prompt-engineering-guide-2ffc1323de35",
+  "name": "Anthropic prompt engineering guide",
+  "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Claude prompting: clarity, examples, XML structure, extended thinking.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openai-prompt-engineering-guide-f7f880f6e666",
+  "name": "OpenAI prompt engineering guide",
+  "url": "https://developers.openai.com/api/docs/guides/prompt-engineering",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Strategy and tactics for GPT-class models, plus reasoning-model guidance.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-google-gemini-prompting-strategies-25f04745af9c",
+  "name": "Google Gemini prompting strategies",
+  "url": "https://ai.google.dev/gemini-api/docs/prompting-strategies",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Gemini-specific prompting and media prompting.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dair-prompt-engineering-guide-d279ea9dfd74",
+  "name": "DAIR Prompt Engineering Guide",
+  "url": "https://www.promptingguide.ai/",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Comprehensive community guide: techniques, papers, RAG/agent prompting.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-learn-prompting-24a33d2f1f61",
+  "name": "Learn Prompting",
+  "url": "https://learnprompting.org/docs/introduction",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Free course-style prompting documentation, including security topics.",
+  "resource_type": "course",
+  "topics": [
+   "ai",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-chatgpt-prompts-7da9b44d6606",
+  "name": "Awesome ChatGPT Prompts",
+  "url": "https://github.com/f/prompts.chat",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Large prompt-pattern collection; useful as examples, not as verified best practice.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-anthropic-114b453388d0",
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com/research/building-effective-agents",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Anthropic's patterns: workflows vs agents, prompt chaining, routing, orchestrator-workers, evaluator-optimizer.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-anthropic-bb64f4bbd5e1",
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Context windows as a finite resource: compaction, note-taking, sub-agents.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-openai-db2dac7fd1b3",
+  "name": "OpenAI",
+  "url": "https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "OpenAI's practitioner guide: when to use agents, guardrails, orchestration patterns.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-outlines-59da69e43516",
+  "name": "Outlines",
+  "url": "https://dottxt-ai.github.io/outlines/",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Structured generation library (dottxt): guarantee valid JSON/regex/grammar-constrained output from local and API models.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xgrammar-f98c1495b8e2",
+  "name": "XGrammar",
+  "url": "https://xgrammar.mlc.ai/",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Fast, portable grammar engine for structured generation; used under several serving stacks for JSON/schema output.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-guidance-microsoft-e023e5580476",
+  "name": "Guidance (Microsoft)",
+  "url": "https://github.com/guidance-ai/guidance",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Constrain LLM generation with regex/grammar interleaved with generation; effective for strict formats with smaller models.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-baml-a8c363d2e16b",
+  "name": "BAML",
+  "url": "https://docs.boundaryml.com/",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "DSL for typed prompt functions with schema-aligned parsing; generates clients for Python/TS/Ruby/Go.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "python",
+   "ruby"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python",
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-textgrad-db4e1dad2056",
+  "name": "TextGrad",
+  "url": "https://github.com/zou-group/textgrad",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Automatic 'textual gradient' optimization of prompts and compound AI systems (Stanford; Nature-published).",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

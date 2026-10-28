@@ -1,0 +1,25 @@
+[
+ {
+  "resource_id": "res-chakra-core-chakracore-31ca3a768526",
+  "name": "chakra-core/ChakraCore",
+  "url": "https://github.com/chakra-core/ChakraCore",
+  "category_id": "windows-embedded-runtime-revival",
+  "purpose": "Embed a JavaScript engine through a native C API | Community continuation after Microsoft support ended; not automatically abandoned; expensive revival candidate requiring current security and build assessment",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript",
+   "security",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

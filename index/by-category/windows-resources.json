@@ -1,0 +1,150 @@
+[
+ {
+  "resource_id": "res-microsoft-windows-classic-samples-9f7e039fcdc7",
+  "name": "microsoft/Windows-classic-samples",
+  "url": "https://github.com/microsoft/Windows-classic-samples",
+  "category_id": "windows-resources",
+  "purpose": "Win32 API examples | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-windowsappsdk-samples-67643302f1ab",
+  "name": "microsoft/WindowsAppSDK-Samples",
+  "url": "https://github.com/microsoft/WindowsAppSDK-Samples",
+  "category_id": "windows-resources",
+  "purpose": "Windows App SDK examples | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-winui-gallery-f0afc39875d0",
+  "name": "microsoft/WinUI-Gallery",
+  "url": "https://github.com/microsoft/WinUI-Gallery",
+  "category_id": "windows-resources",
+  "purpose": "WinUI control demonstrations | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-windows-driver-samples-ac384d8c05bf",
+  "name": "microsoft/Windows-driver-samples",
+  "url": "https://github.com/microsoft/Windows-driver-samples",
+  "category_id": "windows-resources",
+  "purpose": "WDK driver samples | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoftdocs-win32-dfb0c72df6c1",
+  "name": "MicrosoftDocs/win32",
+  "url": "https://github.com/MicrosoftDocs/win32",
+  "category_id": "windows-resources",
+  "purpose": "Win32 documentation source | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoftdocs-windows-driver-docs-04a58c270d6d",
+  "name": "MicrosoftDocs/windows-driver-docs",
+  "url": "https://github.com/MicrosoftDocs/windows-driver-docs",
+  "category_id": "windows-resources",
+  "purpose": "Driver documentation source | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-terminal-44c38b358a0f",
+  "name": "microsoft/terminal",
+  "url": "https://github.com/microsoft/terminal",
+  "category_id": "windows-resources",
+  "purpose": "Terminal and console source reference | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-powertoys-8611ec4689d9",
+  "name": "microsoft/PowerToys",
+  "url": "https://github.com/microsoft/PowerToys",
+  "category_id": "windows-resources",
+  "purpose": "Desktop integration source reference | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

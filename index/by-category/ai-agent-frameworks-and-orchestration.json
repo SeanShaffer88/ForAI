@@ -1,0 +1,852 @@
+[
+ {
+  "resource_id": "res-langchain-documentation-65d5e5eda133",
+  "name": "LangChain documentation",
+  "url": "https://docs.langchain.com/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "LangChain + LangGraph docs: agents, tools, retrieval, streaming.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langchain-github-54c691fa819d",
+  "name": "LangChain (GitHub)",
+  "url": "https://github.com/langchain-ai/langchain",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Core LangChain monorepo.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langgraph-c3fbc7cffab1",
+  "name": "LangGraph",
+  "url": "https://github.com/langchain-ai/langgraph",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Stateful, durable agent orchestration as graphs; persistence and human-in-the-loop.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llamaindex-documentation-5d6f66f290bd",
+  "name": "LlamaIndex documentation",
+  "url": "https://developers.llamaindex.ai/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Data framework for RAG and agents: ingestion, indexes, query engines, workflows.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llamaindex-github-6c64bff55c5d",
+  "name": "LlamaIndex (GitHub)",
+  "url": "https://github.com/run-llama/llama_index",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "LlamaIndex core and integrations.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-microsoft-semantic-kernel-7caa35badc5b",
+  "name": "Microsoft Semantic Kernel",
+  "url": "https://learn.microsoft.com/en-us/semantic-kernel/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": ".NET/Python/Java AI orchestration SDK from Microsoft.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration",
+   "java",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "java",
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-microsoft-autogen-112b2c42c37e",
+  "name": "Microsoft AutoGen",
+  "url": "https://github.com/microsoft/autogen",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Multi-agent conversation framework from Microsoft Research.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-crewai-5638f3e39ce5",
+  "name": "CrewAI",
+  "url": "https://docs.crewai.com/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Role-based multi-agent crews and flows (Python).",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openai-agents-sdk-5ab1f944be0c",
+  "name": "OpenAI Agents SDK",
+  "url": "https://openai.github.io/openai-agents-python/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "OpenAI's lightweight agents SDK: agents, handoffs, guardrails, tracing.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-claude-agent-sdk-anthropic-docs-aa2bfcc501ff",
+  "name": "Claude Agent SDK (Anthropic docs)",
+  "url": "https://code.claude.com/docs/en/agent-sdk/overview",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Anthropic's agent SDK for building agents on Muse.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-google-agent-development-kit-adk-0165e0380326",
+  "name": "Google Agent Development Kit (ADK)",
+  "url": "https://adk.dev/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Google's open-source agent framework (Python/Java/Go).",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "java",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "java",
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-haystack-30fc05bfc240",
+  "name": "Haystack",
+  "url": "https://docs.haystack.deepset.ai/docs/intro",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "deepset's framework for production NLP/RAG pipelines and agents.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dspy-1d3f2353704c",
+  "name": "DSPy",
+  "url": "https://dspy.ai/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Programmatic (compiled) LLM pipelines from Stanford NLP — declare, don't prompt-engineer by hand.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pydantic-ai-b23305007701",
+  "name": "Pydantic AI",
+  "url": "https://pydantic.dev/docs/ai/overview/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Type-safe Python agent framework from the Pydantic team.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-smolagents-hugging-face-2155c8376bb4",
+  "name": "smolagents (Hugging Face)",
+  "url": "https://huggingface.co/docs/smolagents",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Minimal agents library where agents write Python code as actions.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mastra-116dcaa439a7",
+  "name": "Mastra",
+  "url": "https://mastra.ai/docs",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "TypeScript agent framework: agents, workflows, RAG, evals.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vercel-ai-sdk-7fdce332fcc3",
+  "name": "Vercel AI SDK",
+  "url": "https://ai-sdk.dev/docs",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "TypeScript SDK for AI apps: streaming UI, tool calling, provider-agnostic models.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-instructor-92b627da967f",
+  "name": "Instructor",
+  "url": "https://python.useinstructor.com/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Structured outputs from LLMs via Pydantic validation and retries.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-langchain-cbfb4b761a18",
+  "name": "Awesome LangChain",
+  "url": "https://github.com/kyrolabs/awesome-langchain",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "LangChain ecosystem projects and resources.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-browser-use-34e4ab855ee2",
+  "name": "Browser Use",
+  "url": "https://docs.browser-use.com/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Library that lets an LLM control a real browser to complete tasks; Python. Powerful and fragile in the usual browser-automation ways.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "llm",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stagehand-browserbase-98bdb3764851",
+  "name": "Stagehand (Browserbase)",
+  "url": "https://docs.stagehand.dev/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "AI browser-automation SDK (act/extract/observe primitives) on Playwright; pairs with Browserbase's hosted browsers.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration",
+   "browser-automation"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-skyvern-db2ecc13f30f",
+  "name": "Skyvern",
+  "url": "https://github.com/Skyvern-AI/skyvern",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Automates browser workflows with LLMs and computer vision, including form filling and 2FA handling; AGPL — check license fit.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dify-bb5d9a362146",
+  "name": "Dify",
+  "url": "https://docs.dify.ai/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Open-source LLM app platform: visual workflows, RAG, agent tools, and an API layer for shipping AI apps.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langflow-33d1c5ac0148",
+  "name": "Langflow",
+  "url": "https://docs.langflow.org/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Visual builder for LangChain-based agents and flows; exportable to code/API.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-agno-dfa4b7a105f9",
+  "name": "Agno",
+  "url": "https://docs.agno.com/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Lightweight Python framework for multi-modal agents with memory, knowledge, and tools (the Phidata lineage).",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-strands-agents-aws-e5952e3a8172",
+  "name": "Strands Agents (AWS)",
+  "url": "https://strandsagents.com/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "AWS's open-source, model-driven agent SDK (Python/TypeScript); Bedrock-first but provider-agnostic.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "api-integration",
+   "cloud",
+   "python",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-microsoft-agent-framework-998096261835",
+  "name": "Microsoft Agent Framework",
+  "url": "https://learn.microsoft.com/en-us/agent-framework/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Microsoft's successor line uniting Semantic Kernel and AutoGen patterns for .NET/Python agents and workflows.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-beeai-framework-7da2b36c41cf",
+  "name": "BeeAI Framework",
+  "url": "https://framework.beeai.dev/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "IBM-backed open framework for building agents in Python/TypeScript, with A2A/ACP interoperability work.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "python",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-n8n-07a3ac60ec38",
+  "name": "n8n",
+  "url": "https://docs.n8n.io/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Workflow automation platform with first-class AI/agent nodes; self-hostable. Good for glue automations around models.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-firebase-genkit-ae37d799569a",
+  "name": "Firebase Genkit",
+  "url": "https://genkit.dev/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Google's open-source framework for AI-powered apps (Go/JS/Python) with flows, tooling, and a dev UI.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-e2b-6ea2b223b67b",
+  "name": "E2B",
+  "url": "https://docs.e2b.dev/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Secure cloud sandboxes for AI agents to run code — the standard isolated-execution layer for code agents.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "cloud",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-daytona-c14efb529fb1",
+  "name": "Daytona",
+  "url": "https://www.daytona.io/docs/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Sandboxes and dev environments for AI-generated code and agent workloads, with fast cold starts.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-browserbase-1b1ffd27a8fe",
+  "name": "Browserbase",
+  "url": "https://docs.browserbase.com/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Hosted headless browsers for agents: sessions, debugging, and stealth infrastructure under Stagehand and friends.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-restack-d6308f371ee7",
+  "name": "Restack",
+  "url": "https://docs.restack.io/",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Open-source framework for durable, long-running AI agents and workflows with deterministic replay.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-litgpt-8b22760030fc",
+  "name": "litgpt",
+  "url": "https://github.com/Lightning-AI/litgpt",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gateway-3c6ad38c3e79",
+  "name": "gateway",
+  "url": "https://github.com/Portkey-AI/gateway",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openllm-ccb0577147ff",
+  "name": "OpenLLM",
+  "url": "https://github.com/bentoml/OpenLLM",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "cloud"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-skypilot-edac0f7496d6",
+  "name": "skypilot",
+  "url": "https://github.com/skypilot-org/skypilot",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openrlhf-4231df09e324",
+  "name": "OpenRLHF",
+  "url": "https://github.com/OpenRLHF/OpenRLHF",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ & VLM & TIS & vLLM & Ray & Async RL)",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-autorag-28542da05769",
+  "name": "AutoRAG",
+  "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lmdeploy-c50f172b42d9",
+  "name": "lmdeploy",
+  "url": "https://github.com/InternLM/lmdeploy",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lazyllm-bbcaad9f3267",
+  "name": "LazyLLM",
+  "url": "https://github.com/LazyAGI/LazyLLM",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Easiest and laziest way for building multi-agent LLMs applications.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-metagpt-2ee68da519ea",
+  "name": "MetaGPT",
+  "url": "https://github.com/FoundationAgents/MetaGPT",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openinterpreter-a5beb9f83bbf",
+  "name": "openinterpreter",
+  "url": "https://github.com/openinterpreter/openinterpreter",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "A coding agent for open models like Kimi K3 and GLM 5.3",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pr-agent-a04473adbaca",
+  "name": "pr-agent",
+  "url": "https://github.com/The-PR-Agent/pr-agent",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-plandex-56bb353b48c6",
+  "name": "plandex",
+  "url": "https://github.com/plandex-ai/plandex",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Open source AI coding agent. Designed for large projects and real world tasks.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ludwig-58cfeebf6823",
+  "name": "ludwig",
+  "url": "https://github.com/ludwig-ai/ludwig",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-speech-ae17c602e8b0",
+  "name": "Speech",
+  "url": "https://github.com/NVIDIA-NeMo/Speech",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hive-bff150d3cf60",
+  "name": "hive",
+  "url": "https://github.com/aden-hive/hive",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Multi-Agent Harness for Production AI",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

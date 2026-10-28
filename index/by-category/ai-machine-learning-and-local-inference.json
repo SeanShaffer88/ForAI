@@ -1,0 +1,1036 @@
+[
+ {
+  "resource_id": "res-openai-sdks-34ce5e269a9d",
+  "name": "OpenAI SDKs",
+  "url": "https://developers.openai.com/api/docs/libraries",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Official API clients and SDK entry point; recheck API and SDK support before implementation.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-anthropic-api-46c3d2a60a6a",
+  "name": "Anthropic API",
+  "url": "https://docs.anthropic.com/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Model API and client integration reference.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gemini-api-fb0012d93ecc",
+  "name": "Gemini API",
+  "url": "https://ai.google.dev/gemini-api/docs",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Google model APIs and SDK documentation.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugging-face-transformers-52a06bd31a2b",
+  "name": "Hugging Face Transformers",
+  "url": "https://huggingface.co/docs/transformers/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Model loading, tokenization and inference tooling.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pytorch-b999e2359d7c",
+  "name": "PyTorch",
+  "url": "https://docs.pytorch.org/docs/stable/index.html",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Tensor operations, training and inference.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-onnx-runtime-ffd904c2f7b8",
+  "name": "ONNX Runtime",
+  "url": "https://onnxruntime.ai/docs/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Portable inference runtime; choose execution provider and architecture.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "architecture"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llama-cpp-bd73610f65ce",
+  "name": "llama.cpp",
+  "url": "https://github.com/ggml-org/llama.cpp",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Local model inference; model licenses and hardware requirements are separate.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ollama-222cca746eb9",
+  "name": "Ollama",
+  "url": "https://docs.ollama.com/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Local model runtime and API.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vllm-95acc083e755",
+  "name": "vLLM",
+  "url": "https://docs.vllm.ai/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Model serving and batching; verify supported hardware and OS.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mlflow-efda3d37a38d",
+  "name": "MLflow",
+  "url": "https://mlflow.org/docs/latest/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Experiment tracking, model lifecycle and evaluation.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-model-context-protocol-3e35d62133f9",
+  "name": "Model Context Protocol",
+  "url": "https://modelcontextprotocol.io/docs",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Tool and context integration protocol; authentication and trust need explicit design.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ollama-ce3c2df838d8",
+  "name": "Ollama",
+  "url": "https://ollama.com/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "One-command local model runner (macOS/Windows/Linux) with an OpenAI-compatible API.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "api-integration",
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-ollama-github-be33e51b62ee",
+  "name": "Ollama (GitHub)",
+  "url": "https://github.com/ollama/ollama",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Source, model library format, API reference.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sglang-0cdbc2abc97a",
+  "name": "SGLang",
+  "url": "https://github.com/sgl-project/sglang",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Fast serving framework with structured generation (RadixAttention).",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lm-studio-fcd16d20e4bd",
+  "name": "LM Studio",
+  "url": "https://lmstudio.ai/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Desktop app to discover, download, and serve local models with a GUI.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "desktop"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mlx-apple-bf4b40455197",
+  "name": "MLX (Apple)",
+  "url": "https://github.com/ml-explore/mlx",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Apple's array framework for ML on Apple silicon; mlx-lm runs LLMs locally on Macs.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-whisper-cpp-49f6fb44e077",
+  "name": "whisper.cpp",
+  "url": "https://github.com/ggml-org/whisper.cpp",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Port of OpenAI Whisper speech recognition in C/C++ for local transcription.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gpt4all-6fd947861939",
+  "name": "GPT4All",
+  "url": "https://www.nomic.ai/gpt4all",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Nomic's local chatbot app and ecosystem.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jan-48c8d42ede2f",
+  "name": "Jan",
+  "url": "https://jan.ai/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Open-source offline ChatGPT alternative desktop app.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "desktop"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nvidia-tensorrt-llm-1209a928f924",
+  "name": "NVIDIA TensorRT-LLM",
+  "url": "https://github.com/NVIDIA/TensorRT-LLM",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Optimized LLM inference on NVIDIA GPUs for production serving.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugging-face-text-generation-inference-e0521ba6f49f",
+  "name": "Hugging Face Text Generation Inference",
+  "url": "https://huggingface.co/docs/text-generation-inference",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Production inference server for open models (TGI).",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tensorflow-documentation-20633e27d14e",
+  "name": "TensorFlow documentation",
+  "url": "https://www.tensorflow.org/api_docs",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Keras-based training and deployment APIs.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jax-documentation-bb09c64f22d5",
+  "name": "JAX documentation",
+  "url": "https://docs.jax.dev/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Composable transformations (grad/jit/vmap) for ML research.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-scikit-learn-documentation-0f733da1c198",
+  "name": "scikit-learn documentation",
+  "url": "https://scikit-learn.org/stable/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Classical ML: preprocessing, models, model evaluation — still the right tool for many tabular problems.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugging-face-peft-fe25650602df",
+  "name": "Hugging Face PEFT",
+  "url": "https://huggingface.co/docs/peft",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Parameter-efficient fine-tuning: LoRA and friends.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugging-face-trl-2ed7e768a93b",
+  "name": "Hugging Face TRL",
+  "url": "https://huggingface.co/docs/trl",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "SFT/DPO/RLHF training for Transformers models.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-axolotl-53ec2eb4e0a6",
+  "name": "Axolotl",
+  "url": "https://github.com/axolotl-ai-cloud/axolotl",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "YAML-configured LLM fine-tuning (LoRA/full) across providers.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llama-factory-186365aa5686",
+  "name": "LLaMA-Factory",
+  "url": "https://github.com/hiyouga/LlamaFactory",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Fine-tuning toolkit with web UI for 100+ models.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-unsloth-c2e85c0674c4",
+  "name": "Unsloth",
+  "url": "https://github.com/unslothai/unsloth",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Fast, memory-efficient LoRA/QLoRA fine-tuning notebooks and library.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-onnx-documentation-ca5ffda1ea63",
+  "name": "ONNX documentation",
+  "url": "https://onnx.ai/onnx/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Open model interchange format and ONNX Runtime for cross-platform inference.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-numpy-documentation-b34899e8091e",
+  "name": "NumPy documentation",
+  "url": "https://numpy.org/doc/stable/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Array computing foundation of the Python ML stack.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-comfyui-8d56be230f34",
+  "name": "ComfyUI",
+  "url": "https://github.com/comfy-org/ComfyUI",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Node-graph interface and engine for diffusion/image (and video/audio) generation; the standard power-user local image stack.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugging-face-diffusers-ee5b9c887779",
+  "name": "Hugging Face Diffusers",
+  "url": "https://huggingface.co/docs/diffusers",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Pipelines and building blocks for diffusion models (image/video/audio) in PyTorch; model licenses vary per model.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-invokeai-53e2793e64bd",
+  "name": "InvokeAI",
+  "url": "https://github.com/invoke-ai/InvokeAI",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Polished local image-generation studio (canvas, workflows) built on Diffusers; AGPL — check license fit.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-transformers-js-b7a600f73fe1",
+  "name": "Transformers.js",
+  "url": "https://huggingface.co/docs/transformers.js",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Run Transformers models in the browser (WebGPU/WASM) — on-device inference with no server; model size is the constraint.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-webllm-mlc-16ef9ec04a27",
+  "name": "WebLLM (MLC)",
+  "url": "https://webllm.mlc.ai/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Run LLMs entirely in-browser via WebGPU with an OpenAI-compatible API; part of the MLC stack.",
+  "resource_type": "reference",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-executorch-d6fdc73ad574",
+  "name": "ExecuTorch",
+  "url": "https://docs.pytorch.org/executorch/stable/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "PyTorch's on-device runtime for phones, embedded, and edge; export from PyTorch to a lean device binary.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tiktoken-openai-9737446e8c9f",
+  "name": "tiktoken (OpenAI)",
+  "url": "https://github.com/openai/tiktoken",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Fast BPE tokenizer for OpenAI models; use it to count tokens/cost before calls instead of estimating from characters.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-open-webui-d17aa12e12c6",
+  "name": "Open WebUI",
+  "url": "https://docs.openwebui.com/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Self-hosted ChatGPT-style interface for Ollama/OpenAI-compatible backends, with RAG and user management.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-text-generation-webui-d5f7b44f4b40",
+  "name": "text-generation-webui",
+  "url": "https://github.com/oobabooga/textgen",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "The long-standing Gradio UI for running local LLMs (llama.cpp/Transformers/ExLlama backends).",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mlc-llm-2f48bac929e2",
+  "name": "MLC LLM",
+  "url": "https://github.com/mlc-ai/mlc-llm",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Compile and deploy LLMs across GPUs, phones, and browsers from one stack (the engine behind WebLLM).",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openvino-5b4f71917d26",
+  "name": "OpenVINO",
+  "url": "https://docs.openvino.ai/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Intel's toolkit for optimizing and deploying inference on Intel CPUs, GPUs, and NPUs.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugging-face-accelerate-c9e473d14aec",
+  "name": "Hugging Face Accelerate",
+  "url": "https://huggingface.co/docs/accelerate",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Train PyTorch models on any hardware setup (single GPU to clusters) with minimal code changes; under most HF training.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-deepspeed-0e3d0b78177d",
+  "name": "DeepSpeed",
+  "url": "https://www.deepspeed.ai/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Microsoft's distributed training library (ZeRO sharding) for very large models; also inference kernels.",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-torchtune-19ea00a13267",
+  "name": "torchtune",
+  "url": "https://meta-pytorch.org/torchtune/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "PyTorch-native library of hackable fine-tuning recipes for popular LLMs (LoRA, full, QAT).",
+  "resource_type": "reference",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mergekit-arcee-51d4a3615e1f",
+  "name": "mergekit (Arcee)",
+  "url": "https://github.com/arcee-ai/mergekit",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Merge and evolve model weights (SLERP, TIES, DARE and more) — how many community model variants are made.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bitsandbytes-179b67916c6a",
+  "name": "bitsandbytes",
+  "url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "8-bit/4-bit optimizers and quantization for PyTorch — the library behind most QLoRA setups.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awq-mit-han-lab-6a9f8a5ec8b3",
+  "name": "AWQ (MIT Han Lab)",
+  "url": "https://github.com/mit-han-lab/llm-awq",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Activation-aware weight quantization for LLMs: 4-bit models with small quality loss, widely deployed.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-safetensors-a88051808012",
+  "name": "Safetensors",
+  "url": "https://huggingface.co/docs/safetensors",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "The safe, fast tensor file format that replaced pickle-based checkpoints across the HF ecosystem.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gguf-format-specification-39873f10f986",
+  "name": "GGUF format specification",
+  "url": "https://github.com/ggml-org/ggml/blob/master/docs/gguf.md",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "The GGUF file-format spec (successor to GGML) used by llama.cpp-ecosystem models and quantization levels.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ray-0c2c6c309e2a",
+  "name": "Ray",
+  "url": "https://docs.ray.io/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Distributed compute framework behind many training/serving stacks (Ray Train, Ray Serve, vLLM deployments).",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ultralytics-yolo-ef23546fb68d",
+  "name": "Ultralytics YOLO",
+  "url": "https://docs.ultralytics.com/",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "The YOLO object-detection family and tooling; the default starting point for applied computer vision.",
+  "resource_type": "documentation",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-segment-anything-meta-7fa531474abe",
+  "name": "Segment Anything (Meta)",
+  "url": "https://github.com/facebookresearch/segment-anything",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Meta's promptable segmentation model (SAM) and dataset tooling; a foundation block for vision pipelines.",
+  "resource_type": "dataset",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openpipe-art-ceba7f0bb385",
+  "name": "OpenPipe ART",
+  "url": "https://github.com/OpenPipe/ART",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Agent Reinforcement Trainer: RL training (GRPO) for multi-step agents on your own data and backends.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-semantic-kernel-2ca665d9afb0",
+  "name": "semantic-kernel",
+  "url": "https://github.com/microsoft/semantic-kernel",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-verl-d18f1cdb1431",
+  "name": "verl",
+  "url": "https://github.com/verl-project/verl",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fastchat-ac6b100372b1",
+  "name": "FastChat",
+  "url": "https://github.com/lm-sys/FastChat",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ragas-999fa6ae8a8c",
+  "name": "ragas",
+  "url": "https://github.com/vibrantlabsai/ragas",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Supercharge Your LLM Application Evaluations 🚀",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mnn-dcb1f37d2fd9",
+  "name": "MNN",
+  "url": "https://github.com/alibaba/MNN",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-adalflow-a91f5367c975",
+  "name": "AdalFlow",
+  "url": "https://github.com/SylphAI-Inc/AdalFlow",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "AdalFlow: The library to build & auto-optimize LLM applications.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gpt-neox-78608c70657d",
+  "name": "gpt-neox",
+  "url": "https://github.com/EleutherAI/gpt-neox",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bitnet-cb255280418b",
+  "name": "BitNet",
+  "url": "https://github.com/microsoft/BitNet",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Official inference framework for 1-bit LLMs",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bark-9ce50d28c000",
+  "name": "bark",
+  "url": "https://github.com/suno-ai/bark",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "🔊 Text-Prompted Generative Audio Model",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

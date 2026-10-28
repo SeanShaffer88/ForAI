@@ -1,0 +1,20 @@
+[
+ {
+  "resource_id": "res-goodtrailer-win-pipe-b0927d3f5615",
+  "name": "goodtrailer/win-pipe",
+  "url": "https://github.com/goodtrailer/win-pipe",
+  "category_id": "windows-shared-memory-and-pipes",
+  "purpose": "Small single-file C++ wrapper for Windows named pipes | Upstream unfinished; scoped ISC revival 0.2.0 published at https://github.com/SeanShaffer88/win-pipe-revival with x86/x64 CI, resource-failure tests and PipeLog consumer; both peers must upgrade; see WR-007",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

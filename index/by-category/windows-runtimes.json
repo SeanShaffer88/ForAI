@@ -1,0 +1,139 @@
+[
+ {
+  "resource_id": "res-dotnet-runtime-b2951c82c6c8",
+  "name": "dotnet/runtime",
+  "url": "https://github.com/dotnet/runtime",
+  "category_id": "windows-runtimes",
+  "purpose": ".NET runtime and core libraries | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dotnet-sdk-99759c2cc481",
+  "name": "dotnet/sdk",
+  "url": "https://github.com/dotnet/sdk",
+  "category_id": "windows-runtimes",
+  "purpose": ".NET SDK and CLI build tools | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-powershell-powershell-9c7426d569d3",
+  "name": "PowerShell/PowerShell",
+  "url": "https://github.com/PowerShell/PowerShell",
+  "category_id": "windows-runtimes",
+  "purpose": "Automation shell and runtime | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-python-cpython-3f5dd142d7ee",
+  "name": "python/cpython",
+  "url": "https://github.com/python/cpython",
+  "category_id": "windows-runtimes",
+  "purpose": "Python interpreter and embedding APIs | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-nodejs-node-373a853aa7cd",
+  "name": "nodejs/node",
+  "url": "https://github.com/nodejs/node",
+  "category_id": "windows-runtimes",
+  "purpose": "JavaScript runtime | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-rust-lang-rust-70976faf80c7",
+  "name": "rust-lang/rust",
+  "url": "https://github.com/rust-lang/rust",
+  "category_id": "windows-runtimes",
+  "purpose": "Rust compiler and standard library | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "rust",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libuv-libuv-db20b38dcc04",
+  "name": "libuv/libuv",
+  "url": "https://github.com/libuv/libuv",
+  "category_id": "windows-runtimes",
+  "purpose": "Native asynchronous I/O and event loops | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

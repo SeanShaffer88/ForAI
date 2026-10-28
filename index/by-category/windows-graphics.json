@@ -1,0 +1,184 @@
+[
+ {
+  "resource_id": "res-microsoft-directx-headers-4c83b0978414",
+  "name": "microsoft/DirectX-Headers",
+  "url": "https://github.com/microsoft/DirectX-Headers",
+  "category_id": "windows-graphics",
+  "purpose": "DirectX headers | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-directxshadercompiler-9a5e80eaddad",
+  "name": "microsoft/DirectXShaderCompiler",
+  "url": "https://github.com/microsoft/DirectXShaderCompiler",
+  "category_id": "windows-graphics",
+  "purpose": "HLSL shader compiler | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-directxtk-5532be53cecd",
+  "name": "microsoft/DirectXTK",
+  "url": "https://github.com/microsoft/DirectXTK",
+  "category_id": "windows-graphics",
+  "purpose": "Direct3D 11 helpers | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-directxtk12-4fb96be2842b",
+  "name": "microsoft/DirectXTK12",
+  "url": "https://github.com/microsoft/DirectXTK12",
+  "category_id": "windows-graphics",
+  "purpose": "Direct3D 12 helpers | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-directxtex-da1d73daad4d",
+  "name": "microsoft/DirectXTex",
+  "url": "https://github.com/microsoft/DirectXTex",
+  "category_id": "windows-graphics",
+  "purpose": "Texture processing | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-directxmath-c3a207ee6806",
+  "name": "microsoft/DirectXMath",
+  "url": "https://github.com/microsoft/DirectXMath",
+  "category_id": "windows-graphics",
+  "purpose": "SIMD graphics math | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-libsdl-org-sdl-fb77db2a710e",
+  "name": "libsdl-org/SDL",
+  "url": "https://github.com/libsdl-org/SDL",
+  "category_id": "windows-graphics",
+  "purpose": "Window input audio and graphics integration | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-glfw-glfw-44f645c55014",
+  "name": "glfw/glfw",
+  "url": "https://github.com/glfw/glfw",
+  "category_id": "windows-graphics",
+  "purpose": "Graphics windows contexts and input | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-baldurk-renderdoc-cdfecd364ffb",
+  "name": "baldurk/renderdoc",
+  "url": "https://github.com/baldurk/renderdoc",
+  "category_id": "windows-graphics",
+  "purpose": "Graphics frame capture debugger | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-microsoft-onnxruntime-d84e6b937156",
+  "name": "microsoft/onnxruntime",
+  "url": "https://github.com/microsoft/onnxruntime",
+  "category_id": "windows-graphics",
+  "purpose": "Machine learning inference runtime | Carried forward from original list; recheck before adoption",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ }
+]

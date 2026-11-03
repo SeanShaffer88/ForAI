@@ -40,10 +40,11 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           ISSUE_TITLE: "Link check: dead or moved links found"
         run: |
+          python scripts/link_check_issue.py
           existing=$(gh issue list --state open --json number,title \
             --jq "[.[] | select(.title == \"$ISSUE_TITLE\") | .number] | first // empty")
           if [ -n "$existing" ]; then
-            gh issue comment "$existing" --body-file link-check-report.md
+            gh issue comment "$existing" --body-file link-check-issue.md
           else
-            gh issue create --title "$ISSUE_TITLE" --body-file link-check-report.md
+            gh issue create --title "$ISSUE_TITLE" --body-file link-check-issue.md
           fi

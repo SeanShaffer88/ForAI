@@ -11,4 +11,5 @@ jobs:
         with:
           python-version: '3.x'
       - run: python scripts/validate.py
+      - run: python -m unittest discover -s tests -v
       - run: python scripts/search.py SQLite --json

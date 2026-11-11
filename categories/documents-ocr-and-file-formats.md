@@ -53,3 +53,34 @@ Scoped metadata and README checks. See the [full expansion and evidence limits](
 | [simdutf](https://github.com/simdutf/simdutf) | Validate and convert Unicode text efficiently; distinguish encoding validity from text normalization. |
 | [fast_float](https://github.com/fastfloat/fast_float) | Parse floating-point numbers in C++; test accepted formats and edge cases. |
 | [RE2](https://github.com/google/re2) | Match regular expressions with bounded resource behavior; adapt patterns that use unsupported features. |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) | Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS. AGPL-3.0: network use can trigger source-disclosure obligations. |
+| [doctr](https://github.com/mindee/doctr) | docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing development and maintenance by t2k. |
+| [docx](https://github.com/dolanmiu/docx) | Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. |
+| [donut](https://github.com/clovaai/donut) | Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022. |
+| [file](https://github.com/file/file) | Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. License not detected by GitHub; check the repository license before use. |
+| [grobid](https://github.com/grobidOrg/grobid) | A machine learning software for extracting information from scholarly documents. |
+| [kcc](https://github.com/ciromattia/kcc) | KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers. |
+| [layout parser](https://github.com/Layout-Parser/layout-parser) | A Unified Toolkit for Deep Learning Based Document Image Analysis. |
+| [libyal](https://github.com/libyal/libyal) | Yet another library library (and tools). |
+| [liteparse](https://github.com/run-llama/liteparse) | A fast, helpful, and open-source document parser. |
+| [MinerU](https://github.com/opendatalab/MinerU) | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. License not detected by GitHub; check the repository license before use. |
+| [noteshrink](https://github.com/mzucker/noteshrink) | Convert scans of handwritten notes to beautiful, compact PDFs. |
+| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched. MPL-2.0: file-level copyleft; modified files must be published. |
+| [Parsr](https://github.com/axa-group/Parsr) | Transforms PDF, Documents and Images into Enriched Structured Data. |
+| [pdf lib](https://github.com/Hopding/pdf-lib) | Create and modify PDF documents in any JavaScript environment. |
+| [pdfarranger](https://github.com/pdfarranger/pdfarranger) | Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface. GPL-3.0: derivative works must stay under the GPL. |
+| [pdfminer.six](https://github.com/pdfminer/pdfminer.six) | Community maintained fork of pdfminer - we fathom PDF. |
+| [percollate](https://github.com/danburzo/percollate) | A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs. |
+| [PyMuPDF](https://github.com/pymupdf/PyMuPDF) | PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents. AGPL-3.0: network use can trigger source-disclosure obligations. |
+| [tesseract](https://github.com/tesseract-ocr/tesseract) | Tesseract Open Source OCR Engine (main repository). |
+| [tika](https://github.com/apache/tika) | The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). |
+| [zerox](https://github.com/getomni-ai/zerox) | OCR & Document Extraction using vision models. |
+<!-- expansion-2026-11-11:end -->

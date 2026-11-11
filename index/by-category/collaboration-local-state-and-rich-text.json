@@ -282,5 +282,448 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-hedgedoc-3249ab9e7668",
+  "name": "hedgedoc",
+  "url": "https://github.com/hedgedoc/hedgedoc",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "HedgeDoc - Ideas grow better together. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-silverbullet-076184fd5c3d",
+  "name": "silverbullet",
+  "url": "https://github.com/silverbulletmd/silverbullet",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "The malleable knowledge base for you and your team. Powered by Markdown and Lua.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jupytext-5608e95f5f80",
+  "name": "jupytext",
+  "url": "https://github.com/jupytext/jupytext",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vnote-2783aeff6486",
+  "name": "vnote",
+  "url": "https://github.com/vnotex/vnote",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text. LGPL-3.0: dynamic linking is permitted, static linking has obligations.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-notepads-15f897fd5cd0",
+  "name": "Notepads",
+  "url": "https://github.com/0x7c13/Notepads",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "A modern, lightweight text editor with a minimalist design.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-marksman-b28ef9942658",
+  "name": "marksman",
+  "url": "https://github.com/artempyanykh/marksman",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Write Markdown with code assist and intelligence in the comfort of your favourite editor.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-qownnotes-713ee88be27d",
+  "name": "QOwnNotes",
+  "url": "https://github.com/pbek/QOwnNotes",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. GPL-2.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-miaoyan-6d8e068d85be",
+  "name": "MiaoYan",
+  "url": "https://github.com/tw93/MiaoYan",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "A light, native Markdown notebook for Mac, iPhone and iPad.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-freeplane-1851c268f647",
+  "name": "freeplane",
+  "url": "https://github.com/freeplane/freeplane",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way. GPL-2.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gitjournal-cad1cadc7d9c",
+  "name": "GitJournal",
+  "url": "https://github.com/GitJournal/GitJournal",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Mobile first Note Taking integrated with Git. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "mobile"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-affine-b1634553ae8c",
+  "name": "AFFiNE",
+  "url": "https://github.com/toeverything/AFFiNE",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ckeditor5-043cab390197",
+  "name": "ckeditor5",
+  "url": "https://github.com/ckeditor/ckeditor5",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "git"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-quill-b61906c7f6ff",
+  "name": "quill",
+  "url": "https://github.com/slab/quill",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mdast-b516751ea4fb",
+  "name": "mdast",
+  "url": "https://github.com/syntax-tree/mdast",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Markdown Abstract Syntax Tree format. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-markdown-it-5242ca0f4d0a",
+  "name": "markdown it",
+  "url": "https://github.com/markdown-it/markdown-it",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-remark-beae5fc44a93",
+  "name": "remark",
+  "url": "https://github.com/remarkjs/remark",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "markdown processor powered by plugins part of the @unifiedjs collective.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-commonmark-spec-bc811dd77879",
+  "name": "commonmark spec",
+  "url": "https://github.com/commonmark/commonmark-spec",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "CommonMark spec, with reference implementations in C and JavaScript. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "javascript"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-markup-b6e630a928ae",
+  "name": "markup",
+  "url": "https://github.com/github/markup",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Determines which markup library to use to render a content file (e.g. README) on GitHub.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-joplin-6e9aeea0e670",
+  "name": "joplin",
+  "url": "https://github.com/laurent22/joplin",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "git",
+   "linux",
+   "mobile",
+   "windows"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "linux",
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-logseq-f8bac5876d8b",
+  "name": "logseq",
+  "url": "https://github.com/logseq/logseq",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sharelatex-692acbdc6d36",
+  "name": "sharelatex",
+  "url": "https://github.com/overleaf/overleaf",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "A web-based collaborative LaTeX editor. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-overleaf-3be526c4cbca",
+  "name": "overleaf",
+  "url": "https://github.com/overleaf/overleaf",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "A web-based collaborative LaTeX editor. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zettlr-debfa7374d29",
+  "name": "Zettlr",
+  "url": "https://github.com/Zettlr/Zettlr",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Your One-Stop Publication Workbench. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-foam-f41f43706084",
+  "name": "foam",
+  "url": "https://github.com/foambubble/foam",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "A personal knowledge management and sharing system for VSCode. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-plantuml-03d4104a42c1",
+  "name": "plantuml",
+  "url": "https://github.com/plantuml/plantuml",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Generate diagrams from textual description. LGPL-3.0: dynamic linking is permitted, static linking has obligations.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-excalidraw-127cc7657b72",
+  "name": "excalidraw",
+  "url": "https://github.com/excalidraw/excalidraw",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Virtual whiteboard for sketching hand-drawn like diagrams.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tldraw-ce0f2bd62547",
+  "name": "tldraw",
+  "url": "https://github.com/tldraw/tldraw",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-penpot-9912e4d68177",
+  "name": "penpot",
+  "url": "https://github.com/penpot/penpot",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Penpot: The open-source design platform for Product teams that need scalable collaboration. MPL-2.0: file-level copyleft; modified files must be published.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-roomgpt-00fde9dce27f",
+  "name": "roomGPT",
+  "url": "https://github.com/Nutlope/roomGPT",
+  "category_id": "collaboration-local-state-and-rich-text",
+  "purpose": "Upload a photo of your room to generate your dream room with AI.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

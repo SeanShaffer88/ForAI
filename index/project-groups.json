@@ -3,17 +3,25 @@
   "description": "Confirmed non-GitHub endpoints for the same project. GitHub repository URLs are grouped by owner/repository automatically. Add only relationships with clear primary-source evidence.",
   "groups": [
     {
-      "project_id": "project-python",
+      "project_id": "project-cmake",
       "urls": [
-        "https://docs.python.org/3/",
-        "https://www.python.org/"
+        "https://cmake.org/documentation/",
+        "https://github.com/Kitware/CMake"
       ]
     },
     {
-      "project_id": "project-nodejs",
+      "project_id": "project-conan",
       "urls": [
-        "https://nodejs.org/api/",
-        "https://nodejs.org/en/docs"
+        "https://conan.io/center",
+        "https://docs.conan.io/2/",
+        "https://github.com/conan-io/conan"
+      ]
+    },
+    {
+      "project_id": "project-frida",
+      "urls": [
+        "https://frida.re/docs/android/",
+        "https://github.com/frida/frida"
       ]
     },
     {
@@ -24,6 +32,35 @@
       ]
     },
     {
+      "project_id": "project-libgit2",
+      "urls": [
+        "https://libgit2.org/docs/",
+        "https://github.com/libgit2/libgit2"
+      ]
+    },
+    {
+      "project_id": "project-mcp-registry",
+      "urls": [
+        "https://registry.modelcontextprotocol.io/",
+        "https://github.com/modelcontextprotocol/registry"
+      ]
+    },
+    {
+      "project_id": "project-model-context-protocol",
+      "urls": [
+        "https://modelcontextprotocol.io/",
+        "https://modelcontextprotocol.io/clients",
+        "https://modelcontextprotocol.io/docs"
+      ]
+    },
+    {
+      "project_id": "project-nodejs",
+      "urls": [
+        "https://nodejs.org/api/",
+        "https://nodejs.org/en/docs"
+      ]
+    },
+    {
       "project_id": "project-npm",
       "urls": [
         "https://docs.npmjs.com/",
@@ -31,31 +68,54 @@
       ]
     },
     {
+      "project_id": "project-ollama",
+      "urls": [
+        "https://docs.ollama.com/",
+        "https://github.com/ollama/ollama",
+        "https://ollama.com/"
+      ]
+    },
+    {
+      "project_id": "project-onnxruntime",
+      "urls": [
+        "https://onnxruntime.ai/docs/",
+        "https://github.com/microsoft/onnxruntime"
+      ]
+    },
+    {
+      "project_id": "project-python",
+      "urls": [
+        "https://docs.python.org/3/",
+        "https://www.python.org/"
+      ]
+    },
+    {
+      "project_id": "project-renderdoc",
+      "urls": [
+        "https://renderdoc.org/",
+        "https://github.com/baldurk/renderdoc"
+      ]
+    },
+    {
+      "project_id": "project-scikit-learn",
+      "urls": [
+        "https://scikit-learn.org/stable/",
+        "https://github.com/scikit-learn/scikit-learn"
+      ]
+    },
+    {
       "project_id": "project-vcpkg",
       "urls": [
+        "https://github.com/microsoft/vcpkg",
         "https://learn.microsoft.com/en-us/vcpkg/",
         "https://vcpkg.io/"
       ]
     },
     {
-      "project_id": "project-conan",
+      "project_id": "project-xunit",
       "urls": [
-        "https://docs.conan.io/2/",
-        "https://conan.io/center"
-      ]
-    },
-    {
-      "project_id": "project-ollama",
-      "urls": [
-        "https://docs.ollama.com/",
-        "https://ollama.com/"
-      ]
-    },
-    {
-      "project_id": "project-model-context-protocol",
-      "urls": [
-        "https://modelcontextprotocol.io/docs",
-        "https://modelcontextprotocol.io/"
+        "https://xunit.net/",
+        "https://github.com/xunit/xunit"
       ]
     }
   ]

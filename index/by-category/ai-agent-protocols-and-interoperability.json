@@ -70,5 +70,59 @@
   "platforms": [
    "web"
   ]
+ },
+ {
+  "resource_id": "res-bifrost-b61ca1f587a7",
+  "name": "bifrost",
+  "url": "https://github.com/maximhq/bifrost",
+  "category_id": "ai-agent-protocols-and-interoperability",
+  "purpose": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys,.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "llm",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-unity-mcp-18666574efd5",
+  "name": "unity mcp",
+  "url": "https://github.com/CoplayDev/unity-mcp",
+  "category_id": "ai-agent-protocols-and-interoperability",
+  "purpose": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-x64dbg-mcp-server-98ce1fd12ad9",
+  "name": "x64dbg mcp server",
+  "url": "https://github.com/duty1g/x64dbg-mcp-server",
+  "category_id": "ai-agent-protocols-and-interoperability",
+  "purpose": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

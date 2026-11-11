@@ -1144,5 +1144,470 @@
    "android",
    "mobile"
   ]
+ },
+ {
+  "resource_id": "res-universal-android-debloater-2d3d53a858ce",
+  "name": "universal android debloater",
+  "url": "https://github.com/0x192/universal-android-debloater",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile",
+   "rust",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-aaa-ff1428eb5334",
+  "name": "AAA",
+  "url": "https://github.com/Psyhackological/AAA",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!",
+  "resource_type": "curated-list",
+  "topics": [
+   "android",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-repostore-82febdde0428",
+  "name": "RepoStore",
+  "url": "https://github.com/samyak2403/RepoStore",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "kotlin",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "kotlin"
+  ],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-dex2jar-0edd211a4324",
+  "name": "dex2jar",
+  "url": "https://github.com/pxb1988/dex2jar",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Tools to work with android .dex and java .class files.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "java",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-android-emulator-container-scripts-957716a682e5",
+  "name": "android emulator container scripts",
+  "url": "https://github.com/google/android-emulator-container-scripts",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "This is a set of minimal scripts to run the emulator in a container for various systems such as Docker, for external consumption.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "containers",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-scrcpy-034b627c6deb",
+  "name": "scrcpy",
+  "url": "https://github.com/Genymobile/scrcpy",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Display and control your Android device.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-sai-3f00c3ea0952",
+  "name": "SAI",
+  "url": "https://github.com/Aefyr/SAI",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Android split APKs installer. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-newpipe-30efaa691f40",
+  "name": "NewPipe",
+  "url": "https://github.com/TeamNewPipe/NewPipe",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "A libre lightweight streaming front-end for Android. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile",
+   "web"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile",
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-firefox-android-232f5413b8c0",
+  "name": "firefox android",
+  "url": "https://github.com/mozilla-mobile/firefox-android",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "warning: This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects. It is now developed and maintained as part of Mozilla Central. MPL-2.0: file-level copyleft; modified files must be published.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "git",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-architecture-samples-06b0ef2ff42a",
+  "name": "architecture samples",
+  "url": "https://github.com/android/architecture-samples",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "architecture",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-compose-samples-0d3436c2f7f4",
+  "name": "compose samples",
+  "url": "https://github.com/android/compose-samples",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Official Jetpack Compose samples.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-androidx-5eeacf0aec63",
+  "name": "androidx",
+  "url": "https://github.com/androidx/androidx",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-accompanist-eb49c2bc9082",
+  "name": "accompanist",
+  "url": "https://github.com/google/accompanist",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "A collection of extension libraries for Jetpack Compose.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-leakcanary-6bb5ff36d5c4",
+  "name": "leakcanary",
+  "url": "https://github.com/square/leakcanary",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "A memory leak detection library for Android.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-retrofit-aebff35659c2",
+  "name": "retrofit",
+  "url": "https://github.com/lysine-dev/retrofit",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "A type-safe HTTP client for Android and the JVM.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "api-integration",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-okhttp-bd91abcc14c0",
+  "name": "okhttp",
+  "url": "https://github.com/lysine-dev/okhttp",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "A meticulous HTTP client for the JVM, Android, and GraalVM.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "api-integration",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-coil-2d33bf739ebc",
+  "name": "coil",
+  "url": "https://github.com/coil-kt/coil",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Image loading for Android and Compose Multiplatform.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-pokedex-22c0b4597347",
+  "name": "pokedex",
+  "url": "https://github.com/skydoves/Pokedex",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "architecture",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-koin-c035f19b48d1",
+  "name": "koin",
+  "url": "https://github.com/InsertKoinIO/koin",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Koin - pragmatic dependency injection for Kotlin & Kotlin Multiplatform. Koin DSL or Koin Annotations (JSR-330), compile safe with the Koin Compiler Plugin.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "build-tools",
+   "kotlin",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "kotlin"
+  ],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-kotlinx-coroutines-6454be02abe1",
+  "name": "kotlinx.coroutines",
+  "url": "https://github.com/Kotlin/kotlinx.coroutines",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "Library support for Kotlin coroutines.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "kotlin",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "kotlin"
+  ],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-awesome-android-ui-8118a0923793",
+  "name": "awesome android ui",
+  "url": "https://github.com/wasabeef/awesome-android-ui",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "A curated list of awesome Android UI/UX libraries.",
+  "resource_type": "curated-list",
+  "topics": [
+   "android",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-awesome-flutter-817023727333",
+  "name": "awesome flutter",
+  "url": "https://github.com/Solido/awesome-flutter",
+  "category_id": "android-apk-development-and-analysis",
+  "purpose": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "curated-list",
+  "topics": [
+   "android",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
  }
 ]

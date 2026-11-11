@@ -94,3 +94,44 @@ Additional entries from a focused discovery pass; see the [full expansion and ev
 | [leaf](https://github.com/autumnai/leaf) | Open Machine Intelligence Framework for Hackers. (GPU/CPU) |
 | [cml](https://github.com/iterative/cml) | ♾️ CML - Continuous Machine Learning ; CI/CD for ML |
 | [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) | State of the Art Natural Language Processing |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Apache Superset](https://github.com/apache/superset) | Apache BI platform for SQL-backed dashboards and exploration. Strong SQL editor and charts; embed/enterprise features vary and operational overhead is real. |
+| [Evidence](https://github.com/evidence-dev/evidence) | Business intelligence as code: SQL and Markdown compiled into a static site with charts. Great for versioned, code-reviewed reports; less interactive than a BI server. |
+| [JupyterLab](https://github.com/jupyterlab/jupyterlab) | Web IDE for notebooks, terminals, and data inspection. Check server extension security and multi-user deployment options before exposing it. |
+| [Metabase](https://github.com/metabase/metabase) | Self-hosted BI with a question-builder aimed at non-SQL users, plus dashboards and alerts. AGPL or commercial licensing depending on distribution and features. |
+| [Plotly.py](https://github.com/plotly/plotly.py) | Interactive plotting for Python with WebGL rendering and Dash integration. Larger output than static charts; consider bundle size for embedded reports. |
+<!-- expansion-2026-11-10:end -->
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [altair](https://github.com/vega/altair) | Declarative visualization library for Python. |
+| [arrow](https://github.com/apache/arrow) | Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics. |
+| [cudf](https://github.com/NVIDIA/cudf) | cuDF - GPU DataFrame Library. |
+| [datasets](https://github.com/huggingface/datasets) | The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools. |
+| [datasette](https://github.com/simonw/datasette) | An open source multi-tool for exploring and publishing data. |
+| [ipython](https://github.com/ipython/ipython) | Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc. |
+| [jupyter](https://github.com/jupyter/jupyter) | Jupyter metapackage for installation and documentation. |
+| [kubeflow](https://github.com/kubeflow/kubeflow) | The Cloud Native AI Platform. |
+| [modin](https://github.com/modin-project/modin) | Modin: Scale your Pandas workflows by changing a single line of code. |
+| [openml](https://github.com/openml/OpenML) | Open Machine Learning. |
+| [plot](https://github.com/observablehq/plot) | A concise API for exploratory data visualization implementing a layered grammar of graphics. |
+| [spaghetti](https://github.com/pysal/spaghetti) | SPAtial GrapHs: nETworks, Topology, & Inference. |
+| [spark](https://github.com/apache/spark) | Apache Spark - A unified analytics engine for large-scale data processing. |
+| [sqlite utils](https://github.com/simonw/sqlite-utils) | Python CLI utility and library for manipulating SQLite databases. |
+| [tensorflow](https://github.com/tensorflow/tensorflow) | An Open Source Machine Learning Framework for Everyone. |
+| [vaex](https://github.com/vaexio/vaex) | Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second. |
+| [vega lite](https://github.com/vega/vega-lite) | A concise grammar of interactive graphics, built on Vega. |
+| [xarray](https://github.com/pydata/xarray) | N-D labeled arrays and datasets in Python. |
+<!-- expansion-2026-11-11:end -->

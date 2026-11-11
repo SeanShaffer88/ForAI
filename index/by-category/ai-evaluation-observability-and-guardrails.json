@@ -620,5 +620,214 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-pyrit-af9afc6d9f0c",
+  "name": "PyRIT",
+  "url": "https://github.com/microsoft/PyRIT",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-turn attacks, and a web UI.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-superagent-68977bbe5779",
+  "name": "superagent",
+  "url": "https://github.com/superagent-ai/superagent",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ai-infra-guard-eb4215b71f1c",
+  "name": "AI Infra Guard",
+  "url": "https://github.com/Tencent/AI-Infra-Guard",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "mcp",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-promptmap-e2fb93a4c809",
+  "name": "promptmap",
+  "url": "https://github.com/utkusen/promptmap",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "a security scanner for custom LLM applications. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-agentdojo-befaa5a4e0e6",
+  "name": "agentdojo",
+  "url": "https://github.com/ethz-spylab/agentdojo",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langkit-749d3f1fe178",
+  "name": "langkit",
+  "url": "https://github.com/whylabs/langkit",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security. Features include text quality, relevance metrics, & sentiment analysis.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-presidio-9fe23b9bb350",
+  "name": "presidio",
+  "url": "https://github.com/data-privacy-stack/presidio",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langfuse-e34a29519fd9",
+  "name": "langfuse",
+  "url": "https://github.com/langfuse/langfuse",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opik-5282b93f3600",
+  "name": "opik",
+  "url": "https://github.com/comet-ml/opik",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-helicone-a079596e1806",
+  "name": "helicone",
+  "url": "https://github.com/Helicone/helicone",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-guardrails-b401a0113384",
+  "name": "guardrails",
+  "url": "https://github.com/guardrails-ai/guardrails",
+  "category_id": "ai-evaluation-observability-and-guardrails",
+  "purpose": "Adding guardrails to large language models.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems",
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

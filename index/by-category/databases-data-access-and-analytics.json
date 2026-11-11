@@ -1069,5 +1069,532 @@
    "linux",
    "windows"
   ]
+ },
+ {
+  "resource_id": "res-trino-5d720a95601d",
+  "name": "Trino",
+  "url": "https://github.com/trinodb/trino",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Distributed SQL query engine over lakehouse, relational, and object-storage sources. Powerful for federated analytics; requires a cluster and connector-specific knowledge.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-turso-database-7784e63738fe",
+  "name": "Turso Database",
+  "url": "https://github.com/tursodatabase/turso",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Rust rewrite of SQLite aiming for compatibility, with vector search and Postgres wire protocol as experimental work in progress. MIT; treat compatibility claims as target-state, not a drop-in guarantee.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "rust"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-typeorm-e3d872e70b6b",
+  "name": "typeorm",
+  "url": "https://github.com/typeorm/typeorm",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "javascript",
+   "typescript"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-knex-ba950ce2d848",
+  "name": "knex",
+  "url": "https://github.com/knex/knex",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-diesel-791401dc0bd3",
+  "name": "diesel",
+  "url": "https://github.com/diesel-rs/diesel",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "A safe, extensible ORM and Query Builder for Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "rust"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kysely-87c3cb784b0e",
+  "name": "kysely",
+  "url": "https://github.com/kysely-org/kysely",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "A type-safe TypeScript SQL query builder.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "typescript"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dbal-1835b0ad3018",
+  "name": "dbal",
+  "url": "https://github.com/doctrine/dbal",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Doctrine Database Abstraction Layer.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-asyncpg-515e3c67c98d",
+  "name": "asyncpg",
+  "url": "https://github.com/MagicStack/asyncpg",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "A fast PostgreSQL Database Client Library for Python/asyncio.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tortoise-orm-75d4b0a7a136",
+  "name": "tortoise orm",
+  "url": "https://github.com/tortoise/tortoise-orm",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Familiar asyncio ORM for python, built with relations in mind.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sql-studio-b9b8a3cefc78",
+  "name": "sql studio",
+  "url": "https://github.com/frectonz/sql-studio",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server].",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-heidisql-b7f1f931ed9f",
+  "name": "HeidiSQL",
+  "url": "https://github.com/HeidiSQL/HeidiSQL",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal. GPL-2.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chartdb-01b22da051a9",
+  "name": "chartdb",
+  "url": "https://github.com/chartdb/chartdb",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Database diagrams editor that allows you to visualize and design your DB with a single query. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-octosql-3013d3c03843",
+  "name": "octosql",
+  "url": "https://github.com/cube2222/octosql",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL. MPL-2.0: file-level copyleft; modified files must be published.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dbeaver-d34246fdc54f",
+  "name": "dbeaver",
+  "url": "https://github.com/dbeaver/dbeaver",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Free universal database tool and SQL client.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqlmap-3b9075714446",
+  "name": "sqlmap",
+  "url": "https://github.com/sqlmapproject/sqlmap",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Automatic SQL injection and database takeover tool. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "git"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-doris-d4023348e87e",
+  "name": "doris",
+  "url": "https://github.com/apache/doris",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dolt-2625972388a3",
+  "name": "dolt",
+  "url": "https://github.com/dolthub/dolt",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Dolt – Git for Data.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "git"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tidb-32401a992889",
+  "name": "tidb",
+  "url": "https://github.com/pingcap/tidb",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cockroach-64c83ada1b11",
+  "name": "cockroach",
+  "url": "https://github.com/cockroachdb/cockroach",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "data-science",
+   "database",
+   "git"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-postgres-5c0980cccdb9",
+  "name": "postgres",
+  "url": "https://github.com/postgres/postgres",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "git"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mongo-2df13c654804",
+  "name": "mongo",
+  "url": "https://github.com/mongodb/mongo",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "The MongoDB Database. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "git"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-neo4j-6d2f1bc90df5",
+  "name": "neo4j",
+  "url": "https://github.com/neo4j/neo4j",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Graphs for Everyone. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-questdb-dc5afd41e58b",
+  "name": "questdb",
+  "url": "https://github.com/questdb/questdb",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "QuestDB is a high performance, open-source, time-series database.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-drizzle-orm-15067e79d7c4",
+  "name": "drizzle orm",
+  "url": "https://github.com/drizzle-team/drizzle-orm",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "ORM.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sequelize-6cd02bc3824d",
+  "name": "sequelize",
+  "url": "https://github.com/sequelize/sequelize",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "javascript",
+   "typescript"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-postgres-porsager-e1a3bfd6e35b",
+  "name": "postgres (porsager)",
+  "url": "https://github.com/porsager/postgres",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "Postgres.js - The Fastest full featured PostgreSQL client.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-node-postgres-9af4d443317b",
+  "name": "node postgres",
+  "url": "https://github.com/brianc/node-postgres",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "PostgreSQL client for node.js.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "javascript"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gorm-de4993594db8",
+  "name": "gorm",
+  "url": "https://github.com/go-gorm/gorm",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "The fantastic ORM library for Golang, aims to be developer friendly.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "go"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "go"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ent-be17ef4d5955",
+  "name": "ent",
+  "url": "https://github.com/ent/ent",
+  "category_id": "databases-data-access-and-analytics",
+  "purpose": "An entity framework for Go.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

@@ -38,6 +38,8 @@ def group_for(category_id):
         return "data"
     if any(k in cid for k in ("design", "ui-", "accessibility")):
         return "design-ux"
+    if "foundations" in cid or "standards" in cid or "architecture" in cid:
+        return "foundations"
     if any(k in cid for k in ("language", "python-rust", "niche-language", "webassembly")):
         return "languages-runtimes"
     if any(k in cid for k in ("web-", "api-", "net-application", "integration-", "software-architecture")):

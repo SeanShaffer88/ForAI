@@ -1467,5 +1467,22 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-cosign-cb67396ab099",
+  "name": "Cosign",
+  "url": "https://github.com/sigstore/cosign",
+  "category_id": "security-identity-and-supply-chain",
+  "purpose": "Sign and verify container images and artifacts, with keyless OIDC signing and transparency-log evidence. Signature verification only proves provenance for keys you trust; define that policy first.",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "security"
+  ],
+  "use_cases": [
+   "assess-and-secure-systems"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

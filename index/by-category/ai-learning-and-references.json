@@ -396,5 +396,103 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-aitools-4c96329d079d",
+  "name": "Awesome AITools",
+  "url": "https://github.com/ikaijua/Awesome-AITools",
+  "category_id": "ai-learning-and-references",
+  "purpose": "This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together!",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-startup-56c73ade15d0",
+  "name": "awesome startup",
+  "url": "https://github.com/KrishMunot/awesome-startup",
+  "category_id": "ai-learning-and-references",
+  "purpose": "sunglasses: All the required resources to build your own startup.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-best-of-agent-harnesses-1cd7d9bea980",
+  "name": "best of Agent Harnesses",
+  "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ml-youtube-courses-560266044b1d",
+  "name": "ML YouTube Courses",
+  "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Discover the latest machine learning / AI courses on YouTube.",
+  "resource_type": "course",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-generative-ai-7273f0347d11",
+  "name": "generative ai",
+  "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-made-with-ml-5f8f39c72356",
+  "name": "Made With ML",
+  "url": "https://github.com/GokuMohandas/Made-With-ML",
+  "category_id": "ai-learning-and-references",
+  "purpose": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

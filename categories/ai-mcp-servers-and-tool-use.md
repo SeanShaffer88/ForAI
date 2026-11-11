@@ -87,3 +87,30 @@ Additional entries from a focused discovery pass; see the [full expansion and ev
 | [FileScopeMCP](https://github.com/admica/FileScopeMCP) | Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages such as Python, C, C++, Rust, Zig, Lua. |
 | [reloaderoo](https://github.com/cameroncooke/reloaderoo) | Powerful MCP debugging proxy and CLI inspection tool. |
 | [mcp-trino](https://github.com/tuannvm/mcp-trino) | A high-performance Model Context Protocol (MCP) server for Trino implemented in Go. |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Context7](https://github.com/upstash/context7) | MCP server and service that injects version-specific library documentation into coding assistants. Hosted service with self-host option; verify docs freshness and data-handling terms. |
+<!-- expansion-2026-11-10:end -->
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [exa mcp server](https://github.com/exa-labs/exa-mcp-server) | Exa MCP for web search and web crawling! |
+| [excel mcp server](https://github.com/haris-musa/excel-mcp-server) | Excel MCP server: let AI (Claude, Cursor, Codex) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required. |
+| [firecrawl mcp server](https://github.com/firecrawl/firecrawl-mcp-server) | Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and Monitor, from any MCP client. |
+| [mcp](https://github.com/BrowserMCP/mcp) | Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser. |
+| [mcp for beginners](https://github.com/microsoft/mcp-for-beginners) | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. |
+| [mcpo](https://github.com/open-webui/mcpo) | A simple, secure MCP-to-OpenAPI proxy server. |
+| [n8n mcp](https://github.com/czlonkowski/n8n-mcp) | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you. |
+| [zotero mcp](https://github.com/54yyyu/zotero-mcp) | Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more. |
+<!-- expansion-2026-11-11:end -->

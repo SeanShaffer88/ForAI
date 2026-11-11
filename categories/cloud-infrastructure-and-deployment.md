@@ -102,3 +102,50 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [swoft](https://github.com/swoft-cloud/swoft) | 🚀 PHP Microservice Full Coroutine Framework |
 | [spin](https://github.com/spinframework/spin) | Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. |
 | [favbox](https://github.com/dd3v/favbox) | 🔖 FavBox is a local-first experimental browser extension that enhances and simplifies bookmark management without cloud storage or third-party services. |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Backstage](https://github.com/backstage/backstage) | Framework for internal developer portals: software catalog, templates, and docs with plugins. Powerful and heavy; budget for upgrade churn and a dedicated owner. |
+| [Dokploy](https://github.com/Dokploy/dokploy) | Self-hosted PaaS for deploying apps and databases over Docker with backups and a UI. Source is Apache-2.0 with a proprietary directory; read the license before offering it as a service. |
+| [Encore](https://github.com/encoredev/encore) | Go/TypeScript backend framework and CLI that derives infrastructure from application code and provisions it locally or in your cloud. MPL-2.0; it is an opinionated platform, not a library you adopt partially. |
+| [flyctl](https://github.com/superfly/flyctl) | CLI for deploying and operating apps and machines on Fly.io. Hosted platform with account and billing requirements; keep deployment state out of repositories. |
+| [SST](https://github.com/sst/sst) | TypeScript framework for deploying full-stack apps on your own cloud account, now centered on its own infra primitives. Fast iteration; check which version and provider model the docs describe. |
+<!-- expansion-2026-11-10:end -->
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [chalice](https://github.com/aws/chalice) | Python Serverless Microframework for AWS. |
+| [compose](https://github.com/docker/compose) | Define and run multi-container applications with Docker. |
+| [containerd](https://github.com/containerd/containerd) | An open and reliable container runtime. |
+| [devspace](https://github.com/devspace-sh/devspace) | DevSpace - The Fastest Developer Tool for Kubernetes Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. |
+| [dockge](https://github.com/louislam/dockge) | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager. |
+| [dozzle](https://github.com/amir20/dozzle) | Realtime log viewer for containers. Supports Docker, Swarm and K8s. |
+| [faas](https://github.com/openfaas/faas) | OpenFaaS - Serverless Functions Made Simple. License not detected by GitHub; check the repository license before use. |
+| [fission](https://github.com/fission/fission) | Fast and Simple Serverless Functions for Kubernetes. |
+| [functions samples](https://github.com/firebase/functions-samples) | Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase. |
+| [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes. |
+| [ko](https://github.com/ko-build/ko) | Build and deploy Go applications. |
+| [kubeedge](https://github.com/kubeedge/kubeedge) | Kubernetes Native Edge Computing Framework (project under CNCF). |
+| [kubernetes goat](https://github.com/madhuakula/kubernetes-goat) | Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground. |
+| [linkding](https://github.com/sissbruecker/linkding) | Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. |
+| [moby](https://github.com/moby/moby) | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems. |
+| [nginx](https://github.com/nginx/nginx) | The official NGINX Open Source repository. |
+| [nuclio](https://github.com/nuclio/nuclio) | High-Performance Serverless event and data processing platform. |
+| [pipeline](https://github.com/tektoncd/pipeline) | A cloud-native Pipeline resource. |
+| [podman desktop](https://github.com/podman-desktop/podman-desktop) | Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage,. |
+| [rancher](https://github.com/rancher/rancher) | Complete container management platform. |
+| [serverless application model](https://github.com/aws/serverless-application-model) | The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates. |
+| [serving](https://github.com/knative/serving) | Kubernetes-based, scale-to-zero, request-driven compute. |
+| [traefik](https://github.com/traefik/traefik) | The Cloud Native Application Proxy. |
+| [workers sdk](https://github.com/cloudflare/workers-sdk) | Home to Wrangler, the CLI for Cloudflare Workers®. |
+<!-- expansion-2026-11-11:end -->

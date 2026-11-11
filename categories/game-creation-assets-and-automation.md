@@ -59,3 +59,44 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [ezEngine](https://github.com/ezEngine/ezEngine) | An open source C++ game engine. |
 | [nCine](https://github.com/nCine/nCine) | A cross-platform 2D game engine |
 | [game-datasets](https://github.com/leomaurodesenv/game-datasets) | :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Blender](https://github.com/blender/blender) | 3D modeling, animation, and asset pipeline with a Python API and glTF/FBX export. GPL for the application; exported assets remain yours, but bundled add-ons have their own terms. |
+<!-- expansion-2026-11-10:end -->
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [awesome bevy](https://github.com/bevyengine/bevy-assets) | A collection of Bevy assets, plugins, learning resources, and apps made by the community. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [awesome godot](https://github.com/Calinou/awesome-godot) | A curated list of free/libre plugins, scripts and add-ons for Godot. |
+| [beehave](https://github.com/bitbrain/beehave) | behavior tree AI for Godot Engine. |
+| [bullet3](https://github.com/bulletphysics/bullet3) | Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. License not detected by GitHub; check the repository license before use. |
+| [dialogic](https://github.com/dialogic-godot/dialogic) | Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game! |
+| [entt](https://github.com/skypjack/entt) | Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more. |
+| [FNA](https://github.com/FNA-XNA/FNA) | FNA - Accuracy-focused XNA4 reimplementation for open platforms. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [FXGL](https://github.com/AlmasB/FXGL) | Java / JavaFX / Kotlin Game Library (Engine). |
+| [GameDev Resources](https://github.com/Kavex/GameDev-Resources) | video_game: :game_die: A wonderful list of Game Development resources. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [GameFramework](https://github.com/EllanJiang/GameFramework) | This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process,. |
+| [godot demo projects](https://github.com/godotengine/godot-demo-projects) | Demonstration and Template Projects. |
+| [godot jolt](https://github.com/godot-jolt/godot-jolt) | Godot Jolt is a Godot extension that integrates the Jolt physics engine. |
+| [libgdx](https://github.com/libgdx/libgdx) | Desktop/Android/HTML5/iOS Java game development framework. |
+| [love](https://github.com/love2d/love) | LÖVE is an awesome 2D game framework for Lua. License not detected by GitHub; check the repository license before use. |
+| [macroquad](https://github.com/not-fl3/macroquad) | Cross-platform game engine in Rust. |
+| [magictools](https://github.com/ellisonleao/magictools) | video_game: :pencil: A list of Game Development resources to make magic happen. |
+| [MonoGame](https://github.com/MonoGame/MonoGame) | One framework for creating powerful cross-platform games. License not detected by GitHub; check the repository license before use. |
+| [PankuConsole](https://github.com/Ark2000/PankuConsole) | Feature-packed real-time debugging toolkit for Godot Engine. |
+| [QFramework](https://github.com/liangxiegame/QFramework) | Godot/Unity3D System Design Architecture. |
+| [redot engine](https://github.com/Redot-Engine/redot-engine) | Redot Engine – Multi-platform 2D and 3D game engine. |
+| [Terrain3D](https://github.com/TokisanGames/Terrain3D) | A high performance, editable terrain system for Godot 4. |
+| [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) | Unity C# reference source code. License not detected by GitHub; check the repository license before use. |
+<!-- expansion-2026-11-11:end -->

@@ -1144,5 +1144,313 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-seleniumbase-2b0896dea537",
+  "name": "SeleniumBase",
+  "url": "https://github.com/seleniumbase/SeleniumBase",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Python APIs for web automation, testing, and bypassing bot-detection.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-serenity-js-eed72ace5036",
+  "name": "serenity js",
+  "url": "https://github.com/serenity-js/serenity-js",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "browser-automation",
+   "testing",
+   "typescript"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-puppeteer-f2c885e49fe9",
+  "name": "puppeteer",
+  "url": "https://github.com/puppeteer/puppeteer",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "JavaScript API for Chrome and Firefox.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "browser-automation",
+   "javascript",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-karma-6a3817b206f9",
+  "name": "karma",
+  "url": "https://github.com/karma-runner/karma",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Spectacular Test Runner for JavaScript.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-testng-f30fbc775cc5",
+  "name": "testng",
+  "url": "https://github.com/testng-team/testng",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "TestNG testing framework.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-junit5-a7a040560a94",
+  "name": "junit5",
+  "url": "https://github.com/junit-team/junit-framework",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "The programmer-friendly testing framework for Java and the JVM.",
+  "resource_type": "repository",
+  "topics": [
+   "java",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mockito-15b692515881",
+  "name": "mockito",
+  "url": "https://github.com/mockito/mockito",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Most popular Mocking framework for unit tests written in Java.",
+  "resource_type": "repository",
+  "topics": [
+   "java",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-doctest-ef1f9499e2c5",
+  "name": "doctest",
+  "url": "https://github.com/doctest/doctest",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "The fastest feature-rich C++11/14/17/20/23 single-header testing framework.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ava-9c109573050d",
+  "name": "ava",
+  "url": "https://github.com/avajs/ava",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Node.js test runner that lets you develop with confidence.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jmeter-9c2bfd025bd4",
+  "name": "jmeter",
+  "url": "https://github.com/apache/jmeter",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hey-992653095a15",
+  "name": "hey",
+  "url": "https://github.com/rakyll/hey",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "HTTP load generator, ApacheBench (ab) replacement.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-allure2-1c9bf172807e",
+  "name": "allure2",
+  "url": "https://github.com/allure-framework/allure2",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testi…",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reportportal-72e225eedd2c",
+  "name": "reportportal",
+  "url": "https://github.com/reportportal/reportportal",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Main Repository. ReportPortal starts here - see readme below.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-testcontainers-java-0916e61104e4",
+  "name": "testcontainers java",
+  "url": "https://github.com/testcontainers/testcontainers-java",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+  "resource_type": "repository",
+  "topics": [
+   "browser-automation",
+   "containers",
+   "java",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-testcontainers-python-be71c8182572",
+  "name": "testcontainers python",
+  "url": "https://github.com/testcontainers/testcontainers-python",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "containers",
+   "python",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-karate-22d2caa1bb58",
+  "name": "karate",
+  "url": "https://github.com/karatelabs/karate",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Test Automation Made Simple.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-newman-347b419e4261",
+  "name": "newman",
+  "url": "https://github.com/postmanlabs/newman",
+  "category_id": "test-automation-and-quality-engineering",
+  "purpose": "Newman is a command-line collection runner for Postman.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

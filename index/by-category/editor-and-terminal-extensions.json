@@ -1,0 +1,298 @@
+[
+ {
+  "resource_id": "res-lazyvim-202aa0cdb072",
+  "name": "LazyVim",
+  "url": "https://github.com/LazyVim/LazyVim",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Neovim config for the lazy.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lazy-nvim-90bfe657baf0",
+  "name": "lazy.nvim",
+  "url": "https://github.com/folke/lazy.nvim",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "A modern plugin manager for Neovim.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-telescope-nvim-e1b0ffe40632",
+  "name": "telescope.nvim",
+  "url": "https://github.com/nvim-telescope/telescope.nvim",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Find, Filter, Preview, Pick. All lua, all the time.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nvim-treesitter-6a36f9d59828",
+  "name": "nvim treesitter",
+  "url": "https://github.com/nvim-treesitter/nvim-treesitter",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Nvim Treesitter configurations and abstraction layer.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-coc-nvim-868d9998b1cd",
+  "name": "coc.nvim",
+  "url": "https://github.com/neoclide/coc.nvim",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vim-plug-e75b099481bd",
+  "name": "vim plug",
+  "url": "https://github.com/junegunn/vim-plug",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "hibiscus: Minimalist Vim Plugin Manager.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ale-8e03df7eb121",
+  "name": "ale",
+  "url": "https://github.com/dense-analysis/ale",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nvchad-9c78c2134e2a",
+  "name": "NvChad",
+  "url": "https://github.com/NvChad/NvChad",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-neovim-97727ea87067",
+  "name": "awesome neovim",
+  "url": "https://github.com/rockerBOO/awesome-neovim",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Collections of awesome neovim plugins.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vim-galore-88559b919f51",
+  "name": "vim galore",
+  "url": "https://github.com/mhinz/vim-galore",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "mortar_board: All things Vim!",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-emacs-1e1b497525f8",
+  "name": "awesome emacs",
+  "url": "https://github.com/emacs-tw/awesome-emacs",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "A community driven list of useful Emacs packages, libraries and other items.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spacemacs-4bc08eeb29e0",
+  "name": "spacemacs",
+  "url": "https://github.com/syl20bnr/spacemacs",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim! GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lsp-mode-1cb6eeef2fbe",
+  "name": "lsp mode",
+  "url": "https://github.com/emacs-lsp/lsp-mode",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Emacs client/library for the Language Server Protocol. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-oil-nvim-85d37752880b",
+  "name": "oil.nvim",
+  "url": "https://github.com/stevearc/oil.nvim",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Neovim file explorer: edit your filesystem like a buffer.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-codetour-f0e8b17c76e5",
+  "name": "codetour",
+  "url": "https://github.com/microsoft/codetour",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vim-ab693c5e6941",
+  "name": "vim",
+  "url": "https://github.com/vim/vim",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "The official Vim repository.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zellij-716777f66d88",
+  "name": "zellij",
+  "url": "https://github.com/zellij-org/zellij",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "A terminal workspace with batteries included.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ohmyzsh-8e5dbaa97155",
+  "name": "ohmyzsh",
+  "url": "https://github.com/ohmyzsh/ohmyzsh",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc),.",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "git",
+   "php",
+   "python"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "php",
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nerd-fonts-eb2746c49e80",
+  "name": "nerd fonts",
+  "url": "https://github.com/ryanoasis/nerd-fonts",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-glow-e7063873beba",
+  "name": "glow",
+  "url": "https://github.com/charmbracelet/glow",
+  "category_id": "editor-and-terminal-extensions",
+  "purpose": "Render markdown on the CLI, with pizzazz!",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

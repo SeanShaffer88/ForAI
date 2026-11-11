@@ -1227,5 +1227,498 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-dokploy-1f488e2a1e3c",
+  "name": "Dokploy",
+  "url": "https://github.com/Dokploy/dokploy",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Self-hosted PaaS for deploying apps and databases over Docker with backups and a UI. Source is Apache-2.0 with a proprietary directory; read the license before offering it as a service.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sst-199171bf02f2",
+  "name": "SST",
+  "url": "https://github.com/sst/sst",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "TypeScript framework for deploying full-stack apps on your own cloud account, now centered on its own infra primitives. Fast iteration; check which version and provider model the docs describe.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "typescript"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-encore-a0bd27d2a1a0",
+  "name": "Encore",
+  "url": "https://github.com/encoredev/encore",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Go/TypeScript backend framework and CLI that derives infrastructure from application code and provisions it locally or in your cloud. MPL-2.0; it is an opinionated platform, not a library you adopt partially.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "typescript"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flyctl-20277423e57f",
+  "name": "flyctl",
+  "url": "https://github.com/superfly/flyctl",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "CLI for deploying and operating apps and machines on Fly.io. Hosted platform with account and billing requirements; keep deployment state out of repositories.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-backstage-7d5af0654224",
+  "name": "Backstage",
+  "url": "https://github.com/backstage/backstage",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Framework for internal developer portals: software catalog, templates, and docs with plugins. Powerful and heavy; budget for upgrade churn and a dedicated owner.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-podman-desktop-fb14ea9fd68b",
+  "name": "podman desktop",
+  "url": "https://github.com/podman-desktop/podman-desktop",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage,.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "desktop"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dockge-4cd6b11feed9",
+  "name": "dockge",
+  "url": "https://github.com/louislam/dockge",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dozzle-b8590f05667d",
+  "name": "dozzle",
+  "url": "https://github.com/amir20/dozzle",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Realtime log viewer for containers. Supports Docker, Swarm and K8s.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-serving-265ae2e66c8e",
+  "name": "serving",
+  "url": "https://github.com/knative/serving",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Kubernetes-based, scale-to-zero, request-driven compute.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nuclio-0e0e8f87c632",
+  "name": "nuclio",
+  "url": "https://github.com/nuclio/nuclio",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "High-Performance Serverless event and data processing platform.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubeedge-f6fdb4585333",
+  "name": "kubeedge",
+  "url": "https://github.com/kubeedge/kubeedge",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Kubernetes Native Edge Computing Framework (project under CNCF).",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fission-bdae83c5f641",
+  "name": "fission",
+  "url": "https://github.com/fission/fission",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Fast and Simple Serverless Functions for Kubernetes.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubernetes-goat-f05de354a089",
+  "name": "kubernetes goat",
+  "url": "https://github.com/madhuakula/kubernetes-goat",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Kubernetes Goat is a \"Vulnerable by Design\" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-devspace-13f4c4d3d474",
+  "name": "devspace",
+  "url": "https://github.com/devspace-sh/devspace",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "DevSpace - The Fastest Developer Tool for Kubernetes Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ko-2b37fdc20bce",
+  "name": "ko",
+  "url": "https://github.com/ko-build/ko",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Build and deploy Go applications.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-compose-4824f45fa7af",
+  "name": "compose",
+  "url": "https://github.com/docker/compose",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Define and run multi-container applications with Docker.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-moby-6cedb4e7bbb3",
+  "name": "moby",
+  "url": "https://github.com/moby/moby",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-containerd-e5ea7d2c70d7",
+  "name": "containerd",
+  "url": "https://github.com/containerd/containerd",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "An open and reliable container runtime.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-k3s-9263cee03754",
+  "name": "k3s",
+  "url": "https://github.com/k3s-io/k3s",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Lightweight Kubernetes.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rancher-ce0d07ce2c85",
+  "name": "rancher",
+  "url": "https://github.com/rancher/rancher",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Complete container management platform.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chalice-2b30f9a4dba2",
+  "name": "chalice",
+  "url": "https://github.com/aws/chalice",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Python Serverless Microframework for AWS.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-serverless-application-model-194a7156e239",
+  "name": "serverless application model",
+  "url": "https://github.com/aws/serverless-application-model",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-functions-samples-a5385512b764",
+  "name": "functions samples",
+  "url": "https://github.com/firebase/functions-samples",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-linkding-ab3077976563",
+  "name": "linkding",
+  "url": "https://github.com/sissbruecker/linkding",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-workers-sdk-064b830d3e6b",
+  "name": "workers sdk",
+  "url": "https://github.com/cloudflare/workers-sdk",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "Home to Wrangler, the CLI for Cloudflare Workers®.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-traefik-86dcc5c0313f",
+  "name": "traefik",
+  "url": "https://github.com/traefik/traefik",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "The Cloud Native Application Proxy.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nginx-e6a0f0a7e5cb",
+  "name": "nginx",
+  "url": "https://github.com/nginx/nginx",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "The official NGINX Open Source repository.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-faas-6a5d2c552cbd",
+  "name": "faas",
+  "url": "https://github.com/openfaas/faas",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "OpenFaaS - Serverless Functions Made Simple. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pipeline-61cccec78891",
+  "name": "pipeline",
+  "url": "https://github.com/tektoncd/pipeline",
+  "category_id": "cloud-infrastructure-and-deployment",
+  "purpose": "A cloud-native Pipeline resource.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

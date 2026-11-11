@@ -370,5 +370,469 @@
    "php"
   ],
   "platforms": []
+ },
+ {
+  "resource_id": "res-seatunnel-e75cc7c1e79f",
+  "name": "seatunnel",
+  "url": "https://github.com/apache/seatunnel",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kafka-b2ab9813e5b8",
+  "name": "kafka",
+  "url": "https://github.com/apache/kafka",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Apache Kafka - A distributed event streaming platform.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-redpanda-42adee1c53f3",
+  "name": "redpanda",
+  "url": "https://github.com/redpanda-data/redpanda",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-schema-registry-bdf98a4ce7a3",
+  "name": "schema registry",
+  "url": "https://github.com/confluentinc/schema-registry",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Confluent Schema Registry for Kafka. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rabbitmq-server-38398aaf58f2",
+  "name": "rabbitmq server",
+  "url": "https://github.com/rabbitmq/rabbitmq-server",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Open source RabbitMQ: core server and tier 1 (built-in) plugins. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nats-server-ef8ec9cd07e3",
+  "name": "nats server",
+  "url": "https://github.com/nats-io/nats-server",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nsq-b30add69f32d",
+  "name": "nsq",
+  "url": "https://github.com/nsqio/nsq",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "A realtime distributed messaging platform.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pulsar-1bbb15d84f2e",
+  "name": "pulsar",
+  "url": "https://github.com/apache/pulsar",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Apache Pulsar - distributed pub-sub messaging system.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-activemq-8e76e64c77e5",
+  "name": "activemq",
+  "url": "https://github.com/apache/activemq",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Apache ActiveMQ.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elasticsearch-fa0a0d0f29d9",
+  "name": "elasticsearch",
+  "url": "https://github.com/elastic/elasticsearch",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Free and Open Source, Distributed, RESTful Search Engine. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-typesense-48d19f2a368c",
+  "name": "typesense",
+  "url": "https://github.com/typesense/typesense",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-quickwit-9c26f9cba0bc",
+  "name": "quickwit",
+  "url": "https://github.com/quickwit-oss/quickwit",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Cloud-native OSS search engine for observability.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "observability"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tantivy-f7956116f43e",
+  "name": "tantivy",
+  "url": "https://github.com/quickwit-oss/tantivy",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "rust"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-solr-98af2e7858a6",
+  "name": "solr",
+  "url": "https://github.com/apache/solr",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Apache Solr open-source search software.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vespa-51fa7771614f",
+  "name": "vespa",
+  "url": "https://github.com/vespa-engine/vespa",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "The AI search platform.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cadence-a95d72d96f75",
+  "name": "cadence",
+  "url": "https://github.com/cadence-workflow/cadence",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-conductor-b7c59b690129",
+  "name": "conductor",
+  "url": "https://github.com/Netflix/conductor",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Conductor is a microservices orchestration engine.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-conductor-conductor-oss-ebde56295ddf",
+  "name": "conductor (conductor-oss)",
+  "url": "https://github.com/conductor-oss/conductor",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-restate-88ee1060b854",
+  "name": "restate",
+  "url": "https://github.com/restatedev/restate",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-camunda-46f0b1e5d888",
+  "name": "camunda",
+  "url": "https://github.com/camunda/camunda",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Agentic Orchestration Platform. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zeebe-c1360fa262a5",
+  "name": "zeebe",
+  "url": "https://github.com/camunda/camunda",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Agentic Orchestration Platform. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flowable-engine-20c0f33cfa10",
+  "name": "flowable engine",
+  "url": "https://github.com/flowable/flowable-engine",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-activiti-4d181a32ef0f",
+  "name": "Activiti",
+  "url": "https://github.com/Activiti/Activiti",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java.",
+  "resource_type": "repository",
+  "topics": [
+   "java"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bull-a7f95d3302ab",
+  "name": "bull",
+  "url": "https://github.com/OptimalBits/bull",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Premium Queue package for handling distributed jobs and messages in NodeJS. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "javascript"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sidekiq-a977db304940",
+  "name": "sidekiq",
+  "url": "https://github.com/sidekiq/sidekiq",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Simple, efficient background processing for Ruby. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "ruby"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-resque-07e51a0f867a",
+  "name": "resque",
+  "url": "https://github.com/resque/resque",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "ruby"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "ruby"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rq-dd57cb0e71db",
+  "name": "rq",
+  "url": "https://github.com/rq/rq",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Simple job queues for Python. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-river-66398ad69dad",
+  "name": "river",
+  "url": "https://github.com/riverqueue/river",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite. MPL-2.0: file-level copyleft; modified files must be published.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "java",
+   "ruby",
+   "rust"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "java",
+   "ruby",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-asynq-050533f31d2b",
+  "name": "asynq",
+  "url": "https://github.com/hibiken/asynq",
+  "category_id": "search-messaging-and-durable-work",
+  "purpose": "Simple, reliable, and efficient distributed task queue in Go.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

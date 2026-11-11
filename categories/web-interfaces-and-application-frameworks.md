@@ -118,3 +118,14 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [AI-Gist](https://github.com/yarin-zhang/AI-Gist) | ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。 |
 | [vue3-easy-data-table](https://github.com/HC200ok/vue3-easy-data-table) | A customizable and easy-to-use data table component made with Vue.js 3.x |
 | [vue-request](https://github.com/AttoJS/vue-request) | ⚡️ This is a library that can easily help you manage request states, supporting common features such as SWR, polling, error retry, caching, and pagination, etc. ⚡️ 这是一个能够轻松帮助你管理请求状态的库，支持 SWR、轮询、错误重试、缓存、分页等常用功能。 |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Can I use](https://caniuse.com/) | Browser support tables for HTML, CSS, and Web API features with notes and known issues. Data is sourced from browser vendors and maintained by contributors; confirm critical features against target browsers. |
+| [web.dev](https://web.dev/) | Guidance from the Chrome team on Core Web Vitals, performance, accessibility, and modern web APIs. Authoritative for Chrome behavior; cross-check Safari and Firefox compatibility before relying on a feature. |
+<!-- expansion-2026-11-10:end -->

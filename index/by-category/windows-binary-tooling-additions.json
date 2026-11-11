@@ -91,5 +91,77 @@
   "platforms": [
    "windows"
   ]
+ },
+ {
+  "resource_id": "res-imhex-1642a74831cd",
+  "name": "ImHex",
+  "url": "https://github.com/WerWolv/ImHex",
+  "category_id": "windows-binary-tooling-additions",
+  "purpose": "Hex editor for reverse engineers with a pattern language, data inspectors, and binary diffing. GPL-2.0; useful for structure discovery before writing parsers.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-detect-it-easy-die-23744596eb70",
+  "name": "Detect It Easy (DIE)",
+  "url": "https://github.com/horsicq/DIE-engine",
+  "category_id": "windows-binary-tooling-additions",
+  "purpose": "Signature and heuristic detection for packers, compilers, and file formats. Good first triage on unknown binaries; signatures need maintenance to stay current.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-radare2-f8c3235ccc09",
+  "name": "radare2",
+  "url": "https://github.com/radareorg/radare2",
+  "category_id": "windows-binary-tooling-additions",
+  "purpose": "Reverse-engineering framework and CLI toolset for disassembly, analysis, and binary patching. Steep learning curve; license mixes LGPL components with the project's own terms.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-dnspyex-c385291e20d4",
+  "name": "dnSpyEx",
+  "url": "https://github.com/dnSpyEx/dnSpy",
+  "category_id": "windows-binary-tooling-additions",
+  "purpose": "Community revival of the .NET debugger and assembly editor: decompile, edit, and debug IL. GPL-3.0; validate output against original assemblies and never patch third-party binaries you lack rights to.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
  }
 ]

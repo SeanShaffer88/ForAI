@@ -180,5 +180,248 @@
   "platforms": [
    "windows"
   ]
+ },
+ {
+  "resource_id": "res-d3d12memoryallocator-0634c534c4e2",
+  "name": "D3D12MemoryAllocator",
+  "url": "https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator",
+  "category_id": "windows-graphics",
+  "purpose": "Easy to integrate memory allocation library for Direct3D 12.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-computesharp-2ca09bf03bab",
+  "name": "ComputeSharp",
+  "url": "https://github.com/Sergio0694/ComputeSharp",
+  "category_id": "windows-graphics",
+  "purpose": "A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers!",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-vqengine-4de8f29f0278",
+  "name": "VQEngine",
+  "url": "https://github.com/vilbeyli/VQEngine",
+  "category_id": "windows-graphics",
+  "purpose": "Multi-threaded DirectX12 renderer w/ HDR, PBR & Multi-monitor support. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-directx-graphics-samples-9997a85241b5",
+  "name": "DirectX Graphics Samples",
+  "url": "https://github.com/microsoft/DirectX-Graphics-Samples",
+  "category_id": "windows-graphics",
+  "purpose": "This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-vulkanmemoryallocator-e329bb307bab",
+  "name": "VulkanMemoryAllocator",
+  "url": "https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator",
+  "category_id": "windows-graphics",
+  "purpose": "Easy to integrate Vulkan memory allocation library.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-vulkan-headers-40708c552aeb",
+  "name": "Vulkan Headers",
+  "url": "https://github.com/KhronosGroup/Vulkan-Headers",
+  "category_id": "windows-graphics",
+  "purpose": "Vulkan header files and API registry. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-hlsl-specs-2167496ccc1a",
+  "name": "hlsl specs",
+  "url": "https://github.com/microsoft/hlsl-specs",
+  "category_id": "windows-graphics",
+  "purpose": "HLSL Specifications.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-d3d12translationlayer-923eefdb5402",
+  "name": "D3D12TranslationLayer",
+  "url": "https://github.com/microsoft/D3D12TranslationLayer",
+  "category_id": "windows-graphics",
+  "purpose": "A library containing utilities for mapping higher-level graphics work to D3D12.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-amf-6c7e68185482",
+  "name": "AMF",
+  "url": "https://github.com/GPUOpen-LibrariesAndSDKs/AMF",
+  "category_id": "windows-graphics",
+  "purpose": "The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-cuda-samples-67abc908c320",
+  "name": "cuda samples",
+  "url": "https://github.com/NVIDIA/cuda-samples",
+  "category_id": "windows-graphics",
+  "purpose": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-tensorrt-54bfa15162ba",
+  "name": "TensorRT",
+  "url": "https://github.com/NVIDIA/TensorRT",
+  "category_id": "windows-graphics",
+  "purpose": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-gdk-1ad642f5d864",
+  "name": "GDK",
+  "url": "https://github.com/microsoft/GDK",
+  "category_id": "windows-graphics",
+  "purpose": "Microsoft Public GDK. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-xbox-gdk-samples-e2e1e5c99b45",
+  "name": "Xbox GDK Samples",
+  "url": "https://github.com/microsoft/Xbox-GDK-Samples",
+  "category_id": "windows-graphics",
+  "purpose": "Game development samples published by the Xbox Advanced Technology Group using the Microsoft GDK.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
  }
 ]

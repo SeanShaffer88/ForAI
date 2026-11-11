@@ -746,5 +746,263 @@
   "platforms": [
    "web"
   ]
+ },
+ {
+  "resource_id": "res-domain-driven-hexagon-2b16da91210a",
+  "name": "domain driven hexagon",
+  "url": "https://github.com/Sairyss/domain-driven-hexagon",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-architecture-35609afdd5ac",
+  "name": "awesome architecture",
+  "url": "https://github.com/study8677/awesome-architecture",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-design",
+   "api-integration",
+   "architecture",
+   "end-to-end-testing"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-systemizer-69f583bbc45f",
+  "name": "Systemizer",
+  "url": "https://github.com/honzaap/Systemizer",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "A system design tool that allows you to simulate data flow of distributed systems. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-system-design-primer-1a93fd013e40",
+  "name": "system design primer",
+  "url": "https://github.com/donnemartin/system-design-primer",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "git"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-system-design-2c41fe498e46",
+  "name": "system design",
+  "url": "https://github.com/karanpratapsingh/system-design",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Learn how to design systems at scale and prepare for system design interviews. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "git"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-software-architecture-books-ea66076efb1c",
+  "name": "software architecture books",
+  "url": "https://github.com/mhadidg/software-architecture-books",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "A comprehensive list of books on Software Architecture. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-software-architecture-e3e7a447eb79",
+  "name": "awesome software architecture",
+  "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
+  "resource_type": "curated-list",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-modular-monolith-with-ddd-bbc9f8771497",
+  "name": "modular monolith with ddd",
+  "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Full Modular Monolith application with Domain-Driven Design approach.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-clean-code-dotnet-4e775b87c155",
+  "name": "clean code dotnet",
+  "url": "https://github.com/thangchung/clean-code-dotnet",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "bathtub: Clean Code concepts and tools adapted for .NET.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cola-2516932459a0",
+  "name": "COLA",
+  "url": "https://github.com/alibaba/COLA",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "COLA: Clean Object-oriented & Layered Architecture. LGPL-2.1: dynamic linking is permitted, static linking has obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-library-c9a5f497c43a",
+  "name": "library",
+  "url": "https://github.com/ddd-by-examples/library",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-eventuate-tram-core-beec475583e0",
+  "name": "eventuate tram core",
+  "url": "https://github.com/eventuate-tram/eventuate-tram-core",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Transactional messaging for microservices. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "git"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aip-d42618376bbc",
+  "name": "aip",
+  "url": "https://github.com/aip-dev/google.aip.dev",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "API Improvement Proposals. https://aip.dev/. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture",
+   "git"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-smithy-0d0a56b32594",
+  "name": "smithy",
+  "url": "https://github.com/smithy-lang/smithy",
+  "category_id": "software-architecture-and-api-design-patterns",
+  "purpose": "Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "architecture"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

@@ -136,3 +136,54 @@ Additional entries from a focused discovery pass; see the [full expansion and ev
 | [restler](https://github.com/danwrong/restler) | REST client library for node.js |
 | [unirest-nodejs](https://github.com/Kong/unirest-nodejs) | Unirest in Node.js: Simplified, lightweight HTTP client library. |
 | [rest-hapi](https://github.com/JKHeadley/rest-hapi) | 🚀 A RESTful API generator for Node.js |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-source API client for REST, GraphQL, WebSocket, SSE, and MQTT in the browser or self-hosted. Test and debug requests without an account depending on deployment; check self-hosted feature limits. |
+| [Mockoon](https://github.com/mockoon/mockoon) | Desktop and CLI mock servers defined from OpenAPI or hand-built routes, with templating and proxy mode. Useful for offline and CI work where hosted mocks are not acceptable. |
+| [xh](https://github.com/ducaale/xh) | Fast HTTP client CLI with HTTPie-style syntax, translating to familiar curl-like flags. Small single binary for scripts and containers; check auth and multipart coverage against your needs. |
+<!-- expansion-2026-11-10:end -->
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [apollo client](https://github.com/apollographql/apollo-client) | The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development. |
+| [apollo server](https://github.com/apollographql/apollo-server) | Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more. |
+| [async graphql](https://github.com/async-graphql/async-graphql) | A GraphQL server library implemented in Rust. |
+| [axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js. |
+| [federation](https://github.com/apollographql/federation) | Build and scale a single data graph across multiple services with Apollo's federation gateway. License not detected by GitHub; check the repository license before use. |
+| [go swagger](https://github.com/go-swagger/go-swagger) | Swagger 2.0 implementation for go. |
+| [googleapis](https://github.com/googleapis/googleapis) | Public interface definitions of Google APIs. |
+| [got](https://github.com/sindresorhus/got) | Human-friendly and powerful HTTP request library for Node.js. |
+| [gqlgen](https://github.com/99designs/gqlgen) | go generate based graphql server library. |
+| [graphql apis](https://github.com/APIs-guru/graphql-apis) | A collective list of public GraphQL APIs. |
+| [graphql js](https://github.com/graphql/graphql-js) | A reference implementation of GraphQL for JavaScript. |
+| [graphql mesh](https://github.com/ardatan/graphql-mesh) | GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more... |
+| [graphql spec](https://github.com/graphql/graphql-spec) | GraphQL is a query language and execution engine tied to any backend service. License not detected by GitHub; check the repository license before use. |
+| [graphql tools](https://github.com/ardatan/graphql-tools) | wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach. |
+| [graphql voyager](https://github.com/APIs-guru/graphql-voyager) | Represent any GraphQL API as an interactive graph. |
+| [graphql yoga](https://github.com/graphql-hive/graphql-yoga) | Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience. The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment. |
+| [grpc go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC. |
+| [grpc java](https://github.com/grpc/grpc-java) | The Java gRPC implementation. HTTP/2 based RPC. |
+| [kin openapi](https://github.com/getkin/kin-openapi) | OpenAPI 3.0 and 3.1 and 3.2 (and Swagger v2) implementation for Go (parsing, converting, validation, and more). |
+| [node fetch](https://github.com/node-fetch/node-fetch) | A light-weight module that brings the Fetch API to Node.js. |
+| [openapi diff](https://github.com/OpenAPITools/openapi-diff) | Utility for comparing two OpenAPI specifications. |
+| [openapi generator (OpenAPITools)](https://github.com/OpenAPITools/openapi-generator) | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3). |
+| [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) | The OpenAPI Specification Repository. |
+| [prism](https://github.com/stoplightio/prism) | Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations. |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format. License not detected by GitHub; check the repository license before use. |
+| [public apis](https://github.com/public-apis/public-apis) | A collective list of free APIs. |
+| [rest api description](https://github.com/github/rest-api-description) | An OpenAPI description for GitHub's REST API. |
+| [spectral](https://github.com/stoplightio/spectral) | A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x. |
+| [swagger ui](https://github.com/swagger-api/swagger-ui) | Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. |
+| [vulcain](https://github.com/dunglas/vulcain) | Fast and idiomatic client-driven REST APIs. AGPL-3.0: network use can trigger source-disclosure obligations. |
+<!-- expansion-2026-11-11:end -->

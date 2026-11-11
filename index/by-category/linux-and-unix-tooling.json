@@ -1,0 +1,335 @@
+[
+ {
+  "resource_id": "res-terminals-are-sexy-1b1e3c272840",
+  "name": "terminals are sexy",
+  "url": "https://github.com/k4m4/terminals-are-sexy",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "A curated list of Terminal frameworks, plugins & resources for CLI lovers.",
+  "resource_type": "curated-list",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-bash-oneliner-9a7ea20d7bc9",
+  "name": "Bash Oneliner",
+  "url": "https://github.com/onceupon/Bash-Oneliner",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-inshellisense-7b114c3f13b4",
+  "name": "inshellisense",
+  "url": "https://github.com/microsoft/inshellisense",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "IDE style command line auto complete.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-bubbles-615ba2ecc8a1",
+  "name": "bubbles",
+  "url": "https://github.com/charmbracelet/bubbles",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "TUI components for Bubble Tea.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-ftxui-091e72128b34",
+  "name": "FTXUI",
+  "url": "https://github.com/ArthurSonzogni/FTXUI",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "computer: C++ Functional Terminal User Interface. :heart.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-yadm-37b8e270e9d1",
+  "name": "yadm",
+  "url": "https://github.com/yadm-dev/yadm",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "Yet Another Dotfiles Manager. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-dotdrop-b02ae499598c",
+  "name": "dotdrop",
+  "url": "https://github.com/deadc0de6/dotdrop",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "Save your dotfiles once, deploy them everywhere. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-hstr-71aee5988b3e",
+  "name": "hstr",
+  "url": "https://github.com/dvorka/hstr",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-fastfetch-b77d8d944458",
+  "name": "fastfetch",
+  "url": "https://github.com/fastfetch-cli/fastfetch",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-terminalizer-0e37dc0cae4a",
+  "name": "terminalizer",
+  "url": "https://github.com/faressoft/terminalizer",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "Record your terminal and generate animated gif images or share a web player.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-lynis-bb3477dac745",
+  "name": "lynis",
+  "url": "https://github.com/CISOfy/lynis",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "security",
+   "testing"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-yazi-30d6377a144f",
+  "name": "yazi",
+  "url": "https://github.com/sxyazi/yazi",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "Blazing fast terminal file manager written in Rust, based on async I/O.",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "rust"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-console-03e09ad49466",
+  "name": "console",
+  "url": "https://github.com/symfony/console",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "Eases the creation of beautiful and testable command line interfaces.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-the-art-of-command-line-250cdb0bd7d1",
+  "name": "the art of command line",
+  "url": "https://github.com/jlevy/the-art-of-command-line",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "Master the command line, in one page. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-modern-unix-a6f067cba8a3",
+  "name": "modern unix",
+  "url": "https://github.com/ibraheemdev/modern-unix",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "A collection of modern/faster/saner alternatives to common unix commands. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-tldr-feebf970a6e5",
+  "name": "tldr",
+  "url": "https://github.com/tldr-pages/tldr",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "Collaborative cheatsheets for console commands . License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-fisher-b1928ad75221",
+  "name": "fisher",
+  "url": "https://github.com/jorgebucaran/fisher",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "A plugin manager for Fish.",
+  "resource_type": "repository",
+  "topics": [
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux"
+  ]
+ },
+ {
+  "resource_id": "res-nvm-13fdbdd04382",
+  "name": "nvm",
+  "url": "https://github.com/nvm-sh/nvm",
+  "category_id": "linux-and-unix-tooling",
+  "purpose": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "linux"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "linux"
+  ]
+ }
+]

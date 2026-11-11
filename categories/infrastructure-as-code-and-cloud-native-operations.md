@@ -239,3 +239,54 @@ Additional entries from a focused discovery pass; see the [full expansion and ev
 | [docker-k8s-lab](https://github.com/xiaopeng163/docker-k8s-lab) | docker and kubernetes lab |
 | [kubernetes-katas](https://github.com/eficode-academy/kubernetes-katas) | Deliberate exercises for Kubernetes |
 | [meteorhacks.github.io](https://github.com/meteorhacks/meteorhacks.github.io) | MeteorHacks Website |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Atlantis](https://github.com/runatlantis/atlantis) | Pull-request automation for Terraform: plan on change, apply on approval. Adds a privileged service to secure and operate; scope credentials per repository. |
+| [Conftest](https://github.com/open-policy-agent/conftest) | Write Rego policy tests against configuration files and manifests, runnable in CI. Policy coverage is yours to build; start with a small set of high-value rules. |
+| [Infracost](https://github.com/infracost/infracost) | Cloud cost estimates for Terraform and related IaC changes, usable as a pull-request check. Pricing data and free-tier limits come from a hosted service. |
+| [k9s](https://github.com/derailed/k9s) | Terminal UI for browsing and operating Kubernetes clusters. Fast for live debugging; write actions still need RBAC and review discipline. |
+| [kubeconform](https://github.com/yannh/kubeconform) | Validates Kubernetes manifests against schemas, including custom resources. Catches typos and version drift in CI; it does not check cluster state or policy. |
+| [kubectx and kubens](https://github.com/ahmetb/kubectx) | Fast context and namespace switching for kubectl, with fzf integration. Reduces wrong-cluster mistakes only if the prompt is also labeled. |
+| [stern](https://github.com/stern/stern) | Multi-pod and multi-container log tailing for Kubernetes with regex selectors. Useful during rollouts; output is unstructured unless you add formatting. |
+<!-- expansion-2026-11-10:end -->
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [awesome tf](https://github.com/shuaibiyy/awesome-tf) | Curated list of resources on HashiCorp's Terraform and OpenTofu. |
+| [awx](https://github.com/ansible/awx) | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform. License not detected by GitHub; check the repository license before use. |
+| [boilerplates](https://github.com/ChristianLempa/boilerplates) | Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source. |
+| [cloudformation guard](https://github.com/aws-cloudformation/cloudformation-guard) | Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations,. |
+| [cluster api](https://github.com/kubernetes-sigs/cluster-api) | Home for Cluster API, a subproject of sig-cluster-lifecycle. |
+| [consul](https://github.com/hashicorp/consul) | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. License not detected by GitHub; check the repository license before use. |
+| [external secrets](https://github.com/external-secrets/external-secrets) | External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. |
+| [gatekeeper](https://github.com/open-policy-agent/gatekeeper) | Policy Controller for Kubernetes. |
+| [istio](https://github.com/istio/istio) | Connect, secure, control, and observe services. |
+| [kind](https://github.com/kubernetes-sigs/kind) | Kubernetes IN Docker - local clusters for testing Kubernetes. |
+| [kops](https://github.com/kubernetes/kops) | Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management. |
+| [kube hunter](https://github.com/aquasecurity/kube-hunter) | Hunt for security weaknesses in Kubernetes clusters. |
+| [kubespray](https://github.com/kubernetes-sigs/kubespray) | Deploy a Production Ready Kubernetes Cluster. |
+| [kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization API and runtime in order to define and manage virtual machines. |
+| [metrics server](https://github.com/kubernetes-sigs/metrics-server) | Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. |
+| [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally. |
+| [opa](https://github.com/open-policy-agent/opa) | Open Policy Agent (OPA) is an open source, general-purpose policy engine. |
+| [packer](https://github.com/hashicorp/packer) | Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. License not detected by GitHub; check the repository license before use. |
+| [polaris](https://github.com/FairwindsOps/polaris) | Validation of best practices in your Kubernetes clusters. |
+| [Reloader](https://github.com/stakater/Reloader) | A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [Star] if you're using it! |
+| [semaphore](https://github.com/semaphoreui/semaphore) | Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. |
+| [terraform inventory](https://github.com/adammck/terraform-inventory) | Terraform State Ansible Dynamic Inventory. |
+| [terraform provider kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) | Terraform Kubernetes provider. MPL-2.0: file-level copyleft; modified files must be published. |
+| [typhoon](https://github.com/poseidon/typhoon) | Minimal and free Kubernetes distribution with Terraform. |
+| [vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development environments. |
+| [vcluster](https://github.com/loft-sh/vcluster) | vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. |
+<!-- expansion-2026-11-11:end -->

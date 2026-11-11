@@ -91,3 +91,20 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [gpt-neox](https://github.com/EleutherAI/gpt-neox) | An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries |
 | [BitNet](https://github.com/microsoft/BitNet) | Official inference framework for 1-bit LLMs |
 | [bark](https://github.com/suno-ai/bark) | 🔊 Text-Prompted Generative Audio Model |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system. |
+| [Hands On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | Official code repo for the O'Reilly Book - "Hands-On Large Language Models". |
+| [kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. |
+| [langextract](https://github.com/google/langextract) | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [llmfit](https://github.com/AlexsJones/llmfit) | Hundreds of models & providers. One command to find what runs on your hardware. |
+| [lms](https://github.com/lmstudio-ai/lms) | LM Studio CLI. |
+| [peft](https://github.com/huggingface/peft) | PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. |
+| [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. AGPL-3.0: network use can trigger source-disclosure obligations. |
+<!-- expansion-2026-11-11:end -->

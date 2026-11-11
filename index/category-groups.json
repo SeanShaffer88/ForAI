@@ -19,7 +19,7 @@
         "ai-speech-voice-and-realtime"
       ],
       "category_count": 13,
-      "resource_count": 343
+      "resource_count": 431
     },
     "cloud-infra-devops": {
       "category_ids": [
@@ -29,7 +29,7 @@
         "infrastructure-as-code-and-cloud-native-operations"
       ],
       "category_count": 4,
-      "resource_count": 211
+      "resource_count": 305
     },
     "data": {
       "category_ids": [
@@ -39,7 +39,7 @@
         "search-messaging-and-durable-work"
       ],
       "category_count": 4,
-      "resource_count": 141
+      "resource_count": 222
     },
     "design-ux": {
       "category_ids": [
@@ -49,7 +49,7 @@
         "ui-design-inspiration-and-reference"
       ],
       "category_count": 4,
-      "resource_count": 125
+      "resource_count": 162
     },
     "desktop-mobile": {
       "category_ids": [
@@ -58,7 +58,15 @@
         "platform-sdks-and-windows"
       ],
       "category_count": 3,
-      "resource_count": 121
+      "resource_count": 184
+    },
+    "foundations": {
+      "category_ids": [
+        "software-engineering-foundations-and-standards",
+        "standards-and-discovery"
+      ],
+      "category_count": 2,
+      "resource_count": 19
     },
     "languages-runtimes": {
       "category_ids": [
@@ -69,7 +77,7 @@
         "webassembly-and-plugin-runtimes"
       ],
       "category_count": 5,
-      "resource_count": 328
+      "resource_count": 360
     },
     "media-games-docs": {
       "category_ids": [
@@ -80,18 +88,20 @@
         "world-of-warcraft-addon-development"
       ],
       "category_count": 5,
-      "resource_count": 125
+      "resource_count": 234
     },
     "operations-tools": {
       "category_ids": [
         "backup-storage-transfer-and-resilience",
+        "editor-and-terminal-extensions",
         "feature-flags-configuration-and-secrets",
+        "linux-and-unix-tooling",
         "observability-debugging-and-operations",
         "optimization-scheduling-and-operational-tooling",
-        "standards-and-discovery"
+        "reverse-engineering-malware-analysis-and-binary-inspection"
       ],
-      "category_count": 5,
-      "resource_count": 79
+      "category_count": 7,
+      "resource_count": 175
     },
     "security": {
       "category_ids": [
@@ -99,7 +109,7 @@
         "security-testing-defense-and-supply-chain-assurance"
       ],
       "category_count": 2,
-      "resource_count": 143
+      "resource_count": 154
     },
     "testing-quality": {
       "category_ids": [
@@ -107,7 +117,7 @@
         "testing-verification-and-performance"
       ],
       "category_count": 2,
-      "resource_count": 109
+      "resource_count": 135
     },
     "web-api-architecture": {
       "category_ids": [
@@ -117,7 +127,7 @@
         "web-interfaces-and-application-frameworks"
       ],
       "category_count": 4,
-      "resource_count": 245
+      "resource_count": 307
     },
     "windows": {
       "category_ids": [
@@ -169,7 +179,7 @@
         "windows-windows-inspection-and-com"
       ],
       "category_count": 46,
-      "resource_count": 232
+      "resource_count": 249
     }
   }
 }

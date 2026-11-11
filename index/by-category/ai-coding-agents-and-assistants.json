@@ -307,5 +307,188 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-claude-code-f4394d91f9c2",
+  "name": "Claude Code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Anthropic's terminal coding agent: repository-aware edits, commands, and MCP tools. The repository is issue/tracking surface, not the product source; usage requires an account and follows Anthropic's terms.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-open-design-0bf67605f2a9",
+  "name": "open design",
+  "url": "https://github.com/nexu-io/open-design",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-claude-howto-70668bf2e7d5",
+  "name": "claude howto",
+  "url": "https://github.com/luongnv89/claude-howto",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-assistant-ui-90f0a3871a05",
+  "name": "assistant ui",
+  "url": "https://github.com/assistant-ui/assistant-ui",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Typescript/React Library for AI Chat.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-codexbar-c35c4d5f092b",
+  "name": "CodexBar",
+  "url": "https://github.com/steipete/CodexBar",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-desktopcommandermcp-1a61ce5adf51",
+  "name": "DesktopCommanderMCP",
+  "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-claude-squad-a54d21eead60",
+  "name": "claude squad",
+  "url": "https://github.com/smtg-ai/claude-squad",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-planning-with-files-e4139ef87a46",
+  "name": "planning with files",
+  "url": "https://github.com/OthmanAdi/planning-with-files",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-claude-seo-890a4537aaad",
+  "name": "claude seo",
+  "url": "https://github.com/AgriciDaniel/claude-seo",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce,.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-claude-skills-c16397bfcb69",
+  "name": "claude skills",
+  "url": "https://github.com/Jeffallan/claude-skills",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-crush-c9869f821b02",
+  "name": "crush",
+  "url": "https://github.com/charmbracelet/crush",
+  "category_id": "ai-coding-agents-and-assistants",
+  "purpose": "Glamourous agentic coding for all. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

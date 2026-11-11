@@ -56,3 +56,23 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [evidently](https://github.com/evidentlyai/evidently) | Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. |
 | [giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | [langwatch](https://github.com/langwatch/langwatch) | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company. |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [agentdojo](https://github.com/ethz-spylab/agentdojo) | A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents. |
+| [AI Infra Guard](https://github.com/Tencent/AI-Infra-Guard) | A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation. |
+| [guardrails](https://github.com/guardrails-ai/guardrails) | Adding guardrails to large language models. |
+| [helicone](https://github.com/Helicone/helicone) | Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23. |
+| [langfuse](https://github.com/langfuse/langfuse) | Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. License not detected by GitHub; check the repository license before use. |
+| [langkit](https://github.com/whylabs/langkit) | LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security. Features include text quality, relevance metrics, & sentiment analysis. |
+| [opik](https://github.com/comet-ml/opik) | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. |
+| [presidio](https://github.com/data-privacy-stack/presidio) | An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines. |
+| [promptmap](https://github.com/utkusen/promptmap) | a security scanner for custom LLM applications. GPL-3.0: derivative works must stay under the GPL. |
+| [PyRIT](https://github.com/microsoft/PyRIT) | Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-turn attacks, and a web UI. |
+| [superagent](https://github.com/superagent-ai/superagent) | Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers. |
+<!-- expansion-2026-11-11:end -->

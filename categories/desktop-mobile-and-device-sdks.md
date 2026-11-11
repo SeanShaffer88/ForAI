@@ -63,3 +63,40 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) | ❤️ Streaming torrent app for Mac, Windows, and Linux |
 | [min](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy |
 | [menubar](https://github.com/max-mapper/menubar) | ➖ high level way to create menubar desktop applications with electron |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [arduino esp32](https://github.com/espressif/arduino-esp32) | Arduino core for the ESP32 family of SoCs. LGPL-2.1: dynamic linking is permitted, static linking has obligations. |
+| [arduino ide](https://github.com/arduino/arduino-ide) | Arduino IDE 2.x. AGPL-3.0: network use can trigger source-disclosure obligations. |
+| [capacitor](https://github.com/ionic-team/capacitor) | Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web. |
+| [cordova android](https://github.com/apache/cordova-android) | Apache Cordova Android. |
+| [create react native app](https://github.com/expo/create-react-native-app) | Create React Native apps that run on iOS, Android, and web. |
+| [egui](https://github.com/emilk/egui) | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native. |
+| [engine](https://github.com/flutter-team-archive/engine) | The Flutter engine. |
+| [expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. |
+| [fiddle](https://github.com/electron/fiddle) | electron: The easiest way to get started with Electron. |
+| [flet](https://github.com/flet-dev/flet) | Build realtime web, mobile and desktop apps in Python only. No frontend experience required. |
+| [fluent reader](https://github.com/yang991178/fluent-reader) | Modern desktop RSS reader built with Electron, React, and Fluent UI. |
+| [flutter boost](https://github.com/alibaba/flutter_boost) | FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts. |
+| [flutter server box](https://github.com/lollipopkit/flutter_server_box) | ServerBox - high performance server toolbox app & server written in Flutter & Rust. AGPL-3.0: network use can trigger source-disclosure obligations. |
+| [flutter webrtc](https://github.com/flutter-webrtc/flutter-webrtc) | WebRTC plugin for Flutter Mobile/Desktop/Web. |
+| [go flutter](https://github.com/go-flutter-desktop/go-flutter) | Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW. |
+| [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm. |
+| [micropython](https://github.com/micropython/micropython) | MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems. License not detected by GitHub; check the repository license before use. |
+| [PakePlus](https://github.com/Sjj1024/PakePlus) | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app. |
+| [pico sdk](https://github.com/raspberrypi/pico-sdk) | Repository with no description on GitHub. |
+| [platformio core](https://github.com/platformio/platformio-core) | Your Gateway to Embedded Software Development Excellence :alien. |
+| [pyglet](https://github.com/pyglet/pyglet) | pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications. |
+| [pyside setup](https://github.com/pyside/pyside-setup) | Git super project for PySide. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [qtbase](https://github.com/qt/qtbase) | Qt Base (Core, Gui, Widgets, Network, ...). No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [react native (facebook)](https://github.com/react/react-native) | A framework for building native applications using React. |
+| [react native windows](https://github.com/microsoft/react-native-windows) | A framework for building native Windows apps with React. License not detected by GitHub; check the repository license before use. |
+| [rubick](https://github.com/rubickCenter/rubick) | Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。. |
+| [slint](https://github.com/slint-ui/slint) | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps. License not detected by GitHub; check the repository license before use. |
+| [termux app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. License not detected by GitHub; check the repository license before use. |
+<!-- expansion-2026-11-11:end -->

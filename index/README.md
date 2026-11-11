@@ -6,8 +6,9 @@
 - [`resource-schema.json`](resource-schema.json) defines its active record contract.
 - [`taxonomy.json`](taxonomy.json) defines the controlled discovery-facet vocabularies.
 - [`categories.json`](categories.json) is generated navigation and resource membership, derived from the catalog.
+- [`catalog-stats.json`](catalog-stats.json) is the generated count summary (records, distinct URLs, categories, domains, per-source breakdowns). Documentation quotes it instead of hard-coding numbers; refresh with `python scripts/catalog_stats.py --write`.
 - [`project-groups.json`](project-groups.json) records a small, explicitly reviewed set of non-GitHub URLs that refer to the same project. GitHub owner/repository identities are normalized by the enrichment script.
-- [`resources.compact.json`](resources.compact.json) is the full catalog with shortlisting fields only (~38% of the canonical file's size), and `by-category/` holds one compact JSON shard per category. [`category-groups.json`](category-groups.json) rolls the 97 categories up into 12 broad domains for navigation. All three are derived views, regenerated with `python scripts/generate_ai_views.py`.
+- [`resources.compact.json`](resources.compact.json) is the full catalog with shortlisting fields only (~35% of the canonical file's size), and `by-category/` holds one compact JSON shard per category. [`category-groups.json`](category-groups.json) rolls the 101 categories up into 13 broad domains for navigation. All three are derived views, regenerated with `python scripts/generate_ai_views.py`.
 
 Regenerate the CSV and category navigation after catalog edits with `python scripts/export_csv.py` and `python scripts/generate_indexes.py`. Run `python scripts/validate.py` to check consistency. These scripts do not fetch URLs or certify current maintenance, security, license suitability, or compatibility.
 

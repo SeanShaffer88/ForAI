@@ -805,5 +805,178 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-cypress-e12ca5b9bfbb",
+  "name": "Cypress",
+  "url": "https://github.com/cypress-io/cypress",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Browser end-to-end and component testing with time-travel debugging and an interactive runner. Great developer experience; Cypress-specific architecture and per-seat cloud pricing are trade-offs against WebDriver-based suites.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "browser-automation",
+   "cloud",
+   "end-to-end-testing",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-selenium-e51f1e3a1fc2",
+  "name": "Selenium",
+  "url": "https://github.com/seleniumhq/selenium",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "WebDriver implementations and Grid for browser automation in Java, Python, JavaScript, .NET, Ruby, and Rust. The W3C-protocol baseline with the widest browser and language coverage; you assemble the test framework yourself.",
+  "resource_type": "repository",
+  "topics": [
+   "browser-automation",
+   "java",
+   "javascript",
+   "python",
+   "ruby",
+   "rust",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "java",
+   "javascript",
+   "python",
+   "ruby",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-webdriverio-5e68b8c22fdb",
+  "name": "WebdriverIO",
+  "url": "https://github.com/webdriverio/webdriverio",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Node.js test framework on WebDriver and Chrome DevTools protocols, with runner, assertions, and mobile support. Choose it when you want a batteries-included JS suite that can also drive native apps.",
+  "resource_type": "repository",
+  "topics": [
+   "browser-automation",
+   "javascript",
+   "mobile",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-jest-0c92cbadac32",
+  "name": "Jest",
+  "url": "https://github.com/jestjs/jest",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "JavaScript and TypeScript unit testing with snapshots, fake timers, and built-in coverage. CJS/ESM interop and transform configuration are the usual friction points; Vitest is the common Vite-native alternative.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "testing",
+   "typescript"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-robot-framework-0052d6bb4649",
+  "name": "Robot Framework",
+  "url": "https://github.com/robotframework/robotframework",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "Keyword-driven acceptance testing and RPA with a plain-text syntax and a large library ecosystem. Strong for cross-team readable tests; less natural for developer-first unit-level TDD.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aflplusplus-10cc5a4a93ec",
+  "name": "AFLplusplus",
+  "url": "https://github.com/AFLplusplus/AFLplusplus",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "AFL++ is a state-of-the-art fuzzer, and #1 in benchmarks. It was originally based on AFL. Today it comes with qemu 5.1, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators,. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sanitizers-a86cabe607f0",
+  "name": "sanitizers",
+  "url": "https://github.com/google/sanitizers",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "AddressSanitizer, ThreadSanitizer, MemorySanitizer. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-applicationinspector-3cdd31bc1472",
+  "name": "ApplicationInspector",
+  "url": "https://github.com/microsoft/ApplicationInspector",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-oss-fuzz-d256eb7239f4",
+  "name": "oss fuzz",
+  "url": "https://github.com/google/oss-fuzz",
+  "category_id": "testing-verification-and-performance",
+  "purpose": "OSS-Fuzz - continuous fuzzing for open source software.",
+  "resource_type": "repository",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "test-and-verify-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

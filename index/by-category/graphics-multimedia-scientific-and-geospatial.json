@@ -552,5 +552,561 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-obs-studio-d6006c146308",
+  "name": "OBS Studio",
+  "url": "https://github.com/obsproject/obs-studio",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Open-source capture and streaming studio with a plugin API. Useful for recording demos and test evidence; GPU encoders and capture sources depend on drivers.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wgpu-0b8006008226",
+  "name": "wgpu",
+  "url": "https://github.com/gfx-rs/wgpu",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "A cross-platform, safe, pure-Rust graphics API.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "rust"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gfx-e4a94efee316",
+  "name": "gfx",
+  "url": "https://github.com/gfx-rs/gfx",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "[maintenance mode] A low-overhead Vulkan-like GPU API for Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "rust"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sfml-de9e7ffbf776",
+  "name": "SFML",
+  "url": "https://github.com/SFML/SFML",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Simple and Fast Multimedia Library.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vulkan-samples-4c676a2a5fdc",
+  "name": "Vulkan Samples",
+  "url": "https://github.com/KhronosGroup/Vulkan-Samples",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "One stop solution for all Vulkan samples.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lwjgl3-9e2cbae9fc7b",
+  "name": "lwjgl3",
+  "url": "https://github.com/LWJGL/lwjgl3",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR,.",
+  "resource_type": "repository",
+  "topics": [
+   "java"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-digital-video-introduction-500c75aa9137",
+  "name": "digital video introduction",
+  "url": "https://github.com/leandromoreira/digital_video_introduction",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ffmpeg-libav-tutorial-7415b8bd3152",
+  "name": "ffmpeg libav tutorial",
+  "url": "https://github.com/leandromoreira/ffmpeg-libav-tutorial",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mini3d-6af6fd84e3a0",
+  "name": "mini3d",
+  "url": "https://github.com/skywind3000/mini3d",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "3D Software Renderer in 700 Lines !!",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gifify-6bcee06354ea",
+  "name": "gifify",
+  "url": "https://github.com/vvo/gifify",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Convert any video file to an optimized animated GIF.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ffsubsync-1c5c0d65ccdb",
+  "name": "ffsubsync",
+  "url": "https://github.com/smacke/ffsubsync",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Automagically synchronize subtitles with video.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-editly-78a517f1a417",
+  "name": "editly",
+  "url": "https://github.com/mifi/editly",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Slick, declarative command line video editing & API.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lossless-cut-3b7bfb0724d1",
+  "name": "lossless cut",
+  "url": "https://github.com/mifi/lossless-cut",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "The swiss army knife of lossless video/audio editing. GPL-2.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wickedengine-d4796b62ec4f",
+  "name": "WickedEngine",
+  "url": "https://github.com/turanszkij/WickedEngine",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "3D engine with modern graphics.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-filament-deaf80c2fc50",
+  "name": "filament",
+  "url": "https://github.com/google/filament",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "linux",
+   "mobile",
+   "windows"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "linux",
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-gltf-5a720e1d6d5b",
+  "name": "glTF",
+  "url": "https://github.com/KhronosGroup/glTF",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "glTF – Runtime 3D Asset Delivery. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spirv-cross-db2e0f84df72",
+  "name": "SPIRV Cross",
+  "url": "https://github.com/KhronosGroup/SPIRV-Cross",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vulkan-validationlayers-dc9eaacf3db6",
+  "name": "Vulkan ValidationLayers",
+  "url": "https://github.com/KhronosGroup/Vulkan-ValidationLayers",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Vulkan Validation Layers (VVL). License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mpv-702ce43efa6f",
+  "name": "mpv",
+  "url": "https://github.com/mpv-player/mpv",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Command line media player. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-handbrake-7c1b313001d9",
+  "name": "HandBrake",
+  "url": "https://github.com/HandBrake/HandBrake",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "HandBrake's development repository. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aseprite-90fabc5d7050",
+  "name": "aseprite",
+  "url": "https://github.com/aseprite/aseprite",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Animated sprite editor & pixel art tool (Windows, macOS, Linux). No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-krita-1bebea7c49f7",
+  "name": "krita",
+  "url": "https://github.com/KDE/krita",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "end-to-end-testing"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mypaint-275e2f0be1a0",
+  "name": "mypaint",
+  "url": "https://github.com/mypaint/mypaint",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets. GPL-2.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-inkscape-56e12d25ddae",
+  "name": "inkscape",
+  "url": "https://github.com/inkscape/inkscape",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "web"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-model-viewer-ded17ded99e6",
+  "name": "model viewer",
+  "url": "https://github.com/google/model-viewer",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Easily display interactive 3D models on the web and in AR!",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-engine-playcanvas-9c5f928c46ad",
+  "name": "engine (playcanvas)",
+  "url": "https://github.com/playcanvas/engine",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-react-three-fiber-27f13325eac2",
+  "name": "react three fiber",
+  "url": "https://github.com/pmndrs/react-three-fiber",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "A React renderer for Three.js.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mapbox-gl-js-33126da5ea11",
+  "name": "mapbox gl js",
+  "url": "https://github.com/mapbox/mapbox-gl-js",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-qgis-2eed9ee2c788",
+  "name": "QGIS",
+  "url": "https://github.com/qgis/QGIS",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS). GPL-2.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-proj4js-2639378a24b3",
+  "name": "proj4js",
+  "url": "https://github.com/proj4js/proj4js",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "JavaScript library to transform coordinates from one coordinate system to another, including datum transformations. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "javascript"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pyvista-a4c4bca3a9a8",
+  "name": "pyvista",
+  "url": "https://github.com/pyvista/pyvista",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "3D visualization and mesh analysis for science and engineering.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-matplotlib-3af9e8ef8d00",
+  "name": "matplotlib",
+  "url": "https://github.com/matplotlib/matplotlib",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "matplotlib: plotting with Python. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bokeh-c7b5495b0a6f",
+  "name": "bokeh",
+  "url": "https://github.com/bokeh/bokeh",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Interactive Data Visualization in the browser, from Python.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vega-541ee83c9f8b",
+  "name": "vega",
+  "url": "https://github.com/vega/vega",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "A visualization grammar.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-d3-283ff367f93d",
+  "name": "d3",
+  "url": "https://github.com/d3/d3",
+  "category_id": "graphics-multimedia-scientific-and-geospatial",
+  "purpose": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

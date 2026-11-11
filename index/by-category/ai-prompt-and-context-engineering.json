@@ -233,5 +233,204 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-skills-7e88070f85f1",
+  "name": "skills",
+  "url": "https://github.com/google/skills",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Agent Skills for Google products and technologies.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-promptflow-54f5467329ef",
+  "name": "promptflow",
+  "url": "https://github.com/microsoft/promptflow",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "observability",
+   "testing"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-prompt-engineering-8d8cae94ddc1",
+  "name": "Awesome Prompt Engineering",
+  "url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-chatgpt-system-prompt-71c77ae59a0f",
+  "name": "chatgpt system prompt",
+  "url": "https://github.com/LouisShark/chatgpt_system_prompt",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "A collection of GPT system prompts and various prompt injection/leaking knowledge.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-code2prompt-8351914e11fe",
+  "name": "code2prompt",
+  "url": "https://github.com/mufeedvh/code2prompt",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ui-skills-a6dde187de78",
+  "name": "ui skills",
+  "url": "https://github.com/ibelick/ui-skills",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Skills for Design Engineers.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dev-browser-dc1622b81f60",
+  "name": "dev browser",
+  "url": "https://github.com/SawyerHood/dev-browser",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "A Claude Skill to give your agent the ability to use a web browser.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-prompt-engineering-guide-b4af93842794",
+  "name": "Prompt Engineering Guide",
+  "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-system-prompts-and-models-of-ai-tools-bd5d75b39efc",
+  "name": "system prompts and models of ai tools",
+  "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev,. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-claude-code-system-prompts-304f40fb124c",
+  "name": "claude code system prompts",
+  "url": "https://github.com/Piebald-AI/claude-code-system-prompts",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-agent-skills-4196ca6d222a",
+  "name": "awesome agent skills",
+  "url": "https://github.com/VoltAgent/awesome-agent-skills",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-claude-code-8d0613fac27c",
+  "name": "awesome claude code",
+  "url": "https://github.com/hesreallyhim/awesome-claude-code",
+  "category_id": "ai-prompt-and-context-engineering",
+  "purpose": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

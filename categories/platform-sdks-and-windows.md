@@ -28,3 +28,25 @@ Project additions checked 2026-10-22 (primary documentation only):
 |---|---|
 | [WinHTTP request and redirect options](https://learn.microsoft.com/en-us/windows/win32/winhttp/option-flags) | Configure WinHTTP redirect, timeout and request options. Check option-setting return values; TLS downgrade refusal does not establish publisher authenticity or freshness. |
 | [Microsoft Visual C++ runtime deployment](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist) | Identify supported MSVC runtime packages and architecture/version requirements from Microsoft. Preserve redistribution terms; do not obtain individual runtime DLLs from arbitrary sites. |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) | AutoHotkey - macro-creation and automation-oriented scripting utility for Windows. GPL-2.0: derivative works must stay under the GPL. |
+| [calculator](https://github.com/microsoft/calculator) | Windows Calculator: A simple yet powerful calculator that ships with Windows. |
+| [DevHome](https://github.com/microsoft/devhome) | The new Dev Home experience for Windows! |
+| [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. |
+| [fluentui system icons](https://github.com/microsoft/fluentui-system-icons) | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
+| [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) | Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11. |
+| [nappgui src](https://github.com/frang75/nappgui_src) | SDK for building cross-platform desktop apps in ANSI-C. |
+| [qwindowkit](https://github.com/stdware/qwindowkit) | Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux. |
+| [swift win32](https://github.com/compnerd/swift-win32) | A Windows application framework for Swift. |
+| [windigo](https://github.com/rodrigocfd/windigo) | Windows API and GUI in idiomatic Go. |
+| [Windows.UI.Composition Win32 Samples](https://github.com/microsoft/Windows.UI.Composition-Win32-Samples) | Windows.UI.Composition Win32 Samples. |
+| [winsafe](https://github.com/rodrigocfd/winsafe) | Windows API and GUI in safe, idiomatic Rust. |
+| [workspacer](https://github.com/workspacer/workspacer) | a tiling window manager for Windows. |
+<!-- expansion-2026-11-11:end -->

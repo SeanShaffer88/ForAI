@@ -291,5 +291,265 @@
   "platforms": [
    "windows"
   ]
+ },
+ {
+  "resource_id": "res-micaforeveryone-0f6b087f3bc8",
+  "name": "MicaForEveryone",
+  "url": "https://github.com/MicaForEveryone/MicaForEveryone",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-winsafe-79e2d90bbe1a",
+  "name": "winsafe",
+  "url": "https://github.com/rodrigocfd/winsafe",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "Windows API and GUI in safe, idiomatic Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "rust",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-windigo-85817397c637",
+  "name": "windigo",
+  "url": "https://github.com/rodrigocfd/windigo",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "Windows API and GUI in idiomatic Go.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-workspacer-8330829fb30e",
+  "name": "workspacer",
+  "url": "https://github.com/workspacer/workspacer",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "a tiling window manager for Windows.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-swift-win32-ac7ecca2a8a4",
+  "name": "swift win32",
+  "url": "https://github.com/compnerd/swift-win32",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "A Windows application framework for Swift.",
+  "resource_type": "repository",
+  "topics": [
+   "swift",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "swift"
+  ],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-qwindowkit-06139a8dad6d",
+  "name": "qwindowkit",
+  "url": "https://github.com/stdware/qwindowkit",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-nappgui-src-fcd25f55269e",
+  "name": "nappgui src",
+  "url": "https://github.com/frang75/nappgui_src",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "SDK for building cross-platform desktop apps in ANSI-C.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "desktop",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-files-80f7665b30ef",
+  "name": "Files",
+  "url": "https://github.com/files-community/Files",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "A modern file manager that helps users organize their files and folders.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-calculator-22fe1f37e77b",
+  "name": "calculator",
+  "url": "https://github.com/microsoft/calculator",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "Windows Calculator: A simple yet powerful calculator that ships with Windows.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-fluentui-system-icons-5ed4e4ce3ace",
+  "name": "fluentui system icons",
+  "url": "https://github.com/microsoft/fluentui-system-icons",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-windows-ui-composition-win32-samples-3bec30f0babc",
+  "name": "Windows.UI.Composition Win32 Samples",
+  "url": "https://github.com/microsoft/Windows.UI.Composition-Win32-Samples",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "Windows.UI.Composition Win32 Samples.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-devhome-d571cd895ca6",
+  "name": "DevHome",
+  "url": "https://github.com/microsoft/devhome",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "The new Dev Home experience for Windows!",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-autohotkey-6ff533a2f91a",
+  "name": "AutoHotkey",
+  "url": "https://github.com/AutoHotkey/AutoHotkey",
+  "category_id": "platform-sdks-and-windows",
+  "purpose": "AutoHotkey - macro-creation and automation-oriented scripting utility for Windows. GPL-2.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software",
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
  }
 ]

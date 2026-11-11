@@ -151,5 +151,106 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-healthchecks-b8346fdc07d2",
+  "name": "healthchecks",
+  "url": "https://github.com/healthchecks/healthchecks",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Open-source cron job and background task monitoring service, written in Python & Django.",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "python"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cron-84ef1aeaccbb",
+  "name": "cron",
+  "url": "https://github.com/robfig/cron",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "a cron library for go.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gocron-12955544317d",
+  "name": "gocron",
+  "url": "https://github.com/jasonlvhit/gocron",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "A Golang Job Scheduling Package.",
+  "resource_type": "repository",
+  "topics": [
+   "go"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "go"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gronx-0620e0b2d459",
+  "name": "gronx",
+  "url": "https://github.com/adhocore/gronx",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Lightweight, fast and dependency-free Cron expression parser (due checker, next/prev due date finder), task runner, job scheduler and/or daemon for Golang (tested on v1.13+) and standalone usage.",
+  "resource_type": "repository",
+  "topics": [
+   "go"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [
+   "go"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-descheduler-08859a90e238",
+  "name": "descheduler",
+  "url": "https://github.com/kubernetes-sigs/descheduler",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Descheduler for Kubernetes.",
+  "resource_type": "repository",
+  "topics": [
+   "containers"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-autoscaler-52c9cb988858",
+  "name": "autoscaler",
+  "url": "https://github.com/kubernetes/autoscaler",
+  "category_id": "optimization-scheduling-and-operational-tooling",
+  "purpose": "Autoscaling components for Kubernetes.",
+  "resource_type": "repository",
+  "topics": [
+   "containers"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

@@ -78,3 +78,50 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [timescaledb](https://github.com/timescale/timescaledb) | A time-series database for high-performance real-time analytics packaged as a Postgres extension |
 | [medis](https://github.com/luin/medis) | 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis. |
 | [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Trino](https://github.com/trinodb/trino) | Distributed SQL query engine over lakehouse, relational, and object-storage sources. Powerful for federated analytics; requires a cluster and connector-specific knowledge. |
+| [Turso Database](https://github.com/tursodatabase/turso) | Rust rewrite of SQLite aiming for compatibility, with vector search and Postgres wire protocol as experimental work in progress. MIT; treat compatibility claims as target-state, not a drop-in guarantee. |
+<!-- expansion-2026-11-10:end -->
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [asyncpg](https://github.com/MagicStack/asyncpg) | A fast PostgreSQL Database Client Library for Python/asyncio. |
+| [chartdb](https://github.com/chartdb/chartdb) | Database diagrams editor that allows you to visualize and design your DB with a single query. AGPL-3.0: network use can trigger source-disclosure obligations. |
+| [cockroach](https://github.com/cockroachdb/cockroach) | CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. License not detected by GitHub; check the repository license before use. |
+| [dbal](https://github.com/doctrine/dbal) | Doctrine Database Abstraction Layer. |
+| [dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client. |
+| [diesel](https://github.com/diesel-rs/diesel) | A safe, extensible ORM and Query Builder for Rust. |
+| [dolt](https://github.com/dolthub/dolt) | Dolt – Git for Data. |
+| [doris](https://github.com/apache/doris) | Apache Doris is a real-time analytics and hybrid search database for AI agents. |
+| [drizzle orm](https://github.com/drizzle-team/drizzle-orm) | ORM. |
+| [ent](https://github.com/ent/ent) | An entity framework for Go. |
+| [gorm](https://github.com/go-gorm/gorm) | The fantastic ORM library for Golang, aims to be developer friendly. |
+| [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) | A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal. GPL-2.0: derivative works must stay under the GPL. |
+| [knex](https://github.com/knex/knex) | A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use. |
+| [kysely](https://github.com/kysely-org/kysely) | A type-safe TypeScript SQL query builder. |
+| [mongo](https://github.com/mongodb/mongo) | The MongoDB Database. License not detected by GitHub; check the repository license before use. |
+| [neo4j](https://github.com/neo4j/neo4j) | Graphs for Everyone. GPL-3.0: derivative works must stay under the GPL. |
+| [node postgres](https://github.com/brianc/node-postgres) | PostgreSQL client for node.js. |
+| [octosql](https://github.com/cube2222/octosql) | OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL. MPL-2.0: file-level copyleft; modified files must be published. |
+| [postgres](https://github.com/postgres/postgres) | Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch. License not detected by GitHub; check the repository license before use. |
+| [postgres (porsager)](https://github.com/porsager/postgres) | Postgres.js - The Fastest full featured PostgreSQL client. |
+| [questdb](https://github.com/questdb/questdb) | QuestDB is a high performance, open-source, time-series database. |
+| [sequelize](https://github.com/sequelize/sequelize) | Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i. |
+| [sql studio](https://github.com/frectonz/sql-studio) | SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]. |
+| [sqlmap](https://github.com/sqlmapproject/sqlmap) | Automatic SQL injection and database takeover tool. License not detected by GitHub; check the repository license before use. |
+| [tidb](https://github.com/pingcap/tidb) | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. |
+| [tortoise orm](https://github.com/tortoise/tortoise-orm) | Familiar asyncio ORM for python, built with relations in mind. |
+| [typeorm](https://github.com/typeorm/typeorm) | TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more. |
+<!-- expansion-2026-11-11:end -->

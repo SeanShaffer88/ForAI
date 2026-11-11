@@ -35,3 +35,18 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | [Lil'Log (Lilian Weng)](https://lilianweng.github.io/) | Long-form, carefully-cited explainers on agents, reward hacking, diffusion, and alignment from OpenAI's Lilian Weng. |
 | [Stanford CS336: Language Modeling from Scratch](https://cs336.stanford.edu/) | Stanford's build-everything course: tokenizers, Transformers, training, data, and evaluation from first principles. |
 | [Attention Is All You Need (paper)](https://arxiv.org/abs/1706.03762) | The 2017 Transformer paper. Read it before citing it; most 'Transformer facts' trace back here. |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Awesome AITools](https://github.com/ikaijua/Awesome-AITools) | This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together! |
+| [awesome startup](https://github.com/KrishMunot/awesome-startup) | sunglasses: All the required resources to build your own startup. |
+| [best of Agent Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) | Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly. |
+| [generative ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform. |
+| [Made With ML](https://github.com/GokuMohandas/Made-With-ML) | Learn how to develop, deploy and iterate on production-grade ML applications. |
+| [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) | Discover the latest machine learning / AI courses on YouTube. |
+<!-- expansion-2026-11-11:end -->

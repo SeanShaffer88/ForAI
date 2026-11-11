@@ -492,5 +492,139 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-text-embeddings-inference-00c8603104b8",
+  "name": "text embeddings inference",
+  "url": "https://github.com/huggingface/text-embeddings-inference",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "A blazing fast inference solution for text embeddings models.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-usearch-14873c3aa140",
+  "name": "USearch",
+  "url": "https://github.com/unum-cloud/USearch",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "One proximity graph for vector search, sparse products & attention across RAM, VRAM & NVMe, over dense vectors, sequences, shapes & geospatial sets in 14 languages.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mteb-e16341f2df0f",
+  "name": "mteb",
+  "url": "https://github.com/embeddings-benchmark/mteb",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "MTEB: State-of-the-art evaluation of embeddings across languages and modalities.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flagembedding-c5ae90fbd37f",
+  "name": "FlagEmbedding",
+  "url": "https://github.com/FlagOpen/FlagEmbedding",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Retrieval and Retrieval-augmented LLMs.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-postgresml-6c0861f64d0e",
+  "name": "postgresml",
+  "url": "https://github.com/postgresml/postgresml",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Postgres with GPUs for ML/AI apps.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "database"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sptag-f39aca69a34d",
+  "name": "SPTAG",
+  "url": "https://github.com/microsoft/SPTAG",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-milvus-3536251ed011",
+  "name": "milvus",
+  "url": "https://github.com/milvus-io/milvus",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud",
+   "database"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hnswlib-5d7d9dce51c2",
+  "name": "hnswlib",
+  "url": "https://github.com/nmslib/hnswlib",
+  "category_id": "ai-retrieval-and-vector-search",
+  "purpose": "Header-only C++/python library for fast approximate nearest neighbors.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
  }
 ]

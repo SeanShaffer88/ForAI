@@ -1576,5 +1576,599 @@
   "platforms": [
    "web"
   ]
+ },
+ {
+  "resource_id": "res-k9s-86c47aaca00f",
+  "name": "k9s",
+  "url": "https://github.com/derailed/k9s",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terminal UI for browsing and operating Kubernetes clusters. Fast for live debugging; write actions still need RBAC and review discipline.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubectx-and-kubens-55bea994a768",
+  "name": "kubectx and kubens",
+  "url": "https://github.com/ahmetb/kubectx",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Fast context and namespace switching for kubectl, with fzf integration. Reduces wrong-cluster mistakes only if the prompt is also labeled.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-stern-79f4c58559ea",
+  "name": "stern",
+  "url": "https://github.com/stern/stern",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Multi-pod and multi-container log tailing for Kubernetes with regex selectors. Useful during rollouts; output is unstructured unless you add formatting.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubeconform-38765500f725",
+  "name": "kubeconform",
+  "url": "https://github.com/yannh/kubeconform",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Validates Kubernetes manifests against schemas, including custom resources. Catches typos and version drift in CI; it does not check cluster state or policy.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-conftest-ce833f561810",
+  "name": "Conftest",
+  "url": "https://github.com/open-policy-agent/conftest",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Write Rego policy tests against configuration files and manifests, runnable in CI. Policy coverage is yours to build; start with a small set of high-value rules.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-infracost-b73026cc0194",
+  "name": "Infracost",
+  "url": "https://github.com/infracost/infracost",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Cloud cost estimates for Terraform and related IaC changes, usable as a pull-request check. Pricing data and free-tier limits come from a hosted service.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-atlantis-d4bdf5966e59",
+  "name": "Atlantis",
+  "url": "https://github.com/runatlantis/atlantis",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Pull-request automation for Terraform: plan on change, apply on approval. Adds a privileged service to secure and operate; scope credentials per repository.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "git",
+   "infrastructure-as-code",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubespray-6ed1c81cd6a7",
+  "name": "kubespray",
+  "url": "https://github.com/kubernetes-sigs/kubespray",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Deploy a Production Ready Kubernetes Cluster.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vcluster-fe04645c13f2",
+  "name": "vcluster",
+  "url": "https://github.com/loft-sh/vcluster",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kops-4c591de89571",
+  "name": "kops",
+  "url": "https://github.com/kubernetes/kops",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-typhoon-76d4540cc696",
+  "name": "typhoon",
+  "url": "https://github.com/poseidon/typhoon",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Minimal and free Kubernetes distribution with Terraform.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-provider-kubernetes-74617e46e588",
+  "name": "terraform provider kubernetes",
+  "url": "https://github.com/hashicorp/terraform-provider-kubernetes",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform Kubernetes provider. MPL-2.0: file-level copyleft; modified files must be published.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cloudformation-guard-bae550d4bba1",
+  "name": "cloudformation guard",
+  "url": "https://github.com/aws-cloudformation/cloudformation-guard",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations,.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-semaphore-94151a542957",
+  "name": "semaphore",
+  "url": "https://github.com/semaphoreui/semaphore",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reloader-f4b55e10b0e7",
+  "name": "Reloader",
+  "url": "https://github.com/stakater/Reloader",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [Star] if you're using it!",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terraform-inventory-35570a96f4f2",
+  "name": "terraform inventory",
+  "url": "https://github.com/adammck/terraform-inventory",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Terraform State Ansible Dynamic Inventory.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-tf-75ccb60c8d31",
+  "name": "awesome tf",
+  "url": "https://github.com/shuaibiyy/awesome-tf",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Curated list of resources on HashiCorp's Terraform and OpenTofu.",
+  "resource_type": "curated-list",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-boilerplates-b8b8bfafdfdd",
+  "name": "boilerplates",
+  "url": "https://github.com/ChristianLempa/boilerplates",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awx-5e9efd989bc4",
+  "name": "awx",
+  "url": "https://github.com/ansible/awx",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "cloud",
+   "git",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kind-4b6dedabb14b",
+  "name": "kind",
+  "url": "https://github.com/kubernetes-sigs/kind",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Kubernetes IN Docker - local clusters for testing Kubernetes.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code",
+   "testing"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-minikube-06aeaea8aa54",
+  "name": "minikube",
+  "url": "https://github.com/kubernetes/minikube",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Run Kubernetes locally.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-external-secrets-733f2f449c45",
+  "name": "external secrets",
+  "url": "https://github.com/external-secrets/external-secrets",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubevirt-baf77e66e8bc",
+  "name": "kubevirt",
+  "url": "https://github.com/kubevirt/kubevirt",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-istio-ebd9419977db",
+  "name": "istio",
+  "url": "https://github.com/istio/istio",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Connect, secure, control, and observe services.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kube-hunter-3b7c70fee021",
+  "name": "kube hunter",
+  "url": "https://github.com/aquasecurity/kube-hunter",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Hunt for security weaknesses in Kubernetes clusters.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code",
+   "security"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opa-1a855fd68567",
+  "name": "opa",
+  "url": "https://github.com/open-policy-agent/opa",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gatekeeper-f855867464fe",
+  "name": "gatekeeper",
+  "url": "https://github.com/open-policy-agent/gatekeeper",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Policy Controller for Kubernetes.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-polaris-a66df2dde67d",
+  "name": "polaris",
+  "url": "https://github.com/FairwindsOps/polaris",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Validation of best practices in your Kubernetes clusters.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-consul-366d32e18f14",
+  "name": "consul",
+  "url": "https://github.com/hashicorp/consul",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "git",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-packer-8fb59a0d3e84",
+  "name": "packer",
+  "url": "https://github.com/hashicorp/packer",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "git",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vagrant-56ddd50ec990",
+  "name": "vagrant",
+  "url": "https://github.com/hashicorp/vagrant",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Vagrant is a tool for building and distributing development environments.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cluster-api-81e5079afda8",
+  "name": "cluster api",
+  "url": "https://github.com/kubernetes-sigs/cluster-api",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Home for Cluster API, a subproject of sig-cluster-lifecycle.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "cloud",
+   "infrastructure-as-code"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-metrics-server-c53cbab490e7",
+  "name": "metrics server",
+  "url": "https://github.com/kubernetes-sigs/metrics-server",
+  "category_id": "infrastructure-as-code-and-cloud-native-operations",
+  "purpose": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "containers",
+   "infrastructure-as-code",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

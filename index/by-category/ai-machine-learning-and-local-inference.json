@@ -1032,5 +1032,140 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-graphrag-f2822af32053",
+  "name": "graphrag",
+  "url": "https://github.com/microsoft/graphrag",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "A modular graph-based Retrieval-Augmented Generation (RAG) system.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-peft-325c67149204",
+  "name": "peft",
+  "url": "https://github.com/huggingface/peft",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-langextract-c1743ce33cd6",
+  "name": "langextract",
+  "url": "https://github.com/google/langextract",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-llmfit-d9247144c944",
+  "name": "llmfit",
+  "url": "https://github.com/AlexsJones/llmfit",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Hundreds of models & providers. One command to find what runs on your hardware.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hands-on-large-language-models-464727c329df",
+  "name": "Hands On Large Language Models",
+  "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\".",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kotaemon-c341e5b74a6a",
+  "name": "kotaemon",
+  "url": "https://github.com/Cinnamon/kotaemon",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "An open-source RAG-based tool for chatting with your documents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sillytavern-01fd0bbf6c5e",
+  "name": "SillyTavern",
+  "url": "https://github.com/SillyTavern/SillyTavern",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "LLM Frontend for Power Users. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm",
+   "web"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-lms-44ddbf45daac",
+  "name": "lms",
+  "url": "https://github.com/lmstudio-ai/lms",
+  "category_id": "ai-machine-learning-and-local-inference",
+  "purpose": "LM Studio CLI.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

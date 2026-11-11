@@ -47,3 +47,39 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) | Papercut SMTP -- The Simple Desktop Email Server |
 | [Serenity](https://github.com/serenity-is/Serenity) | Business Apps Made Simple with Asp.Net Core MVC / TypeScript |
 | [sharpcompress](https://github.com/adamhathcock/sharpcompress) | SharpCompress is a fully managed C# library to deal with many compression types and formats. |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [abp](https://github.com/abpframework/abp) | Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. LGPL-3.0: dynamic linking is permitted, static linking has obligations. |
+| [aspnet api versioning](https://github.com/dotnet/aspnet-api-versioning) | Provides a set of libraries which add service API versioning to ASP.NET Core Minimal APIs, Controllers, gRPC, OData, and Web API (Classic). |
+| [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
+| [AutoMapper](https://github.com/LuckyPennySoftware/AutoMapper) | A convention-based object-object mapper in .NET. License not detected by GitHub; check the repository license before use. |
+| [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10. |
+| [CleanArchitecture (jasontaylordev)](https://github.com/jasontaylordev/CleanArchitecture) | Clean Architecture Solution Template for ASP.NET Core. |
+| [command line api](https://github.com/dotnet/command-line-api) | Command line parsing, invocation, and rendering of terminal output. |
+| [DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) | .NET Core library for dynamically loading code. |
+| [efcore](https://github.com/dotnet/efcore) | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. |
+| [elsa core](https://github.com/elsa-workflows/elsa-core) | The Workflow Engine for .NET. |
+| [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) | Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb. |
+| [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API. GPL-2.0: derivative works must stay under the GPL. |
+| [LiteDB](https://github.com/litedb-org/LiteDB) | LiteDB - A .NET NoSQL Document Store in a single data file. |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+| [maui samples](https://github.com/dotnet/maui-samples) | Samples for .NET Multi-Platform App UI (.NET MAUI). |
+| [MediatR](https://github.com/LuckyPennySoftware/MediatR) | Simple, unambitious mediator implementation in .NET. License not detected by GitHub; check the repository license before use. |
+| [mono](https://github.com/mono/mono) | Mono open source ECMA CLI, C# and .NET implementation. License not detected by GitHub; check the repository license before use. |
+| [MQTTnet](https://github.com/dotnet/MQTTnet) | MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/. |
+| [nlog](https://github.com/NLog/NLog) | NLog - Flexible and Structured Logging for various .NET Platforms. |
+| [NSwag](https://github.com/RicoSuter/NSwag) | The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. |
+| [NuGet.Client](https://github.com/NuGet/NuGet.Client) | Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues). License not detected by GitHub; check the repository license before use. |
+| [Ocelot](https://github.com/ThreeMammals/Ocelot) | .NET API Gateway. |
+| [OrchardCore](https://github.com/OrchardCMS/OrchardCore) | Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework. |
+| [reverse proxy](https://github.com/dotnet/yarp) | A toolkit for developing high-performance HTTP reverse proxy applications. |
+| [Silk.NET](https://github.com/dotnet/Silk.NET) | The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about. |
+| [Templates](https://github.com/Dotnet-Boxed/Templates) | .NET project templates with batteries included, providing the minimum amount of code required to get you going faster. |
+<!-- expansion-2026-11-11:end -->

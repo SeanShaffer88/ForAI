@@ -1407,5 +1407,396 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-zls-264c72201555",
+  "name": "zls",
+  "url": "https://github.com/zigtools/zls",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A language server for Zig supporting developers with features like autocomplete and goto definition.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ziglings-5cbd027f3a56",
+  "name": "ziglings",
+  "url": "https://github.com/ratfactor/ziglings",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Learn the Zig programming language by fixing tiny broken programs.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-book-51a2190ffd6f",
+  "name": "book",
+  "url": "https://github.com/rust-lang/book",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The Rust Programming Language. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jdk-972fc1a052c3",
+  "name": "jdk",
+  "url": "https://github.com/openjdk/jdk",
+  "category_id": "languages-and-runtimes",
+  "purpose": "JDK main-line development https://openjdk.org/projects/jdk. GPL-2.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-php-src-1ef327fe20bf",
+  "name": "php src",
+  "url": "https://github.com/php/php-src",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The PHP Interpreter.",
+  "resource_type": "repository",
+  "topics": [
+   "php"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "php"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elixir-83e442811b16",
+  "name": "elixir",
+  "url": "https://github.com/elixir-lang/elixir",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Simple from zero to scale.",
+  "resource_type": "repository",
+  "topics": [
+   "elixir"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "elixir"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-otp-229b100a26a5",
+  "name": "otp",
+  "url": "https://github.com/erlang/otp",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Erlang/OTP.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-julia-a4b4d405b0d2",
+  "name": "julia",
+  "url": "https://github.com/JuliaLang/julia",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The Julia Programming Language.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rustpython-4e4bcc56d671",
+  "name": "RustPython",
+  "url": "https://github.com/RustPython/RustPython",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A Python Interpreter written in Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python",
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-perl5-00ff918bf0bf",
+  "name": "perl5",
+  "url": "https://github.com/Perl/perl5",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The Perl programming language. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lua-121fa6bbda9b",
+  "name": "lua",
+  "url": "https://github.com/lua/lua",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-wabt-9c79405c49cc",
+  "name": "wabt",
+  "url": "https://github.com/WebAssembly/wabt",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The WebAssembly Binary Toolkit.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-binaryen-c0fc3048ed02",
+  "name": "binaryen",
+  "url": "https://github.com/WebAssembly/binaryen",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Optimizer and compiler/toolchain library for WebAssembly.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-emscripten-d57a1a24191c",
+  "name": "emscripten",
+  "url": "https://github.com/emscripten-core/emscripten",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Emscripten: An LLVM-to-WebAssembly Compiler. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-assemblyscript-2ae0fbeb9279",
+  "name": "assemblyscript",
+  "url": "https://github.com/AssemblyScript/assemblyscript",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A TypeScript-like language for WebAssembly.",
+  "resource_type": "repository",
+  "topics": [
+   "typescript"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rustup-20805299b5e3",
+  "name": "rustup",
+  "url": "https://github.com/rust-lang/rustup",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The Rust toolchain installer.",
+  "resource_type": "repository",
+  "topics": [
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rust-analyzer-9f467176bd60",
+  "name": "rust analyzer",
+  "url": "https://github.com/rust-lang/rust-analyzer",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A Rust compiler front-end for IDEs.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "rust",
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-rustlings-0f73144cf0cb",
+  "name": "rustlings",
+  "url": "https://github.com/rust-lang/rustlings",
+  "category_id": "languages-and-runtimes",
+  "purpose": "crab: Small exercises to get you used to reading and writing Rust code!",
+  "resource_type": "repository",
+  "topics": [
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nim-7fca49897df8",
+  "name": "Nim",
+  "url": "https://github.com/nim-lang/Nim",
+  "category_id": "languages-and-runtimes",
+  "purpose": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "python"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-crystal-28156f5327f1",
+  "name": "crystal",
+  "url": "https://github.com/crystal-lang/crystal",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The Crystal Programming Language.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dmd-b9f23ae1f0a2",
+  "name": "dmd",
+  "url": "https://github.com/d-lang-zz/dmd",
+  "category_id": "languages-and-runtimes",
+  "purpose": "D Compiler. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tools-4a4daa9c0851",
+  "name": "tools",
+  "url": "https://github.com/golang/tools",
+  "category_id": "languages-and-runtimes",
+  "purpose": "[mirror] Go Tools.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gofumpt-b5183d9290b1",
+  "name": "gofumpt",
+  "url": "https://github.com/mvdan/gofumpt",
+  "category_id": "languages-and-runtimes",
+  "purpose": "A stricter gofmt.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-guide-3b70e9170904",
+  "name": "guide",
+  "url": "https://github.com/uber-go/guide",
+  "category_id": "languages-and-runtimes",
+  "purpose": "The Uber Go Style Guide.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

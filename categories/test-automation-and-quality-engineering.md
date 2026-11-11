@@ -488,3 +488,29 @@ Additional entries from a focused discovery pass; see the [full expansion and ev
 | [wdio-wait-for](https://github.com/webdriverio/wdio-wait-for) | a lightweight library of useful expected conditions for the WebdriverIO framework. |
 | [wdio-cucumberjs-json-reporter](https://github.com/webdriverio-community/wdio-cucumberjs-json-reporter) | A WDIO reporter that creates CucumberJS JSON files for WebdriverIO |
 | [wdio-reportportal-reporter](https://github.com/BorisOsipov/wdio-reportportal-reporter) | A WebdriverIO plugin. Report results to Report Portal. |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [allure2](https://github.com/allure-framework/allure2) | Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testi… |
+| [ava](https://github.com/avajs/ava) | Node.js test runner that lets you develop with confidence. |
+| [doctest](https://github.com/doctest/doctest) | The fastest feature-rich C++11/14/17/20/23 single-header testing framework. |
+| [hey](https://github.com/rakyll/hey) | HTTP load generator, ApacheBench (ab) replacement. |
+| [jmeter](https://github.com/apache/jmeter) | Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services. |
+| [junit5](https://github.com/junit-team/junit-framework) | The programmer-friendly testing framework for Java and the JVM. |
+| [karate](https://github.com/karatelabs/karate) | Test Automation Made Simple. |
+| [karma](https://github.com/karma-runner/karma) | Spectacular Test Runner for JavaScript. |
+| [mockito](https://github.com/mockito/mockito) | Most popular Mocking framework for unit tests written in Java. |
+| [newman](https://github.com/postmanlabs/newman) | Newman is a command-line collection runner for Postman. |
+| [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for Chrome and Firefox. |
+| [reportportal](https://github.com/reportportal/reportportal) | Main Repository. ReportPortal starts here - see readme below. |
+| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python APIs for web automation, testing, and bypassing bot-detection. |
+| [serenity js](https://github.com/serenity-js/serenity-js) | A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale. |
+| [testcontainers java](https://github.com/testcontainers/testcontainers-java) | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. |
+| [testcontainers python](https://github.com/testcontainers/testcontainers-python) | Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. |
+| [testng](https://github.com/testng-team/testng) | TestNG testing framework. |
+<!-- expansion-2026-11-11:end -->

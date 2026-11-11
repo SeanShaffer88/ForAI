@@ -30,3 +30,24 @@ Added 2026-10-23 in the AI expansion. Primary-source pointers compiled from offi
 | Resource | Useful for / constraints |
 |---|---|
 | [TextGrad](https://github.com/zou-group/textgrad) | Automatic 'textual gradient' optimization of prompts and compound AI systems (Stanford; Nature-published). |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [awesome agent skills](https://github.com/VoltAgent/awesome-agent-skills) | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |
+| [awesome claude code](https://github.com/hesreallyhim/awesome-claude-code) | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). License not detected by GitHub; check the repository license before use. |
+| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc. |
+| [chatgpt system prompt](https://github.com/LouisShark/chatgpt_system_prompt) | A collection of GPT system prompts and various prompt injection/leaking knowledge. |
+| [claude code system prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). |
+| [code2prompt](https://github.com/mufeedvh/code2prompt) | A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. |
+| [dev browser](https://github.com/SawyerHood/dev-browser) | A Claude Skill to give your agent the ability to use a web browser. |
+| [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. |
+| [promptflow](https://github.com/microsoft/promptflow) | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. |
+| [skills](https://github.com/google/skills) | Agent Skills for Google products and technologies. |
+| [system prompts and models of ai tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev,. GPL-3.0: derivative works must stay under the GPL. |
+| [ui skills](https://github.com/ibelick/ui-skills) | Skills for Design Engineers. |
+<!-- expansion-2026-11-11:end -->

@@ -1026,5 +1026,587 @@
   "platforms": [
    "mobile"
   ]
+ },
+ {
+  "resource_id": "res-create-react-native-app-5744eb889b37",
+  "name": "create react native app",
+  "url": "https://github.com/expo/create-react-native-app",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Create React Native apps that run on iOS, Android, and web.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-fiddle-4e5a5c9ebcf6",
+  "name": "fiddle",
+  "url": "https://github.com/electron/fiddle",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "electron: The easiest way to get started with Electron.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-rubick-1419d2d00459",
+  "name": "rubick",
+  "url": "https://github.com/rubickCenter/rubick",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-fluent-reader-df674df983df",
+  "name": "fluent reader",
+  "url": "https://github.com/yang991178/fluent-reader",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Modern desktop RSS reader built with Electron, React, and Fluent UI.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-flutter-boost-7b6b321bc207",
+  "name": "flutter boost",
+  "url": "https://github.com/alibaba/flutter_boost",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-flutter-server-box-f47911211ed4",
+  "name": "flutter server box",
+  "url": "https://github.com/lollipopkit/flutter_server_box",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "ServerBox - high performance server toolbox app & server written in Flutter & Rust. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile",
+   "rust"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-pakeplus-59f4c2c4fbd2",
+  "name": "PakePlus",
+  "url": "https://github.com/Sjj1024/PakePlus",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-go-flutter-9eafeb3b308d",
+  "name": "go flutter",
+  "url": "https://github.com/go-flutter-desktop/go-flutter",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "linux",
+   "mobile",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-flutter-webrtc-a947b9d09b6d",
+  "name": "flutter webrtc",
+  "url": "https://github.com/flutter-webrtc/flutter-webrtc",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "WebRTC plugin for Flutter Mobile/Desktop/Web.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-react-native-facebook-78c40f56e78d",
+  "name": "react native (facebook)",
+  "url": "https://github.com/react/react-native",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A framework for building native applications using React.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-capacitor-45b5bce95053",
+  "name": "capacitor",
+  "url": "https://github.com/ionic-team/capacitor",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-cordova-android-4a563c53fe2f",
+  "name": "cordova android",
+  "url": "https://github.com/apache/cordova-android",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Apache Cordova Android.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-termux-app-0ef58d1bc8c7",
+  "name": "termux app",
+  "url": "https://github.com/termux/termux-app",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Termux - a terminal emulator application for Android OS extendible by variety of packages. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "git",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-react-native-windows-f2204636f4b7",
+  "name": "react native windows",
+  "url": "https://github.com/microsoft/react-native-windows",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A framework for building native Windows apps with React. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "git",
+   "mobile",
+   "windows"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-expo-119e445b1a55",
+  "name": "expo",
+  "url": "https://github.com/expo/expo",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-engine-842cb08b85f6",
+  "name": "engine",
+  "url": "https://github.com/flutter-team-archive/engine",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "The Flutter engine.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-flet-56e69a63413a",
+  "name": "flet",
+  "url": "https://github.com/flet-dev/flet",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile",
+   "python",
+   "web"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "mobile",
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-pyglet-cd54c77342ca",
+  "name": "pyglet",
+  "url": "https://github.com/pyglet/pyglet",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-pyside-setup-f891686e4a2e",
+  "name": "pyside setup",
+  "url": "https://github.com/pyside/pyside-setup",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Git super project for PySide. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "git",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-qtbase-84abb0ac8dd9",
+  "name": "qtbase",
+  "url": "https://github.com/qt/qtbase",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Qt Base (Core, Gui, Widgets, Network, ...). No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-slint-e3a58df24f77",
+  "name": "slint",
+  "url": "https://github.com/slint-ui/slint",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "git",
+   "javascript",
+   "mobile",
+   "python",
+   "rust"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "javascript",
+   "python",
+   "rust"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-iced-8cea31a679a7",
+  "name": "iced",
+  "url": "https://github.com/iced-rs/iced",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "A cross-platform GUI library for Rust, inspired by Elm.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile",
+   "rust"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-egui-c14753ec8979",
+  "name": "egui",
+  "url": "https://github.com/emilk/egui",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile",
+   "rust"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-micropython-18800a7dc95f",
+  "name": "micropython",
+  "url": "https://github.com/micropython/micropython",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "git",
+   "mobile",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-arduino-ide-88170f9b2e34",
+  "name": "arduino ide",
+  "url": "https://github.com/arduino/arduino-ide",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Arduino IDE 2.x. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-platformio-core-2768cb81ec3e",
+  "name": "platformio core",
+  "url": "https://github.com/platformio/platformio-core",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Your Gateway to Embedded Software Development Excellence :alien.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-pico-sdk-4f4b4fde9f92",
+  "name": "pico sdk",
+  "url": "https://github.com/raspberrypi/pico-sdk",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Repository with no description on GitHub.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "desktop",
+   "git",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-arduino-esp32-a7bd3e6a4199",
+  "name": "arduino esp32",
+  "url": "https://github.com/espressif/arduino-esp32",
+  "category_id": "desktop-mobile-and-device-sdks",
+  "purpose": "Arduino core for the ESP32 family of SoCs. LGPL-2.1: dynamic linking is permitted, static linking has obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-or-debug-platform-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
  }
 ]

@@ -905,5 +905,141 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-neovim-1d7d224643b0",
+  "name": "Neovim",
+  "url": "https://github.com/neovim/neovim",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Vim-fork editor with Lua configuration, a built-in LSP client, and a remote plugin API. Apache-2.0 plus Vim-license portions; verify the license mix before redistributing a bundled build.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zed-bddfd69a567c",
+  "name": "Zed",
+  "url": "https://github.com/zed-industries/zed",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Rust GPU-accelerated editor with collaborative editing, LSP, and agent panels. Dual Apache-2.0/GPL-3.0 files and platform coverage that moves quickly; confirm licensing for anything you redistribute.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "rust"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-helix-229e16e9d5e2",
+  "name": "Helix",
+  "url": "https://github.com/helix-editor/helix",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Modal editor with multiple selections and built-in LSP/DAP, configured through files rather than plugins. MPL-2.0; plugin story is thinner than Neovim's.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tmux-cf18fdb6a5dc",
+  "name": "tmux",
+  "url": "https://github.com/tmux/tmux",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Terminal multiplexer for persistent sessions, panes, and remote pair work. Indispensable over SSH; runs under WSL or MSYS rather than natively on Windows.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-zoxide-98d07fa8a4d2",
+  "name": "zoxide",
+  "url": "https://github.com/ajeetdsouza/zoxide",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Smarter cd command with a frecency-ranked directory database for bash, zsh, fish, PowerShell, and Nushell. Small binary; ranking data is per-user and disposable.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lazygit-0129025b39cc",
+  "name": "lazygit",
+  "url": "https://github.com/jesseduffield/lazygit",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Terminal UI for staging, rebasing, bisecting, and resolving conflicts. Faster than memorising plumbing for many daily flows; long-running operations can be harder to script.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-difftastic-1c7bd5f2df79",
+  "name": "difftastic",
+  "url": "https://github.com/Wilfred/difftastic",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Structural diff that parses supported languages with tree-sitter and reports syntax-aware changes. Reduces noise in refactors; language coverage and speed differ from line diffs.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-visual-studio-code-1a5ca0e955c3",
+  "name": "Visual Studio Code",
+  "url": "https://github.com/microsoft/vscode",
+  "category_id": "language-tooling-and-repository-automation",
+  "purpose": "Source for the editor that most extensions target, useful when you need extension APIs or behavior details. Distributed binaries carry Microsoft's license terms even though the repository is MIT.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

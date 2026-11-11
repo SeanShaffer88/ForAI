@@ -77,3 +77,45 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [zipkin](https://github.com/openzipkin/zipkin) | Zipkin is a distributed tracing system: collects and visualises request traces across services (OpenZipkin); OpenTelemetry is the newer instrumentation standard feeding it. |
 | [flogger](https://github.com/google/flogger) | A Fluent Logging API for Java |
 | [rustnet](https://github.com/domcyrus/rustnet) | Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed. |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [lnav](https://github.com/tstack/lnav) | Terminal log viewer with SQL queries, time-shifted merges of multiple files, and format detection. Excellent for incident archaeology on local logs; Windows builds run under WSL or MSYS. |
+| [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) | Vendor-neutral agent and gateway for receiving, processing, and exporting telemetry. Configure sampling, memory limits, and batching deliberately; it is infrastructure, not a library. |
+| [SigNoz](https://github.com/SigNoz/signoz) | OpenTelemetry-native observability backend for traces, metrics, and logs with a single UI. Self-hosting needs storage sizing; enterprise directories sit under a separate license. |
+| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime and latency monitoring with many notification integrations. Perfect for small teams; it is not a distributed prober, so check it from more than one vantage point. |
+<!-- expansion-2026-11-10:end -->
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [btrace](https://github.com/btraceio/btrace) | Production-safe dynamic tracing and diagnostics for Java applications—attach to live JVMs with no restart or recompilation. |
+| [coroot](https://github.com/coroot/coroot) | Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections. |
+| [datadog agent](https://github.com/DataDog/datadog-agent) | Main repository for Datadog Agent. |
+| [FlameGraph](https://github.com/brendangregg/FlameGraph) | Stack trace visualizer. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [fluent bit (fluent)](https://github.com/fluent/fluent-bit) | Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows. |
+| [highlight](https://github.com/highlight/highlight) | highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. License not detected by GitHub; check the repository license before use. |
+| [kibana](https://github.com/elastic/kibana) | Your window into all of your data. License not detected by GitHub; check the repository license before use. |
+| [logstash](https://github.com/elastic/logstash) | Logstash - transport and process your logs, events, or other data. License not detected by GitHub; check the repository license before use. |
+| [minitrace rust](https://github.com/tikv/minitrace-rust) | Extremely fast tracing library for Rust. |
+| [netdata](https://github.com/netdata/netdata) | The fastest path to AI-powered full stack observability, even for lean teams. GPL-3.0: derivative works must stay under the GPL. |
+| [opentelemetry cpp](https://github.com/open-telemetry/opentelemetry-cpp) | The OpenTelemetry C++ Client. |
+| [opentelemetry dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) | The OpenTelemetry .NET Client. |
+| [opentelemetry go](https://github.com/open-telemetry/opentelemetry-go) | OpenTelemetry Go API and SDK. |
+| [opentelemetry java](https://github.com/open-telemetry/opentelemetry-java) | OpenTelemetry Java SDK. |
+| [opentelemetry js](https://github.com/open-telemetry/opentelemetry-js) | OpenTelemetry JavaScript Client. |
+| [opentelemetry python](https://github.com/open-telemetry/opentelemetry-python) | OpenTelemetry Python API and SDK. |
+| [opentelemetry rust](https://github.com/open-telemetry/opentelemetry-rust) | The Rust OpenTelemetry implementation. |
+| [pprof](https://github.com/google/pprof) | pprof is a tool for visualization and analysis of profiling data. |
+| [self hosted](https://github.com/getsentry/self-hosted) | Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept. License not detected by GitHub; check the repository license before use. |
+| [uptrace](https://github.com/uptrace/uptrace) | Open source APM: OpenTelemetry traces, metrics, and logs. AGPL-3.0: network use can trigger source-disclosure obligations. |
+<!-- expansion-2026-11-11:end -->

@@ -423,3 +423,26 @@ Additional entries from a focused discovery pass; see the [full expansion and ev
 | [go-json-rest](https://github.com/ant0ine/go-json-rest) | A quick and easy way to setup a RESTful JSON API |
 | [vertx-web](https://github.com/vert-x3/vertx-web) | HTTP web applications for Vert.x |
 | [Pode](https://github.com/Badgerati/Pode) | Pode is a Cross-Platform PowerShell web framework for creating REST APIs, Web Sites, and TCP/SMTP servers |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [aip](https://github.com/aip-dev/google.aip.dev) | API Improvement Proposals. https://aip.dev/. License not detected by GitHub; check the repository license before use. |
+| [awesome architecture](https://github.com/study8677/awesome-architecture) | Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs. |
+| [awesome software architecture](https://github.com/mehdihadeli/awesome-software-architecture) | A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. |
+| [clean code dotnet](https://github.com/thangchung/clean-code-dotnet) | bathtub: Clean Code concepts and tools adapted for .NET. |
+| [COLA](https://github.com/alibaba/COLA) | COLA: Clean Object-oriented & Layered Architecture. LGPL-2.1: dynamic linking is permitted, static linking has obligations. |
+| [domain driven hexagon](https://github.com/Sairyss/domain-driven-hexagon) | Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included. |
+| [eventuate tram core](https://github.com/eventuate-tram/eventuate-tram-core) | Transactional messaging for microservices. License not detected by GitHub; check the repository license before use. |
+| [library](https://github.com/ddd-by-examples/library) | A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns. |
+| [modular monolith with ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | Full Modular Monolith application with Domain-Driven Design approach. |
+| [smithy](https://github.com/smithy-lang/smithy) | Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language. |
+| [software architecture books](https://github.com/mhadidg/software-architecture-books) | A comprehensive list of books on Software Architecture. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [system design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews. License not detected by GitHub; check the repository license before use. |
+| [system design primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. License not detected by GitHub; check the repository license before use. |
+| [Systemizer](https://github.com/honzaap/Systemizer) | A system design tool that allows you to simulate data flow of distributed systems. GPL-3.0: derivative works must stay under the GPL. |
+<!-- expansion-2026-11-11:end -->

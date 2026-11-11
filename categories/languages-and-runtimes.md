@@ -104,3 +104,36 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [FSPagerView](https://github.com/WenchaoD/FSPagerView) | FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders. |
 | [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) | Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. |
 | [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) | A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically. |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [assemblyscript](https://github.com/AssemblyScript/assemblyscript) | A TypeScript-like language for WebAssembly. |
+| [binaryen](https://github.com/WebAssembly/binaryen) | Optimizer and compiler/toolchain library for WebAssembly. |
+| [book](https://github.com/rust-lang/book) | The Rust Programming Language. License not detected by GitHub; check the repository license before use. |
+| [crystal](https://github.com/crystal-lang/crystal) | The Crystal Programming Language. |
+| [dmd](https://github.com/d-lang-zz/dmd) | D Compiler. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [elixir](https://github.com/elixir-lang/elixir) | Simple from zero to scale. |
+| [emscripten](https://github.com/emscripten-core/emscripten) | Emscripten: An LLVM-to-WebAssembly Compiler. License not detected by GitHub; check the repository license before use. |
+| [gofumpt](https://github.com/mvdan/gofumpt) | A stricter gofmt. |
+| [guide](https://github.com/uber-go/guide) | The Uber Go Style Guide. |
+| [jdk](https://github.com/openjdk/jdk) | JDK main-line development https://openjdk.org/projects/jdk. GPL-2.0: derivative works must stay under the GPL. |
+| [julia](https://github.com/JuliaLang/julia) | The Julia Programming Language. |
+| [lua](https://github.com/lua/lua) | A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [Nim](https://github.com/nim-lang/Nim) | Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. License not detected by GitHub; check the repository license before use. |
+| [otp](https://github.com/erlang/otp) | Erlang/OTP. |
+| [perl5](https://github.com/Perl/perl5) | The Perl programming language. License not detected by GitHub; check the repository license before use. |
+| [php src](https://github.com/php/php-src) | The PHP Interpreter. |
+| [rust analyzer](https://github.com/rust-lang/rust-analyzer) | A Rust compiler front-end for IDEs. |
+| [rustlings](https://github.com/rust-lang/rustlings) | crab: Small exercises to get you used to reading and writing Rust code! |
+| [RustPython](https://github.com/RustPython/RustPython) | A Python Interpreter written in Rust. |
+| [rustup](https://github.com/rust-lang/rustup) | The Rust toolchain installer. |
+| [tools](https://github.com/golang/tools) | [mirror] Go Tools. |
+| [wabt](https://github.com/WebAssembly/wabt) | The WebAssembly Binary Toolkit. |
+| [ziglings](https://github.com/ratfactor/ziglings) | Learn the Zig programming language by fixing tiny broken programs. |
+| [zls](https://github.com/zigtools/zls) | A language server for Zig supporting developers with features like autocomplete and goto definition. |
+<!-- expansion-2026-11-11:end -->

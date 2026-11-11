@@ -74,3 +74,20 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [emacs](https://github.com/emacs-mirror/emacs) | Mirror of GNU Emacs: the extensible text editor and Lisp environment; most users install a release build rather than building this source. |
 | [freeze](https://github.com/charmbracelet/freeze) | Generate images of code and terminal output 📸 |
 | [musikcube](https://github.com/clangen/musikcube) | a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++ |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [difftastic](https://github.com/Wilfred/difftastic) | Structural diff that parses supported languages with tree-sitter and reports syntax-aware changes. Reduces noise in refactors; language coverage and speed differ from line diffs. |
+| [Helix](https://github.com/helix-editor/helix) | Modal editor with multiple selections and built-in LSP/DAP, configured through files rather than plugins. MPL-2.0; plugin story is thinner than Neovim's. |
+| [lazygit](https://github.com/jesseduffield/lazygit) | Terminal UI for staging, rebasing, bisecting, and resolving conflicts. Faster than memorising plumbing for many daily flows; long-running operations can be harder to script. |
+| [Neovim](https://github.com/neovim/neovim) | Vim-fork editor with Lua configuration, a built-in LSP client, and a remote plugin API. Apache-2.0 plus Vim-license portions; verify the license mix before redistributing a bundled build. |
+| [tmux](https://github.com/tmux/tmux) | Terminal multiplexer for persistent sessions, panes, and remote pair work. Indispensable over SSH; runs under WSL or MSYS rather than natively on Windows. |
+| [Visual Studio Code](https://github.com/microsoft/vscode) | Source for the editor that most extensions target, useful when you need extension APIs or behavior details. Distributed binaries carry Microsoft's license terms even though the repository is MIT. |
+| [Zed](https://github.com/zed-industries/zed) | Rust GPU-accelerated editor with collaborative editing, LSP, and agent panels. Dual Apache-2.0/GPL-3.0 files and platform coverage that moves quickly; confirm licensing for anything you redistribute. |
+| [zoxide](https://github.com/ajeetdsouza/zoxide) | Smarter cd command with a frecency-ranked directory database for bash, zsh, fish, PowerShell, and Nushell. Small binary; ranking data is per-user and disposable. |
+<!-- expansion-2026-11-10:end -->

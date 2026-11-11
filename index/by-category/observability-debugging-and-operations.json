@@ -590,5 +590,426 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-signoz-99807b23a374",
+  "name": "SigNoz",
+  "url": "https://github.com/SigNoz/signoz",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "OpenTelemetry-native observability backend for traces, metrics, and logs with a single UI. Self-hosting needs storage sizing; enterprise directories sit under a separate license.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-uptime-kuma-340f27f4ba30",
+  "name": "Uptime Kuma",
+  "url": "https://github.com/louislam/uptime-kuma",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Self-hosted uptime and latency monitoring with many notification integrations. Perfect for small teams; it is not a distributed prober, so check it from more than one vantage point.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lnav-d92a657448fe",
+  "name": "lnav",
+  "url": "https://github.com/tstack/lnav",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Terminal log viewer with SQL queries, time-shifted merges of multiple files, and format detection. Excellent for incident archaeology on local logs; Windows builds run under WSL or MSYS.",
+  "resource_type": "repository",
+  "topics": [
+   "database",
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-opentelemetry-collector-d795e2c0eb40",
+  "name": "OpenTelemetry Collector",
+  "url": "https://github.com/open-telemetry/opentelemetry-collector",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Vendor-neutral agent and gateway for receiving, processing, and exporting telemetry. Configure sampling, memory limits, and batching deliberately; it is infrastructure, not a library.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opentelemetry-python-59e5ce14f787",
+  "name": "opentelemetry python",
+  "url": "https://github.com/open-telemetry/opentelemetry-python",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "OpenTelemetry Python API and SDK.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "observability",
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opentelemetry-go-21815fa7b62a",
+  "name": "opentelemetry go",
+  "url": "https://github.com/open-telemetry/opentelemetry-go",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "OpenTelemetry Go API and SDK.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opentelemetry-rust-08c4f4293a27",
+  "name": "opentelemetry rust",
+  "url": "https://github.com/open-telemetry/opentelemetry-rust",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "The Rust OpenTelemetry implementation.",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "rust"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fluent-bit-fluent-d5240016c96f",
+  "name": "fluent bit (fluent)",
+  "url": "https://github.com/fluent/fluent-bit",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows.",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "observability",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-coroot-5ad0cb6981a5",
+  "name": "coroot",
+  "url": "https://github.com/coroot/coroot",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-uptrace-525266d86fa8",
+  "name": "uptrace",
+  "url": "https://github.com/uptrace/uptrace",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Open source APM: OpenTelemetry traces, metrics, and logs. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-datadog-agent-0c63d1f9d722",
+  "name": "datadog agent",
+  "url": "https://github.com/DataDog/datadog-agent",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Main repository for Datadog Agent.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-btrace-3c1a05733ae1",
+  "name": "btrace",
+  "url": "https://github.com/btraceio/btrace",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Production-safe dynamic tracing and diagnostics for Java applications—attach to live JVMs with no restart or recompilation.",
+  "resource_type": "repository",
+  "topics": [
+   "java",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-minitrace-rust-f97e0d40594c",
+  "name": "minitrace rust",
+  "url": "https://github.com/tikv/minitrace-rust",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Extremely fast tracing library for Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "observability",
+   "rust"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opentelemetry-js-fc6962ca790f",
+  "name": "opentelemetry js",
+  "url": "https://github.com/open-telemetry/opentelemetry-js",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "OpenTelemetry JavaScript Client.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opentelemetry-java-329a908fe321",
+  "name": "opentelemetry java",
+  "url": "https://github.com/open-telemetry/opentelemetry-java",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "OpenTelemetry Java SDK.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "java",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opentelemetry-cpp-3e027f8b3aa1",
+  "name": "opentelemetry cpp",
+  "url": "https://github.com/open-telemetry/opentelemetry-cpp",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "The OpenTelemetry C++ Client.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-opentelemetry-dotnet-4795aec552a8",
+  "name": "opentelemetry dotnet",
+  "url": "https://github.com/open-telemetry/opentelemetry-dotnet",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "The OpenTelemetry .NET Client.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-netdata-ffa38aa23755",
+  "name": "netdata",
+  "url": "https://github.com/netdata/netdata",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "The fastest path to AI-powered full stack observability, even for lean teams. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kibana-a07343feebbc",
+  "name": "kibana",
+  "url": "https://github.com/elastic/kibana",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Your window into all of your data. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-logstash-1eba2c4e6164",
+  "name": "logstash",
+  "url": "https://github.com/elastic/logstash",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Logstash - transport and process your logs, events, or other data. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-flamegraph-7bbd3b04aff8",
+  "name": "FlameGraph",
+  "url": "https://github.com/brendangregg/FlameGraph",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Stack trace visualizer. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pprof-61dbaa3e3ebe",
+  "name": "pprof",
+  "url": "https://github.com/google/pprof",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "pprof is a tool for visualization and analysis of profiling data.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-self-hosted-59beb9f13c0d",
+  "name": "self hosted",
+  "url": "https://github.com/getsentry/self-hosted",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-highlight-9aa0c2f7c67a",
+  "name": "highlight",
+  "url": "https://github.com/highlight/highlight",
+  "category_id": "observability-debugging-and-operations",
+  "purpose": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "observability"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

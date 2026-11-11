@@ -67,3 +67,34 @@ Project reference checked 2026-10-22:
 | Resource | Useful for / constraints |
 |---|---|
 | [Android local WebView content](https://developer.android.com/develop/ui/views/layout/webapps/load-local-content) | Official guidance for bundling HTML/JS/CSS inside Android apps; use an app-owned HTTPS origin and controlled asset loading, prohibit external navigation, and verify offline startup and WebView lifecycle. Official load-in-app-content documentation read for an offline game shell; local asset packaging, source restriction and no-network manifest checked. Physical-device lifecycle and startup remain to be tested. |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [AAA](https://github.com/Psyhackological/AAA) | iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy! |
+| [accompanist](https://github.com/google/accompanist) | A collection of extension libraries for Jetpack Compose. |
+| [android emulator container scripts](https://github.com/google/android-emulator-container-scripts) | This is a set of minimal scripts to run the emulator in a container for various systems such as Docker, for external consumption. |
+| [androidx](https://github.com/androidx/androidx) | Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP. |
+| [architecture samples](https://github.com/android/architecture-samples) | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. |
+| [awesome android ui](https://github.com/wasabeef/awesome-android-ui) | A curated list of awesome Android UI/UX libraries. |
+| [awesome flutter](https://github.com/Solido/awesome-flutter) | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [coil](https://github.com/coil-kt/coil) | Image loading for Android and Compose Multiplatform. |
+| [compose samples](https://github.com/android/compose-samples) | Official Jetpack Compose samples. |
+| [dex2jar](https://github.com/pxb1988/dex2jar) | Tools to work with android .dex and java .class files. |
+| [firefox android](https://github.com/mozilla-mobile/firefox-android) | warning: This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects. It is now developed and maintained as part of Mozilla Central. MPL-2.0: file-level copyleft; modified files must be published. |
+| [koin](https://github.com/InsertKoinIO/koin) | Koin - pragmatic dependency injection for Kotlin & Kotlin Multiplatform. Koin DSL or Koin Annotations (JSR-330), compile safe with the Koin Compiler Plugin. |
+| [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | Library support for Kotlin coroutines. |
+| [leakcanary](https://github.com/square/leakcanary) | A memory leak detection library for Android. |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. GPL-3.0: derivative works must stay under the GPL. |
+| [okhttp](https://github.com/lysine-dev/okhttp) | A meticulous HTTP client for the JVM, Android, and GraalVM. |
+| [pokedex](https://github.com/skydoves/Pokedex) | Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture. |
+| [RepoStore](https://github.com/samyak2403/RepoStore) | Explore apps published on GitHub, view release details, and install APKs instantly — all in one place. Developed using pure Kotlin, optimized for modern Android devices. |
+| [retrofit](https://github.com/lysine-dev/retrofit) | A type-safe HTTP client for Android and the JVM. |
+| [SAI](https://github.com/Aefyr/SAI) | Android split APKs installer. GPL-3.0: derivative works must stay under the GPL. |
+| [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device. |
+| [universal android debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. GPL-3.0: derivative works must stay under the GPL. |
+<!-- expansion-2026-11-11:end -->

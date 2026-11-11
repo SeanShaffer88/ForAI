@@ -108,3 +108,13 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [avet](https://github.com/govolution/avet) | AntiVirus Evasion Tool |
 | [commix](https://github.com/commixproject/commix) | Automated Αll-in-One OS command injection exploitation tool. |
 | [plasma](https://github.com/plasma-disassembler/plasma) | Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax. |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Cosign](https://github.com/sigstore/cosign) | Sign and verify container images and artifacts, with keyless OIDC signing and transparency-log evidence. Signature verification only proves provenance for keys you trust; define that policy first. |
+<!-- expansion-2026-11-10:end -->

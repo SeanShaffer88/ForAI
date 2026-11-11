@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "description": "Generated counts for the whole repository. Documentation should quote these values instead of hard-coding them; regenerate with scripts/catalog_stats.py --write and verify with scripts/catalog_stats.py --check.",
+  "generated_from": "resources.json",
+  "records": 2937,
+  "distinct_urls": 2931,
+  "distinct_projects": 2328,
+  "categories": 101,
+  "windows_categories": 46,
+  "windows_records": 249,
+  "domains": 13,
+  "domain_rollup": [
+    {
+      "domain": "ai",
+      "resource_count": 431,
+      "category_count": 13
+    },
+    {
+      "domain": "languages-runtimes",
+      "resource_count": 360,
+      "category_count": 5
+    },
+    {
+      "domain": "web-api-architecture",
+      "resource_count": 307,
+      "category_count": 4
+    },
+    {
+      "domain": "cloud-infra-devops",
+      "resource_count": 305,
+      "category_count": 4
+    },
+    {
+      "domain": "windows",
+      "resource_count": 249,
+      "category_count": 46
+    },
+    {
+      "domain": "media-games-docs",
+      "resource_count": 234,
+      "category_count": 5
+    },
+    {
+      "domain": "data",
+      "resource_count": 222,
+      "category_count": 4
+    },
+    {
+      "domain": "desktop-mobile",
+      "resource_count": 184,
+      "category_count": 3
+    },
+    {
+      "domain": "operations-tools",
+      "resource_count": 175,
+      "category_count": 7
+    },
+    {
+      "domain": "design-ux",
+      "resource_count": 162,
+      "category_count": 4
+    },
+    {
+      "domain": "security",
+      "resource_count": 154,
+      "category_count": 2
+    },
+    {
+      "domain": "testing-quality",
+      "resource_count": 135,
+      "category_count": 2
+    },
+    {
+      "domain": "foundations",
+      "resource_count": 19,
+      "category_count": 2
+    }
+  ],
+  "by_source": {
+    "ai-expansion": 301,
+    "development-expansion-2026-10-23": 200,
+    "development-expansion-2026-10-27": 500,
+    "development-expansion-2026-10-27-round-2": 500,
+    "expansion-2026-11-10": 82,
+    "expansion-2026-11-11": 653,
+    "general": 459,
+    "user-requested": 10,
+    "windows": 232
+  },
+  "by_resource_type": {
+    "course": 16,
+    "curated-list": 31,
+    "dataset": 18,
+    "design-reference": 10,
+    "documentation": 372,
+    "reference": 177,
+    "repository": 2298,
+    "service": 6,
+    "standard": 9
+  },
+  "largest_categories": [
+    {
+      "category": "API contracts clients and networking",
+      "category_id": "api-contracts-clients-and-networking",
+      "count": 142
+    },
+    {
+      "category": "Infrastructure as code and cloud-native operations",
+      "category_id": "infrastructure-as-code-and-cloud-native-operations",
+      "count": 123
+    },
+    {
+      "category": "Languages and runtimes",
+      "category_id": "languages-and-runtimes",
+      "count": 110
+    },
+    {
+      "category": "Cloud infrastructure and deployment",
+      "category_id": "cloud-infrastructure-and-deployment",
+      "count": 101
+    },
+    {
+      "category": "Web interfaces and application frameworks",
+      "category_id": "web-interfaces-and-application-frameworks",
+      "count": 95
+    },
+    {
+      "category": "Python Rust and Go building blocks",
+      "category_id": "python-rust-and-go-building-blocks",
+      "count": 92
+    },
+    {
+      "category": "Niche language ecosystems",
+      "category_id": "niche-language-ecosystems",
+      "count": 90
+    },
+    {
+      "category": "Security identity and supply chain",
+      "category_id": "security-identity-and-supply-chain",
+      "count": 89
+    },
+    {
+      "category": "Databases data access and analytics",
+      "category_id": "databases-data-access-and-analytics",
+      "count": 87
+    },
+    {
+      "category": "Test automation and quality engineering",
+      "category_id": "test-automation-and-quality-engineering",
+      "count": 82
+    },
+    {
+      "category": "Android APK development and analysis",
+      "category_id": "android-apk-development-and-analysis",
+      "count": 78
+    },
+    {
+      "category": "Desktop mobile and device SDKs",
+      "category_id": "desktop-mobile-and-device-sdks",
+      "count": 78
+    },
+    {
+      "category": "AI MCP servers and tool use",
+      "category_id": "ai-mcp-servers-and-tool-use",
+      "count": 73
+    },
+    {
+      "category": "AI machine learning and local inference",
+      "category_id": "ai-machine-learning-and-local-inference",
+      "count": 71
+    },
+    {
+      "category": "Graphics multimedia scientific and geospatial",
+      "category_id": "graphics-multimedia-scientific-and-geospatial",
+      "count": 70
+    }
+  ],
+  "sizes_bytes": {
+    "resources.json": 3499358,
+    "index/resources.compact.json": 1229915,
+    "llms-full.txt": 2094899,
+    "compact_percent_of_canonical": 35.1
+  }
+}

@@ -400,5 +400,438 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-aspnetcore-b742b9513042",
+  "name": "aspnetcore",
+  "url": "https://github.com/dotnet/aspnetcore",
+  "category_id": "net-application-building-blocks",
+  "purpose": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+  "resource_type": "repository",
+  "topics": [
+   "cloud",
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-abp-d955c40d294e",
+  "name": "abp",
+  "url": "https://github.com/abpframework/abp",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. LGPL-3.0: dynamic linking is permitted, static linking has obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "web"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-nswag-f1dd28a15e25",
+  "name": "NSwag",
+  "url": "https://github.com/RicoSuter/NSwag",
+  "category_id": "net-application-building-blocks",
+  "purpose": "The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "typescript"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-orchardcore-86abf22637c6",
+  "name": "OrchardCore",
+  "url": "https://github.com/OrchardCMS/OrchardCore",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-litedb-b3db893c4f57",
+  "name": "LiteDB",
+  "url": "https://github.com/litedb-org/LiteDB",
+  "category_id": "net-application-building-blocks",
+  "purpose": "LiteDB - A .NET NoSQL Document Store in a single data file.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ocelot-3c8cdd9ea993",
+  "name": "Ocelot",
+  "url": "https://github.com/ThreeMammals/Ocelot",
+  "category_id": "net-application-building-blocks",
+  "purpose": ".NET API Gateway.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-templates-b856e93b9bdf",
+  "name": "Templates",
+  "url": "https://github.com/Dotnet-Boxed/Templates",
+  "category_id": "net-application-building-blocks",
+  "purpose": ".NET project templates with batteries included, providing the minimum amount of code required to get you going faster.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dotnetcoreplugins-2bf76c02d34d",
+  "name": "DotNetCorePlugins",
+  "url": "https://github.com/natemcmaster/DotNetCorePlugins",
+  "category_id": "net-application-building-blocks",
+  "purpose": ".NET Core library for dynamically loading code.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-maui-ee6659187141",
+  "name": "maui",
+  "url": "https://github.com/dotnet/maui",
+  "category_id": "net-application-building-blocks",
+  "purpose": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+  "resource_type": "repository",
+  "topics": [
+   "desktop",
+   "mobile"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-efcore-b4c33c1e82f7",
+  "name": "efcore",
+  "url": "https://github.com/dotnet/efcore",
+  "category_id": "net-application-building-blocks",
+  "purpose": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+  "resource_type": "repository",
+  "topics": [
+   "database"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aspnet-api-versioning-ca52a6a43165",
+  "name": "aspnet api versioning",
+  "url": "https://github.com/dotnet/aspnet-api-versioning",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Provides a set of libraries which add service API versioning to ASP.NET Core Minimal APIs, Controllers, gRPC, OData, and Web API (Classic).",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-command-line-api-f5810bc7df41",
+  "name": "command line api",
+  "url": "https://github.com/dotnet/command-line-api",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Command line parsing, invocation, and rendering of terminal output.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mono-0b575a9130ec",
+  "name": "mono",
+  "url": "https://github.com/mono/mono",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Mono open source ECMA CLI, C# and .NET implementation. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-maui-samples-a265a35f3464",
+  "name": "maui samples",
+  "url": "https://github.com/dotnet/maui-samples",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Samples for .NET Multi-Platform App UI (.NET MAUI).",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jellyfin-e9c0ec7bb3fb",
+  "name": "jellyfin",
+  "url": "https://github.com/jellyfin/jellyfin",
+  "category_id": "net-application-building-blocks",
+  "purpose": "The Free Software Media System - Server Backend & API. GPL-2.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mqttnet-fbd28e35dcce",
+  "name": "MQTTnet",
+  "url": "https://github.com/dotnet/MQTTnet",
+  "category_id": "net-application-building-blocks",
+  "purpose": "MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-automapper-7be25154dbfe",
+  "name": "AutoMapper",
+  "url": "https://github.com/LuckyPennySoftware/AutoMapper",
+  "category_id": "net-application-building-blocks",
+  "purpose": "A convention-based object-object mapper in .NET. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nlog-482df528aad3",
+  "name": "nlog",
+  "url": "https://github.com/NLog/NLog",
+  "category_id": "net-application-building-blocks",
+  "purpose": "NLog - Flexible and Structured Logging for various .NET Platforms.",
+  "resource_type": "repository",
+  "topics": [
+   "observability"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mediatr-6869c2361b0a",
+  "name": "MediatR",
+  "url": "https://github.com/LuckyPennySoftware/MediatR",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Simple, unambitious mediator implementation in .NET. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-eshoponweb-62baae3bc128",
+  "name": "eShopOnWeb",
+  "url": "https://github.com/dotnet-architecture/eShopOnWeb",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-eshoponcontainers-ad3a87e93364",
+  "name": "eShopOnContainers",
+  "url": "https://github.com/dotnet-architecture/eShopOnContainers",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "cloud",
+   "containers",
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-cleanarchitecture-e17a0275f9d7",
+  "name": "CleanArchitecture",
+  "url": "https://github.com/ardalis/CleanArchitecture",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cleanarchitecture-jasontaylordev-4bb082c492cb",
+  "name": "CleanArchitecture (jasontaylordev)",
+  "url": "https://github.com/jasontaylordev/CleanArchitecture",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Clean Architecture Solution Template for ASP.NET Core.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-elsa-core-ea382ffbf91d",
+  "name": "elsa core",
+  "url": "https://github.com/elsa-workflows/elsa-core",
+  "category_id": "net-application-building-blocks",
+  "purpose": "The Workflow Engine for .NET.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reverse-proxy-0221b1e4560e",
+  "name": "reverse proxy",
+  "url": "https://github.com/dotnet/yarp",
+  "category_id": "net-application-building-blocks",
+  "purpose": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-silk-net-96f1ed6afaab",
+  "name": "Silk.NET",
+  "url": "https://github.com/dotnet/Silk.NET",
+  "category_id": "net-application-building-blocks",
+  "purpose": "The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nuget-client-7e02ed487992",
+  "name": "NuGet.Client",
+  "url": "https://github.com/NuGet/NuGet.Client",
+  "category_id": "net-application-building-blocks",
+  "purpose": "Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues). License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "implement-with-a-language-or-sdk"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

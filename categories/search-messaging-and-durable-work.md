@@ -44,3 +44,41 @@ A further 500-resource development discovery pass. Entries below were selected f
 |---|---|
 | [gulp](https://github.com/gulpjs/gulp) | A toolkit to automate & enhance your workflow |
 | [enqueue-dev](https://github.com/php-enqueue/enqueue-dev) | Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro |
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [activemq](https://github.com/apache/activemq) | Apache ActiveMQ. |
+| [Activiti](https://github.com/Activiti/Activiti) | Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. |
+| [asynq](https://github.com/hibiken/asynq) | Simple, reliable, and efficient distributed task queue in Go. |
+| [bull](https://github.com/OptimalBits/bull) | Premium Queue package for handling distributed jobs and messages in NodeJS. License not detected by GitHub; check the repository license before use. |
+| [cadence](https://github.com/cadence-workflow/cadence) | Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. |
+| [camunda](https://github.com/camunda/camunda) | Agentic Orchestration Platform. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [conductor](https://github.com/Netflix/conductor) | Conductor is a microservices orchestration engine. |
+| [conductor (conductor-oss)](https://github.com/conductor-oss/conductor) | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents. |
+| [elasticsearch](https://github.com/elastic/elasticsearch) | Free and Open Source, Distributed, RESTful Search Engine. License not detected by GitHub; check the repository license before use. |
+| [flowable engine](https://github.com/flowable/flowable-engine) | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. |
+| [kafka](https://github.com/apache/kafka) | Apache Kafka - A distributed event streaming platform. |
+| [nats server](https://github.com/nats-io/nats-server) | High-Performance server for NATS.io, the cloud and edge native messaging system. |
+| [nsq](https://github.com/nsqio/nsq) | A realtime distributed messaging platform. |
+| [pulsar](https://github.com/apache/pulsar) | Apache Pulsar - distributed pub-sub messaging system. |
+| [quickwit](https://github.com/quickwit-oss/quickwit) | Cloud-native OSS search engine for observability. |
+| [rabbitmq server](https://github.com/rabbitmq/rabbitmq-server) | Open source RabbitMQ: core server and tier 1 (built-in) plugins. License not detected by GitHub; check the repository license before use. |
+| [redpanda](https://github.com/redpanda-data/redpanda) | Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+| [resque](https://github.com/resque/resque) | Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later. |
+| [restate](https://github.com/restatedev/restate) | Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. License not detected by GitHub; check the repository license before use. |
+| [river](https://github.com/riverqueue/river) | The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite. MPL-2.0: file-level copyleft; modified files must be published. |
+| [rq](https://github.com/rq/rq) | Simple job queues for Python. License not detected by GitHub; check the repository license before use. |
+| [schema registry](https://github.com/confluentinc/schema-registry) | Confluent Schema Registry for Kafka. License not detected by GitHub; check the repository license before use. |
+| [seatunnel](https://github.com/apache/seatunnel) | SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool. |
+| [sidekiq](https://github.com/sidekiq/sidekiq) | Simple, efficient background processing for Ruby. License not detected by GitHub; check the repository license before use. |
+| [solr](https://github.com/apache/solr) | Apache Solr open-source search software. |
+| [tantivy](https://github.com/quickwit-oss/tantivy) | Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust. |
+| [typesense](https://github.com/typesense/typesense) | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences. GPL-3.0: derivative works must stay under the GPL. |
+| [vespa](https://github.com/vespa-engine/vespa) | The AI search platform. |
+| [zeebe](https://github.com/camunda/camunda) | Agentic Orchestration Platform. No license detected by GitHub; default copyright applies, so treat reuse as unsupported. |
+<!-- expansion-2026-11-11:end -->

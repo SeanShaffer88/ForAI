@@ -1465,5 +1465,37 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-can-i-use-f0d3cb2979eb",
+  "name": "Can I use",
+  "url": "https://caniuse.com/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Browser support tables for HTML, CSS, and Web API features with notes and known issues. Data is sourced from browser vendors and maintained by contributors; confirm critical features against target browsers.",
+  "resource_type": "reference",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-web-dev-b769fa1a621a",
+  "name": "web.dev",
+  "url": "https://web.dev/",
+  "category_id": "web-interfaces-and-application-frameworks",
+  "purpose": "Guidance from the Chrome team on Core Web Vitals, performance, accessibility, and modern web APIs. Authoritative for Chrome behavior; cross-check Safari and Firefox compatibility before relying on a feature.",
+  "resource_type": "reference",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "research-or-build-interfaces"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

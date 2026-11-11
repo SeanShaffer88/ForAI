@@ -1,0 +1,170 @@
+[
+ {
+  "resource_id": "res-semantic-versioning-0f981ad405dd",
+  "name": "Semantic Versioning",
+  "url": "https://semver.org/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "Version-numbering rules (MAJOR.MINOR.PATCH) that let tools and consumers infer compatibility. A specification, not a release policy: it only means something once your project declares what its public API is.",
+  "resource_type": "standard",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-keep-a-changelog-3005484ec43d",
+  "name": "Keep a Changelog",
+  "url": "https://keepachangelog.com/en/1.1.0/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "Convention for human-readable CHANGELOG.md files grouped by Added/Changed/Deprecated/Removed/Fixed/Security. Pairs naturally with SemVer; it rejects raw commit-log dumps as changelogs.",
+  "resource_type": "reference",
+  "topics": [
+   "security"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-conventional-commits-0f23be271d2b",
+  "name": "Conventional Commits",
+  "url": "https://www.conventionalcommits.org/en/v1.0.0/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "Commit-message specification (feat/fix/scope/!) that maps to SemVer and enables automated changelogs and releases. Requires team agreement and a linter to be worth anything.",
+  "resource_type": "standard",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-choose-a-license-ee780fb6add5",
+  "name": "Choose a License",
+  "url": "https://choosealicense.com/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "Short decision guide to common open-source licenses and what happens with none. Guidance, not legal advice; confirm obligations with counsel for commercial or mixed-license projects.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spdx-license-list-0881cc3266ce",
+  "name": "SPDX License List",
+  "url": "https://spdx.org/licenses/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "Canonical short identifiers, names, and license texts used in package metadata and SBOMs. Use SPDX IDs in manifests instead of free-text license names.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-reuse-specification-162f568fc666",
+  "name": "REUSE Specification",
+  "url": "https://reuse.software/spec-3.3/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "File-level licensing metadata via SPDX headers and a LICENSES/ directory, plus a linting tool. Makes per-file provenance auditable in mixed-license repositories.",
+  "resource_type": "standard",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-architecture-decision-records-14437c9c3210",
+  "name": "Architecture Decision Records",
+  "url": "https://adr.github.io/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "Practices and templates for recording architectural decisions with context and consequences. Cheap to adopt; value comes from writing them at decision time, not retroactively.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-di-taxis-26b3444df417",
+  "name": "Diátaxis",
+  "url": "https://diataxis.fr/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "Documentation framework separating tutorials, how-to guides, reference, and explanation. Useful structure test for docs that mix four different reader needs into one page.",
+  "resource_type": "reference",
+  "topics": [
+   "testing"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-contributor-covenant-6e39971e4bae",
+  "name": "Contributor Covenant",
+  "url": "https://www.contributor-covenant.org/version/2/1/code_of_conduct/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "Widely adopted code of conduct with enforcement guidelines. Fill in the reporting contact and review the enforcement section before publishing it.",
+  "resource_type": "reference",
+  "topics": [],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-the-twelve-factor-app-26df9232eb98",
+  "name": "The Twelve-Factor App",
+  "url": "https://12factor.net/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "Methodology for portable, operable services: config in the environment, stateless processes, logs as streams. Guidance from the Heroku era; some factors need reinterpretation for serverless and Kubernetes.",
+  "resource_type": "reference",
+  "topics": [
+   "cloud",
+   "containers"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-c4-model-818c10d2f92d",
+  "name": "C4 model",
+  "url": "https://c4model.com/",
+  "category_id": "software-engineering-foundations-and-standards",
+  "purpose": "Hierarchical approach to architecture diagrams: context, container, component, code. Notation- and tool-independent, which helps when diagrams must survive tool changes.",
+  "resource_type": "reference",
+  "topics": [
+   "architecture",
+   "containers"
+  ],
+  "use_cases": [
+   "develop-or-learn-software"
+  ],
+  "languages": [],
+  "platforms": []
+ }
+]

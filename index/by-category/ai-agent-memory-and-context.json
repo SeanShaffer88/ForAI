@@ -94,5 +94,104 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-supermemory-def4bf056d33",
+  "name": "supermemory",
+  "url": "https://github.com/supermemoryai/supermemory",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hindsight-e1517eb88dcc",
+  "name": "hindsight",
+  "url": "https://github.com/vectorize-io/hindsight",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "Hindsight: Agent Memory That Learns.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-agentmemory-f911fc66859c",
+  "name": "agentmemory",
+  "url": "https://github.com/rohitg00/agentmemory",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "#1 Persistent memory for AI coding agents based on real-world benchmarks.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-everos-3fc84149f8ad",
+  "name": "EverOS",
+  "url": "https://github.com/EverMind-AI/EverOS",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-memori-74cfc164c388",
+  "name": "Memori",
+  "url": "https://github.com/MemoriLabs/Memori",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-memobase-b8609a452cf4",
+  "name": "memobase",
+  "url": "https://github.com/memodb-io/memobase",
+  "category_id": "ai-agent-memory-and-context",
+  "purpose": "User Profile-Based Long-Term Memory for AI Chatbot Applications.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

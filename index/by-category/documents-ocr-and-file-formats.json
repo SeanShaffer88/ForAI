@@ -503,5 +503,342 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-doctr-e1ac77aea63a",
+  "name": "doctr",
+  "url": "https://github.com/mindee/doctr",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing development and maintenance by t2k.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-donut-71071e7e17e3",
+  "name": "donut",
+  "url": "https://github.com/clovaai/donut",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-parsr-68a6b32b2973",
+  "name": "Parsr",
+  "url": "https://github.com/axa-group/Parsr",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Transforms PDF, Documents and Images into Enriched Structured Data.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zerox-5118ced2b224",
+  "name": "zerox",
+  "url": "https://github.com/getomni-ai/zerox",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "OCR & Document Extraction using vision models.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-layout-parser-b40149ab27d3",
+  "name": "layout parser",
+  "url": "https://github.com/Layout-Parser/layout-parser",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "A Unified Toolkit for Deep Learning Based Document Image Analysis.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-percollate-19746739b6a6",
+  "name": "percollate",
+  "url": "https://github.com/danburzo/percollate",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pdfarranger-6c3af38386d1",
+  "name": "pdfarranger",
+  "url": "https://github.com/pdfarranger/pdfarranger",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pdf-lib-d6fd70045b3e",
+  "name": "pdf lib",
+  "url": "https://github.com/Hopding/pdf-lib",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Create and modify PDF documents in any JavaScript environment.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kcc-ed83823f4cad",
+  "name": "kcc",
+  "url": "https://github.com/ciromattia/kcc",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-desktopeditors-7669254a45b8",
+  "name": "DesktopEditors",
+  "url": "https://github.com/ONLYOFFICE/DesktopEditors",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "linux",
+   "windows"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": [
+   "linux",
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-tesseract-682ed05e4c89",
+  "name": "tesseract",
+  "url": "https://github.com/tesseract-ocr/tesseract",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Tesseract Open Source OCR Engine (main repository).",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ocrmypdf-9241170fc811",
+  "name": "OCRmyPDF",
+  "url": "https://github.com/ocrmypdf/OCRmyPDF",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched. MPL-2.0: file-level copyleft; modified files must be published.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pdfminer-six-fa437a450b41",
+  "name": "pdfminer.six",
+  "url": "https://github.com/pdfminer/pdfminer.six",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Community maintained fork of pdfminer - we fathom PDF.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pymupdf-7120794ee24a",
+  "name": "PyMuPDF",
+  "url": "https://github.com/pymupdf/PyMuPDF",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-docx-7c5df5df26fc",
+  "name": "docx",
+  "url": "https://github.com/dolanmiu/docx",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tika-6e96b58011ef",
+  "name": "tika",
+  "url": "https://github.com/apache/tika",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-file-82426dc88fa1",
+  "name": "file",
+  "url": "https://github.com/file/file",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-libyal-dc63f87da0e2",
+  "name": "libyal",
+  "url": "https://github.com/libyal/libyal",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Yet another library library (and tools).",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-liteparse-e986c4ba03d7",
+  "name": "liteparse",
+  "url": "https://github.com/run-llama/liteparse",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "A fast, helpful, and open-source document parser.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-noteshrink-c9a449817e2b",
+  "name": "noteshrink",
+  "url": "https://github.com/mzucker/noteshrink",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Convert scans of handwritten notes to beautiful, compact PDFs.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grobid-c7df59cc3efb",
+  "name": "grobid",
+  "url": "https://github.com/grobidOrg/grobid",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "A machine learning software for extracting information from scholarly documents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mineru-1dd95a974a0b",
+  "name": "MinerU",
+  "url": "https://github.com/opendatalab/MinerU",
+  "category_id": "documents-ocr-and-file-formats",
+  "purpose": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git",
+   "llm"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

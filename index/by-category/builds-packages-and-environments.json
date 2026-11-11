@@ -588,5 +588,492 @@
    "haskell"
   ],
   "platforms": []
+ },
+ {
+  "resource_id": "res-poetry-5ea9b8595ab5",
+  "name": "Poetry",
+  "url": "https://github.com/python-poetry/poetry",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Python dependency management and packaging with lockfiles and a pyproject-based workflow. Compare against uv and pip-tools for speed and lock resolution policy; both formats differ.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-conda-411a640cf68c",
+  "name": "conda",
+  "url": "https://github.com/conda/conda",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Cross-language binary package and environment manager, historically important for scientific and native Python stacks. BSD-3-Clause; channel and solver choice materially change reproducibility.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-scoop-c016c4e05e8f",
+  "name": "Scoop",
+  "url": "https://github.com/ScoopInstaller/Scoop",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "User-scope Windows package manager driven by Git manifests, requiring no administrator rights. Convenient for developer tooling; per-user installs and manifest freshness differ from winget or Chocolatey.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "git",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-chocolatey-99684975b12a",
+  "name": "Chocolatey",
+  "url": "https://github.com/chocolatey/choco",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Machine-wide Windows package manager using NuGet-style packages and PowerShell scripts. Apache-2.0 for the client; review package scripts and licensing before installing with elevated rights.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-devbox-30ea8dc05e43",
+  "name": "Devbox",
+  "url": "https://github.com/jetify-com/devbox",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Reproducible per-project development shells built on Nix, with a JSON manifest and lockfile. Nice ergonomics; the Nix store is a real dependency and Windows support is not native.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-asdf-bb6ee96b22df",
+  "name": "asdf",
+  "url": "https://github.com/asdf-vm/asdf",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Pluggable version manager for many runtimes through one `.tool-versions` file. Compare with mise for speed and task running; plugin quality and Windows support vary.",
+  "resource_type": "repository",
+  "topics": [
+   "windows"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": [
+   "windows"
+  ]
+ },
+ {
+  "resource_id": "res-webpack-4ab385e18d25",
+  "name": "webpack",
+  "url": "https://github.com/webpack/webpack",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "javascript"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-parcel-34fb1817d6a8",
+  "name": "parcel",
+  "url": "https://github.com/parcel-bundler/parcel",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "The zero configuration build tool for the web.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rspack-8199cc4b1220",
+  "name": "rspack",
+  "url": "https://github.com/web-infra-dev/rspack",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Fast Rust-based bundler for the web with a modernized webpack API.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "build-tools",
+   "rust"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-farm-71559f42c282",
+  "name": "farm",
+  "url": "https://github.com/farm-fe/farm",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Extremely fast Vite-compatible web build tool written in Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "rust"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spack-9676c4f1471d",
+  "name": "spack",
+  "url": "https://github.com/spack/spack",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lightningcss-5b33c41f7059",
+  "name": "lightningcss",
+  "url": "https://github.com/parcel-bundler/lightningcss",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. MPL-2.0: file-level copyleft; modified files must be published.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "rust"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-peru-03a49b6530a1",
+  "name": "peru",
+  "url": "https://github.com/buildinspace/peru",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "a generic package manager, for including other people's code in your projects.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rollup-6456ebb6dc62",
+  "name": "rollup",
+  "url": "https://github.com/rollup/rollup",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Next-generation ES module bundler. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-babel-babel-9c190e343aa7",
+  "name": "babel (babel)",
+  "url": "https://github.com/babel/babel",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Babel is a compiler for writing next generation JavaScript.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "javascript"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grunt-cc94a4e7aac6",
+  "name": "grunt",
+  "url": "https://github.com/gruntjs/grunt",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Grunt: The JavaScript Task Runner.",
+  "resource_type": "repository",
+  "topics": [
+   "javascript"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sbt-894d965bc29c",
+  "name": "sbt",
+  "url": "https://github.com/sbt/sbt",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "sbt, the interactive build tool.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cargo-5c73fb75c4c6",
+  "name": "cargo",
+  "url": "https://github.com/rust-lang/cargo",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "The Rust package manager.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools",
+   "rust"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-berry-4cd5725e5189",
+  "name": "berry",
+  "url": "https://github.com/yarnpkg/berry",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Active development trunk for Yarn.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pyenv-723bfec60cb6",
+  "name": "pyenv",
+  "url": "https://github.com/pyenv/pyenv",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Simple Python version management.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-miniforge-23d486b0e795",
+  "name": "miniforge",
+  "url": "https://github.com/conda-forge/miniforge",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "A conda-forge distribution. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pip-d45ab8dd0d33",
+  "name": "pip",
+  "url": "https://github.com/pypa/pip",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "The Python package installer.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hatch-548bfc3010f1",
+  "name": "hatch",
+  "url": "https://github.com/pypa/hatch",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Modern, extensible Python project management.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pdm-9ef2cfbb59f3",
+  "name": "pdm",
+  "url": "https://github.com/pdm-project/pdm",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "A modern Python package and dependency manager supporting the latest PEP standards.",
+  "resource_type": "repository",
+  "topics": [
+   "python"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-brew-796bf08ed958",
+  "name": "brew",
+  "url": "https://github.com/Homebrew/brew",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "The Package Manager for Everywhere.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nix-ccb0f084ee29",
+  "name": "nix",
+  "url": "https://github.com/NixOS/nix",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Nix, the purely functional package manager. LGPL-2.1: dynamic linking is permitted, static linking has obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "build-tools"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-nixpkgs-f6ccee9b4fe7",
+  "name": "nixpkgs",
+  "url": "https://github.com/NixOS/nixpkgs",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Nix Packages collection & NixOS.",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-home-manager-cef16fe1cd0c",
+  "name": "home manager",
+  "url": "https://github.com/nix-community/home-manager",
+  "category_id": "builds-packages-and-environments",
+  "purpose": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee].",
+  "resource_type": "repository",
+  "topics": [],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

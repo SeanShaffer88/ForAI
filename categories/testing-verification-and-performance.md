@@ -69,3 +69,30 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [http-prompt](https://github.com/httpie/http-prompt) | An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie |
 | [vuesion](https://github.com/vuesion/vuesion) | The original open-source Vuesion 5: a Nuxt 3 boilerplate with design system, Storybook, Figma UI kit, authentication and testing. MIT licensed, no longer maintained. Active development continues as the commercial Vuesion on Nuxt 4 with workspaces, billing and AI agent skills. |
 | [vue-testing-library](https://github.com/testing-library/vue-testing-library) | 🦎 Simple and complete Vue.js testing utilities that encourage good testing practices. |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [Cypress](https://github.com/cypress-io/cypress) | Browser end-to-end and component testing with time-travel debugging and an interactive runner. Great developer experience; Cypress-specific architecture and per-seat cloud pricing are trade-offs against WebDriver-based suites. |
+| [Jest](https://github.com/jestjs/jest) | JavaScript and TypeScript unit testing with snapshots, fake timers, and built-in coverage. CJS/ESM interop and transform configuration are the usual friction points; Vitest is the common Vite-native alternative. |
+| [Robot Framework](https://github.com/robotframework/robotframework) | Keyword-driven acceptance testing and RPA with a plain-text syntax and a large library ecosystem. Strong for cross-team readable tests; less natural for developer-first unit-level TDD. |
+| [Selenium](https://github.com/seleniumhq/selenium) | WebDriver implementations and Grid for browser automation in Java, Python, JavaScript, .NET, Ruby, and Rust. The W3C-protocol baseline with the widest browser and language coverage; you assemble the test framework yourself. |
+| [WebdriverIO](https://github.com/webdriverio/webdriverio) | Node.js test framework on WebDriver and Chrome DevTools protocols, with runner, assertions, and mobile support. Choose it when you want a batteries-included JS suite that can also drive native apps. |
+<!-- expansion-2026-11-10:end -->
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) | AFL++ is a state-of-the-art fuzzer, and #1 in benchmarks. It was originally based on AFL. Today it comes with qemu 5.1, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators,. AGPL-3.0: network use can trigger source-disclosure obligations. |
+| [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) | A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. |
+| [oss fuzz](https://github.com/google/oss-fuzz) | OSS-Fuzz - continuous fuzzing for open source software. |
+| [sanitizers](https://github.com/google/sanitizers) | AddressSanitizer, ThreadSanitizer, MemorySanitizer. License not detected by GitHub; check the repository license before use. |
+<!-- expansion-2026-11-11:end -->

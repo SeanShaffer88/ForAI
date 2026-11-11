@@ -848,5 +848,143 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-ai-agents-for-beginners-c13218dacc98",
+  "name": "ai agents for beginners",
+  "url": "https://github.com/microsoft/ai-agents-for-beginners",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "18 Lessons to Get Started Building AI Agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-agents-course-7c751128503f",
+  "name": "agents course",
+  "url": "https://github.com/huggingface/agents-course",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "This repository contains the Hugging Face Agents Course.",
+  "resource_type": "course",
+  "topics": [
+   "ai",
+   "git"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-agenticseek-30cc23c23b7a",
+  "name": "agenticSeek",
+  "url": "https://github.com/Fosowl/agenticSeek",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. GPL-3.0: derivative works must stay under the GPL.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-docsgpt-13f9b8591236",
+  "name": "DocsGPT",
+  "url": "https://github.com/arc53/DocsGPT",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pocketflow-734c8fcb375a",
+  "name": "PocketFlow",
+  "url": "https://github.com/The-Pocket/PocketFlow",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "llm"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ragaai-catalyst-afb581fb563d",
+  "name": "RagaAI Catalyst",
+  "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system,.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "llm",
+   "observability",
+   "python"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swarm-c308ce1212d1",
+  "name": "swarm",
+  "url": "https://github.com/openai/swarm",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+  "resource_type": "repository",
+  "topics": [
+   "ai"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-autogpt-f813ade3920c",
+  "name": "AutoGPT",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "category_id": "ai-agent-frameworks-and-orchestration",
+  "purpose": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "git"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

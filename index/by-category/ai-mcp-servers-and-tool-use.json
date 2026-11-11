@@ -1156,5 +1156,173 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-context7-cf831172607a",
+  "name": "Context7",
+  "url": "https://github.com/upstash/context7",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "MCP server and service that injects version-specific library documentation into coding assistants. Hosted service with self-host option; verify docs freshness and data-handling terms.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-for-beginners-5912a17ef6a2",
+  "name": "mcp for beginners",
+  "url": "https://github.com/microsoft/mcp-for-beginners",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python.",
+  "resource_type": "course",
+  "topics": [
+   "ai",
+   "java",
+   "javascript",
+   "mcp",
+   "python",
+   "rust",
+   "typescript"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [
+   "java",
+   "javascript",
+   "python",
+   "rust",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-n8n-mcp-319acae0d2eb",
+  "name": "n8n mcp",
+  "url": "https://github.com/czlonkowski/n8n-mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "desktop",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-firecrawl-mcp-server-0299cbbfc293",
+  "name": "firecrawl mcp server",
+  "url": "https://github.com/firecrawl/firecrawl-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and Monitor, from any MCP client.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcp-985b88c74dfb",
+  "name": "mcp",
+  "url": "https://github.com/BrowserMCP/mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-exa-mcp-server-d35aabb2e217",
+  "name": "exa mcp server",
+  "url": "https://github.com/exa-labs/exa-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Exa MCP for web search and web crawling!",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mcpo-772d74201925",
+  "name": "mcpo",
+  "url": "https://github.com/open-webui/mcpo",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "A simple, secure MCP-to-OpenAPI proxy server.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-design",
+   "mcp",
+   "security"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-zotero-mcp-e8e7629cdd08",
+  "name": "zotero mcp",
+  "url": "https://github.com/54yyyu/zotero-mcp",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-excel-mcp-server-4a5ed47b9033",
+  "name": "excel mcp server",
+  "url": "https://github.com/haris-musa/excel-mcp-server",
+  "category_id": "ai-mcp-servers-and-tool-use",
+  "purpose": "Excel MCP server: let AI (Claude, Cursor, Codex) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "use_cases": [
+   "build-or-evaluate-ai-systems"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

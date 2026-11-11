@@ -790,5 +790,404 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-apache-superset-d75dee45eee7",
+  "name": "Apache Superset",
+  "url": "https://github.com/apache/superset",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Apache BI platform for SQL-backed dashboards and exploration. Strong SQL editor and charts; embed/enterprise features vary and operational overhead is real.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-metabase-997473021784",
+  "name": "Metabase",
+  "url": "https://github.com/metabase/metabase",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Self-hosted BI with a question-builder aimed at non-SQL users, plus dashboards and alerts. AGPL or commercial licensing depending on distribution and features.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-evidence-71786a138155",
+  "name": "Evidence",
+  "url": "https://github.com/evidence-dev/evidence",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Business intelligence as code: SQL and Markdown compiled into a static site with charts. Great for versioned, code-reviewed reports; less interactive than a BI server.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jupyterlab-456fb35d7b0d",
+  "name": "JupyterLab",
+  "url": "https://github.com/jupyterlab/jupyterlab",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Web IDE for notebooks, terminals, and data inspection. Check server extension security and multi-user deployment options before exposing it.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "security"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-plotly-py-9d9b2e365610",
+  "name": "Plotly.py",
+  "url": "https://github.com/plotly/plotly.py",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Interactive plotting for Python with WebGL rendering and Dash integration. Larger output than static charts; consider bundle size for embedded reports.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spaghetti-341d5da9e6ba",
+  "name": "spaghetti",
+  "url": "https://github.com/pysal/spaghetti",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "SPAtial GrapHs: nETworks, Topology, & Inference.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-arrow-69a0cd946b05",
+  "name": "arrow",
+  "url": "https://github.com/apache/arrow",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jupyter-f5616e227ea7",
+  "name": "jupyter",
+  "url": "https://github.com/jupyter/jupyter",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Jupyter metapackage for installation and documentation.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ipython-8acd9e68dc9e",
+  "name": "ipython",
+  "url": "https://github.com/ipython/ipython",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "git",
+   "web"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-xarray-6311575e4cbc",
+  "name": "xarray",
+  "url": "https://github.com/pydata/xarray",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "N-D labeled arrays and datasets in Python.",
+  "resource_type": "dataset",
+  "topics": [
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spark-998b9a8ce707",
+  "name": "spark",
+  "url": "https://github.com/apache/spark",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Apache Spark - A unified analytics engine for large-scale data processing.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kubeflow-d9190d6be193",
+  "name": "kubeflow",
+  "url": "https://github.com/kubeflow/kubeflow",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "The Cloud Native AI Platform.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "cloud",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-modin-365cad11164c",
+  "name": "modin",
+  "url": "https://github.com/modin-project/modin",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Modin: Scale your Pandas workflows by changing a single line of code.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vaex-ae22f3155487",
+  "name": "vaex",
+  "url": "https://github.com/vaexio/vaex",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-cudf-9b5f906b30c3",
+  "name": "cudf",
+  "url": "https://github.com/NVIDIA/cudf",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "cuDF - GPU DataFrame Library.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-tensorflow-5b4723854ed7",
+  "name": "tensorflow",
+  "url": "https://github.com/tensorflow/tensorflow",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "An Open Source Machine Learning Framework for Everyone.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-datasets-1787c5613498",
+  "name": "datasets",
+  "url": "https://github.com/huggingface/datasets",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools.",
+  "resource_type": "dataset",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openml-689be41120ab",
+  "name": "openml",
+  "url": "https://github.com/openml/OpenML",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Open Machine Learning.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-sqlite-utils-d448cea0874e",
+  "name": "sqlite utils",
+  "url": "https://github.com/simonw/sqlite-utils",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Python CLI utility and library for manipulating SQLite databases.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "database",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-datasette-41fc569b7a8d",
+  "name": "datasette",
+  "url": "https://github.com/simonw/datasette",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "An open source multi-tool for exploring and publishing data.",
+  "resource_type": "dataset",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-plot-bf66659a46b0",
+  "name": "plot",
+  "url": "https://github.com/observablehq/plot",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "A concise API for exploratory data visualization implementing a layered grammar of graphics.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vega-lite-e6d0acdc94a8",
+  "name": "vega lite",
+  "url": "https://github.com/vega/vega-lite",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "A concise grammar of interactive graphics, built on Vega.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-altair-5b6500f9c248",
+  "name": "altair",
+  "url": "https://github.com/vega/altair",
+  "category_id": "data-science-and-engineering-tools",
+  "purpose": "Declarative visualization library for Python.",
+  "resource_type": "repository",
+  "topics": [
+   "data-science",
+   "python"
+  ],
+  "use_cases": [
+   "store-query-or-process-data"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
  }
 ]

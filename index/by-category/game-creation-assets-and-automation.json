@@ -590,5 +590,402 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-blender-50cf77522096",
+  "name": "Blender",
+  "url": "https://github.com/blender/blender",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "3D modeling, animation, and asset pipeline with a Python API and glTF/FBX export. GPL for the application; exported assets remain yours, but bundled add-ons have their own terms.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "game-development",
+   "python"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-godot-a9e60bebb67b",
+  "name": "awesome godot",
+  "url": "https://github.com/Calinou/awesome-godot",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "A curated list of free/libre plugins, scripts and add-ons for Godot.",
+  "resource_type": "curated-list",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-terrain3d-06d28095984f",
+  "name": "Terrain3D",
+  "url": "https://github.com/TokisanGames/Terrain3D",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "A high performance, editable terrain system for Godot 4.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-beehave-e88adab6dffb",
+  "name": "beehave",
+  "url": "https://github.com/bitbrain/beehave",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "behavior tree AI for Godot Engine.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-dialogic-5537e6030ff5",
+  "name": "dialogic",
+  "url": "https://github.com/dialogic-godot/dialogic",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fxgl-d432e1903ec1",
+  "name": "FXGL",
+  "url": "https://github.com/AlmasB/FXGL",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Java / JavaFX / Kotlin Game Library (Engine).",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "java",
+   "kotlin"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "java",
+   "kotlin"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-redot-engine-96ad4b7cd828",
+  "name": "redot engine",
+  "url": "https://github.com/Redot-Engine/redot-engine",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Redot Engine – Multi-platform 2D and 3D game engine.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gameframework-611cbdf6069a",
+  "name": "GameFramework",
+  "url": "https://github.com/EllanJiang/GameFramework",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process,.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-qframework-bb0695012ab1",
+  "name": "QFramework",
+  "url": "https://github.com/liangxiegame/QFramework",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Godot/Unity3D System Design Architecture.",
+  "resource_type": "repository",
+  "topics": [
+   "architecture",
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-pankuconsole-0ee1c24002f4",
+  "name": "PankuConsole",
+  "url": "https://github.com/Ark2000/PankuConsole",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Feature-packed real-time debugging toolkit for Godot Engine.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-unitycsreference-3e595158fb66",
+  "name": "UnityCsReference",
+  "url": "https://github.com/Unity-Technologies/UnityCsReference",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Unity C# reference source code. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "git"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-awesome-bevy-70076701f0ae",
+  "name": "awesome bevy",
+  "url": "https://github.com/bevyengine/bevy-assets",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "A collection of Bevy assets, plugins, learning resources, and apps made by the community. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-libgdx-cf9c27b81c39",
+  "name": "libgdx",
+  "url": "https://github.com/libgdx/libgdx",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Desktop/Android/HTML5/iOS Java game development framework.",
+  "resource_type": "repository",
+  "topics": [
+   "android",
+   "desktop",
+   "game-development",
+   "java",
+   "mobile"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": [
+   "android",
+   "mobile"
+  ]
+ },
+ {
+  "resource_id": "res-monogame-03632c3ccfac",
+  "name": "MonoGame",
+  "url": "https://github.com/MonoGame/MonoGame",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "One framework for creating powerful cross-platform games. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "git"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fna-2994e8364418",
+  "name": "FNA",
+  "url": "https://github.com/FNA-XNA/FNA",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "FNA - Accuracy-focused XNA4 reimplementation for open platforms. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-macroquad-fdae78e65da9",
+  "name": "macroquad",
+  "url": "https://github.com/not-fl3/macroquad",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Cross-platform game engine in Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "rust"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-love-1b0818eb29f6",
+  "name": "love",
+  "url": "https://github.com/love2d/love",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "LÖVE is an awesome 2D game framework for Lua. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development",
+   "git"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-godot-jolt-a7f01b6d75df",
+  "name": "godot jolt",
+  "url": "https://github.com/godot-jolt/godot-jolt",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Godot Jolt is a Godot extension that integrates the Jolt physics engine.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-godot-demo-projects-e59a8f699dd6",
+  "name": "godot demo projects",
+  "url": "https://github.com/godotengine/godot-demo-projects",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Demonstration and Template Projects.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-entt-b8b0d61a2a52",
+  "name": "entt",
+  "url": "https://github.com/skypjack/entt",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-bullet3-72b1e3f5afc5",
+  "name": "bullet3",
+  "url": "https://github.com/bulletphysics/bullet3",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "api-integration",
+   "game-development",
+   "git"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gamedev-resources-e28fed1b97cc",
+  "name": "GameDev Resources",
+  "url": "https://github.com/Kavex/GameDev-Resources",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "video_game: :game_die: A wonderful list of Game Development resources. No license detected by GitHub; default copyright applies, so treat reuse as unsupported.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-magictools-3d5994f24ad7",
+  "name": "magictools",
+  "url": "https://github.com/ellisonleao/magictools",
+  "category_id": "game-creation-assets-and-automation",
+  "purpose": "video_game: :pencil: A list of Game Development resources to make magic happen.",
+  "resource_type": "repository",
+  "topics": [
+   "game-development"
+  ],
+  "use_cases": [
+   "build-games-or-media-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

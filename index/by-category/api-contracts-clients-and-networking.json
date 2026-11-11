@@ -1886,5 +1886,581 @@
    "javascript"
   ],
   "platforms": []
+ },
+ {
+  "resource_id": "res-hoppscotch-21776832d83e",
+  "name": "Hoppscotch",
+  "url": "https://github.com/hoppscotch/hoppscotch",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Open-source API client for REST, GraphQL, WebSocket, SSE, and MQTT in the browser or self-hosted. Test and debug requests without an account depending on deployment; check self-hosted feature limits.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "testing"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mockoon-f37cd5125cf9",
+  "name": "Mockoon",
+  "url": "https://github.com/mockoon/mockoon",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Desktop and CLI mock servers defined from OpenAPI or hand-built routes, with templating and proxy mode. Useful for offline and CI work where hosted mocks are not acceptable.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "desktop"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-xh-2999115f15b7",
+  "name": "xh",
+  "url": "https://github.com/ducaale/xh",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Fast HTTP client CLI with HTTPie-style syntax, translating to familiar curl-like flags. Small single binary for scripts and containers; check auth and multipart coverage against your needs.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openapi-generator-openapitools-cce99fd44b7c",
+  "name": "openapi generator (OpenAPITools)",
+  "url": "https://github.com/OpenAPITools/openapi-generator",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphql-mesh-fa7f705b84a1",
+  "name": "graphql mesh",
+  "url": "https://github.com/ardatan/graphql-mesh",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apollo-client-a13cb90a63cb",
+  "name": "apollo client",
+  "url": "https://github.com/apollographql/apollo-client",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript",
+   "typescript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript",
+   "typescript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-apollo-server-19aaea648564",
+  "name": "apollo server",
+  "url": "https://github.com/apollographql/apollo-server",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphql-yoga-aad1902be0c9",
+  "name": "graphql yoga",
+  "url": "https://github.com/graphql-hive/graphql-yoga",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience. The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphql-voyager-400d6e4bf432",
+  "name": "graphql voyager",
+  "url": "https://github.com/APIs-guru/graphql-voyager",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Represent any GraphQL API as an interactive graph.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphql-apis-8c9870b290a3",
+  "name": "graphql apis",
+  "url": "https://github.com/APIs-guru/graphql-apis",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A collective list of public GraphQL APIs.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphql-tools-5598ecb0a17c",
+  "name": "graphql tools",
+  "url": "https://github.com/ardatan/graphql-tools",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-vulcain-b054b443d0be",
+  "name": "vulcain",
+  "url": "https://github.com/dunglas/vulcain",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Fast and idiomatic client-driven REST APIs. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openapi-specification-a77f56b74589",
+  "name": "OpenAPI Specification",
+  "url": "https://github.com/OAI/OpenAPI-Specification",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "The OpenAPI Specification Repository.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "git"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-swagger-ui-ce24b5edb3a0",
+  "name": "swagger ui",
+  "url": "https://github.com/swagger-api/swagger-ui",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphql-spec-40d496abdc88",
+  "name": "graphql spec",
+  "url": "https://github.com/graphql/graphql-spec",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "GraphQL is a query language and execution engine tied to any backend service. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-graphql-js-01c38a77ae1e",
+  "name": "graphql js",
+  "url": "https://github.com/graphql/graphql-js",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A reference implementation of GraphQL for JavaScript.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-async-graphql-fd338d0302e4",
+  "name": "async graphql",
+  "url": "https://github.com/async-graphql/async-graphql",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A GraphQL server library implemented in Rust.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "rust"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gqlgen-fbb8d6c8eb4d",
+  "name": "gqlgen",
+  "url": "https://github.com/99designs/gqlgen",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "go generate based graphql server library.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-federation-df2e70149903",
+  "name": "federation",
+  "url": "https://github.com/apollographql/federation",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Build and scale a single data graph across multiple services with Apollo's federation gateway. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-spectral-536a307cb7a5",
+  "name": "spectral",
+  "url": "https://github.com/stoplightio/spectral",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-prism-fbecaa93d033",
+  "name": "prism",
+  "url": "https://github.com/stoplightio/prism",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-openapi-diff-b879b56f2446",
+  "name": "openapi diff",
+  "url": "https://github.com/OpenAPITools/openapi-diff",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Utility for comparing two OpenAPI specifications.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-kin-openapi-2f19480cf00e",
+  "name": "kin openapi",
+  "url": "https://github.com/getkin/kin-openapi",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "OpenAPI 3.0 and 3.1 and 3.2 (and Swagger v2) implementation for Go (parsing, converting, validation, and more).",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-go-swagger-57ce56ee4f97",
+  "name": "go swagger",
+  "url": "https://github.com/go-swagger/go-swagger",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Swagger 2.0 implementation for go.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grpc-go-5c4e80bd6192",
+  "name": "grpc go",
+  "url": "https://github.com/grpc/grpc-go",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "The Go language implementation of gRPC. HTTP/2 based RPC.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "go"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "go"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-grpc-java-ef3301a298e6",
+  "name": "grpc java",
+  "url": "https://github.com/grpc/grpc-java",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "The Java gRPC implementation. HTTP/2 based RPC.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "java"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "java"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-protobuf-046cd65d63d9",
+  "name": "protobuf",
+  "url": "https://github.com/protocolbuffers/protobuf",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Protocol Buffers - Google's data interchange format. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-axios-6b339477791a",
+  "name": "axios",
+  "url": "https://github.com/axios/axios",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Promise based HTTP client for the browser and node.js.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-node-fetch-e0524091b3f5",
+  "name": "node fetch",
+  "url": "https://github.com/node-fetch/node-fetch",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A light-weight module that brings the Fetch API to Node.js.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-got-2b06bb641703",
+  "name": "got",
+  "url": "https://github.com/sindresorhus/got",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Human-friendly and powerful HTTP request library for Node.js.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "javascript"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-googleapis-2feb0eea439d",
+  "name": "googleapis",
+  "url": "https://github.com/googleapis/googleapis",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "Public interface definitions of Google APIs.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-public-apis-bb61d9033ab1",
+  "name": "public apis",
+  "url": "https://github.com/public-apis/public-apis",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "A collective list of free APIs.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-rest-api-description-68078ff337af",
+  "name": "rest api description",
+  "url": "https://github.com/github/rest-api-description",
+  "category_id": "api-contracts-clients-and-networking",
+  "purpose": "An OpenAPI description for GitHub's REST API.",
+  "resource_type": "repository",
+  "topics": [
+   "api-design",
+   "api-integration"
+  ],
+  "use_cases": [
+   "design-or-integrate-apis"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

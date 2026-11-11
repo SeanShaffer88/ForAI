@@ -218,5 +218,73 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-dagger-45fd5019a5da",
+  "name": "Dagger",
+  "url": "https://github.com/dagger/dagger",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Container-native pipelines defined in code, run locally or in CI with content-addressed caching. Solves CI lock-in and caching; requires container runtime and a real migration of existing pipelines.",
+  "resource_type": "repository",
+  "topics": [
+   "containers",
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-act-5663f7335a75",
+  "name": "act",
+  "url": "https://github.com/nektos/act",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Run GitHub Actions workflows locally in containers to iterate on CI changes. Emulation is close but not identical to hosted runners; secrets, services, and matrix specifics can differ.",
+  "resource_type": "repository",
+  "topics": [
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-git-lfs-61d1e77a31b2",
+  "name": "Git LFS",
+  "url": "https://github.com/git-lfs/git-lfs",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Large-file storage extension that replaces big binaries with pointer files. Needed for game/ML assets; hosting quotas, mirroring, and clone behavior must be planned.",
+  "resource_type": "repository",
+  "topics": [
+   "ai",
+   "game-development",
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-github-cli-488190eef558",
+  "name": "GitHub CLI",
+  "url": "https://github.com/cli/cli",
+  "category_id": "ci-version-control-and-releases",
+  "purpose": "Official `gh` client covering pull requests, issues, releases, Actions, and the API. Scriptable with `--json` and `--jq`; token scopes determine what it can read or change.",
+  "resource_type": "repository",
+  "topics": [
+   "api-integration",
+   "git"
+  ],
+  "use_cases": [
+   "deploy-and-operate-software"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]

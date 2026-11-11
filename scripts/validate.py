@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 from export_csv import ARRAY_FIELDS, FIELDS  # noqa: E402
 from generate_indexes import END, START, render  # noqa: E402
+import catalog_stats  # noqa: E402
 
 
 def fail(message):
@@ -134,6 +135,17 @@ def validate():
     marker = re.search(re.escape(START) + r".*?" + re.escape(END), llms, re.S)
     assert marker, "llms.txt lacks generated category markers; run scripts/generate_indexes.py"
     assert marker.group(0) == generated_section.split("\n\n", 2)[2].rstrip(), "llms.txt category navigation is stale; run scripts/generate_indexes.py"
+
+    stats = catalog_stats.build(rows)
+    stats_path = ROOT / "index" / "catalog-stats.json"
+    assert stats_path.exists(), "index/catalog-stats.json is missing; run scripts/catalog_stats.py --write"
+    assert read_json(stats_path) == stats, "index/catalog-stats.json is stale; run scripts/catalog_stats.py --write"
+    block = catalog_stats.block(stats)
+    for name in catalog_stats.SYNCED:
+        doc = ROOT / name
+        if doc.exists() and catalog_stats.START in doc.read_text(encoding="utf-8"):
+            content = doc.read_text(encoding="utf-8")
+            assert block in content, f"{name} generated stats block is stale; run scripts/catalog_stats.py --write"
 
     for path in ROOT.rglob("*.md"):
         if ".git" in path.parts:

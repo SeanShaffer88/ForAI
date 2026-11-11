@@ -61,3 +61,49 @@ A further 500-resource development discovery pass. Entries below were selected f
 | [peachpie](https://github.com/peachpiecompiler/peachpie) | PeachPie - the PHP compiler and runtime for .NET and .NET Core |
 | [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) | A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability. |
 | [hadolint](https://github.com/hadolint/hadolint) | Dockerfile linter, validate inline bash, written in Haskell |
+
+<!-- expansion-2026-11-10:begin -->
+## Expansion — 2026-11-10
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-10.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [asdf](https://github.com/asdf-vm/asdf) | Pluggable version manager for many runtimes through one `.tool-versions` file. Compare with mise for speed and task running; plugin quality and Windows support vary. |
+| [Chocolatey](https://github.com/chocolatey/choco) | Machine-wide Windows package manager using NuGet-style packages and PowerShell scripts. Apache-2.0 for the client; review package scripts and licensing before installing with elevated rights. |
+| [conda](https://github.com/conda/conda) | Cross-language binary package and environment manager, historically important for scientific and native Python stacks. BSD-3-Clause; channel and solver choice materially change reproducibility. |
+| [Devbox](https://github.com/jetify-com/devbox) | Reproducible per-project development shells built on Nix, with a JSON manifest and lockfile. Nice ergonomics; the Nix store is a real dependency and Windows support is not native. |
+| [Poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging with lockfiles and a pyproject-based workflow. Compare against uv and pip-tools for speed and lock resolution policy; both formats differ. |
+| [Scoop](https://github.com/ScoopInstaller/Scoop) | User-scope Windows package manager driven by Git manifests, requiring no administrator rights. Convenient for developer tooling; per-user installs and manifest freshness differ from winget or Chocolatey. |
+<!-- expansion-2026-11-10:end -->
+
+<!-- expansion-2026-11-11:begin -->
+## Expansion — 2026-11-11
+
+Repository metadata and primary documentation pages checked, not read end to end: latest release, license, and current maintenance are yours to verify before adopting. See the [expansion notes and evidence limits](../catalogs/expansion-2026-11-11.md).
+
+| Resource | Useful for / constraints |
+|---|---|
+| [babel (babel)](https://github.com/babel/babel) | Babel is a compiler for writing next generation JavaScript. |
+| [berry](https://github.com/yarnpkg/berry) | Active development trunk for Yarn. |
+| [brew](https://github.com/Homebrew/brew) | The Package Manager for Everywhere. |
+| [cargo](https://github.com/rust-lang/cargo) | The Rust package manager. |
+| [farm](https://github.com/farm-fe/farm) | Extremely fast Vite-compatible web build tool written in Rust. |
+| [grunt](https://github.com/gruntjs/grunt) | Grunt: The JavaScript Task Runner. |
+| [hatch](https://github.com/pypa/hatch) | Modern, extensible Python project management. |
+| [home manager](https://github.com/nix-community/home-manager) | Manage a user environment using Nix [maintainer=@khaneliman, @rycee]. |
+| [lightningcss](https://github.com/parcel-bundler/lightningcss) | An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. MPL-2.0: file-level copyleft; modified files must be published. |
+| [miniforge](https://github.com/conda-forge/miniforge) | A conda-forge distribution. License not detected by GitHub; check the repository license before use. |
+| [nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager. LGPL-2.1: dynamic linking is permitted, static linking has obligations. |
+| [nixpkgs](https://github.com/NixOS/nixpkgs) | Nix Packages collection & NixOS. |
+| [parcel](https://github.com/parcel-bundler/parcel) | The zero configuration build tool for the web. |
+| [pdm](https://github.com/pdm-project/pdm) | A modern Python package and dependency manager supporting the latest PEP standards. |
+| [peru](https://github.com/buildinspace/peru) | a generic package manager, for including other people's code in your projects. |
+| [pip](https://github.com/pypa/pip) | The Python package installer. |
+| [pyenv](https://github.com/pyenv/pyenv) | Simple Python version management. |
+| [rollup](https://github.com/rollup/rollup) | Next-generation ES module bundler. License not detected by GitHub; check the repository license before use. |
+| [rspack](https://github.com/web-infra-dev/rspack) | Fast Rust-based bundler for the web with a modernized webpack API. |
+| [sbt](https://github.com/sbt/sbt) | sbt, the interactive build tool. |
+| [spack](https://github.com/spack/spack) | A flexible package manager that supports multiple versions, configurations, platforms, and compilers. |
+| [webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. |
+<!-- expansion-2026-11-11:end -->

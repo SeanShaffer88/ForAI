@@ -353,5 +353,389 @@
   ],
   "languages": [],
   "platforms": []
+ },
+ {
+  "resource_id": "res-globalize-4691e37ed659",
+  "name": "globalize",
+  "url": "https://github.com/globalizejs/globalize",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "javascript"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "javascript"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-babel-bf6a95861b54",
+  "name": "babel",
+  "url": "https://github.com/python-babel/babel",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "The official repository for Babel, the Python Internationalization Library.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "git",
+   "python"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "python"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-go-i18n-b11b9df50f4b",
+  "name": "go i18n",
+  "url": "https://github.com/nicksnyder/go-i18n",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Translate your Go program into multiple languages.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fluent-rs-a85943929e7a",
+  "name": "fluent rs",
+  "url": "https://github.com/projectfluent/fluent-rs",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Rust implementation of Project Fluent.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "rust"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [
+   "rust"
+  ],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-a11yproject-com-841fa7e8f749",
+  "name": "a11yproject.com",
+  "url": "https://github.com/a11yproject/a11yproject.com",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "The A11Y Project is a community-driven effort to make digital accessibility easier.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-a11y-css-7216cb8df637",
+  "name": "a11y.css",
+  "url": "https://github.com/ffoodd/a11y.css",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-svelte-i18n-45bdf2fa8a4d",
+  "name": "svelte i18n",
+  "url": "https://github.com/kaisermann/svelte-i18n",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Internationalization library for Svelte.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-lyricist-2ef44723c285",
+  "name": "lyricist",
+  "url": "https://github.com/adrielcafe/lyricist",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "The missing I18N/L10N (internationalization/localization) multiplatform library for Compose Multiplatform!",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-gt-3c6d32a4fb8c",
+  "name": "gt",
+  "url": "https://github.com/generaltranslation/gt",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Full-stack localization for every framework.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-ever-traduora-0ad8916d921e",
+  "name": "ever traduora",
+  "url": "https://github.com/ever-co/ever-traduora",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Ever® Traduora™ - Open Translation Management Platform - https://traduora.co. AGPL-3.0: network use can trigger source-disclosure obligations.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-fluent-0c242f75153c",
+  "name": "fluent",
+  "url": "https://github.com/projectfluent/fluent",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Fluent — planning, spec and documentation.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-transloco-39415a90d402",
+  "name": "transloco",
+  "url": "https://github.com/jsverse/transloco",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "The internationalization (i18n) library for Angular.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-intl-d3bada7559cc",
+  "name": "intl",
+  "url": "https://github.com/symfony/intl",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Provides access to the localization data of the ICU library.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-aria-practices-5c08fe33a5d9",
+  "name": "aria practices",
+  "url": "https://github.com/w3c/aria-practices",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "WAI-ARIA Authoring Practices Guide (APG). License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "git"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-content-63c2d121d7e6",
+  "name": "content",
+  "url": "https://github.com/mdn/content",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "git"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-www-f93e8a06da6a",
+  "name": "www",
+  "url": "https://github.com/writethedocs/www",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "The main website for Write the Docs. License not detected by GitHub; check the repository license before use.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility",
+   "git",
+   "web"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": [
+   "web"
+  ]
+ },
+ {
+  "resource_id": "res-docsify-813621cacbbb",
+  "name": "docsify",
+  "url": "https://github.com/docsifyjs/docsify",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "A magical documentation site generator.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-hugo-fd958ff5b66f",
+  "name": "hugo",
+  "url": "https://github.com/gohugoio/hugo",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "The world’s fastest framework for building websites.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-just-the-docs-d366eb443819",
+  "name": "just the docs",
+  "url": "https://github.com/just-the-docs/just-the-docs",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mkdocs-material-983039a3c552",
+  "name": "mkdocs material",
+  "url": "https://github.com/squidfunk/mkdocs-material",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Documentation that simply works.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-readthedocs-org-81c739bc42fa",
+  "name": "readthedocs.org",
+  "url": "https://github.com/readthedocs/readthedocs.org",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "The source code that powers readthedocs.org.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-jupyter-book-6a11b88e8cc2",
+  "name": "jupyter book",
+  "url": "https://github.com/jupyter-book/jupyter-book",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Create beautiful, publication-quality books and documents from computational content.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
+ },
+ {
+  "resource_id": "res-mystmd-6457ba9c1a00",
+  "name": "mystmd",
+  "url": "https://github.com/jupyter-book/mystmd",
+  "category_id": "accessibility-internationalization-and-documentation",
+  "purpose": "Command line tools for working with MyST Markdown.",
+  "resource_type": "repository",
+  "topics": [
+   "accessibility"
+  ],
+  "use_cases": [
+   "document-or-improve-accessibility"
+  ],
+  "languages": [],
+  "platforms": []
  }
 ]
